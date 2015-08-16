@@ -10,19 +10,18 @@
 	font-family:arial;
 	font-size:12px;
 	color:#fff;
-	background-image:url(polomalletsb&w.png);
+	background-image:url(NASA.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
-#gmap_canvas img
+#gmap
 {
 	max-width:none!important;
 	background:none!important;
-	margin-top:-300px;
-	margin-left:-150px;
-	width:600px;
-	height:500px;
+	position:absolute;
+	top:60%;
+	right:0%;
 	overflow:hidden;
 	}
 
@@ -36,7 +35,7 @@
 	margin-top:-150px;
 	margin-left:-150px;
 	width:340px;
-	height:140px;
+	height:175px;
  	-moz-opacity: 0.50;
 	-khtml-opacity: 0.50;
 	opacity: 0.50;
@@ -45,16 +44,11 @@
 	filter:alpha(opacity=50);
 }
 
-form
-{
-	margin:2em 0;
-}
-
 h2
 {
 	margin:0;
 	padding:0;
-	font-size:1.6em;
+	font-size:3.0em;
 }
 
       </style>
@@ -66,20 +60,18 @@ h2
 <body>
 <div id="main">
 <h2>
-<font color="red"> Cape Peninsula Citizen Science </font>
+<font color="white">  Cape Peninsula Citizen Science  </font>
 </h2>
 <p>
 This is a preliminary website for reference and inspiration.  
 </p>
 <p>
-<font color="red"> Please contact Joey Hulbert with any questions </font>
+<font color="white" size="2.0em"> Please contact Joey Hulbert with any questions </font>
 </p>
 </div>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<div id="gmap_canvas">
+<div id="gmap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d358640.91627785424!2d18.63609982730836!3d-34.11375575485859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1439745948229" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-<a class="google-map-code" href="http://www.themecircle.net" id="get-map-data">www.themecircle.net</a>
-</div>
-<script type="text/javascript"> function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(-34.10131019629024,18.434698305371057),mapTypeId: google.maps.MapTypeId.TERRAIN};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-34.10131019629024, 18.434698305371057)});infowindow = new google.maps.InfoWindow({content:"<b></b><br/><br/> " });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
 </body>
 <privmodeelement mode="0" data-mode="0"><modechange></modechange></privmodeelement></html>
