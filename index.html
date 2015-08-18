@@ -10,9 +10,10 @@
 	font-family:arial;
 	font-size:12px;
 	color:#fff;
-	background-image:url(NASA.jpg);
+	background-image:url(NASA_lessSky.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 #gmap
@@ -30,18 +31,27 @@
 	padding:3em 2em;
 	background-color:#333;	
 	position:absolute;
-	top:50%;
+	top:20%;
 	left:50%;
 	margin-top:-150px;
-	margin-left:-150px;
-	width:340px;
-	height:175px;
+	margin-left:-250px;
+	width:500px;
+	height:220px;
  	-moz-opacity: 0.50;
 	-khtml-opacity: 0.50;
-	opacity: 0.50;
+	opacity: 0.70;
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(opacity=50);
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=50);
 	filter:alpha(opacity=50);
+}
+#logos
+{
+	margin:0;
+	padding:0;
+	top:30%;
+	left:0%;
+	position:absolute;
+	background-color:white;
 }
 
 h2
@@ -51,6 +61,12 @@ h2
 	font-size:3.0em;
 }
 
+h3
+{
+	margin:0;
+	padding:0;
+	font-size:2.0em;
+}
       </style>
       
 
@@ -63,15 +79,25 @@ h2
 <font color="white">  Cape Peninsula Citizen Science  </font>
 </h2>
 <p>
+<h3>
 This is a preliminary website for reference and inspiration.  
 </p>
 <p>
-<font color="white" size="2.0em"> Please contact Joey Hulbert with any questions </font>
+<font color="white"> Please contact <a href="jmhulbert.me"> Joey Hulbert </a> with any questions. </font>
 </p>
+</h3>
 </div>
 <div id="gmap">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d358640.91627785424!2d18.63609982730836!3d-34.11375575485859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1439745948229" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-
+<div id="logos">
+<img src="http://fabinet.up.ac.za/images/fabi-logo.png" alt="Forestry and Agricultural Biotechnology Institute" width="100px";">
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/en/9/96/University_of_Pretoria_Ceremonial_Shield.JPG" alt="University of Pretoria" width="100px";">
+</p>
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/University_of_Stellenbosch_crest-no_background.png" alt="University of Stellenbosch" width="100px";">
+</p>
+</div>
 </body>
 <privmodeelement mode="0" data-mode="0"><modechange></modechange></privmodeelement></html>
