@@ -1,15 +1,13 @@
 <DOCTYPE html>
-<html><head>
-<title>CapeCitSci</title>
-
-
+<html>
 <!- #######     ##    ####### #######   ####### ##### ######   #######  #######  ###### ->
 <!- #         ##  ##  ##   ## ##        #         #     #      ##       #          #    ->
 <!- #        ######## ## ##   #####     #         #     #      #######  #          #    ->
 <!- #       ##     ## ##      ##        #         #     #           ##  #          #    ->
 <!- ####### ##     ## ##      #######   ####### #####   #      #######  #######  ###### -> 
 
-
+<head>
+<title>CapeCitSci</title>
 <style>
         body
 {
@@ -36,7 +34,7 @@
     margin-left:auto;
     margin-right:auto;
 	width:500px;
-	height:120px;
+	height:130px;
  	-moz-opacity: 0.50;
 	-khtml-opacity: 0.50;
 	opacity: 0.70;
@@ -45,12 +43,23 @@
 	filter:alpha(opacity=50);
 }
 
+
+#logos
+{
+	margin:0;
+	padding:0;
+	top:0;
+	left:10px;
+	position:fixed;
+	background-color:white;
+}
+
 #gmap
 {
 	max-width:none!important;
 	background:none!important;
 	position:absolute;
-	top:480px;
+	top:490px;
 	overflow:hidden;
 	left:0;
     right:0;
@@ -77,25 +86,36 @@
     margin-left:auto;
     margin-right:auto;
 }
-#logos
+
+#main3
 {
-	margin:0;
-	padding:0;
-	top:320px;
-	left:160px;
 	position:absolute;
-	background-color:white;
+	top:1550px;
+	left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
 }
 
-a:link{
+#experimentimg
+{
+position:absolute;
+	top:1820px;
+	left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+	a:link{
            color: red
-}
-a:hover{
+	}
+	a:hover{
            color: blue;
-}
-a:active{
+	}
+	a:active{
            color: green;
-}
+	}
 
 h1
 {
@@ -143,47 +163,61 @@ h4
 
 </head>
 
-
 <body>
-<h1>
-<font color="white"> Cape Peninsula <br> Citizen Science </br></font>
-</h1>
+	<h1>
+	<font color="white"> Cape Peninsula <br> Citizen Science </br></font>
+	</h1>
+
+<div id="logos">
+	<a href="fabinet.up.ac.za">
+	<img src="http://fabinet.up.ac.za/images/fabi-logo.png" alt="Forestry and Agricultural Biotechnology Institute" width="100px";">
+	</a>
+	<p>
+	<a href="http://www.up.ac.za/">
+	<img src="https://upload.wikimedia.org/wikipedia/en/9/96/University_of_Pretoria_Ceremonial_Shield.JPG" alt="University of Pretoria" width="100px";">
+	</a>
+	</p>
+	<p>
+	<a href="http://www.sun.ac.za/Home.aspx">
+	<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/University_of_Stellenbosch_crest-no_background.png" alt="University of Stellenbosch" width="100px";">
+	</a>
+	</p>
+	</div>
+
 <div id="main">
-<h3>
-This website is currently being developed
-<p>
-<font color="white"> Please contact <a href="jmhulbert.me"> Joey Hulbert </a> with any questions. </font>
-</p>
-</h3>
-</div>
+	<h3>
+	This website is currently under development.
+	<p>
+	<font color="white"> Please contact <a href="jmhulbert.me"> Joey Hulbert </a> with any questions. </font>
+	</p>
+	</h3>
+	</div>
+
+<div id="gmap">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d358640.91627785424!2d18.63609982730836!3d-34.11375575485859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1439745948229" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</div>
+
 <div id="main2">
+	<h1a>
+	You Be The <br> Scientist! </br>
+	</h1a>
+	</div>
+
+<div id="googform">
+	<iframe src="https://docs.google.com/forms/d/1JUz6uR1bCN-pluSc41weADldiABIwAG2IMAeoX1Jvwg/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	</div>
+
+<div id="main3">
 <h1a>
-You Be The <br> Scientist! </br>
+This Project is <br> Publicly Funded! </br>
 </h1a>
 </div>
 
-<div id="gmap">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d358640.91627785424!2d18.63609982730836!3d-34.11375575485859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1439745948229" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div id="experimentimg">
+<a href="https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science">
+<img src="experimentfunded.png" style="width:700px;">
+</a>
 </div>
 
-<div id="googform">
-<iframe src="https://docs.google.com/forms/d/1JUz6uR1bCN-pluSc41weADldiABIwAG2IMAeoX1Jvwg/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</div>
-
-<div id="logos">
-<a href="fabinet.up.ac.za">
-<img src="http://fabinet.up.ac.za/images/fabi-logo.png" alt="Forestry and Agricultural Biotechnology Institute" width="100px";">
-</a>
-<p>
-<a href="http://www.up.ac.za/">
-<img src="https://upload.wikimedia.org/wikipedia/en/9/96/University_of_Pretoria_Ceremonial_Shield.JPG" alt="University of Pretoria" width="100px";">
-</a>
-</p>
-<p>
-<a href="http://www.sun.ac.za/Home.aspx">
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/University_of_Stellenbosch_crest-no_background.png" alt="University of Stellenbosch" width="100px";">
-</a>
-</p>
-</div>
 </body>
 <privmodeelement mode="0" data-mode="0"><modechange></modechange></privmodeelement></html>
