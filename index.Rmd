@@ -3,7 +3,7 @@
 <tbody>
 <tr>
 <td width="500">
-<p>Forestry and Agricultural Biotechnology Institute, University of Pretoria, Department of Plant &amp; Soil Science, Private Bag X20, Hatfield, Pretoria 0002, South Africa.</p>
+<p>Forestry and Agricultural Biotechnology Institute, University of Pretoria, Dept. of Plant &amp; Soil Science, Private Bag X20, Hatfield, Pretoria 0002, South Africa.</p>
 </td>
 <td width="300">
 <p>+27-73-871-3066 (SA)</p>
@@ -250,7 +250,7 @@
 <p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM, 2014. Wooden Vectors of <em>Phytophthora ramorum</em>: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 <em>Phytophthora </em>in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).</p>
 <p>Peterson E, <strong>Hulbert JM</strong>, Hansen EM. 2012. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO <em>Phytophthora </em>in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).</p>
 <p><em><u>South African Conferences</u></em></p>
-<p><strong>Hulbert JM</strong>. Roets FR. 2017. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
+<p><strong>Hulbert JM</strong>, Roets FR. 2017. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roets FR. 2017. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017. Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.</p>
@@ -404,7 +404,7 @@
 <p>2016</p>
 </td>
 <td width="892">
-<p>Stellenbosch University, Centre of Excellence in Invasion Biology, Department of Zoology, Invasives in the Cape Discussion Group, <em>Is the greatest threat to South Africa's natural resources something we cannot see?</em></p>
+<p>Stellenbosch University, Centre of Excellence in Invasion Biology, Dept. of Zoology, Invasives in the Cape Discussion Group, <em>Is the greatest threat to South Africa's natural resources something we cannot see?</em></p>
 </td>
 </tr>
 <tr>
@@ -936,7 +936,7 @@
 <p>Nicolas Louw</p>
 </td>
 <td width="576">
-<p>BSc. Honors (4th year), Department of Conservation Ecology and Entomology, Stellenbosch University.</p>
+<p>BSc. Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -947,7 +947,7 @@
 <p>Adam Wentzel</p>
 </td>
 <td width="576">
-<p>Work Integrated Learning Student, Cape Nature, Jonkershoek Nature Reserve, Department of Biodiversity and Conservation, Cape Peninsula University of Technology.</p>
+<p>Work Integrated Learning Student, Cape Nature, Jonkershoek Nature Reserve, Dept. of Biodiversity and Conservation, Cape Peninsula University of Technology.</p>
 </td>
 </tr>
 <tr>
@@ -958,7 +958,7 @@
 <p>Tara Nair Van Ryneveld</p>
 </td>
 <td width="576">
-<p>BSc. Honors (4th year), Plant Conservation Unit, Department of Biological Sciences, University of Cape Town.</p>
+<p>BSc. Honors (4th year), Plant Conservation Unit, Dept. of Biological Sciences, University of Cape Town.</p>
 </td>
 </tr>
 <tr>
@@ -969,7 +969,7 @@
 <p>Liza-Marie Dippenaar</p>
 </td>
 <td width="576">
-<p>BSc. Plant Pathology 4th year project, Department of Plant Pathology, Stellenbosch University.</p>
+<p>BSc. Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -980,7 +980,7 @@
 <p>James Coldrey</p>
 </td>
 <td width="576">
-<p>BSc. Plant Pathology 4th year project, Department of Plant Pathology, Stellenbosch University.</p>
+<p>BSc. Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -991,7 +991,7 @@
 <p>Jeff Groenewald</p>
 </td>
 <td width="576">
-<p>B.Sc. (3rd year), Biodiversity and Ecology, Department of Botany and Zoology, Stellenbosch University.</p>
+<p>B.Sc. (3rd year), Biodiversity and Ecology, Dept. of Botany and Zoology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -1097,7 +1097,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>The People Side of Ecology, Social Science Methods Workshop, Department of Conservation Ecology and Entomology, Stellenbosch University.</p>
+<p>The People Side of Ecology, Social Science Methods Workshop, Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -1296,7 +1296,7 @@
 <p>2012-2014</p>
 </td>
 <td width="892">
-<p>Graduate Research Assistant, Oregon State University, Department of Wood Science and Engineering, Supervisors: Everett Hansen, Jeff Morrell</p>
+<p>Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Supervisors: Everett Hansen, Jeff Morrell</p>
 </td>
 </tr>
 <tr>
@@ -1370,7 +1370,7 @@
 <p><u>PhD Co-Supervisor</u></p>
 <p>Francois Roets</p>
 <p>Senior Lecturer</p>
-<p>Department of Conservation Ecology and Entomology</p>
+<p>Dept. of Conservation Ecology and Entomology</p>
 <p>Stellenbosch University</p>
 <p>Stellenbosch, South Africa 7600</p>
 <p>fr@sun.ac.za</p>
@@ -1381,13 +1381,13 @@
 <p>Associate Professor, School of Veterinary and Life Sciences</p>
 <p>Director, Centre of <em>Phytophthora</em> Science and Management</p>
 <p>Murdoch University</p>
-<p>Murdoch, Western Australia, 6150</p>
+<p>Murdoch, Western Australia 6150</p>
 <p>tburgess@murdoch.edu.au</p>
 <p>&nbsp;</p>
 <p><u>MSc Supervisor</u></p>
 <p>Everett M. Hansen</p>
 <p>Professor Emeritus</p>
-<p>Department of Botany and Plant Pathology</p>
+<p>Dept. of Botany and Plant Pathology</p>
 <p>Oregon State University</p>
 <p>Corvallis, Oregon, USA 97330</p>
 <p>hansene@oregonstate.ed</p>
