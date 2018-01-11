@@ -1,7 +1,3 @@
----
-title: "index"
-output: html_document
----
 <p align="center"><strong><font size="6">Joseph (Joey) Michael Hulbert</font></strong></p>
 <table>
 <tbody>
