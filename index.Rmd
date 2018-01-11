@@ -2,13 +2,11 @@
 <table>
 <tbody>
 <tr>
-<td width="500">
+<td width="450">
 <p>Forestry and Agricultural Biotechnology Institute, University of Pretoria, Dept. of Plant &amp; Soil Science, Private Bag X20, Hatfield, Pretoria 0002, South Africa.</p>
 </td>
-<td width="300">
-<p>+27-73-871-3066 (SA)</p>
-<p>1-541-908-5129 (USA)</p>
-<p><a href="mailto:joey.hulbert@fabi.up.ac.za">joey.hulbert@fabi.up.ac.za</a></p>
+<td width="442">
+<p align="right">+27-73-871-3066 (SA) <br> 1-541-908-5129 (USA) <br> <a href="mailto:joey.hulbert@fabi.up.ac.za">joey.hulbert@fabi.up.ac.za</a></p>
 </td>
 </tr>
 </tbody>
@@ -38,7 +36,7 @@
 <p>2012-2014</p>
 </td>
 <td width="892">
-<p><strong>Dual MSc</strong> Dept. of Botany &amp; Plant Pathology, Dept. of Wood Science &amp; Engineering, Oregon State University. Thesis:<em> Phytosanitation of Douglas-fir (Pseudotsuga menziesii) logs to mitigate the risk of artificially disseminating Phytophthora ramorum within the global trade of timber. </em>Advisors: Everett Hansen &amp; Jeff Morrell.</p>
+<p><strong>Dual MSc</strong> Dept. of Botany &amp; Plant Pathology, Dept. of Wood Science &amp; Engineering, Oregon State University. Thesis:<em> Phytosanitation of Douglas-fir (</em>Pseudotsuga menziesii<em>) logs to mitigate the risk of artificially disseminating </em>Phytophthora ramorum<em> within the global trade of timber. </em>Advisors: Everett Hansen &amp; Jeff Morrell.</p>
 </td>
 </tr>
 <tr>
@@ -887,7 +885,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>Early detection and monitoring of invasive forest pests and pathogens with citizen science, IUFRO 125th Anniversary Congress, Freiburg, Germany</p>
+<p>Early detection and monitoring of invasive forest pests and pathogens with citizen science, IUFRO 125th Anniversary Congress, Freiburg, Germany.</p>
 </td>
 </tr>
 </tbody>
@@ -900,7 +898,7 @@
 <p>2015</p>
 </td>
 <td width="892">
-<p>Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa</p>
+<p>Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.</p>
 </td>
 </tr>
 <tr>
@@ -908,7 +906,7 @@
 <p>2013</p>
 </td>
 <td width="892">
-<p>Maximizing Your Graduate Education, Fall Graduate School New Student Orientation, Oregon State University</p>
+<p>Maximizing Your Graduate Education, Fall Graduate School New Student Orientation, Oregon State University.</p>
 </td>
 </tr>
 </tbody>
@@ -936,7 +934,7 @@
 <p>Nicolas Louw</p>
 </td>
 <td width="576">
-<p>BSc. Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+<p>BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -958,7 +956,7 @@
 <p>Tara Nair Van Ryneveld</p>
 </td>
 <td width="576">
-<p>BSc. Honors (4th year), Plant Conservation Unit, Dept. of Biological Sciences, University of Cape Town.</p>
+<p>BSc Honors (4th year), Plant Conservation Unit, Dept. of Biological Sciences, University of Cape Town.</p>
 </td>
 </tr>
 <tr>
@@ -969,7 +967,7 @@
 <p>Liza-Marie Dippenaar</p>
 </td>
 <td width="576">
-<p>BSc. Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
+<p>BSc Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -980,7 +978,7 @@
 <p>James Coldrey</p>
 </td>
 <td width="576">
-<p>BSc. Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
+<p>BSc Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -991,7 +989,7 @@
 <p>Jeff Groenewald</p>
 </td>
 <td width="576">
-<p>B.Sc. (3rd year), Biodiversity and Ecology, Dept. of Botany and Zoology, Stellenbosch University.</p>
+<p>BSc (3rd year), Biodiversity and Ecology, Dept. of Botany and Zoology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
