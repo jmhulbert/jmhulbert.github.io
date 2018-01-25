@@ -382,6 +382,24 @@
 <p><em><u>Invited Talks</u></em></p>
 <table>
 <tbody>
+
+
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, 20th Anniversary Meeting, <em>Inspiring a new generation of plant health specialists in Africa.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>University of Washington, School of the Environment and Forests, Harvey Lab Meeting, <em>Citizen science and plant disease in South Africa.</em></p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2016</p>
@@ -886,7 +904,23 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>Early detection and monitoring of invasive forest pests and pathogens with citizen science, IUFRO 125th Anniversary Congress, Freiburg, Germany.</p>
+<p>Session Coordinator, <em>Early detection and monitoring of invasive forest pests and pathogens with citizen science</em>, IUFRO 125th Anniversary Congress, Freiburg, Germany.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2014</p>
+</td>
+<td width="892">
+<p>Symposium Planning Committee, <em>Canopies to construction: the ecology, management and use of tomorrow’s forests</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013</p>
+</td>
+<td width="892">
+<p>Symposium Planning Committee, <em>Branching out: communicating forest research beyond academics</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
 </td>
 </tr>
 </tbody>
