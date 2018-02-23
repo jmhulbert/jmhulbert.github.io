@@ -390,8 +390,14 @@
 <p><em><u>Invited Talks</u></em></p>
 <table>
 <tbody>
-
-
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Farm to Table Working Group, North Carolina State University, <em>Citizen science in South Africa: applications for agriculture </em> (teleconference).</p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2018</p>
@@ -680,6 +686,14 @@
 <p><em><u>Promotional Table Events</u></em></p>
 <table>
 <tbody>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Biodiversity Careers Day, Kirstenbosch Research Centre, Cape Town</p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2017</p>
