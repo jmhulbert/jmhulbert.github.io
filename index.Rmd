@@ -220,7 +220,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>BSPP Plant Pathology Promotion Fund, British Society for Plant Pathology</p>
+<p>Plant Pathology Promotion Fund, British Society for Plant Pathology</p>
 </td>
 </tr>
 </tbody>
@@ -995,7 +995,7 @@
 <p>Ashleigh Basel</p>
 </td>
 <td width="576">
-<p>MSc. BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+<p>BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -1006,7 +1006,7 @@
 <p>Gr&eacute;g Thiry</p>
 </td>
 <td width="576">
-<p>MSc. Environmental Education,&nbsp; Universit&eacute; of Montpellier, France. South African Environmental Education Project Intern.</p>
+<p>MSc Environmental Education,&nbsp; Universit&eacute; of Montpellier, France. South African Environmental Education Project Intern.</p>
 </td>
 </tr>
 <tr>
