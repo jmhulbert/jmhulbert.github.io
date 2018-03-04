@@ -326,9 +326,17 @@
 </tr>
 </tbody>
 </table>
-<p><em><u>Departmental Seminars</u></em></p>
+<p><em><u>Departmental Seminars and Lab Meetings</u></em></p>
 <table>
 <tbody>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Stellenbosch University, Dept. of Conservation Ecology and Entomology, Roets, Oberlander, and Dryer Join Lab Meeting, <em>The Cape Town Hypothesis Test.</em></p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2017</p>
@@ -1216,12 +1224,13 @@
 <p><strong>&nbsp;</strong></p>
 <p><strong>SELECTED MEDIA COVERAGE</strong></p>
 <p><em><u>Articles</u></em></p>
-<p>Burt B. 2017. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, Online Article.</p>
-<p>Duvenage E. 2017. Citizen science crowdfunding project pays off, SciBraai, Online Article.</p>
-<p>Brits E. 2016. 'Publiek kan help om fynbos te red, Netwerk 24, Newspaper Article.</p>
-<p>Heyl A. 2016. Join the hunt for pathogens in the fynbos, UP News, Online Article.</p>
-<p>Editor. 2016. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, Newspaper Article.</p>
-<p>DeKlerk, R. 2016. Identifying plant diseases at the southernmost point of Africa SanParks Times, Magazine Article.</p>
+<p>Duvenage E. 2017. Jy kan PhD-student help met grondmonsters, Die Burger, newspaper article.</p>
+<p>Burt B. 2017. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, online article.</p>
+<p>Duvenage E. 2017. Citizen science crowdfunding project pays off, SciBraai, online article.</p>
+<p>Brits E. 2016. 'Publiek kan help om fynbos te red, Netwerk 24, newspaper article.</p>
+<p>Heyl A. 2016. Join the hunt for pathogens in the fynbos, UP News, online article.</p>
+<p>Editor. 2016. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, newspaper article.</p>
+<p>DeKlerk, R. 2016. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.</p>
 <p><em><u>Radio Interviews</u></em></p>
 <p>Middag op RSG, RSG 100-104FM, January 23, 2018.</p>
 <p>Detour, Maties MFM 92.6FM, November 29, 2017.</p>
