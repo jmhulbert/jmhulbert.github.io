@@ -1246,7 +1246,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>A year of empowering young minds<a href="https://youtu.be/PKSI1sxHiEc" >YouTube</a>.</p>
+<p>A year of empowering young minds <a href="https://youtu.be/PKSI1sxHiEc" >YouTube</a>.</p>
 </td>
 </tr>
 <tr>
