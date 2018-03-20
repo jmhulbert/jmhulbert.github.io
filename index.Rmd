@@ -1016,6 +1016,17 @@
 <p>2018</p>
 </td>
 <td width="131">
+<p>Eric Norton</p>
+</td>
+<td width="576">
+<p>BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="131">
 <p>Ashleigh Basel</p>
 </td>
 <td width="576">
