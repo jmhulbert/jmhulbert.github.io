@@ -1559,7 +1559,7 @@
 <p>2011-2012</p>
 </td>
 <td width="892">
-<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology. Supervisors: (Everett Hansen, Paul Resser, Wendy Sutton</p>
+<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton</p>
 </td>
 </tr>
 <tr>
@@ -1575,7 +1575,7 @@
 <p>2009</p>
 </td>
 <td width="892">
-<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North(</p>
+<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North</p>
 </td>
 </tr>
 <tr>
@@ -1591,7 +1591,7 @@
 <p>2008</p>
 </td>
 <td width="892">
-<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho. Supervisors: Ned Klopfenstein, Mee-Sook Kim(</p>
+<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho. Supervisors: Ned Klopfenstein, Mee-Sook Kim</p>
 </td>
 </tr>
 <tr>
