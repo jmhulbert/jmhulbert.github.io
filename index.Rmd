@@ -496,7 +496,15 @@
 <p>2018</p>
 </td>
 <td width="892">
-<p>Friends of Brackenfell Nature Reserve, Brackenfell Nature Reserve, Invited Guest Lecture, <em>How citizens can protect the Cape Floral Kingdom from new plant diseases.</em></p>
+<p>South African Citizen Science Project Fair,International Citizen Science Day, Old Mutual Conference Center, Kirstenbosch National Botanical Garden, <em>Cape Citizen Science.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Friends of Brackenfell Nature Reserve, Brackenfell Nature Reserve, monthly meeting, <em>How citizens can protect the Cape Floral Kingdom from new plant diseases.</em></p>
 </td>
 </tr>
 <tr>
