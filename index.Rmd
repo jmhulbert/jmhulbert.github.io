@@ -21,7 +21,7 @@
 <p>2015-2018 (expected)</p>
 </td>
 <td width="892">
-<p><strong>PhD </strong>Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant &amp; Soil Science, University of Pretoria, South Africa. Dissertation: <em>Revealing the diversity and distributions of</em> Phytophthora <em>species in the Cape Floristic Region with citizen science.</em> Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.</p>
+<p><strong>PhD </strong>Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant &amp; Soil Science, University of Pretoria, South Africa. Dissertation: Phytophthora <em>diversity in the Cape Floristic Region.</em> Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.</p>
 </td>
 </tr>
 <tr>
@@ -83,6 +83,14 @@
 <tbody>
 <tr>
 <td width="86">
+<p>2018</p>
+</td>
+<td width="438">
+<p>Student Travel Award, American Phytopathological Society</p>
+</td>
+</tr>
+<tr>
+<td width="86">
 <p>2016</p>
 </td>
 <td width="438">
@@ -110,7 +118,7 @@
 <p>2014-2015</p>
 </td>
 <td width="438">
-<p>Oregon Lottery Graduate Scholarship</p>
+<p> Graduate Scholarship, Oregon Lottery</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +126,7 @@
 <p>2014</p>
 </td>
 <td width="438">
-<p>OSU Graduate School Travel Award</p>
+<p>Travel Award, Oregon State University Graduate School </p>
 </td>
 </tr>
 <tr>
@@ -126,7 +134,7 @@
 <p>2014</p>
 </td>
 <td width="438">
-<p>Botany and Plant Pathology Graduate Student Association Travel Award</p>
+<p>Student Travel Award, Botany and Plant Pathology Graduate Student Association</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +150,7 @@
 <p>2014</p>
 </td>
 <td width="438">
-<p>Intercollegiate Broadcasting System: Most Innovative Radio Program</p>
+<p>Most Innovative Radio Program, Intercollegiate Broadcasting System</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +198,7 @@
 <p>2013</p>
 </td>
 <td width="438">
-<p>Western International Forest Disease Work Conference Student Travel Award</p>
+<p>Student Travel Award, Western International Forest Disease Work Conference</p>
 </td>
 </tr>
 </tbody>
@@ -559,6 +567,35 @@
 </td>
 <td width="892">
 <p>Stellenbosch University, International Winter School, Biodiversity &amp; Ecology Course, Lecture, <em>Surveying Phytophthora species with citizen science</em>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em><u>Workshops Organized</u></em></p>
+<table>
+<tbody>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Data transformation with R-package dplyr.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Data visulization with R-package ggplot2.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Introduction to Rstudio./em></p>
 </td>
 </tr>
 </tbody>
