@@ -286,10 +286,18 @@
 <tbody>
 <tr>
 <td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, Phytophthora <em>diversity in southern Afrotemperate forests.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
 <p>2017</p>
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, Research Day, <em>Introduction to Cape Citizen Science: A project to engage the public in plant disease research</em>.</p>
+<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, Research Day, <em>Introduction to Cape Citizen Science: A project to engage the public in plant disease research.</em></p>
 </td>
 </tr>
 <tr>
