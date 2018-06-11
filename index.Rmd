@@ -86,7 +86,15 @@
 <p>2018</p>
 </td>
 <td width="438">
-<p>Student Travel Award, American Phytopathological Society</p>
+<p>Travel Fund, British Society for Plant Pathology</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="438">
+<p>Stephen A. Johnston Student Travel Award, American Phytopathological Society</p>
 </td>
 </tr>
 <tr>
@@ -414,6 +422,14 @@
 <p><em><u>Invited Talks</u></em></p>
 <table>
 <tbody>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Plant Conservation Unit, University of Cape Town, <em>Benefits and challenges of citizen science: the experiences of @CapeCitSci in South Africa.</em></p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2018</p>
