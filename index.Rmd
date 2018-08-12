@@ -264,6 +264,148 @@
 </tbody>
 </table>
 <p><strong>&nbsp;</strong></p>
+<p><strong>ACADEMIC LEADERSHIP</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="86">
+<p>2017-2020</p>
+</td>
+<td width="892">
+<p>Committee Member, American Phytopathological Society, Committee for Diversity and Equality</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2017-2020</p>
+</td>
+<td width="892">
+<p>Committee Member, American Phytopathological Society, Forest Pathology Committee</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2016-</p>
+</td>
+<td width="892">
+<p>Project Leader, Cape Citizen Science</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2015</p>
+</td>
+<td width="892">
+<p>Coordinator, University of Pretoria Invasive Species Journal Club</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2014</p>
+</td>
+<td width="892">
+<p>Creator &amp; Director, Botany and Plant Pathology BUDS Program</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2014</p>
+</td>
+<td width="892">
+<p>Planning Committee Member, Western Forestry Graduate Research Symposium</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013-2014</p>
+</td>
+<td width="892">
+<p>President, Botany and Plant Pathology Graduate Student Association</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013-2014</p>
+</td>
+<td width="892">
+<p>Creator &amp; Director, Forest Graduate Undergraduate Mentorship Program</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013</p>
+</td>
+<td width="892">
+<p>Planning Committee Member, Western Forestry Graduate Research Symposium</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013</p>
+</td>
+<td width="892">
+<p>Planning Committee Member, College of Forestry Graduate Student Orientation</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013</p>
+</td>
+<td width="892">
+<p>Organizer, Natural Science Graduate Student BBQ</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2012-2014</p>
+</td>
+<td width="892">
+<p>Co-host, Inspiration Dissemination</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2012-2014</p>
+</td>
+<td width="892">
+<p>Officer, College of Forestry Graduate Student Council</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2012-2014</p>
+</td>
+<td width="892">
+<p>Wood Science Steward, Coalition of Graduate Employees</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2012-2014</p>
+</td>
+<td width="892">
+<p>Graduate Representative, Dept. of Wood Science and Engineering</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2012-2014</p>
+</td>
+<td width="892">
+<p>Committee Member, Wood Science and Engineering Graduate Affairs</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2012</p>
+</td>
+<td width="892">
+<p>Organizer, Natural Science Graduate Student BBQ</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong>PRESENTATIONS AT PROFESSIONAL MEETINGS</strong></p>
 <p><em><u>International Conferences</u></em></p>
 <p><strong>Hulbert JM</strong>, Burgess T, Roets F, Wingfield MJ. 2017. Public engagement to survey<em> Phytophthora</em> in South Africa, IUFRO Working Party '<em>Phytophthora</em> in forests and natural ecosystems' (7.02.09), Sapa, Vietnam. Oral Presentation.</p>
@@ -281,6 +423,8 @@
 <p><strong>Hulbert JM</strong>. 2016. Monitoring invasive species with citizen science: an international review, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>. 2015. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, <em>Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management</em>, Stellenbosch, South Africa. Oral Presentation.</p>
 <p><em><u>North American Conferences</u></em></p>
+<p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
+<p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. The Cape Town Hypothesis Test: Phytophthora in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
 <p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Chemical treatment to sanitize <em>Phytophthora ramorum </em>colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
 <p><strong>Hulbert JM</strong>, Rosenberger R. 2014. Forest G.U.M.P. The Value of Graduate Undergraduate Mentorship Programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
 <p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Potential of using boron for mitigation of <em>Phytophthora ramorum </em>in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.</p>
@@ -577,6 +721,14 @@
 <p><em><u>Guest Lectures</u></em></p>
 <table>
 <tbody>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Cape Peninsula University of Technology, Faculty of Applied Sciences, Btech Plants Module, Lecture, <em>Invasive microscopic organisms: plant pathogens and biosecurity.</em></p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2018</p>
@@ -1526,148 +1678,6 @@
 <p>Detour, Maties MFM 92.6FM, November 29, 2017.</p>
 <p>Green Living, Radio Helderberg 93.6FM, February 23, 2017.</p>
 <p>KLCC News, NPR KLCC 89.7, April 8, 2015.</p>
-<p>&nbsp;</p>
-<p><strong>ACADEMIC LEADERSHIP</strong></p>
-<table>
-<tbody>
-<tr>
-<td width="86">
-<p>2017-2020</p>
-</td>
-<td width="892">
-<p>Committee Member, American Phytopathological Society, Committee for Diversity and Equality</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017-2020</p>
-</td>
-<td width="892">
-<p>Committee Member, American Phytopathological Society, Forest Pathology Committee</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016-</p>
-</td>
-<td width="892">
-<p>Project Leader, Cape Citizen Science</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="892">
-<p>Coordinator, University of Pretoria Invasive Species Journal Club</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Creator &amp; Director, Botany and Plant Pathology BUDS Program</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Planning Committee Member, Western Forestry Graduate Research Symposium</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
-</td>
-<td width="892">
-<p>President, Botany and Plant Pathology Graduate Student Association</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
-</td>
-<td width="892">
-<p>Creator &amp; Director, Forest Graduate Undergraduate Mentorship Program</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Planning Committee Member, Western Forestry Graduate Research Symposium</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Planning Committee Member, College of Forestry Graduate Student Orientation</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Organizer, Natural Science Graduate Student BBQ</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Co-host, Inspiration Dissemination</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Officer, College of Forestry Graduate Student Council</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Wood Science Steward, Coalition of Graduate Employees</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Graduate Representative, Dept. of Wood Science and Engineering</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Committee Member, Wood Science and Engineering Graduate Affairs</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012</p>
-</td>
-<td width="892">
-<p>Organizer, Natural Science Graduate Student BBQ</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p><strong>RESEARCH POSITIONS</strong></p>
 <table>
