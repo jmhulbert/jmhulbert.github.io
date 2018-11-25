@@ -17,7 +17,7 @@
 <tbody>
 <tr>
 <td width="86">
-<p>2015-2018 (expected)</p>
+<p>2015-2019 (expected)</p>
 </td>
 <td width="892">
 <p><strong>PhD </strong>Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant &amp; Soil Science, University of Pretoria, South Africa. Dissertation: Phytophthora <em>diversity in the Cape Floristic Region.</em> Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.</p>
@@ -291,7 +291,7 @@
 <p>2016-</p>
 </td>
 <td width="892">
-<p>Project Leader, Cape Citizen Science</p>
+<p>Founder and Project Leader, Cape Citizen Science</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@
 <p>2014</p>
 </td>
 <td width="892">
-<p>Creator &amp; Director, Botany and Plant Pathology BUDS Program</p>
+<p>Founder and Director, Botany and Plant Pathology BUDS Program</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@
 <p>2013-2014</p>
 </td>
 <td width="892">
-<p>Creator &amp; Director, Forest Graduate Undergraduate Mentorship Program</p>
+<p>Co-Founder and Director, Forest Graduate Undergraduate Mentorship Program</p>
 </td>
 </tr>
 <tr>
@@ -1482,7 +1482,7 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>MENTORSHIP OUTCOMES</strong></p>
-<p>Basel A, Hulbert JM, Midgley G, Jacobs S, Dreyer L, Roets F. Disease or drought? A physiological analysis on the effects of Phytophthora infection and water stress on Leucadendron argenteum, Fynbos Forum, Worcestor, South Africa. Oral Presentation.</p> 
+<p>Basel A, <strong>Hulbert JM</strong>, Midgley G, Jacobs S, Dreyer L, Roets F. Disease or drought? A physiological analysis on the effects of <em>Phytophthora</em> infection and water stress on <em>Leucadendron argenteum</em>, Fynbos Forum, Worcestor, South Africa. Oral Presentation.</p> 
 <p>Groenewald J, Roets F, <strong>Hulbert JM. </strong>2017 <em>Phytophthora cinnamomi</em>: a driver behind endangered flora in the CFR?, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Poster Presentation.</p>
 <p>Louw NL, Roets F, <strong>Hulbert JM. </strong>2017 The diminishing silver lining: re-evaluating the microscopic threats to South Africa's silver tree, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
 <p>&nbsp;</p>
