@@ -419,6 +419,7 @@
 <p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM, 2014. Wooden Vectors of <em>Phytophthora ramorum</em>: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 <em>Phytophthora </em>in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).</p>
 <p>Peterson E, <strong>Hulbert JM</strong>, Hansen EM. 2012. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO <em>Phytophthora </em>in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).</p>
 <p><em><u>South African Conferences</u></em></p>
+<p><strong>Hulbert JM</strong> 2018. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation </p>
 <p><strong>Hulbert JM</strong>, Roets FR. 2017. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roets FR. 2017. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.</p>
@@ -767,7 +768,7 @@
 </tr>
 </tbody>
 </table>
-<p><em><u>Workshops Organized</u></em></p>
+<p><em><u>Workshop Series Lectures</u></em></p>
 <table>
 <tbody>
 <tr>
