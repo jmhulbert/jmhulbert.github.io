@@ -12,8 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Welcome! The purpose of this page is to provide resources for our workshop series about using  Rstudio and R::packages. 
 
 * Workshop Series
-    + [Session 1](http://jmhulbert.github.io/R/S1) Introduction to RStudio.
-    + [Session 2](http://jmhulbert.github.io/R/S2) Introduction to data visulization with ggplot2.
-    + [Session 3](http://jmhulbert.github.io/R/S3) Introduction to data transformation with dplyr.
-    + [Session 4](http://jmhulbert.github.io/R/S4) Introduction to multivariate analysis with vegan.
-    + [Session 5](http://jmhulbert.github.io/R/S5) Introduction to R markdown.
+    + [Session 1](http://jmhulbert.github.io/r/s1) Introduction to RStudio.
+    + [Session 2](http://jmhulbert.github.io/r/s2) Introduction to data visulization with ggplot2.
+    + [Session 3](http://jmhulbert.github.io/r/s3) Introduction to data transformation with dplyr.
+    + [Session 4](http://jmhulbert.github.io/r/s4) Introduction to multivariate analysis with vegan.
+    + [Session 5](http://jmhulbert.github.io/r/s5) Introduction to R markdown.
