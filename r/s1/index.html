@@ -11,6 +11,7 @@
 
 <meta name="author" content="Joey Hulbert" />
 
+<meta name="date" content="2019-02-14" />
 
 <title>Session 1 - Introduction to RStudio</title>
 
@@ -221,7 +222,7 @@ div.tocify {
 
 <h1 class="title toc-ignore">Session 1 - Introduction to RStudio</h1>
 <h4 class="author"><em>Joey Hulbert</em></h4>
-<h4 class="date"><em>February 6, 2019</em></h4>
+<h4 class="date"><em>February 14, 2019</em></h4>
 
 </div>
 
@@ -237,22 +238,109 @@ div.tocify {
 </script>
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
-<p>The purpose of this page is to provide the resources for the first session of our RStudio and R::packages workshop series. This page is designed to compliment our workshop session and is not supposed to be a stand alone walkthrough, however, it may work that way.</p>
+<p>The purpose of this page is to provide additional information for the first session of our RStudio and R::packages workshop series. It is not designed as a stand alone resource, but rather to compliment our session.</p>
 </div>
-<div id="organize-data-appropriately" class="section level2">
-<h2>Organize data appropriately</h2>
+<div id="data-organization" class="section level2">
+<h2>Data organization</h2>
+<p>We need to format our data so that R will read it correctly.</p>
+<p>Our data should be set up as a rectangle with observations (samples) in rows and variables (treatment groups, results, etc.) in columns. Below is an example:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Sample</th>
+<th align="center">Trial</th>
+<th align="center">Treatment</th>
+<th align="center">Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">1</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.3826642</td>
+</tr>
+<tr class="even">
+<td align="center">2</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.1856750</td>
+</tr>
+<tr class="odd">
+<td align="center">3</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.8616407</td>
+</tr>
+<tr class="even">
+<td align="center">4</td>
+<td align="center">A</td>
+<td align="center">Infected</td>
+<td align="center">0.6213031</td>
+</tr>
+<tr class="odd">
+<td align="center">5</td>
+<td align="center">A</td>
+<td align="center">Infected</td>
+<td align="center">0.7253254</td>
+</tr>
+<tr class="even">
+<td align="center">6</td>
+<td align="center">A</td>
+<td align="center">Infected</td>
+<td align="center">0.5467082</td>
+</tr>
+<tr class="odd">
+<td align="center">7</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.0403788</td>
+</tr>
+<tr class="even">
+<td align="center">8</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.3370423</td>
+</tr>
+<tr class="odd">
+<td align="center">9</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.5422536</td>
+</tr>
+<tr class="even">
+<td align="center">10</td>
+<td align="center">B</td>
+<td align="center">Infected</td>
+<td align="center">0.5012247</td>
+</tr>
+<tr class="odd">
+<td align="center">11</td>
+<td align="center">B</td>
+<td align="center">Infected</td>
+<td align="center">0.9237711</td>
+</tr>
+<tr class="even">
+<td align="center">12</td>
+<td align="center">B</td>
+<td align="center">Infected</td>
+<td align="center">0.0599004</td>
+</tr>
+</tbody>
+</table>
+<p>Now that our data is ready for R, we need to install R and RStudio.</p>
 </div>
 <div id="install-r-and-rstudio" class="section level2">
 <h2>Install R and RStudio</h2>
 <ul>
-<li>Before we begin, we need to install <a href="https://www.r-project.org/">R</a> and <a href="https://www.rstudio.com/">RStudio</a> (RStudio requires R to be installed).
+<li>Note that <a href="https://www.rstudio.com/">RStudio</a> requires <a href="https://www.r-project.org/">R</a> to be installed.
 <ul>
-<li>Download R: <a href="https://ftp.osuosl.org/pub/cran/" class="uri">https://ftp.osuosl.org/pub/cran/</a></li>
-<li>Download RStudio: <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a></li>
+<li>First download and install R: <a href="https://ftp.osuosl.org/pub/cran/" class="uri">https://ftp.osuosl.org/pub/cran/</a></li>
+<li>Then download and install RStudio: <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a></li>
 </ul></li>
 </ul>
-<p>It is recommended you have the latest versions of R (3.5.2) and RStudio (1.1.463).</p>
-<p>To find your RStudio version go to the menu: RStudio &gt;&gt; About RStudio</p>
+<p>It is best if we have the latest versions of R (3.5.2) and RStudio (1.1.463).</p>
+<p>To find your RStudio version go to the menu: <em>RStudio &gt;&gt; About RStudio</em></p>
 <p>Run the below code to find your R version.</p>
 <pre class="r"><code>getRversion()</code></pre>
 <pre><code>## [1] '3.5.1'</code></pre>
@@ -272,16 +360,29 @@ div.tocify {
 ## attached base packages:
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
+## other attached packages:
+##  [1] knitr_1.20      forcats_0.3.0   stringr_1.3.1   dplyr_0.7.8    
+##  [5] purrr_0.2.5     readr_1.1.1     tidyr_0.8.2     tibble_1.4.2   
+##  [9] ggplot2_3.1.0   tidyverse_1.2.1
+## 
 ## loaded via a namespace (and not attached):
-##  [1] compiler_3.5.1  backports_1.1.2 magrittr_1.5    rprojroot_1.3-2
-##  [5] tools_3.5.1     htmltools_0.3.6 yaml_2.2.0      Rcpp_1.0.0     
-##  [9] stringi_1.2.4   rmarkdown_1.10  knitr_1.20      stringr_1.3.1  
-## [13] digest_0.6.18   evaluate_0.12</code></pre>
+##  [1] Rcpp_1.0.0       highr_0.7        cellranger_1.1.0 pillar_1.3.0    
+##  [5] compiler_3.5.1   plyr_1.8.4       bindr_0.1.1      tools_3.5.1     
+##  [9] digest_0.6.18    lubridate_1.7.4  jsonlite_1.5     evaluate_0.12   
+## [13] nlme_3.1-137     gtable_0.2.0     lattice_0.20-35  pkgconfig_2.0.2 
+## [17] rlang_0.3.0.1    cli_1.0.1        rstudioapi_0.8   yaml_2.2.0      
+## [21] haven_1.1.2      bindrcpp_0.2.2   withr_2.1.2      xml2_1.2.0      
+## [25] httr_1.3.1       hms_0.4.2        rprojroot_1.3-2  grid_3.5.1      
+## [29] tidyselect_0.2.5 glue_1.3.0       R6_2.3.0         readxl_1.1.0    
+## [33] rmarkdown_1.10   modelr_0.1.2     magrittr_1.5     backports_1.1.2 
+## [37] scales_1.0.0     htmltools_0.3.6  rvest_0.3.2      assertthat_0.2.0
+## [41] colorspace_1.3-2 stringi_1.2.4    lazyeval_0.2.1   munsell_0.5.0   
+## [45] broom_0.5.0      crayon_1.3.4</code></pre>
 </div>
 <div id="rstudio-interface" class="section level2">
 <h2>RStudio interface</h2>
 <ul>
-<li>Arrange Panes
+<li>RStudio Panes
 <ul>
 <li>Source</li>
 <li>Console</li>
@@ -289,21 +390,40 @@ div.tocify {
 <li>History, Files, Connections, Packages</li>
 </ul></li>
 </ul>
-<p>Appearance</p>
+<p>Rearranage panes - You can rearrange the panes to your preference in <em>RStudio &gt;&gt; Preferences &gt;&gt; Pane Layout</em></p>
+<p>Appearance - You can also change the appearance to various themes or dark modes in <em>RStudio &gt;&gt; Preferences &gt;&gt; Appearance</em></p>
 </div>
 <div id="packages" class="section level2">
 <h2>Packages</h2>
-<p>Install tidyverse</p>
+<p>R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.</p>
+<p><a href="https://github.com/grunwaldlab/poppr"><em>PoppR</em></a> is an example of a popular package that was created by a MS student and friend.</p>
+<p>In general, we need to install packages before we can use them. In this workshop series, we will use the <em>Tidyverse</em> package. The <a href="https://www.tidyverse.org/">Tidyverse</a> is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions.</p>
+<p>We can install the package by running the code below:</p>
+<pre class="r"><code>install.packages(&quot;tidyverse&quot;)</code></pre>
+<p>Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package (see below) anytime you want to use it.</p>
 </div>
 <div id="projects" class="section level2">
 <h2>Projects</h2>
-<p>Set working directories</p>
-<p>Create R script</p>
-<p>Importing data</p>
+<p>Next we can get into one of the best features of RStudio, projects. Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory.</p>
+<p>I generally create a new project for each chapter or manuscript.</p>
+<div id="set-working-directories" class="section level3">
+<h3>Set working directories</h3>
+</div>
+<div id="create-r-script" class="section level3">
+<h3>Create R script</h3>
+</div>
+<div id="load-packages" class="section level3">
+<h3>Load Packages</h3>
+</div>
+<div id="run-code" class="section level3">
+<h3>Run Code</h3>
+</div>
+<div id="importing-data" class="section level3">
+<h3>Importing data</h3>
 <p>name &lt;- read.csv(‘./data/’FILENAME.csv’)</p>
-<p>Load Packages</p>
-<p>tidyverse</p>
-<p>R code basics</p>
+</div>
+<div id="r-code-basics" class="section level3">
+<h3>R code basics</h3>
 <p>Make notes</p>
 <p>Use outline</p>
 <p>Reference column in data</p>
@@ -313,6 +433,7 @@ div.tocify {
 <p>rename a column x<span class="math inline">\(y &lt;- x\)</span>z</p>
 <p>Change data from R</p>
 <p>library(stringr) arthropod<span class="math inline">\(Cultivar &lt;-str_replace_all(arthropod\)</span>Cultivar,“Jewel”,“Jewel”) arthropod<span class="math inline">\(Cultivar &lt;-str_replace_all(arthropod\)</span>Cultivar,“Star”,“Star”) arthropod<span class="math inline">\(Field &lt;-str_replace_all(arthropod\)</span>Field,“Open”,“Open”)</p>
+</div>
 </div>
 <div id="package-cheat-sheets" class="section level2">
 <h2>Package Cheat Sheets</h2>
