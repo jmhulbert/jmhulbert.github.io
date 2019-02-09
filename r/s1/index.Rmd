@@ -1,5 +1,6 @@
 ---
-title: "Session 1 - Introduction to RStudio"
+title: "FABI Session 1 - Introduction to RStudio"
+subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
 author: "Joey Hulbert"
 date: "February 14, 2019"
 output: 
@@ -24,17 +25,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r include=FALSE}
-library(tidyverse)
 library(knitr)
 ```
 
 
-##Introduction
+## Introduction
  
-The purpose of this page is to provide additional information for the first session of our RStudio and R::packages workshop series. It is not designed as a stand alone resource, but rather to compliment our session. 
+The purpose of this page is to provide additional information for the first session of our RStudio and R packages workshop series. It is not designed as a stand alone resource, but rather to compliment our session. 
 
 
-##Data organization
+## Data organization
 
 We need to format our data so that R will read it correctly. 
 
@@ -45,9 +45,11 @@ df <- data.frame(Sample = 1:12,Trial = c('A','A','A','A','A','A','B','B','B','B'
 knitr::kable(df,align='c')
 ```
 
+It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in [Session 3](http://jmhulbert.github.io/r/s3) to summarize data and calculate means based on trials and treatments, etc. 
+
 Now that our data is ready for R, we need to install R and RStudio.
 
-##Install R and RStudio
+## Install R and RStudio
 * Note that [RStudio](https://www.rstudio.com/) requires [R](https://www.r-project.org/) to be installed.
     + First download and install R: https://ftp.osuosl.org/pub/cran/
     + Then download and install RStudio: https://www.rstudio.com/products/rstudio/download/#download
@@ -58,17 +60,17 @@ To find your RStudio version go to the menu: *RStudio >> About RStudio*
 
 Run the below code to find your R version. 
 
-```{r}
+```{r eval=FALSE}
 getRversion()
 ```
 
 or
 
-```{r}
+```{r eval=FALSE}
 sessionInfo()
 ```
 
-##RStudio interface
+## RStudio interface
 
 * RStudio Panes
     + Source
@@ -76,16 +78,19 @@ sessionInfo()
     + Environment, Plots, Help, Viewer
     + History, Files, Connections, Packages
 
-Rearranage panes - You can rearrange the panes to your preference in *RStudio >> Preferences >> Pane Layout*
+Rearranage panes - You can rearrange the panes to your preference in 
 
-Appearance - You can also change the appearance to various themes or dark modes in *RStudio >> Preferences >> Appearance*
+*RStudio >> Preferences >> Pane Layout*
 
+Appearance - You can also change the appearance to various themes or dark modes in 
 
-##Packages
+*RStudio >> Preferences >> Appearance*
+
+## Packages
 
 R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.
 
-[*PoppR*](https://github.com/grunwaldlab/poppr) is an example of a popular package that was created by a MS student and friend. 
+[*PoppR*](https://github.com/grunwaldlab/poppr) is an example of a popular package that was created by Zhian Kamvar and the Grünwald Lab.
 
 In general, we need to install packages before we can use them. In this workshop series, we will use the *Tidyverse* package. The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions. 
 
@@ -97,25 +102,42 @@ install.packages("tidyverse")
 
 Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package (see below) anytime you want to use it.
 
-##Projects
+Also, if you check the packages tab of your pane, you will see it installed ggplot2 and dplyr, and a few others. 
+
+## Projects
 
 Next we can get into one of the best features of RStudio, projects. Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory. 
 
-I generally create a new project for each chapter or manuscript. 
+I generally create a new project for each chapter or manuscript. Then I like to create these subfolders. 
 
-###Set working directories
+* Project Directory
+    + Data
+    + Code
+    + Figures
 
-###Create R script
+### Set working directories
 
-###Load Packages
+Defining a working directory is a critical step for making the most of projects and simplifying our workflow. A working directy essentially tells R where to look for and save your files. That way you can reference data without needing to type out the entire file path (e.g. C://Desktop/Files/R/LongDirectoryPath). 
 
-###Run Code
+It is recommended to set your project directory as your working directory. To do so, click on the file tab of the pane and click the 'More' button. 
 
-###Importing data
+*Files (tab) >> More >> Set as Working Directory*
+
+### Create R script
+
+Ok, now that we have a working directory, lets create our first script. 
+
+*File (menu) >> New File >> R Script* 
+
+## R code basics
+
+#### Load Packages
+
+#### Run Code
+
+#### Importing data
 
 name <- read.csv('./data/'FILENAME.csv')
-
-###R code basics
 
 Make notes
 

@@ -1,0 +1,28 @@
+---
+title: "FABI Session 2 - Introduction to ggplot2"
+subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
+author: "Joey Hulbert"
+date: "February 21, 2019"
+output: html_document
+---
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+    });
+</script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r include=FALSE}
+library(knitr)
+```
+
+## Introduction
+
+More information will be added soon

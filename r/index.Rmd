@@ -1,7 +1,7 @@
 ---
-title: "Workshop Series"
+title: "FABI Workshop Series"
 author: "Joey Hulbert"
-date: "February 6, 2019"
+date: "February 14, 2019"
 output: html_document
 ---
 
@@ -9,11 +9,20 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##Welcome! The purpose of this page is to provide resources for our workshop series about using  Rstudio and R::packages. 
+###Welcome! 
+
+The purpose of this page is to provide resources for a workshop series about using RStudio and R packages in the [Forestry and Agricultural Biotechnology Institute](https://fabinet.up.ac.za) at the [University of Pretoria](https://www.up.ac.za/) in South Africa. 
 
 * Workshop Series
     + [Session 1](http://jmhulbert.github.io/r/s1) Introduction to RStudio.
-    + [Session 2](http://jmhulbert.github.io/r/s2) Introduction to data visulization with ggplot2.
+        + Learn the basics of coding, importing data, installing packages, and managing projects.
+    + [Session 2](http://jmhulbert.github.io/r/s2) Introduction to data visualization with ggplot2.
+        + Become familiar with creating and saving plots and customizing aesthetics. 
     + [Session 3](http://jmhulbert.github.io/r/s3) Introduction to data transformation with dplyr.
+        + Learn best practices for manipulating, transforming, and summarizing data. 
     + [Session 4](http://jmhulbert.github.io/r/s4) Introduction to multivariate analysis with vegan.
-    + [Session 5](http://jmhulbert.github.io/r/s5) Introduction to R markdown.
+        + Learn to analyze and visualize community data with the vegan package using permutation tests and ordination, respectively. 
+    + [Session 5](http://jmhulbert.github.io/r/s5) Introduction to R Markdown.
+        + Learn to generate reports for analyses for sharing with collaborators or for future reference. 
+    + **New** [Session 6](http://jmhulbert.github.io/r/s6) Integrating R Markdown and Github with RStudio.
+        + Learn to use github for version control and backing up data, and learn to integrate R Markdown and a github page with Rstudio. 
