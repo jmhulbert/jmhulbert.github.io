@@ -1,0 +1,67 @@
+---
+title: "FABI Pre-Workshop Series Instructions"
+author: "Joey Hulbert"
+date: "February 13, 2019"
+output: html_document
+---
+
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+    });
+</script>
+
+[FABI Workshop Series >> Home](http://jmhulbert.github.io/r)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r include=FALSE}
+library(knitr)
+```
+
+
+## Welcome
+ 
+Thank you for RSVPing to attend the FABI Rstudio and R Package workshop. Below are a few instructions that will improve the experience if you can incorporate them prior to attending the workshop sessions.
+
+## Data organization
+
+We need to format our data so that R will read it correctly. 
+
+Our data should be set up as a rectangle with observations (samples) in rows and variables (treatment groups, results, etc.) in columns. Below is an example:
+
+```{r echo=FALSE}
+df <- data.frame(Sample = 1:12,Trial = c('A','A','A','A','A','A','B','B','B','B','B','B'),Treatment = rep(c('Control','Control','Control','Treated','Treated','Treated'),2),Result = runif(12))
+knitr::kable(df,align='c')
+```
+
+It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in [Session 3](http://jmhulbert.github.io/r/s3) to summarize data and calculate means based on groups or other explanatory variables, etc. 
+
+Now that our data is ready for R, we need to install R and RStudio.
+
+## Install R and RStudio
+* Note that [RStudio](https://www.rstudio.com/) requires [R](https://www.r-project.org/) to be installed.
+    + First download and install R: https://ftp.osuosl.org/pub/cran/
+    + Then download and install RStudio: https://www.rstudio.com/products/rstudio/download/#download
+
+It is best if we have the latest versions of R (3.5.2) and RStudio (1.1.463). 
+
+To find your RStudio version go to the menu: *RStudio >> About RStudio*
+
+Run the below code to find your R version. 
+
+```{r eval=FALSE}
+getRversion()
+```
+
+or
+
+```{r eval=FALSE}
+sessionInfo()
+```

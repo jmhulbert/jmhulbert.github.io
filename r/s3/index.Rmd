@@ -1,14 +1,9 @@
 ---
-title: "FABI Session 1 - Introduction to RStudio"
+title: "FABI Session 3 - Introduction to dplyr"
 subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
 author: "Joey Hulbert"
-date: "February 14, 2019"
-output: 
-  html_document:
-    toc: TRUE 
-    toc_depth: 5
-    toc_float:
-      collapsed: TRUE
+date: "February 28, 2019"
+output: html_document
 ---
 <script>
     $(document).ready(function() {
@@ -20,8 +15,6 @@ output:
     });
 </script>
 
-[FABI Workshop Series >> Home](http://jmhulbert.github.io/r)
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -30,6 +23,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 
+## Introduction
 
-A guide for our session will be added to this space on the day of our session. Please check back then. 
-
+More information will be added soon
