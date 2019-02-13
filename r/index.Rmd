@@ -2,7 +2,7 @@
 title: "FABI Workshop Series"
 subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
 author: "Joey Hulbert"
-date: "February 14, 2019"
+date: "February 14 - March 14, 2019"
 output: html_document
 ---
 
