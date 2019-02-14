@@ -238,7 +238,230 @@ div.tocify {
     });
 </script>
 <p><a href="http://jmhulbert.github.io/r">FABI Workshop Series &gt;&gt; Home</a></p>
-<p>A guide for our session will be added to this space on the day of our session. Please check back then.</p>
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>The purpose of this page is to provide additional information for the first session of our RStudio and R packages workshop series. It is not designed as a stand alone resource, but rather to compliment our session.</p>
+</div>
+<div id="data-organization" class="section level2">
+<h2>Data organization</h2>
+<p>We need to format our data so that R will read it correctly.</p>
+<p>Our data should be set up as a rectangle with observations (samples) in rows and variables (treatment groups, results, etc.) in columns. Below is an example:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Sample</th>
+<th align="center">Trial</th>
+<th align="center">Treatment</th>
+<th align="center">Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">1</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.6771102</td>
+</tr>
+<tr class="even">
+<td align="center">2</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.3285624</td>
+</tr>
+<tr class="odd">
+<td align="center">3</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.1046183</td>
+</tr>
+<tr class="even">
+<td align="center">4</td>
+<td align="center">A</td>
+<td align="center">Treated</td>
+<td align="center">0.9242701</td>
+</tr>
+<tr class="odd">
+<td align="center">5</td>
+<td align="center">A</td>
+<td align="center">Treated</td>
+<td align="center">0.2698222</td>
+</tr>
+<tr class="even">
+<td align="center">6</td>
+<td align="center">A</td>
+<td align="center">Treated</td>
+<td align="center">0.5106555</td>
+</tr>
+<tr class="odd">
+<td align="center">7</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.7663376</td>
+</tr>
+<tr class="even">
+<td align="center">8</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.4363603</td>
+</tr>
+<tr class="odd">
+<td align="center">9</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.7123910</td>
+</tr>
+<tr class="even">
+<td align="center">10</td>
+<td align="center">B</td>
+<td align="center">Treated</td>
+<td align="center">0.9598774</td>
+</tr>
+<tr class="odd">
+<td align="center">11</td>
+<td align="center">B</td>
+<td align="center">Treated</td>
+<td align="center">0.4365215</td>
+</tr>
+<tr class="even">
+<td align="center">12</td>
+<td align="center">B</td>
+<td align="center">Treated</td>
+<td align="center">0.7577469</td>
+</tr>
+</tbody>
+</table>
+<p>It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in <a href="http://jmhulbert.github.io/r/s3">Session 3</a> to summarize data and calculate means based on groups or other explanatory variables, etc.</p>
+<p>Now that our data is ready for R, we need to install R and RStudio.</p>
+</div>
+<div id="install-r-and-rstudio" class="section level2">
+<h2>Install R and RStudio</h2>
+<ul>
+<li>Note that <a href="https://www.rstudio.com/">RStudio</a> requires <a href="https://www.r-project.org/">R</a> to be installed.
+<ul>
+<li>First download and install R: <a href="https://ftp.osuosl.org/pub/cran/" class="uri">https://ftp.osuosl.org/pub/cran/</a></li>
+<li>Then download and install RStudio: <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a></li>
+</ul></li>
+</ul>
+<p>It is best if we have the latest versions of R (3.5.2) and RStudio (1.1.463).</p>
+<p>To find your RStudio version go to the menu: <em>RStudio &gt;&gt; About RStudio</em></p>
+<p>Run the below code to find your R version.</p>
+<pre class="r"><code>getRversion()</code></pre>
+<p>or</p>
+<pre class="r"><code>sessionInfo()</code></pre>
+</div>
+<div id="rstudio-interface" class="section level2">
+<h2>RStudio interface</h2>
+<p>RStudio has four panes for organizing and analyzing data.</p>
+<ul>
+<li>RStudio Panes
+<ul>
+<li>Source
+<ul>
+<li>Used for creating and saving R source files (codes).</li>
+</ul></li>
+<li>Console
+<ul>
+<li>Runs commands and displays history of commands run in session.</li>
+</ul></li>
+<li>Environment, Plots, Help, Viewer Tabs
+<ul>
+<li>The Environment tab represents the data that has been read into R.</li>
+<li>The Plots tab displays plots generated from source or console.
+<ul>
+<li>Note that you may need to resize or expand the plots pane for some plots.</li>
+</ul></li>
+<li>The Help tab will show you the help documentation.
+<ul>
+<li>For example, run the command: ?stats</li>
+</ul></li>
+</ul></li>
+<li>History, Files, Connections, Packages
+<ul>
+<li>The Files tab displays files in the project directory (see below).
+<ul>
+<li>Note that it is still sometimes easier to manage files from explorer/finder</li>
+</ul></li>
+<li>The Packages tab lists the packages that have been installed on your computer. A checkmark indicates the packages that are currently loaded.</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Rearrange panes - You can rearrange the panes to your preference in</p>
+<p><em>RStudio &gt;&gt; Preferences &gt;&gt; Pane Layout</em></p>
+<p>Appearance - You can also change the appearance to various themes or dark modes in</p>
+<p><em>RStudio &gt;&gt; Preferences &gt;&gt; Appearance</em></p>
+<p>I also like to enable ‘soft wrap R source files’ so that the lines of code wrap within your window.</p>
+<p><em>RStudio &gt;&gt; Preferences &gt;&gt; Code</em></p>
+</div>
+<div id="packages" class="section level2">
+<h2>Packages</h2>
+<p>R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.</p>
+<p><a href="https://github.com/grunwaldlab/poppr"><em>PoppR</em></a> is an example of a popular package that was created by Zhian Kamvar and the Grünwald Lab.</p>
+<p>In general, we need to install packages before we can use them. In this workshop series, we will use the <em>Tidyverse</em> package. The <a href="https://www.tidyverse.org/">Tidyverse</a> is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions.</p>
+<p>We can install the package by running the code below:</p>
+<pre class="r"><code>install.packages(&quot;tidyverse&quot;)</code></pre>
+<p>Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package (see below) anytime you want to use it.</p>
+<p>Also, if you check the packages tab of your pane, you will see it installed ggplot2 and dplyr, and a few others.</p>
+</div>
+<div id="projects" class="section level2">
+<h2>Projects</h2>
+<p>Next we can get into one of the best features of RStudio, projects. Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory.</p>
+<p>I generally create a new project for each chapter or manuscript. Then I like to create these sub folders.</p>
+<ul>
+<li>Project Directory
+<ul>
+<li>Data</li>
+<li>Code</li>
+<li>Figures</li>
+</ul></li>
+</ul>
+<div id="set-working-directories" class="section level3">
+<h3>Set working directories</h3>
+<p>Defining a working directory is a critical step for making the most of projects and simplifying our workflow. A working directory essentially tells R where to look for and save your files. That way you can reference data without needing to type out the entire file path (e.g. C://Desktop/Files/R/LongDirectoryPath).</p>
+<p>It is recommended to set your project directory as your working directory. To do so, click on the file tab of the pane and click the ‘More’ button.</p>
+<p><em>Files (tab) &gt;&gt; More &gt;&gt; Set as Working Directory</em></p>
+<p>Alternatively we can use the following command.</p>
+<pre class="r"><code>setwd(&quot;&lt;folder containing our dataset&gt;&quot;)</code></pre>
+</div>
+<div id="create-r-script" class="section level3">
+<h3>Create R script</h3>
+<p>Ok, now that we have a working directory, lets create our first script.</p>
+<p><em>File (menu) &gt;&gt; New File &gt;&gt; R Script</em></p>
+<p>We can save this script so that we can come back to our analysis later. Note that everytime you reopen R you will have to rerun each line of code again to restore the files in the environment.</p>
+</div>
+</div>
+<div id="r-code-basics" class="section level2">
+<h2>R code basics</h2>
+<div id="run-code" class="section level4">
+<h4>Run Code</h4>
+<p>We can run code from the source file by highlighting it and clicking run in the top right. Altneratively, you can press Ctrl/Cmd + Enter to run the line that the cursor sits on.</p>
+</div>
+<div id="load-packages" class="section level4">
+<h4>Load Packages</h4>
+<p>Once a package is installed, we can load it into our R session as below</p>
+<pre class="r"><code>library(tidyverse)</code></pre>
+</div>
+<div id="importing-data" class="section level4">
+<h4>Importing data</h4>
+<p>There are a couple options to consider for importing data. For example, there are packages (e.g. <a href="https://readxl.tidyverse.org/">readxl</a>) that allow you to import .xls files. However, I recommend importing your data as .csv (R default) and keeping your original .xls untouched.</p>
+<p>We can save our excel file as a .csv by selecting ‘Save As’ in excel and saving it into our ‘data’ folder in our working directory.</p>
+<p>name &lt;- read.csv(‘./data/’FILENAME.csv’)</p>
+</div>
+<div id="basics" class="section level4">
+<h4>Basics</h4>
+<p>Make notes</p>
+<p>Use outline</p>
+<p>Reference column in data</p>
+<p>ls() list everything in environment</p>
+<p>rm() removes from environment</p>
+<p>str() as.factor() names() summary() levels(data$column)</p>
+<p>rename a column x<span class="math inline">\(y &lt;- x\)</span>z</p>
+<p>Change data from R</p>
+<p>library(stringr) arthropod<span class="math inline">\(Cultivar &lt;-str_replace_all(arthropod\)</span>Cultivar,“Jewel”,“Jewel”) arthropod<span class="math inline">\(Cultivar &lt;-str_replace_all(arthropod\)</span>Cultivar,“Star”,“Star”) arthropod<span class="math inline">\(Field &lt;-str_replace_all(arthropod\)</span>Field,“Open”,“Open”)</p>
+</div>
+</div>
+<div id="package-cheat-sheets" class="section level2">
+<h2>Package Cheat Sheets</h2>
+</div>
 
 
 

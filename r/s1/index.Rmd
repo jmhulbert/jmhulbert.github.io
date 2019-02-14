@@ -31,5 +31,181 @@ library(knitr)
 ```
 
 
-A guide for our session will be added to this space on the day of our session. Please check back then. 
+## Introduction
+ 
+The purpose of this page is to provide additional information for the first session of our RStudio and R packages workshop series. It is not designed as a stand alone resource, but rather to compliment our session.
+
+
+## Data organization
+
+We need to format our data so that R will read it correctly. 
+
+Our data should be set up as a rectangle with observations (samples) in rows and variables (treatment groups, results, etc.) in columns. Below is an example:
+
+```{r echo=FALSE}
+df <- data.frame(Sample = 1:12,Trial = c('A','A','A','A','A','A','B','B','B','B','B','B'),Treatment = rep(c('Control','Control','Control','Treated','Treated','Treated'),2),Result = runif(12))
+knitr::kable(df,align='c')
+```
+
+It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in [Session 3](http://jmhulbert.github.io/r/s3) to summarize data and calculate means based on groups or other explanatory variables, etc. 
+
+Now that our data is ready for R, we need to install R and RStudio.
+
+## Install R and RStudio
+* Note that [RStudio](https://www.rstudio.com/) requires [R](https://www.r-project.org/) to be installed.
+    + First download and install R: https://ftp.osuosl.org/pub/cran/
+    + Then download and install RStudio: https://www.rstudio.com/products/rstudio/download/#download
+
+It is best if we have the latest versions of R (3.5.2) and RStudio (1.1.463). 
+
+To find your RStudio version go to the menu: *RStudio >> About RStudio*
+
+Run the below code to find your R version. 
+
+```{r eval=FALSE}
+getRversion()
+```
+
+or
+
+```{r eval=FALSE}
+sessionInfo()
+```
+
+## RStudio interface
+
+RStudio has four panes for organizing and analyzing data.
+
+* RStudio Panes
+    + Source
+        + Used for creating and saving R source files (codes). 
+    + Console
+        + Runs commands and displays history of commands run in session. 
+    + Environment, Plots, Help, Viewer Tabs
+        + The Environment tab represents the data that has been read into R.
+        + The Plots tab displays plots generated from source or console.
+            + Note that you may need to resize or expand the plots pane for some plots.
+        + The Help tab will show you the help documentation. 
+            + For example, run the command: ?stats
+    + History, Files, Connections, Packages
+        + The Files tab displays files in the project directory (see below).
+            + Note that it is still sometimes easier to manage files from explorer/finder
+        + The Packages tab lists the packages that have been installed on your computer. A checkmark indicates the packages that are currently loaded. 
+
+Rearrange panes - You can rearrange the panes to your preference in 
+
+*RStudio >> Preferences >> Pane Layout*
+
+Appearance - You can also change the appearance to various themes or dark modes in 
+
+*RStudio >> Preferences >> Appearance*
+
+I also like to enable 'soft wrap R source files' so that the lines of code wrap within your window. 
+
+*RStudio >> Preferences >> Code*
+
+## Packages
+
+R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.
+
+[*PoppR*](https://github.com/grunwaldlab/poppr) is an example of a popular package that was created by Zhian Kamvar and the Grünwald Lab.
+
+In general, we need to install packages before we can use them. In this workshop series, we will use the *Tidyverse* package. The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions. 
+
+We can install the package by running the code below:
+
+```{r eval=FALSE}
+install.packages("tidyverse")
+```
+
+Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package (see below) anytime you want to use it.
+
+Also, if you check the packages tab of your pane, you will see it installed ggplot2 and dplyr, and a few others. 
+
+## Projects
+
+Next we can get into one of the best features of RStudio, projects. Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory. 
+
+I generally create a new project for each chapter or manuscript. Then I like to create these sub folders. 
+
+* Project Directory
+    + Data
+    + Code
+    + Figures
+
+### Set working directories
+
+Defining a working directory is a critical step for making the most of projects and simplifying our workflow. A working directory essentially tells R where to look for and save your files. That way you can reference data without needing to type out the entire file path (e.g. C://Desktop/Files/R/LongDirectoryPath). 
+
+
+It is recommended to set your project directory as your working directory. To do so, click on the file tab of the pane and click the 'More' button. 
+
+*Files (tab) >> More >> Set as Working Directory*
+
+Alternatively we can use the following command.
+```{r eval=FALSE}
+setwd("<folder containing our dataset>")
+```
+
+### Create R script
+
+Ok, now that we have a working directory, lets create our first script. 
+
+*File (menu) >> New File >> R Script* 
+
+We can save this script so that we can come back to our analysis later. Note that everytime you reopen R you will have to rerun each line of code again to restore the files in the environment. 
+
+## R code basics
+
+#### Run Code
+
+We can run code from the source file by highlighting it and clicking run in the top right. Altneratively, you can press Ctrl/Cmd + Enter to run the line that the cursor sits on. 
+
+#### Load Packages
+
+Once a package is installed, we can load it into our R session as below
+```{r eval=FALSE}
+library(tidyverse)
+```
+
+#### Importing data
+
+There are a couple options to consider for importing data. For example, there are packages (e.g. [readxl](https://readxl.tidyverse.org/)) that allow you to import .xls files. However, I recommend importing your data as .csv (R default) and keeping your original .xls untouched. 
+
+We can save our excel file as a .csv by selecting 'Save As' in excel and saving it into our 'data' folder in our working directory. 
+
+name <- read.csv('./data/'FILENAME.csv')
+
+#### Basics
+
+Make notes
+
+Use outline
+
+Reference column in data
+
+ls() list everything in environment
+
+rm() removes from environment
+
+str()
+as.factor()
+names()
+summary()
+levels(data$column)
+
+rename a column
+x$y <- x$z
+
+Change data from R
+
+library(stringr)
+arthropod$Cultivar <-str_replace_all(arthropod$Cultivar,"Jewel ","Jewel")
+arthropod$Cultivar <-str_replace_all(arthropod$Cultivar,"Star ","Star")
+arthropod$Field <-str_replace_all(arthropod$Field,"Open ","Open")
+
+
+
+##Package Cheat Sheets
+
 
