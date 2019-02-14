@@ -174,38 +174,146 @@ There are a couple options to consider for importing data. For example, there ar
 
 We can save our excel file as a .csv by selecting 'Save As' in excel and saving it into our 'data' folder in our working directory. 
 
-name <- read.csv('./data/'FILENAME.csv')
+Lets download some data that we can use for this workshop series: [FABI Workshop Series >> Mock Data](http://jmhulbert.github.io/r/data)
+
+Now move the data to your working directory and add it to our environment using the below code.
+
+```{r eval=FALSE}
+#name <- read.csv('./data/'FILENAME.csv') 
+data <- read.csv('./data/Silver Tree Study.csv')
+```
+
+```{r include=FALSE}
+data <- read.csv("Silver Tree Study.csv")
+```
+
 
 #### Basics
 
-Make notes
+##### Make notes
+R ignores code that starts with '#'. Therefore, you can add notes to your script by adding a hash (#)
+```{r}
+#this is a note
+This.is.a.variable <- "code"
+```
 
-Use outline
+##### Outline
+Another nice feature in RStudio is the ability to create an outline (psuedo table of contents). Click 'show document outline' in top right corner of the Script Pane.
 
-Reference column in data
+For example can use create a header by placing text between 4 hashes (####)
 
-ls() list everything in environment
+```{r}
+#### R will treat this as a header ####
+####**Sometimes I indent headers using asterisks**####
+```
 
-rm() removes from environment
+##### Assign variables 
+As we saw before you can assign variables by using <- or =. I prefer to use <- so that I do not confuse the = with == (more later)
 
-str()
-as.factor()
-names()
-summary()
-levels(data$column)
+```{r}
+#We can assign data to a dataframe as well
+df <- data.frame(Sample = 1:4,Treatment = rep(c('Control','Treated'),2),Result = runif(4))
+df
+```
 
-rename a column
-x$y <- x$z
+##### Reference Data Columns
 
-Change data from R
+Anytime we want to refer to a single column or variable we can do so using the $ symbol.
 
+```{r}
+df$Sample
+```
+
+```{r}
+summary(data$Treatment)
+```
+
+##### Function and Package Help
+
+We can reference help files directly in RStudio by proceeding code with ? symbols
+```{r}
+??tidyverse
+```
+
+
+```{r}
+?str
+```
+
+##### Structure
+
+We can look at teh structure of a dataset and check how R reads variables in a dataset using the str() function
+
+```{r}
+str(data)
+```
+
+Here we can see that R interprets our Plant.Number as an integer. But really we want R to read it as a factor. We can change how R reads individual columns by assigning variables and referencing columns.
+
+```{r}
+data$Plant.Number <- as.factor(data$Plant.Number)
+```
+
+Now we can check if the column is read as a factor with the str function
+
+```{r}
+str(data$Plant.Number)
+```
+
+This will be important later when we are trying to summarize data based on plants. It is also important if your samples are represented by numbers. 
+
+##### Helpful utilities
+
+There are a few helpful utilities to remind us what the structure of our dataset looks like.
+
+For example, the head() function is nice for reminding us what the data looks like, it displays the top few rows.
+```{r}
+head(data)
+```
+
+Similarly, I always struggle to remember the names/titles of columns or I forget exactly how I spelled/capitalized it. For this reminder we can use them names() function.
+
+```{r}
+names(data)
+```
+
+
+Another helpful function is the levels() function, which shows us the different levels (groups) in a column. 
+
+```{r}
+levels(data$Treatment)
+```
+
+Finally, another powerful function is the summary() function, which will actually count the number of observations.
+
+```{r}
+summary(data$Treatment)
+```
+
+
+### Cleaning Data
+
+In most cases, it is easiest to change misspelt observations and clean our data in excel using the 'Find and replace' functions. However, it is safer to do it in R, because it is easy to make mistakes in Excel. 
+
+For example, if you have a lot of levels because it was misspelt a few times, you can use the stringr package to change them with the below code.
+
+```{r}
 library(stringr)
-arthropod$Cultivar <-str_replace_all(arthropod$Cultivar,"Jewel ","Jewel")
-arthropod$Cultivar <-str_replace_all(arthropod$Cultivar,"Star ","Star")
-arthropod$Field <-str_replace_all(arthropod$Field,"Open ","Open")
+data$Species <-str_replace_all(data$Species,"Indigenous Pathogen","P. multivora")
+```
 
+Note that if you make changes to the excel file, you will have to import it to your R environment. You can do so by simply going back to the top and running the code again. 
 
+We will learn more about cleaning our data in the [Session 3 - Introduction to Dyplr](http://jmhulbert.github.io/r/s3). There we will learn to manipulate, transform, and summarize our data. 
 
 ##Package Cheat Sheets
 
+RStudio has produced many 'cheat sheets' for various packages that are super helpful. Each package has many functions and it is impossible to remember them all. Therefore, I recommend downloading the cheat sheets for the packages listed below at least.
 
+* Packages
+    + [ggplot](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+    + [dplyr](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+    + [stringr](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
+    + [Rmarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+
+More cheatsheets are available at:https://www.rstudio.com/resources/cheatsheets/
