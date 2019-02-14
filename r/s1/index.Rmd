@@ -198,7 +198,7 @@ This.is.a.variable <- "code"
 ```
 
 ##### Outline
-Another nice feature in RStudio is the ability to create an outline (psuedo table of contents). Click 'show document outline' in top right corner of the Script Pane.
+Another nice feature in RStudio is the ability to create an outline. Click 'show document outline' in top right corner of the Script Pane.
 
 For example can use create a header by placing text between 4 hashes (####)
 
@@ -208,7 +208,7 @@ For example can use create a header by placing text between 4 hashes (####)
 ```
 
 ##### Assign variables 
-As we saw before you can assign variables by using <- or =. I prefer to use <- so that I do not confuse the = with == (more later)
+You can assign variables by using <- or =. I prefer to use <- so that I do not confuse the = with == (more later)
 
 ```{r}
 #We can assign data to a dataframe as well
@@ -218,7 +218,7 @@ df
 
 ##### Reference Data Columns
 
-Anytime we want to refer to a single column or variable we can do so using the $ symbol.
+We can refer to a single column or variable using the $ symbol.
 
 ```{r}
 df$Sample
@@ -242,7 +242,7 @@ We can reference help files directly in RStudio by proceeding code with ? symbol
 
 ##### Structure
 
-We can look at teh structure of a dataset and check how R reads variables in a dataset using the str() function
+We can look at the structure of a dataset and check how R reads variables in a dataset using the str() function
 
 ```{r}
 str(data)
@@ -293,9 +293,9 @@ summary(data$Treatment)
 
 ### Cleaning Data
 
-In most cases, it is easiest to change misspelt observations and clean our data in excel using the 'Find and replace' functions. However, it is safer to do it in R, because it is easy to make mistakes in Excel. 
+In most cases, it is easiest to change incorrectly spelt observations and clean our data in excel using the 'Find and replace' functions. However, it is safer to do it in R, because it is easy to make mistakes in Excel. 
 
-For example, if you have a lot of levels because it was misspelt a few times, you can use the stringr package to change them with the below code.
+For example, if you have a lot of levels because it was incorrectly spelt a few times, you can use the stringr package to change them with the below code.
 
 ```{r}
 library(stringr)
