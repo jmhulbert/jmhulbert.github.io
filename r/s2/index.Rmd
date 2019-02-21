@@ -19,62 +19,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ```{r include=FALSE}
 library(knitr)
 ```
 
 ## Introduction
 
-More information will be added soon
+Welcome to the second session of our workshop series. The purpose of this page is to provide a guide through the subjects we will cover. In this session we will introduce a powerful, highly customizable, and widely used package for visulizing data, ggplot2.
 
-```{r include=FALSE}
-#Italics
-#geom_text
-#facet_wraps
-```
-
-
-
-```{r}
-##Rwksp Session 2 - ggplot2###
-
-##1. Load Packages####
-library(tidyverse)
-
-##2. Index Data####
-Forest_data <-read.csv("Rwksp Forest Data.csv")
-
-##3. Check & Adjust Data####
-str(Forest_data)
-names(Forest_data)
-summary(Forest_data)
-##4. Exploratory Plots####
-
-#_a. Bar plot####
-ggplot(data=Forest_data)+geom_bar(mapping=aes(x=Species)) +coord_flip()
-
-#_b. Histogram for continuous data####
-ggplot(data=Forest_data)+geom_bar(mapping=aes(x=Diameter))
-ggplot(data=Forest_data)+geom_freqpoly(mapping=aes(x=Diameter,color=Species))
-
-#_c. Short####
-ggplot(Forest_data)+geom_bar(aes(x=Diameter))
-
-#_c. Labels####
-
-ggplot(data=Forest_data)+geom_freqpoly(mapping=aes(x=Diameter,color=Species))+labs(title="Southern Afrotemperate Forest Species Abundance",x="Diameter",y="Number of Trees")
-
-##5. Subsetting####
-Podo <- subset(Forest_data,Forest_data$Species=="Podocarups latifolius")
-
-levels(Podo$Plot.ID)
-Plot1 <-subset(Forest_data,Forest_data$Plot.ID=="bgb14b5429")
-
-ggplot(Plot1,aes(Year,Diameter,color=Species,linetype=Species))+geom_smooth(method=lm)
-#ggplot(Podo,aes(Year,Diameter))+geom_smooth(method=lm)
-
-##6. Facet Wrapping####
-Forest_data$Year <-as.factor(Forest_data$Year)
-ggplot(Podo,aes(Year,Diameter,col=Bioregion))+geom_boxplot() +facet_wrap(~Aspect)
-```
-
+More information coming soon

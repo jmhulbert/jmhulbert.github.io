@@ -65,3 +65,23 @@ or
 ```{r eval=FALSE}
 sessionInfo()
 ```
+
+## Install Packages
+
+R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.
+
+[*PoppR*](https://github.com/grunwaldlab/poppr) is an example of a popular package that was created by Zhian Kamvar and the Grünwald Lab.
+
+In general, we need to install packages before we can use them. In this workshop series, we will use the *Tidyverse* package. The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions. 
+
+We can install the package by running the code below:
+
+```{r eval=FALSE}
+install.packages("tidyverse")
+```
+
+Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package anytime you want to use it.
+
+Also, if you check the packages tab of your pane, you will see it installed ggplot2 and dplyr, and a few others. 
+
+

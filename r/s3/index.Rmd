@@ -21,7 +21,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r include=FALSE}
 library(knitr)
+
+#recode
+
+#Regeneration.Summary <- Regeneration %>% mutate(Focal.Tree.Regeneration.Present = recode(Focal.Tree.Regeneration.Present, N="Absent", Y="Present")) %>% group_by(Forest, Focal.Tree.Species, Focal.Tree.Regeneration.Present) %>% summarize(n=n())
 ```
+
+
 
 ## Introduction
 

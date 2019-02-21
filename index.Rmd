@@ -776,7 +776,7 @@
 <p>2019</p>
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >Rstudio and R package workshop series</a>, <em>Introduction to R and RStudio</em></p>
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to R and RStudio</em></p>
 </td>
 </tr>
 <tr>
