@@ -159,7 +159,10 @@ Ok, we had 821 observations of plants in the drought treatment, and 901 observat
 
 ## Session 2 Information
 
-### Introduction to ggplot2
+### Part 1
+
+
+#### Introduction to ggplot2
 
 ggplot is a package that is included in the tidyverse. It was developed specifically for visualizing data so it is pretty powerful and highly customizable. 
 
@@ -191,7 +194,7 @@ ggplot(df,aes(x-variable, y-variable, other aesthetics))
 
 Then we can add + geom_col() or +geom_boxplot() depending on which type of plot we want. 
 
-### Data Visualization
+#### Data Visualization
 
 #### One Variable Plots
 
@@ -474,46 +477,191 @@ ggplot(data,aes(Days.after.inoculation,Photosynthesis,fill=Species))+geom_boxplo
 
 Ok, things are getting very complex. 
 
-## Session 3 
 
-* There are a few things that we don't have time for in this session but we can include in [Session 3](http://jmhulbert.github.io/r/s3). 
-    + Labels
-    + Add Text to plots
-    + Change colors
-    + Themes
-    + Italics
-    + ggsave
-    
-Next time!
+### Part 2
+
+#### Part 1 Recap
+
+Remember that we went through examples of plots following the structure of the [ggplot cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf), first plotting one *continuous* variable, then moving to two variables (one *discrete* and one *continuous*)
+
+##### One Variable Plots
 
 
+###### Continuous Data
+
+Remember that we identified a mistake in the data. The plot below has an enormous outlier. 
+
+```{r}
+ggplot(data,aes(Photosynthesis))+geom_histogram() #note that this is only a one variable plot (only x, not x and y). 
+```
+
+Then remember we filtered out the outlier from our data using **dplyr**
+
+```{r}
+data <- data %>% filter(Photosynthesis<300) # we will go over the structure of this after our Session 2 recap. 
+```
+
+Here we resaved 'data' as a new data.frame that was filtered. Alternatively we could have saved it as a new variable, but I try not to rename things as much as I can (we will see why later when we have a bunch of dataframes in our environment).
+
+```{r eval=FALSE}
+data.filtered <-data %>% filter(Photosynthesis<300) #same as above, just demonstrating that could rename it something else.
 ```
 
 
-```{r eval=FALSE, include=FALSE}
+##### Two Variable Plots
 
-#Add text
+###### Discrete x, Continous y
 
-#Labels####
+####### Boxplots
 
-ggplot(data=Forest_data)+geom_freqpoly(mapping=aes(x=Diameter,color=Species))+labs(title="Southern Afrotemperate Forest Species Abundance",x="Diameter",y="Number of Trees")
+Boxplots are commonly used to show data distributions between groups. 
 
-# colors
+```{r}
+ggplot(data,aes(Species,Photosynthesis,fill=Treatment))+geom_boxplot(position="dodge") +coord_flip()
+```
 
-# Themes
-
-# background, text size, italics
-
-# ggsave
+Remember that we are interested in how photosynthesis changed over time (measured by days after inoculation) because the inoculated plant should be the exact same as controls at start of experiment. 
 
 
+```{r}
+data$Days.after.inoculation.factored <- as.factor(data$Days.after.inoculation) #this time I created a new column rather than save over the other column.
+```
 
+```{r}
+ggplot(data,aes(Days.after.inoculation.factored,Photosynthesis,fill=Species))+geom_boxplot(position="dodge")+facet_wrap(~Treatment,ncol=1)
+```
+
+
+###### Continuous x, Continuous y
+
+Lets look at the data if we keep 'Days.after.inoculation' as an integer rather than a factor. Thus, we are plotting a continuous variable. 
+```{r}
+data$Days.after.inoculation <- as.numeric(data$Days.after.inoculation)
+```
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm)
+```
+
+#### ggplot2 Extras
+##### Labels
+
+There were a few examples that we didn't get to last week that we can go through now quickly. 
+
+First, lets customize the labels of our plots. Suppose we want our x and y labels to be cleaner and more accurate. 
+
+We can add custom labels to our plots using the 'labs' command
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm) +labs(x="Days after inoculation",y=expression(Phyotosnytheic~Response~(µmol~m^{-2}~s^{-1}))) #note the crazy notation for adding superscripts
+```
+
+##### Titles
+
+We can also add a title using the 'labs' command
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm) +labs(x="Days after inoculation",y="Photosnthesis",title="Photosnythetic Response")
+```
+
+Note that ggplot left adjust titles (don't ask me why). To fix this we add a theme command
+
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm) +labs(x="Days after inoculation",y="Photosynthesis",title="Photosnythetic Response")+theme(plot.title = element_text(hjust = 0.5))
+```
+
+
+##### Italics
+
+Similarly, if we want to add italics to an element, we can add the 'element_text(face="italic") command.
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm) +labs(x="Days after inoculation",y="Photosnthesis",title="Photosnythetic Response") +theme(axis.text.y=element_text(face="italic"), plot.title = element_text(hjust = 0.5,face="italic")) #notice we added italics to the y axis text and the title in this example
+```
+
+
+##### Themes
+
+Themes can also be used to change the basic layout (e.g. background color) of the plot.
+
+Here we can remove the grey background by adding another theme component. 
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm) +labs(x="Days after inoculation",y="Photosynthesis",title="Photosnythetic Response")+theme(plot.title = element_text(hjust = 0.5)) +theme_bw()
+```
+
+There are more theme options listed in the [ggplot cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf). 
+
+
+##### Colors
+
+The commands for changing the colors vary depending on the type of plot you're creating. For the best results, check out the ggplot2 cheatsheet. In general the command can be summarized as 'scale_aes_colortype()'.
+
+For our plot above we use the color and linetype aesthetics, therefore we can use scale_color_discrete()
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,linetype=Treatment,color=Species))+geom_smooth(method=lm) +labs(x="Days after inoculation",y="Photosynthesis",title="Photosnythetic Response")+theme(plot.title = element_text(hjust = 0.5)) +theme_bw() +scale_color_brewer(palette="Reds")
+```
+
+We can also indicate that we want to create a black and white/ grayscale plot with 'scale_x_grey()'
+
+
+```{r}
+ggplot(data,aes(Species,Photosynthesis,fill=Treatment))+geom_boxplot(position="dodge") +coord_flip() +theme_bw()+scale_fill_grey()
+```
+
+##### Add Text
+
+> Warning: below is a super messy example. For a better example, check the geom_text section of [Session 3](http://jmhulbert.github.io/r/s3)
+
+
+Suppose we want to add text to a plot. Perhaps we want to see which plant a given point our plot is. For this we can use the geom_text command. 
+
+```{r}
+ggplot(data,aes(Species,Photosynthesis,color=as.factor(Trial)))+geom_point(position="jitter") +coord_flip()+facet_wrap(~Treatment) +theme_bw()+guides(color=FALSE)
+```
+
+In the below example, we tell R to indicate the plant number at each point. 
+
+```{r}
+ggplot(data,aes(Species,Photosynthesis,color=as.factor(Trial)))+geom_point(position="jitter") +coord_flip()+facet_wrap(~Treatment) +theme_bw()+guides(color=FALSE)+geom_text(aes(label=Plant.Number),position="jitter")
+```
+
+Ok that is super messy, but we will come back to a better example of this after we summarize some of the data in [Session 3](http://jmhulbertgithub.io/r/s3).
+
+
+##### ggsave
+
+Exporting plots from the plot pane of R studio is certainly the easiest, but the journal you're submitting to may want higher resolution, or you may want to control the size of the text and the spacing. 
+
+Therefore, the ggsave command is helpful, especially when we want to save multiple plots with the same themes, font, font size, etc.). 
+
+First save the plot as an object.
+
+```{r}
+plot <- ggplot(data,aes(Species,Photosynthesis,fill=Treatment))+geom_boxplot(position="dodge") +coord_flip()+scale_fill_grey()
+```
+
+Then we can save our themes criteria as objects.
+
+```{r}
+Space <- theme(axis.title.x=element_text(margin=margin(15,0,0,15)),axis.title.y=element_text(margin=margin(0,15,0,0))) # adds space between x axis text and x axis title
+
+Theme <-  theme(axis.title=element_text(size=12),axis.text = element_text(size=12),strip.text.x=element_text(size=12),axis.text.y = element_text(face="italic"),plot.title = element_text(hjust = 0.5)) +theme_bw()
 
 ```
 
-```{r include=FALSE}
-#Italics
-#geom_text
-#facet_wraps
+Then we can add them together
+
+```{r}
+Plot.for.print <- plot + Space + Theme
 ```
+
+And then save them into our working directory 
+
+```{r eval=FALSE}
+ggsave(filename='Pretty Plot.png', plot = Plot.for.print, width = 225, height = 110,unit="mm",dpi = 300, limitsize = TRUE) # note that you can specify any directory or folder you want to save it by typing the whole path (e.g. './figures/pretty plot.png'). 
+```
+
 
