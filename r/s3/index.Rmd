@@ -24,11 +24,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-```{r include=FALSE}
-library(knitr)
-```
-
 [FABI Workshop Series >> Home](http://jmhulbert.github.io/r)
 [FABI Workshop Series >> Mock Data](http://jmhulbert.github.io/r/data)
 
@@ -194,7 +189,9 @@ data.filtered <- data.filtered %>% mutate(Species = recode(Species, "Indigenous 
 levels(data.filtered$Species)
 ```
 
-Here we used the 'mutate' command. This command is used to create a new column. However, in the above code, we called the column the same name, thereby just replacing the other column. 
+Here we used the 'mutate' command. This command is used to create a new column. However, in the above code, we called the column the same name (Species), thereby just replacing the other column.
+
+Check out ?mutate for more information. 
 
 ### Summary Stats
 
@@ -207,16 +204,21 @@ Before we calculate the means we need to introduce the group_by() command.
 We can tell R which groups we want to calculate the means for using the group_by() command. For example, if we want to group the plants by treatment we will use:
 
 ```{r eval=FALSE}
-data.filtered.summary <- data.filtered %>% group_by(treatment) 
+data.filtered.summary <- data.filtered %>% group_by(treatment) #note this code probably doesn't do anything 
 ```
 
 #### Summarize()
 
 Now we can tell R we want to calculate means for the groups (summarize).
 
-```{r eval=FALSE}
-data.filtered.summary <- data.filtered %>% group_by(treatment) %>% summarize(mean=mean(Photosynthesis))
+```{r}
+data.filtered.summary <- data.filtered %>% group_by(Treatment) %>% summarize(mean=mean(Photosynthesis))
 ```
+
+```{r echo=FALSE}
+kable(data.filtered.summary)
+```
+
 
 #### Sample Sizes
 
@@ -340,13 +342,13 @@ note that we have to do the same position_dodge command for the geomtext, otherw
 
 ```{r}
 
-ggplot(Last.Week,aes(as.factor(Days.after.inoculation),mean,color=Species))+geom_point(position = position_dodge(width = 1))+facet_wrap(~Treatment,nrow=2)+geom_errorbar(aes(ymin=lowse,ymax=highse),position = position_dodge(width = 1)) +labs(x= "Days after inoculation",y="Mean Photosynthesis") +theme_bw()+ theme(legend.text = element_text(face = "italic"))+geom_text(aes(label=n),position=position_dodge(width=1))
+ggplot(Last.Week,aes(Days.after.inoculation,mean,color=Species))+geom_point(position = position_dodge(width = 1))+facet_wrap(~Treatment,nrow=2)+geom_errorbar(aes(ymin=lowse,ymax=highse),position = position_dodge(width = 1)) +labs(x= "Days after inoculation",y="Mean Photosynthesis") +theme_bw()+ theme(legend.text = element_text(face = "italic"))+geom_text(aes(label=n),position=position_dodge(width=1))
 ```
 
 Note that we would need to play with this a bit more to get the text to sit in the right place. Ultimately we probably would rather make this plot below
 
 ```{r}
-ggplot(Last.Week,aes(Species,mean,color=Treatment))+geom_point()+facet_wrap(~Days.after.inoculation,nrow=2)+geom_errorbar(aes(ymin=lowse,ymax=highse)) +labs(x= "Days after inoculation",y="Mean Photosynthesis") +theme_bw()+ theme(legend.text = element_text(face = "italic"))+geom_text(aes(label=n),nudge_x=0.1)
+ggplot(Last.Week,aes(Species,mean,color=Treatment))+geom_point()+facet_wrap(~Days.after.inoculation,nrow=2)+geom_errorbar(aes(ymin=lowse,ymax=highse)) +labs(x= "Days after inoculation",y="Mean Photosynthesis") +theme_bw()+ theme(legend.text = element_text(face = "italic"))+geom_text(aes(label=n),nudge_x=0.1) #note we used the nudge_x command to nudge the text a small distance from the point
 ```
 
 Neat, looks like some interesting things are going on. Not quite as clear as we hoped, but it will make for some fun analyses with 'repeated anova'. 
