@@ -216,7 +216,7 @@ data.filtered.summary <- data.filtered %>% group_by(Treatment) %>% summarize(mea
 ```
 
 ```{r echo=FALSE}
-kable(data.filtered.summary)
+kable(data.filtered.summary,align="c")
 ```
 
 
