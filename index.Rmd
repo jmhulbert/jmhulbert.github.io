@@ -3,7 +3,7 @@
 <tbody>
 <tr>
 <td width="450">
-<p>Forestry and Agricultural Biotechnology Institute, University of Pretoria, Dept. of Plant &amp; Soil Science, Private Bag X20, Hatfield, Pretoria 0002, South Africa.</p>
+<p>Forestry and Agricultural Biotechnology Institute, <br> Dept. of Plant &amp; Soil Science, University of Pretoria, <br> Private Bag X20, Hatfield, Pretoria 0002, South Africa.</p>
 </td> 
 <td width="442">
 <p align="right">+27-63-996-1135 (SA) <br> 1-541-908-5129 (USA) <br> <a href="mailto:joey.hulbert@fabi.up.ac.za">joey.hulbert@fabi.up.ac.za</a></p>
@@ -693,7 +693,7 @@
 <p>2018</p>
 </td>
 <td width="892">
-<p>South African Citizen Science Project Fair,International Citizen Science Day, Old Mutual Conference Center, Kirstenbosch National Botanical Garden, <em>Cape Citizen Science.</em></p>
+<p>South African Citizen Science Project Fair, International Citizen Science Day, Old Mutual Conference Center, Kirstenbosch National Botanical Garden, <em>Cape Citizen Science.</em></p>
 </td>
 </tr>
 <tr>
@@ -1068,7 +1068,7 @@
 <p>2013</p>
 </td>
 <td width="892">
-<p>Discovery Days, Oregon State University.</p>
+<p>Spring Discovery Days, Oregon State University.</p>
 </td>
 </tr>
 <tr>
@@ -1076,7 +1076,7 @@
 <p>2013</p>
 </td>
 <td width="892">
-<p>Discovery Days, Oregon State University.</p>
+<p>Fall Discovery Days, Oregon State University.</p>
 </td>
 </tr>
 </tbody>
@@ -1819,7 +1819,7 @@
 <p>Director, Centre of <em>Phytophthora</em> Science and Management</p>
 <p>Murdoch University</p>
 <p>Murdoch, Western Australia 6150</p>
-<p>tburgess@murdoch.edu.au</p>
+<p>t.burgess@murdoch.edu.au</p>
 <p>&nbsp;</p>
 <p><u>MSc Supervisor</u></p>
 <p>Everett M. Hansen</p>
