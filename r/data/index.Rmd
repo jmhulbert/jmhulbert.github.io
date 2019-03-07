@@ -58,3 +58,9 @@ We measured the physiological response of the plants using some fancy equipment.
     + [.xlsx version](./Silver Tree Study.xlsx)
 
 
+# Vegan Session Data
+
+ * Below is a sample dataset that we will use for [Session 4](http://jmhulbert.github.io/r/s4).
+    + [Forest Understory Species.csv](./Forest Understory Species.csv)
+
+
