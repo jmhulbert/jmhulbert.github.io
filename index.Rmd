@@ -73,7 +73,7 @@
 </table>
 <p><strong>&nbsp;</strong></p>
 <p><strong>PUBLICATIONS</strong></p>
-<p><strong>Hulbert JM</strong>, Turner SC, Scott SL. (in press). Challenges and solutions to establishing and sustaining citizen science projects in South Africa. </p>
+<p><strong>Hulbert JM</strong>, Turner SC, Scott SL. (in press). Challenges and solutions to establishing and sustaining citizen science projects in South Africa, <em>South African Journal of Science</em>.</p>
 <p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (submitted). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
 <p><strong>Hulbert JM</strong> (in press). Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>.</p>
 <p>Ryan SF and 41 others, 2018. The role of citizen science in addressing grand challenges in food and agriculture research, <em>Proceedings of the Royal Society B</em>. Vol. 285, Issue 1891. DOI: 710.1098/rspb.2018.1977. </p>
@@ -1798,28 +1798,28 @@
 <p><strong>REFERENCES</strong></p>
 <p><u>Primary PhD Supervisor</u></p>
 <p>Mike J. Wingfield</p>
+<p> Advisor to the Executive, University of Pretoria </p>
 <p>President, International Union of Forest Research Organizations</p>
 <p>Founding Director, Forestry and Agricultural Biotechnology Institute</p>
 <p>University of Pretoria</p>
 <p>Pretoria, South Africa 0002</p>
-<p>Mike.wingfield@up.ac.za</p>
-<p>&nbsp;</p>
-<p><u>PhD Co-Supervisor</u></p>
-<p>Francois Roets</p>
-<p>Senior Lecturer</p>
-<p>Dept. of Conservation Ecology and Entomology</p>
-<p>Stellenbosch University</p>
-<p>Stellenbosch, South Africa 7600</p>
-<p>fr@sun.ac.za</p>
+<p>mike.wingfield@up.ac.za</p>
 <p>&nbsp;</p>
 <p><u>PhD Co-Supervisor</u></p>
 <p>Treena I. Burgess</p>
-<p>Leader, Environmental and Conservation Sciences</p>
-<p>Associate Professor, School of Veterinary and Life Sciences</p>
+<p>Interim Dean of Research, College of Science, Health, Engineering and Education</p>
+<p>Professor, Plant Biology</p>
 <p>Director, Centre of <em>Phytophthora</em> Science and Management</p>
 <p>Murdoch University</p>
 <p>Murdoch, Western Australia 6150</p>
 <p>t.burgess@murdoch.edu.au</p>
+<p>&nbsp;</p>
+<p><u>PhD Co-Supervisor</u></p>
+<p>Francois Roets</p>
+<p>Professor, Dept. of Conservation Ecology and Entomology</p>
+<p>Stellenbosch University</p>
+<p>Stellenbosch, South Africa 7600</p>
+<p>fr@sun.ac.za</p>
 <p>&nbsp;</p>
 <p><u>MSc Supervisor</u></p>
 <p>Everett M. Hansen</p>
