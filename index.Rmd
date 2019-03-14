@@ -1801,6 +1801,7 @@
 <p> Advisor to the Executive, University of Pretoria </p>
 <p>President, International Union of Forest Research Organizations</p>
 <p>Founding Director, Forestry and Agricultural Biotechnology Institute</p>
+<p>Professor, Department of Microbiology and Plant Pathology</p>
 <p>University of Pretoria</p>
 <p>Pretoria, South Africa 0002</p>
 <p>mike.wingfield@up.ac.za</p>
@@ -1816,7 +1817,7 @@
 <p>&nbsp;</p>
 <p><u>PhD Co-Supervisor</u></p>
 <p>Francois Roets</p>
-<p>Professor, Dept. of Conservation Ecology and Entomology</p>
+<p>Assistant Professor, Dept. of Conservation Ecology and Entomology</p>
 <p>Stellenbosch University</p>
 <p>Stellenbosch, South Africa 7600</p>
 <p>fr@sun.ac.za</p>

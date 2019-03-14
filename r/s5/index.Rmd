@@ -3,7 +3,12 @@ title: "FABI Session 5 - Introduction to R Markdown"
 subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
 author: "Joey Hulbert"
 date: "March 14, 2019"
-output: html_document
+output: 
+  html_document:
+    toc: TRUE 
+    toc_depth: 5
+    toc_float:
+      collapsed: FALSE
 ---
 <script>
     $(document).ready(function() {
@@ -19,10 +24,21 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+[FABI Workshop Series >> Home](http://jmhulbert.github.io/r)
+[FABI Workshop Series >> Mock Data](http://jmhulbert.github.io/r/data)
+
 ```{r include=FALSE}
 library(knitr)
 ```
 
 ## Introduction
 
-More information will be added soon
+Welcome to the 5th session. Today we will cover R Markdown.
+
+* Here are some critical links
+  + [R Markdown cheatsheet](https://content.cdntwrk.com/files/aT05NjI5MDcmdj0xJmlzc3VlTmFtZT1ybWFya2Rvd24tMi0wLWNoZWF0LXNoZWV0JmNtZD1kJnNpZz0xYTkwYWM1ZjUzMjVhZjRkYTFmOWFmYmM1ZTcwZjZiMw%253D%253D)
+  + [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+  
+  
+  
+
