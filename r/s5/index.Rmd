@@ -36,8 +36,8 @@ library(knitr)
 Welcome to the 5th session. Today we will cover R Markdown.
 
 * Here are some critical links
-  + [R Markdown cheatsheet](https://content.cdntwrk.com/files/aT05NjI5MDcmdj0xJmlzc3VlTmFtZT1ybWFya2Rvd24tMi0wLWNoZWF0LXNoZWV0JmNtZD1kJnNpZz0xYTkwYWM1ZjUzMjVhZjRkYTFmOWFmYmM1ZTcwZjZiMw%253D%253D)
-  + [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+    + [R Markdown cheatsheet](https://content.cdntwrk.com/files/aT05NjI5MDcmdj0xJmlzc3VlTmFtZT1ybWFya2Rvd24tMi0wLWNoZWF0LXNoZWV0JmNtZD1kJnNpZz0xYTkwYWM1ZjUzMjVhZjRkYTFmOWFmYmM1ZTcwZjZiMw%253D%253D)
+    + [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   
   
   
