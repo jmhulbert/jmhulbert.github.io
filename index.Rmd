@@ -429,8 +429,8 @@
 <p><strong>Hulbert JM</strong>. 2015. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, <em>Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management</em>, Stellenbosch, South Africa. Oral Presentation.</p>
 <p><em><u>North American Conferences</u></em></p>
 <p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. The Cape Town Hypothesis Test: Phytophthora in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Chemical treatment to sanitize <em>Phytophthora ramorum </em>colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
+<p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. The Cape Town Hypothesis Test: <em>Phytophthora</em> in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
+<p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Chemical treatment to sanitize <em>Phytophthora ramorum</em> colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
 <p><strong>Hulbert JM</strong>, Rosenberger R. 2014. Forest G.U.M.P. The Value of Graduate Undergraduate Mentorship Programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
 <p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Potential of using boron for mitigation of <em>Phytophthora ramorum </em>in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Kamvar Z. 2014. <em>Inspiration Dissemination</em>: Science Communication for College Students. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.</p>
@@ -771,6 +771,22 @@
 <p><em><u>Workshop Series Lectures</u></em></p>
 <table>
 <tbody>
+<tr>
+<td width="86">
+<p>2019</p>
+</td>
+<td width="892">
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to R Markdown.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2019</p>
+</td>
+<td width="892">
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to multivariate analysis with Vegan.</em></p>
+</td>
+</tr>
 <tr>
 <td width="86">
 <p>2019</p>

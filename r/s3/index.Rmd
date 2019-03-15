@@ -33,7 +33,6 @@ library(knitr)
 ```
 
 
-
 ## Introduction
 
 Welcome to the third session of our workshop series. The purpose of this page is to serve as a guide for the material we will cover during the session. We will learn to summarize and transform data using the [dplyr](https://dplyr.tidyverse.org/) package in our session today. 

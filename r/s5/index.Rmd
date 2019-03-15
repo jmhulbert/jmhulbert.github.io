@@ -25,6 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 [FABI Workshop Series >> Home](http://jmhulbert.github.io/r)
+
 [FABI Workshop Series >> Mock Data](http://jmhulbert.github.io/r/data)
 
 ```{r include=FALSE}
