@@ -28,7 +28,7 @@
 <p>2016-2019</p>
 </td>
 <td width="892">
-<p><strong>Affiliate Research Student</strong> Dept. of Conservation Ecology &amp; Entomology, Stellenbosch University, South Africa.</p>
+<p><strong>Affiliate Research Student</strong>, Dept. of Conservation Ecology &amp; Entomology, Stellenbosch University, South Africa.</p>
 </td>
 </tr>
 <tr>
@@ -722,6 +722,7 @@
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>TEACHING EXPERIENCE</strong></p>
 <p><em><u>Guest Lectures</u></em></p>
 <table>
@@ -1825,8 +1826,8 @@
 <p><u>PhD Co-Supervisor</u></p>
 <p>Treena I. Burgess</p>
 <p>Interim Dean of Research, College of Science, Health, Engineering and Education</p>
-<p>Professor, Plant Biology</p>
 <p>Director, Centre of <em>Phytophthora</em> Science and Management</p>
+<p>Professor, Plant Biology</p>
 <p>Murdoch University</p>
 <p>Murdoch, Western Australia 6150</p>
 <p>t.burgess@murdoch.edu.au</p>
@@ -1840,8 +1841,7 @@
 <p>&nbsp;</p>
 <p><u>MSc Supervisor</u></p>
 <p>Everett M. Hansen</p>
-<p>Professor Emeritus</p>
-<p>Dept. of Botany and Plant Pathology</p>
+<p>Professor Emeritus, Dept. of Botany and Plant Pathology</p>
 <p>Oregon State University</p>
 <p>Corvallis, Oregon, USA 97330</p>
 <p>hansene@oregonstate.ed</p>
