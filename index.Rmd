@@ -573,6 +573,14 @@
 <tbody>
 <tr>
 <td width="86">
+<p>2019</p>
+</td>
+<td width="892">
+<p>National Research Foundation, South African Agency for Science and Technology Advancement, FAMELAB Alumni Network Event <em>Public engagement with citizen science in South Africa.</em></p>
+</td>
+</tr>
+<tr>
+<td width="86">
 <p>2018</p>
 </td>
 <td width="892">
