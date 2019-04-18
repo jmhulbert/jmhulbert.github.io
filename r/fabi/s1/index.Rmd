@@ -1,0 +1,320 @@
+---
+title: "FABI Session 1 - Introduction to RStudio"
+subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
+author: "Joey Hulbert"
+date: "February 14, 2019"
+output: 
+  html_document:
+    css: custom.css
+    toc: TRUE 
+    toc_depth: 5
+    toc_float:
+      collapsed: TRUE
+---
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+    });
+</script>
+
+[FABI Workshop Series >> Home](http://jmhulbert.github.io/r/fabi/)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r include=FALSE}
+library(knitr)
+```
+
+
+## Introduction
+ 
+The purpose of this page is to provide additional information for the first session of our RStudio and R packages workshop series. It is not designed as a stand alone resource, but rather to compliment our session.
+
+
+## Data organization
+
+We need to format our data so that R will read it correctly. 
+
+Our data should be set up as a rectangle with observations (samples) in rows and variables (treatment groups, results, etc.) in columns. Below is an example:
+
+```{r echo=FALSE}
+df <- data.frame(Sample = 1:12,Trial = c('A','A','A','A','A','A','B','B','B','B','B','B'),Treatment = rep(c('Control','Control','Control','Treated','Treated','Treated'),2),Result = runif(12))
+knitr::kable(df,align='c')
+```
+
+It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in [Session 3](http://jmhulbert.github.io/r/fabi/s3) to summarize data and calculate means based on groups or other explanatory variables, etc. 
+
+Now that our data is ready for R, we need to install R and RStudio.
+
+## Install R and RStudio
+* Note that [RStudio](https://www.rstudio.com/) requires [R](https://www.r-project.org/) to be installed.
+    + First download and install R: https://ftp.osuosl.org/pub/cran/
+    + Then download and install RStudio: https://www.rstudio.com/products/rstudio/download/#download
+
+It is best if we have the latest versions of R (3.5.2) and RStudio (1.1.463). 
+
+To find your RStudio version go to the menu: *RStudio >> About RStudio*
+
+Run the below code to find your R version. 
+
+```{r eval=FALSE}
+getRversion()
+```
+
+or
+
+```{r eval=FALSE}
+sessionInfo()
+```
+
+## RStudio interface
+
+RStudio has four panes for organizing and analyzing data.
+
+* RStudio Panes
+    + Source
+        + Used for creating and saving R source files (codes). 
+    + Console
+        + Runs commands and displays history of commands run in session. 
+    + Environment, Plots, Help, Viewer Tabs
+        + The Environment tab represents the data that has been read into R.
+        + The Plots tab displays plots generated from source or console.
+            + Note that you may need to resize or expand the plots pane for some plots.
+        + The Help tab will show you the help documentation. 
+            + For example, run the command: ?stats
+    + History, Files, Connections, Packages
+        + The Files tab displays files in the project directory (see below).
+            + Note that it is still sometimes easier to manage files from explorer/finder
+        + The Packages tab lists the packages that have been installed on your computer. A checkmark indicates the packages that are currently loaded. 
+
+Rearrange panes - You can rearrange the panes to your preference in 
+
+*RStudio >> Preferences >> Pane Layout*
+
+Appearance - You can also change the appearance to various themes or dark modes in 
+
+*RStudio >> Preferences >> Appearance*
+
+I also like to enable 'soft wrap R source files' so that the lines of code wrap within your window. 
+
+*RStudio >> Preferences >> Code*
+
+## Packages
+
+R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.
+
+[*PoppR*](https://github.com/grunwaldlab/poppr) is an example of a popular package that was created by Zhian Kamvar and the Grünwald Lab.
+
+In general, we need to install packages before we can use them. In this workshop series, we will use the *Tidyverse* package. The [Tidyverse](https://www.tidyverse.org/) is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions. 
+
+We can install the package by running the code below:
+
+```{r eval=FALSE}
+install.packages("tidyverse")
+```
+
+Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package (see below) anytime you want to use it.
+
+Also, if you check the packages tab of your pane, you will see it installed ggplot2 and dplyr, and a few others. 
+
+## Projects
+
+Next we can get into one of the best features of RStudio, projects. Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory. 
+
+I generally create a new project for each chapter or manuscript. Then I like to create these sub folders. 
+
+* Project Directory
+    + Data
+    + Code
+    + Figures
+
+### Set working directories
+
+Defining a working directory is a critical step for making the most of projects and simplifying our workflow. A working directory essentially tells R where to look for and save your files. That way you can reference data without needing to type out the entire file path (e.g. C://Desktop/Files/R/LongDirectoryPath). 
+
+
+It is recommended to set your project directory as your working directory. To do so, click on the file tab of the pane and click the 'More' button. 
+
+*Files (tab) >> More >> Set as Working Directory*
+
+Alternatively we can use the following command.
+```{r eval=FALSE}
+setwd("<folder containing our dataset>")
+```
+
+### Create R script
+
+Ok, now that we have a working directory, lets create our first script. 
+
+*File (menu) >> New File >> R Script* 
+
+We can save this script so that we can come back to our analysis later. Note that everytime you reopen R you will have to rerun each line of code again to restore the files in the environment. 
+
+## R code basics
+
+#### Run Code
+
+We can run code from the source file by highlighting it and clicking run in the top right. Altneratively, you can press Ctrl/Cmd + Enter to run the line that the cursor sits on. 
+
+#### Load Packages
+
+Once a package is installed, we can load it into our R session as below
+```{r eval=FALSE}
+library(tidyverse)
+```
+
+#### Importing data
+
+There are a couple options to consider for importing data. For example, there are packages (e.g. [readxl](https://readxl.tidyverse.org/)) that allow you to import .xls files. However, I recommend importing your data as .csv (R default) and keeping your original .xls untouched. 
+
+We can save our excel file as a .csv by selecting 'Save As' in excel and saving it into our 'data' folder in our working directory. 
+
+Lets download some data that we can use for this workshop series: [FABI Workshop Series >> Mock Data](http://jmhulbert.github.io/r/fabi/data)
+
+Now move the data to your working directory and add it to our environment using the below code.
+
+```{r eval=FALSE}
+#name <- read.csv('./data/'FILENAME.csv') 
+data <- read.csv('./data/Silver Tree Study.csv')
+```
+
+```{r include=FALSE}
+data <- read.csv("Silver Tree Study.csv")
+```
+
+
+#### Basics
+
+##### Make notes
+R ignores code that starts with '#'. Therefore, you can add notes to your script by adding a hash (#)
+```{r}
+#this is a note
+This.is.a.variable <- "code"
+```
+
+##### Outline
+Another nice feature in RStudio is the ability to create an outline. Click 'show document outline' in top right corner of the Script Pane.
+
+For example can use create a header by placing text between 4 hashes (####)
+
+```{r}
+#### R will treat this as a header ####
+####**Sometimes I indent headers using asterisks**####
+```
+
+##### Assign variables 
+You can assign variables by using <- or =. I prefer to use <- so that I do not confuse the = with == (more later)
+
+```{r}
+#We can assign data to a dataframe as well
+df <- data.frame(Sample = 1:4,Treatment = rep(c('Control','Treated'),2),Result = runif(4))
+df
+```
+
+##### Reference Data Columns
+
+We can refer to a single column or variable using the $ symbol.
+
+```{r}
+df$Sample
+```
+
+```{r}
+summary(data$Treatment)
+```
+
+##### Function and Package Help
+
+We can reference help files directly in RStudio by proceeding code with ? symbols
+```{r}
+??tidyverse
+```
+
+
+```{r}
+?str
+```
+
+##### Structure
+
+We can look at the structure of a dataset and check how R reads variables in a dataset using the str() function
+
+```{r}
+str(data)
+```
+
+Here we can see that R interprets our Plant.Number as an integer. But really we want R to read it as a factor. We can change how R reads individual columns by assigning variables and referencing columns.
+
+```{r}
+data$Plant.Number <- as.factor(data$Plant.Number)
+```
+
+Now we can check if the column is read as a factor with the str function
+
+```{r}
+str(data$Plant.Number)
+```
+
+This will be important later when we are trying to summarize data based on plants. It is also important if your samples are represented by numbers. 
+
+##### Helpful utilities
+
+There are a few helpful utilities to remind us what the structure of our dataset looks like.
+
+For example, the head() function is nice for reminding us what the data looks like, it displays the top few rows.
+```{r}
+head(data)
+```
+
+Similarly, I always struggle to remember the names/titles of columns or I forget exactly how I spelled/capitalized it. For this reminder we can use them names() function.
+
+```{r}
+names(data)
+```
+
+
+Another helpful function is the levels() function, which shows us the different levels (groups) in a column. 
+
+```{r}
+levels(data$Treatment)
+```
+
+Finally, another powerful function is the summary() function, which will actually count the number of observations.
+
+```{r}
+summary(data$Treatment)
+```
+
+
+### Cleaning Data
+
+In most cases, it is easiest to change incorrectly spelt observations and clean our data in excel using the 'Find and replace' functions. However, it is safer to do it in R, because it is easy to make mistakes in Excel. 
+
+For example, if you have a lot of levels because it was incorrectly spelt a few times, you can use the stringr package to change them with the below code.
+
+```{r}
+library(stringr)
+data$Species <-str_replace_all(data$Species,"Indigenous Pathogen","P. multivora")
+```
+
+Note that if you make changes to the excel file, you will have to import it to your R environment. You can do so by simply going back to the top and running the code again. 
+
+We will learn more about cleaning our data in the [Session 3 - Introduction to Dyplr](http://jmhulbert.github.io/r/fabi/s3). There we will learn to manipulate, transform, and summarize our data. 
+
+##Package Cheat Sheets
+
+RStudio has produced many 'cheat sheets' for various packages that are super helpful. Each package has many functions and it is impossible to remember them all. Therefore, I recommend downloading the cheat sheets for the packages listed below at least.
+
+* Packages
+    + [ggplot](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+    + [dplyr](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+    + [stringr](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
+    + [Rmarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+
+More cheatsheets are available at:https://www.rstudio.com/resources/cheatsheets/

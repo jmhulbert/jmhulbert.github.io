@@ -1,8 +1,7 @@
 ---
-title: "FABI Workshop Series"
-subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
+title: "Biology R Workshop Series"
+subtitle: "University of Pretoria Postgraduate Student R Workshop Series"
 author: "Joey Hulbert"
-date: "February 14 - March 14, 2019"
 output: html_document
 ---
 
@@ -12,26 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Welcome! 
 
-The purpose of this page is to provide resources for a workshop series about using RStudio and R packages in the [Forestry and Agricultural Biotechnology Institute](https://fabinet.up.ac.za) at the [University of Pretoria](https://www.up.ac.za/) in South Africa. 
+This is the landing page for the workshops offered to postgrad students in the Faculty of Natural and Agricultural Sciences at University of Pretoria.
 
-* Workshop Series
-    + February 14, 2019. 
-        + [Session 1](http://jmhulbert.github.io/r/s1) Introduction to RStudio.
-            + Learn the basics of coding, importing data, installing packages, and managing projects.
-    + February 21, 2019. 
-        + [Session 2](http://jmhulbert.github.io/r/s2) Introduction to data visualization with ggplot2.
-            + Become familiar with creating and saving plots and customizing aesthetics. 
-    + February 28, 2019. 
-        + [Session 3](http://jmhulbert.github.io/r/s3) Introduction to data transformation with dplyr.
-            + Learn best practices for manipulating, transforming and summarizing data. 
-    + March 7, 2019. 
-        + [Session 4](http://jmhulbert.github.io/r/s4) Introduction to multivariate analysis with vegan.
-            + Learn to analyze and visualize community data using permutation tests and ordination, respectively. 
-    + March 14, 2019. 
-        + [Session 5](http://jmhulbert.github.io/r/s5) Introduction to R Markdown.
-            + Learn to generate clean analysis reports for sharing with collaborators or for future reference. 
-    + **Optional** 
-        + [Session 6](http://jmhulbert.github.io/r/s6) Integrating R Markdown and Github with RStudio.
-            + Learn to use github for version control and backing up data, and learn to integrate R Markdown with a github page using Rstudio. 
-            
-Please check out the [pre-workshop instructions](http://jmhulbert.github.io/r/pre) prior to attending the first workshop. 
+Two workshop Series have been offered.
+
+* Please follow the links below to the content. 
+    + [Forestry and Agricultural Biotechnology Institute R Workshop Series](http://jmhulbert.github.io/r/fabi/)
+        + February 14 - March 14, 2019.
+    + [Faculty of NAS Biology R Workshop Series]((http://jmhulbert.github.io/r/bio/)
+        + April 23 - May 28, 2019.
+

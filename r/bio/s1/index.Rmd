@@ -1,0 +1,36 @@
+---
+title: "R for Biology Data Science - Session 1 - Introduction to RStudio"
+subtitle: "Faculty of Natural and Agricultural Sciences, University of Pretoria"
+author: "Joey Hulbert"
+date: "February 14, 2019"
+output: 
+  html_document:
+    css: custom.css
+    toc: TRUE 
+    toc_depth: 5
+    toc_float:
+      collapsed: TRUE
+---
+
+## Introduction
+ 
+Welcome to the webpage for the first session of our *R for Biology Data Science* Workshop Series. The purpose of this webpage is to provide the content we will cover during this session.
+
+The content for this session will be added just before the actual sesssion on Tuesday, April 23.
+
+## **Important**
+
+Please note this first session will only start at 4pm because of a conflict with the room availability. All other sessions will start at 3pm. 
+
+ 
+* Session content outline
+    + Data organization
+    + Install R and RStudio
+    + RStudio interface
+    + Projects
+    + Set working directories
+    + Packages
+    + Create R script
+    + R code basics
+    + Package Cheat Sheets
+

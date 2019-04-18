@@ -1,0 +1,56 @@
+---
+title: "R for Biology Data Science Workshop Series"
+subtitle: "Faculty of Natural and Agricultural Sciences, University of Pretoria"
+author: "Joey Hulbert"
+date: "April 23 - May 30, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Welcome! 
+
+The purpose of this page is to provide resources for the *R for Biology Data Science* Workshop Series for postgrad students in the [Faculty of Natural and Agricultural Sciences](https://www.up.ac.za/faculty-of-natural-agricultural-sciences) at the [University of Pretoria](https://www.up.ac.za/) in South Africa. 
+
+* Workshop Series
+    + April 23, 2019. **(Please note this session only starts at 4pm)**
+        + [Session 1 - Introduction to RStudio](http://jmhulbert.github.io/r/bio/s1).
+            + Learn the basics of coding, importing data, installing packages, and managing projects.
+    + April 30, 2019. 
+        + Session 2 - Introduction to data visualization with ggplot2 **Part 1**.
+            + Create plots (histograms, boxplots, barplots), faceting, adjustments, etc.
+    + May 7, 2019. 
+        + Session 3 - Introduction to data visualization with ggplot2 **Part 2**.
+            + Customizing plot aesthetics (colors, labels, italics, etc.), saving and exporting.
+    + May 14, 2019.
+        + **No session offered**
+    + May 21, 2019. 
+        + Session 4 - Introduction to data transformation with dplyr **Part 1**.
+            + Filter data, summarize data (e.g. easily calculate means for groups), add variables. 
+    + May 28, 2019. 
+        + Session 5 - Introduction to data transformation with dplyr **Part 2**.
+            + Merge datasets, combine tables, introduction to stringr, introduction to R markdown. 
+
+### Location
+
+All sessions will be offered in the auditorium of the Forestry and Agricultural Biotechnology Institute (FABI).
+
+##### Directions 
+The audiotorium is on the bottom floor of the FABI 2 building, but you will need to enter from the FABI 1 building. Head left from the front door and continue to the left (two additional left turns) until you reach the auditorium from the front door. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3593.4428579872397!2d28.233133715020852!3d-25.75593198363941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e9561bb6399433b%3A0x53cd0dfb3f8fa93b!2sForestry+and+Agricultural+Biotechnology+Institute!5e0!3m2!1sen!2sza!4v1555584912565!5m2!1sen!2sza" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Schedule
+
+**The first session will only start at 4pm**, all other sessions will start at 3pm. 
+
+Please note that there is no session scheduled for May 14th. 
+
+### Pre-workshop instructions           
+
+Please check out the [pre-workshop instructions](http://jmhulbert.github.io/r/bio/pre) prior to attending the first workshop (Link coming soon).
+
+
+

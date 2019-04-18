@@ -576,7 +576,7 @@
 <p>2019</p>
 </td>
 <td width="892">
-<p>National Research Foundation, South African Agency for Science and Technology Advancement, FAMELAB Alumni Network Event <em>Public engagement with citizen science in South Africa.</em></p>
+<p>National Research Foundation, South African Agency for Science and Technology Advancement, FAMELAB Alumni Network Event, <em>Public engagement with citizen science in South Africa.</em></p>
 </td>
 </tr>
 <tr>
@@ -785,7 +785,7 @@
 <p>2019</p>
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to R Markdown.</em></p>
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute,  <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, Introduction to R Markdown.</em></p>
 </td>
 </tr>
 <tr>
@@ -1288,7 +1288,7 @@
 <p>2019</p>
 </td>
 <td width="892">
-<p>Session Co-organizer, <em>Forest health defenders: empowering citizens to protect forests through research contributions</em>, IUFRO XXV World Congress, Curbita, Brazil.</p>
+<p>Session Coordinator, <em>Forest health defenders: empowering citizens to protect forests through research contributions</em>, IUFRO XXV World Congress, Curbita, Brazil.</p>
 </td>
 </tr>
 <tr>

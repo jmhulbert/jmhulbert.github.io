@@ -1,0 +1,35 @@
+---
+title: "FABI Session 4 - Introduction to vegan"
+subtitle: "Forestry and Agricultural Biotechnology Institute, University of Pretoria"
+author: "Joey Hulbert"
+date: "March 7, 2019"
+output: html_document
+---
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+    });
+</script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r include=FALSE}
+library(knitr)
+```
+
+[FABI Workshop Series >> Home](http://jmhulbert.github.io/fabi/r)
+[FABI Workshop Series >> Mock Data](http://jmhulbert.github.io/r/fabi/data)
+
+
+# Introduction
+
+Welcome to the guide for the fourth session of our workshop. The purpose of this page is to provide an introduction to the [vegan package](https://www.rdocumentation.org/packages/vegan/versions/2.4-2) and provide an example of a multivariate analysis. 
+
+The content of this session is available from Joey. Please contact him if you're interested in the content from this session. Thanks. 
+
