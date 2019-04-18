@@ -48,6 +48,14 @@ The audiotorium is on the bottom floor of the FABI 2 building, but you will need
 
 Please note that there is no session scheduled for May 14th. 
 
+##### Google calendar
+
+Here is [a link](https://calendar.google.com/calendar?cid=dXAuYWMuemFfbzR2ZTdmMWk1bzU2dG00bTlkMzNvb20ybGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to the Google calendar for the workshop series. You can add the calendar to your diary. 
+
+https://calendar.google.com/calendar?cid=dXAuYWMuemFfbzR2ZTdmMWk1bzU2dG00bTlkMzNvb20ybGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+
+<iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=up.ac.za_o4ve7f1i5o56tm4m9d33oom2lc%40group.calendar.google.com&amp;color=%230D7813&amp;ctz=Africa%2FJohannesburg" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+
 ### Pre-workshop instructions           
 
 Please check out the [pre-workshop instructions](http://jmhulbert.github.io/r/bio/pre) prior to attending the first workshop (Link coming soon).
