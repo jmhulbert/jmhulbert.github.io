@@ -18,6 +18,6 @@ Two workshop Series have been offered.
 * Please follow the links below to the content. 
     + [Forestry and Agricultural Biotechnology Institute R Workshop Series](http://jmhulbert.github.io/r/fabi/)
         + February 14 - March 14, 2019.
-    + [Faculty of NAS Biology R Workshop Series]((http://jmhulbert.github.io/r/bio/)
+    + [Faculty of NAS Biology R Workshop Series](http://jmhulbert.github.io/r/bio/)
         + April 23 - May 28, 2019.
 
