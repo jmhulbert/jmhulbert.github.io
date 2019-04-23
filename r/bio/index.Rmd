@@ -7,7 +7,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE,message=FALSE, warning=FALSE)
 ```
 
 ### Welcome! 
@@ -32,6 +32,12 @@ The purpose of this page is to provide resources for the *R for Biology Data Sci
     + May 28, 2019. 
         + Session 5 - Introduction to data transformation with dplyr **Part 2**.
             + Merge datasets, combine tables, introduction to stringr, introduction to R markdown. 
+
+
+### Pre-workshop instructions           
+
+Please check out the [pre-workshop instructions](http://jmhulbert.github.io/r/bio/pre) prior to attending the first workshop (Link coming soon).
+
 
 ## Details {.tabset .tabset-fade}
 
@@ -60,9 +66,63 @@ The audiotorium is on the bottom floor of the FABI 2 building, but you will need
 
 ##
 
-### Pre-workshop instructions           
+## Participant Information Breakdown {.tabset .tabset-fade}
 
-Please check out the [pre-workshop instructions](http://jmhulbert.github.io/r/bio/pre) prior to attending the first workshop (Link coming soon).
+```{r include=FALSE}
+library(tidyverse)
+rsvp <- read.csv("./data/rsvp data.csv")
+names(rsvp)
+```
 
+### Department
 
+```{r}
+ggplot(rsvp,aes(Department,fill=Department))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+```
+
+### Academic Standing
+
+```{r}
+ggplot(rsvp,aes(Academic.Standing,fill=Academic.Standing))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+```
+
+### Year
+
+Year in academic position
+
+```{r}
+ggplot(rsvp,aes(Year.in.current.position.,fill=Year.in.current.position.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+```
+
+### Data availability
+
+Do you have your own data? 
+
+```{r}
+ggplot(rsvp,aes(Do.you.have.your.own.data.,fill=Do.you.have.your.own.data.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+```
+
+### Computer Availability
+
+Do you have a computer you can bring to the sessions?
+
+```{r}
+ggplot(rsvp,aes(Do.you.have.a.computer.you.can.bring.to.the.sessions.,fill=Do.you.have.a.computer.you.can.bring.to.the.sessions.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+```
+
+### R Familiarity
+
+Have you used R before?
+
+```{r}
+ggplot(rsvp,aes(Have.you.used.R.before.,fill=Have.you.used.R.before.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+```
+
+If so, how often? (1=never, 10=everday)
+
+```{r}
+ggplot(rsvp,aes(If.so..how.often..,fill=If.so..how.often..))+geom_histogram(stat="count")+guides(fill="none")+theme_bw()
+```
+
+## 
 

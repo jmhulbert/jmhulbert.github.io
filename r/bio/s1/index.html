@@ -229,14 +229,27 @@ div.tocify {
 </div>
 
 
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+    });
+</script>
+<ul>
+<li>Workshop Series
+<ul>
+<li><a href="http://jmhulbert.github.io/r/bio/">Home</a></li>
+<li><a href="http://jmhulbert.github.io/r/bio/pre">Pre-session instructions</a></li>
+<li><a href="http://jmhulbert.github.io/r/bio/s1">Session 1</a></li>
+<li><a href="http://jmhulbert.github.io/r/bio/data">Mock Data</a></li>
+</ul></li>
+</ul>
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
 <p>Welcome to the webpage for the first session of our <em>R for Biology Data Science</em> Workshop Series. The purpose of this webpage is to provide the content we will cover during this session.</p>
-<p>The content for this session will be added just before the actual sesssion on Tuesday, April 23.</p>
-</div>
-<div id="important" class="section level2">
-<h2><strong>Important</strong></h2>
-<p>Please note this first session will only start at 4pm because of a conflict with the room availability. All other sessions will start at 3pm.</p>
 <ul>
 <li>Session content outline
 <ul>
@@ -251,6 +264,356 @@ div.tocify {
 <li>Package Cheat Sheets</li>
 </ul></li>
 </ul>
+</div>
+<div id="data-organization" class="section level2">
+<h2>Data organization</h2>
+<p>We need to format our data so that R will read it correctly.</p>
+<p>Our data should be set up as a rectangle with observations (samples) in rows and variables (treatment groups, results, etc.) in columns. Below is an example:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Sample</th>
+<th align="center">Trial</th>
+<th align="center">Treatment</th>
+<th align="center">Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">1</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.2233483</td>
+</tr>
+<tr class="even">
+<td align="center">2</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.2877131</td>
+</tr>
+<tr class="odd">
+<td align="center">3</td>
+<td align="center">A</td>
+<td align="center">Control</td>
+<td align="center">0.7081868</td>
+</tr>
+<tr class="even">
+<td align="center">4</td>
+<td align="center">A</td>
+<td align="center">Treated</td>
+<td align="center">0.8367659</td>
+</tr>
+<tr class="odd">
+<td align="center">5</td>
+<td align="center">A</td>
+<td align="center">Treated</td>
+<td align="center">0.1784900</td>
+</tr>
+<tr class="even">
+<td align="center">6</td>
+<td align="center">A</td>
+<td align="center">Treated</td>
+<td align="center">0.7602704</td>
+</tr>
+<tr class="odd">
+<td align="center">7</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.5585673</td>
+</tr>
+<tr class="even">
+<td align="center">8</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.1810394</td>
+</tr>
+<tr class="odd">
+<td align="center">9</td>
+<td align="center">B</td>
+<td align="center">Control</td>
+<td align="center">0.9895769</td>
+</tr>
+<tr class="even">
+<td align="center">10</td>
+<td align="center">B</td>
+<td align="center">Treated</td>
+<td align="center">0.5835286</td>
+</tr>
+<tr class="odd">
+<td align="center">11</td>
+<td align="center">B</td>
+<td align="center">Treated</td>
+<td align="center">0.6507813</td>
+</tr>
+<tr class="even">
+<td align="center">12</td>
+<td align="center">B</td>
+<td align="center">Treated</td>
+<td align="center">0.7174715</td>
+</tr>
+</tbody>
+</table>
+<p>It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in <a href="http://jmhulbert.github.io/r/bio/s3">Session 3</a> to summarize data and calculate means based on groups or other explanatory variables, etc.</p>
+<p>Now that our data is ready for R, we need to install R and RStudio.</p>
+</div>
+<div id="install-r-and-rstudio" class="section level2">
+<h2>Install R and RStudio</h2>
+<ul>
+<li>Note that <a href="https://www.rstudio.com/">RStudio</a> requires <a href="https://www.r-project.org/">R</a> to be installed.
+<ul>
+<li>First download and install R: <a href="https://ftp.osuosl.org/pub/cran/" class="uri">https://ftp.osuosl.org/pub/cran/</a></li>
+<li>Then download and install RStudio: <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a></li>
+</ul></li>
+</ul>
+<p>It is best if we have the latest versions of R (3.5.2) and RStudio (1.1.463).</p>
+</div>
+<div id="rstudio-interface" class="section level2">
+<h2>RStudio interface</h2>
+<p>RStudio has four panes for organizing and analyzing data.</p>
+<div id="layout" class="section level4">
+<h4>Layout</h4>
+<ul>
+<li>RStudio Panes
+<ul>
+<li>Source
+<ul>
+<li>Used for creating and saving R source files (codes).</li>
+</ul></li>
+<li>Console
+<ul>
+<li>Runs commands and displays history of commands run in session.</li>
+</ul></li>
+<li>Environment, Plots, Help, Viewer Tabs
+<ul>
+<li>The Environment tab represents the data that has been read into R.</li>
+<li>The Plots tab displays plots generated from source or console.
+<ul>
+<li>Note that you may need to resize or expand the plots pane for some plots.</li>
+</ul></li>
+<li>The Help tab will show you the help documentation.
+<ul>
+<li>For example, run the command: ?stats</li>
+</ul></li>
+</ul></li>
+<li>History, Files, Connections, Packages
+<ul>
+<li>The Files tab displays files in the project directory (see below).
+<ul>
+<li>Note that it is still sometimes easier to manage files from explorer/finder</li>
+</ul></li>
+<li>The Packages tab lists the packages that have been installed on your computer. A checkmark indicates the packages that are currently loaded.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="rearrange-panes" class="section level4">
+<h4>Rearrange panes</h4>
+<p>You can rearrange the panes to your preference in the pane layout section of preferences.</p>
+<p><em>RStudio &gt;&gt; Preferences &gt;&gt; Pane Layout</em></p>
+</div>
+<div id="appearance" class="section level4">
+<h4>Appearance</h4>
+<p>You can also change the appearance to various themes or dark modes in the appearance section of the preferences.</p>
+<p><em>RStudio &gt;&gt; Preferences &gt;&gt; Appearance</em></p>
+</div>
+<div id="softwrap" class="section level4">
+<h4>Softwrap</h4>
+<p>I also like to enable ‘soft wrap R source files’ so that the lines of code wrap within your window.</p>
+<p><em>RStudio &gt;&gt; Preferences &gt;&gt; Code</em></p>
+</div>
+</div>
+<div id="projects" class="section level2">
+<h2>Projects</h2>
+<p>Next we can get into one of the best features of RStudio, projects. Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory.</p>
+<p>I generally create a new project for each chapter or manuscript. Then I like to create these sub folders.</p>
+<ul>
+<li>Project Directory
+<ul>
+<li>Data</li>
+<li>Code</li>
+<li>Figures</li>
+</ul></li>
+</ul>
+<div id="set-working-directories" class="section level3">
+<h3>Set working directories</h3>
+<p>Defining a working directory is a critical step for making the most of projects and simplifying our workflow. A working directory essentially tells R where to look for and save your files. That way you can reference data without needing to type out the entire file path (e.g. C://Desktop/Files/R/LongDirectoryPath).</p>
+<p>It is recommended to set your project directory as your working directory. To do so, click on the file tab of the pane and click the ‘More’ button.</p>
+<p><em>Files (tab) &gt;&gt; More &gt;&gt; Set as Working Directory</em></p>
+<p>Alternatively we can use the following command.</p>
+<pre class="r"><code>setwd(&quot;&lt;folder containing our dataset&gt;&quot;)</code></pre>
+</div>
+<div id="create-r-script" class="section level3">
+<h3>Create R script</h3>
+<p>Ok, now that we have a working directory, lets create our first script.</p>
+<p><em>File (menu) &gt;&gt; New File &gt;&gt; R Script</em></p>
+<p>We can save this script so that we can come back to our analysis later. Note that everytime you reopen R you will have to rerun each line of code again to restore the files in the environment.</p>
+</div>
+</div>
+<div id="packages" class="section level2">
+<h2>Packages</h2>
+<p>R packages are collections of functions and documentation that can be reproduced and used with multiple datasets.</p>
+<p><a href="https://github.com/grunwaldlab/poppr"><em>PoppR</em></a> is an example of a popular package that was created by Zhian Kamvar and the Grünwald Lab.</p>
+<p>In general, we need to install packages before we can use them. In this workshop series, we will use the <em>Tidyverse</em> package. The <a href="https://www.tidyverse.org/">Tidyverse</a> is a collection of packages that we will use to keep our data tidy. It includes ggplot2 and dplyr, the two packages we will use in the next two sessions.</p>
+<p>We can install the package by running the code below:</p>
+<pre class="r"><code>install.packages(&quot;tidyverse&quot;)</code></pre>
+<p>Note that you only need to install this package in RStudio one time. Once it is installed, you can simply load the package (see below) anytime you want to use it.</p>
+<p>Also, if you check the packages tab of your pane, you will see it installed ggplot2 and dplyr, and a few others.</p>
+</div>
+<div id="r-code-basics" class="section level2">
+<h2>R code basics</h2>
+<div id="run-code" class="section level4">
+<h4>Run Code</h4>
+<p>We can run code from the source file by highlighting it and clicking run in the top right. Altneratively, you can press Ctrl/Cmd + Enter to run the line that the cursor sits on.</p>
+</div>
+<div id="load-packages" class="section level4">
+<h4>Load Packages</h4>
+<p>Once a package is installed, we can load it into our R session as below</p>
+<pre class="r"><code>library(tidyverse)</code></pre>
+</div>
+<div id="importing-data" class="section level4">
+<h4>Importing data</h4>
+<p>There are a couple options to consider for importing data. For example, there are packages (e.g. <a href="https://readxl.tidyverse.org/">readxl</a>) that allow you to import .xls files. However, I recommend importing your data as .csv (R default) and keeping your original .xls untouched.</p>
+<p>We can save our excel file as a .csv by selecting ‘Save As’ in excel and saving it into our ‘data’ folder in our working directory.</p>
+<p>Lets download some data that we can use for this workshop series: <a href="http://jmhulbert.github.io/r/bio/data">Mock Data</a></p>
+<p>Now move the data to your working directory and add it to our environment using the below code.</p>
+<pre class="r"><code>#name &lt;- read.csv('./data/'FILENAME.csv') 
+data &lt;- read.csv('./data/Silver Tree Study.csv')</code></pre>
+</div>
+<div id="basics" class="section level4">
+<h4>Basics</h4>
+<div id="make-notes" class="section level5">
+<h5>Make notes</h5>
+<p>R ignores code that starts with ‘#’. Therefore, you can add notes to your script by adding a hash (#)</p>
+<pre class="r"><code>#this is a note
+This.is.a.variable &lt;- &quot;code&quot;</code></pre>
+</div>
+<div id="outline" class="section level5">
+<h5>Outline</h5>
+<p>Another nice feature in RStudio is the ability to create an outline. Click ‘show document outline’ in top right corner of the Script Pane.</p>
+<p>For example can use create a header by placing text between 4 hashes (####)</p>
+<pre class="r"><code>#### R will treat this as a header ####
+####**Sometimes I indent headers using asterisks**####</code></pre>
+</div>
+<div id="assign-variables" class="section level5">
+<h5>Assign variables</h5>
+<p>You can assign variables by using &lt;- or =. I prefer to use &lt;- so that I do not confuse the = with == (more later)</p>
+<pre class="r"><code>#We can assign data to a dataframe as well
+df &lt;- data.frame(Sample = 1:4,Treatment = rep(c('Control','Treated'),2),Result = runif(4))
+df</code></pre>
+<pre><code>##   Sample Treatment     Result
+## 1      1   Control 0.44807114
+## 2      2   Treated 0.80611973
+## 3      3   Control 0.53554750
+## 4      4   Treated 0.01877047</code></pre>
+</div>
+<div id="reference-data-columns" class="section level5">
+<h5>Reference Data Columns</h5>
+<p>We can refer to a single column or variable using the $ symbol.</p>
+<pre class="r"><code>df$Sample</code></pre>
+<pre><code>## [1] 1 2 3 4</code></pre>
+<pre class="r"><code>summary(data$Treatment)</code></pre>
+<pre><code>## Drought     Wet 
+##     821     901</code></pre>
+</div>
+<div id="function-and-package-help" class="section level5">
+<h5>Function and Package Help</h5>
+<p>We can reference help files directly in RStudio by proceeding code with ? symbols</p>
+<pre class="r"><code>??tidyverse</code></pre>
+<pre class="r"><code>?str</code></pre>
+</div>
+<div id="structure" class="section level5">
+<h5>Structure</h5>
+<p>We can look at the structure of a dataset and check how R reads variables in a dataset using the str() function</p>
+<pre class="r"><code>str(data)</code></pre>
+<pre><code>## 'data.frame':    1722 obs. of  14 variables:
+##  $ Unique.Sample.Number  : Factor w/ 102 levels &quot;1DroughtBoth Pathogens9&quot;,..: 10 10 10 10 10 10 10 10 10 10 ...
+##  $ Days.after.inoculation: int  3 3 3 3 3 3 3 3 3 3 ...
+##  $ Date                  : Factor w/ 10 levels &quot;6/12/18&quot;,&quot;6/16/18&quot;,..: 3 3 3 3 3 3 3 3 3 3 ...
+##  $ Licor                 : int  6400 6400 6400 6400 6400 6400 6400 6400 6400 6400 ...
+##  $ Trial                 : int  1 1 1 1 1 1 1 1 1 1 ...
+##  $ Treatment             : Factor w/ 2 levels &quot;Drought&quot;,&quot;Wet&quot;: 1 1 1 1 1 1 1 1 1 1 ...
+##  $ Species               : Factor w/ 4 levels &quot;Both Pathogens&quot;,..: 2 2 2 2 2 2 2 2 2 2 ...
+##  $ Plant.Number          : int  9 9 9 9 9 9 9 9 9 9 ...
+##  $ Isolate.Number        : int  NA NA NA NA NA NA NA NA NA NA ...
+##  $ Unique.Sample.Number.1: int  1 1 1 1 1 1 1 1 1 1 ...
+##  $ Obs                   : int  1 2 3 4 5 6 7 8 9 10 ...
+##  $ Photosynthesis        : num  -1.257 -0.456 -0.675 0.196 1.132 ...
+##  $ Conductance           : num  -0.008756 -0.001057 -0.000624 0.004572 0.008387 ...
+##  $ Ci                    : num  170 -286 -1315 328 182 ...</code></pre>
+<p>Here we can see that R interprets our Plant.Number as an integer. But really we want R to read it as a factor. We can change how R reads individual columns by assigning variables and referencing columns.</p>
+<pre class="r"><code>data$Plant.Number &lt;- as.factor(data$Plant.Number)</code></pre>
+<p>Now we can check if the column is read as a factor with the str function</p>
+<pre class="r"><code>str(data$Plant.Number)</code></pre>
+<pre><code>##  Factor w/ 10 levels &quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,..: 9 9 9 9 9 9 9 9 9 9 ...</code></pre>
+<p>This will be important later when we are trying to summarize data based on plants. It is also important if your samples are represented by numbers.</p>
+</div>
+<div id="helpful-utilities" class="section level5">
+<h5>Helpful utilities</h5>
+<p>There are a few helpful utilities to remind us what the structure of our dataset looks like.</p>
+<p>For example, the head() function is nice for reminding us what the data looks like, it displays the top few rows.</p>
+<pre class="r"><code>head(data)</code></pre>
+<pre><code>##   Unique.Sample.Number Days.after.inoculation   Date Licor Trial Treatment
+## 1     1DroughtControl9                      3 6/2/18  6400     1   Drought
+## 2     1DroughtControl9                      3 6/2/18  6400     1   Drought
+## 3     1DroughtControl9                      3 6/2/18  6400     1   Drought
+## 4     1DroughtControl9                      3 6/2/18  6400     1   Drought
+## 5     1DroughtControl9                      3 6/2/18  6400     1   Drought
+## 6     1DroughtControl9                      3 6/2/18  6400     1   Drought
+##   Species Plant.Number Isolate.Number Unique.Sample.Number.1 Obs
+## 1 Control            9             NA                      1   1
+## 2 Control            9             NA                      1   2
+## 3 Control            9             NA                      1   3
+## 4 Control            9             NA                      1   4
+## 5 Control            9             NA                      1   5
+## 6 Control            9             NA                      1   6
+##   Photosynthesis  Conductance         Ci
+## 1     -1.2574071 -0.008756114   169.6851
+## 2     -0.4559930 -0.001057429  -286.0282
+## 3     -0.6746335 -0.000623729 -1315.1230
+## 4      0.1958272  0.004572455   328.0515
+## 5      1.1315593  0.008387323   181.6788
+## 6      1.4892968  0.010670317   173.9482</code></pre>
+<p>Similarly, I always struggle to remember the names/titles of columns or I forget exactly how I spelled/capitalized it. For this reminder we can use them names() function.</p>
+<pre class="r"><code>names(data)</code></pre>
+<pre><code>##  [1] &quot;Unique.Sample.Number&quot;   &quot;Days.after.inoculation&quot;
+##  [3] &quot;Date&quot;                   &quot;Licor&quot;                 
+##  [5] &quot;Trial&quot;                  &quot;Treatment&quot;             
+##  [7] &quot;Species&quot;                &quot;Plant.Number&quot;          
+##  [9] &quot;Isolate.Number&quot;         &quot;Unique.Sample.Number.1&quot;
+## [11] &quot;Obs&quot;                    &quot;Photosynthesis&quot;        
+## [13] &quot;Conductance&quot;            &quot;Ci&quot;</code></pre>
+<p>Another helpful function is the levels() function, which shows us the different levels (groups) in a column.</p>
+<pre class="r"><code>levels(data$Treatment)</code></pre>
+<pre><code>## [1] &quot;Drought&quot; &quot;Wet&quot;</code></pre>
+<p>Finally, another powerful function is the summary() function, which will actually count the number of observations.</p>
+<pre class="r"><code>summary(data$Treatment)</code></pre>
+<pre><code>## Drought     Wet 
+##     821     901</code></pre>
+</div>
+</div>
+<div id="cleaning-data" class="section level3">
+<h3>Cleaning Data</h3>
+<p>In most cases, it is easiest to change incorrectly spelt observations and clean our data in excel using the ‘Find and replace’ functions. However, it is safer to do it in R, because it is easy to make mistakes in Excel.</p>
+<p>For example, if you have a lot of levels because it was incorrectly spelt a few times, you can use the stringr package to change them with the below code.</p>
+<pre class="r"><code>library(stringr)
+data$Species &lt;-str_replace_all(data$Species,&quot;Indigenous Pathogen&quot;,&quot;P. multivora&quot;)</code></pre>
+<p>Note that if you make changes to the excel file, you will have to import it to your R environment. You can do so by simply going back to the top and running the code again.</p>
+<p>We will learn more about cleaning our data in the <a href="http://jmhulbert.github.io/r/fabi/s3">Session 3 - Introduction to Dyplr</a>. There we will learn to manipulate, transform, and summarize our data.</p>
+</div>
+</div>
+<div id="package-cheat-sheets" class="section level2">
+<h2>Package Cheat Sheets</h2>
+<p>RStudio has produced many ‘cheat sheets’ for various packages that are super helpful. Each package has many functions and it is impossible to remember them all. Therefore, I recommend downloading the cheat sheets for the packages listed below at least.</p>
+<ul>
+<li>Packages
+<ul>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf">ggplot</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf">dplyr</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/strings.pdf">stringr</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf">Rmarkdown</a></li>
+</ul></li>
+</ul>
+<p>More cheatsheets are available at:<a href="https://www.rstudio.com/resources/cheatsheets/" class="uri">https://www.rstudio.com/resources/cheatsheets/</a></p>
 </div>
 
 
