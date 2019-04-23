@@ -34,7 +34,7 @@ df <- data.frame(Sample = 1:12,Trial = c('A','A','A','A','A','A','B','B','B','B'
 knitr::kable(df,align='c')
 ```
 
-It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in [Session 3](http://jmhulbert.github.io/r/fabi/s3) to summarize data and calculate means based on groups or other explanatory variables, etc. 
+It is best to import your raw data and not bother calculating averages or anything in excel previously. We will use dplyr in [Session 3](http://jmhulbert.github.io/r/bio/s3) to summarize data and calculate means based on groups or other explanatory variables, etc. 
 
 Now that our data is ready for R, we need to install R and RStudio.
 
