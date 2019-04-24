@@ -2,7 +2,7 @@
 title: "R for Biology Data Science - Session 1 - Introduction to RStudio"
 subtitle: "Faculty of Natural and Agricultural Sciences, University of Pretoria"
 author: "Joey Hulbert"
-date: "February 14, 2019"
+date: "April 23, 2019"
 output: 
   html_document:
     css: custom.css

@@ -11,7 +11,7 @@
 
 <meta name="author" content="Joey Hulbert" />
 
-<meta name="date" content="2019-02-14" />
+<meta name="date" content="2019-04-23" />
 
 <title>R for Biology Data Science - Session 1 - Introduction to RStudio</title>
 
@@ -73,7 +73,7 @@ h6 {
 }
 </style>
 
-<link href="data:text/css;charset=utf-8,%23TOC%20%7B%0Aposition%3A%20fixed%3B%0Aleft%3A%200%3B%0Atop%3A%200%3B%0Awidth%3A%2015%25%3B%0Aoverflow%3Aauto%3B%0A%7D%0Abody%20%7B%0Amax%2Dwidth%3A%2075%25%3B%0Amargin%3A%20auto%3B%0Apadding%3A%201em%3B%0Aline%2Dheight%3A%2020px%3B%0A%7D" rel="stylesheet" type="text/css" />
+<link href="data:text/css;charset=utf-8,%23TOC%20%7B%0Aposition%3A%20fixed%3B%0Aleft%3A%200%3B%0Atop%3A%200%3B%0Awidth%3A%2015%25%3B%0Aoverflow%3Aauto%3B%0A%7D%0Abody%20%7B%0Awidth%3A%20100%25%3B%0Amargin%2Dleft%3A%2D15%25%3B%0Aline%2Dheight%3A20px%3B%0A%7D" rel="stylesheet" type="text/css" />
 
 </head>
 
@@ -224,7 +224,7 @@ div.tocify {
 <h1 class="title toc-ignore">R for Biology Data Science - Session 1 - Introduction to RStudio</h1>
 <h3 class="subtitle"><em>Faculty of Natural and Agricultural Sciences, University of Pretoria</em></h3>
 <h4 class="author"><em>Joey Hulbert</em></h4>
-<h4 class="date"><em>February 14, 2019</em></h4>
+<h4 class="date"><em>April 23, 2019</em></h4>
 
 </div>
 
@@ -283,73 +283,73 @@ div.tocify {
 <td align="center">1</td>
 <td align="center">A</td>
 <td align="center">Control</td>
-<td align="center">0.2233483</td>
+<td align="center">0.6119493</td>
 </tr>
 <tr class="even">
 <td align="center">2</td>
 <td align="center">A</td>
 <td align="center">Control</td>
-<td align="center">0.2877131</td>
+<td align="center">0.8290448</td>
 </tr>
 <tr class="odd">
 <td align="center">3</td>
 <td align="center">A</td>
 <td align="center">Control</td>
-<td align="center">0.7081868</td>
+<td align="center">0.4334877</td>
 </tr>
 <tr class="even">
 <td align="center">4</td>
 <td align="center">A</td>
 <td align="center">Treated</td>
-<td align="center">0.8367659</td>
+<td align="center">0.7339393</td>
 </tr>
 <tr class="odd">
 <td align="center">5</td>
 <td align="center">A</td>
 <td align="center">Treated</td>
-<td align="center">0.1784900</td>
+<td align="center">0.3636217</td>
 </tr>
 <tr class="even">
 <td align="center">6</td>
 <td align="center">A</td>
 <td align="center">Treated</td>
-<td align="center">0.7602704</td>
+<td align="center">0.2251522</td>
 </tr>
 <tr class="odd">
 <td align="center">7</td>
 <td align="center">B</td>
 <td align="center">Control</td>
-<td align="center">0.5585673</td>
+<td align="center">0.1916591</td>
 </tr>
 <tr class="even">
 <td align="center">8</td>
 <td align="center">B</td>
 <td align="center">Control</td>
-<td align="center">0.1810394</td>
+<td align="center">0.1583402</td>
 </tr>
 <tr class="odd">
 <td align="center">9</td>
 <td align="center">B</td>
 <td align="center">Control</td>
-<td align="center">0.9895769</td>
+<td align="center">0.5132552</td>
 </tr>
 <tr class="even">
 <td align="center">10</td>
 <td align="center">B</td>
 <td align="center">Treated</td>
-<td align="center">0.5835286</td>
+<td align="center">0.3978295</td>
 </tr>
 <tr class="odd">
 <td align="center">11</td>
 <td align="center">B</td>
 <td align="center">Treated</td>
-<td align="center">0.6507813</td>
+<td align="center">0.3071921</td>
 </tr>
 <tr class="even">
 <td align="center">12</td>
 <td align="center">B</td>
 <td align="center">Treated</td>
-<td align="center">0.7174715</td>
+<td align="center">0.2417765</td>
 </tr>
 </tbody>
 </table>
@@ -500,11 +500,11 @@ This.is.a.variable &lt;- &quot;code&quot;</code></pre>
 <pre class="r"><code>#We can assign data to a dataframe as well
 df &lt;- data.frame(Sample = 1:4,Treatment = rep(c('Control','Treated'),2),Result = runif(4))
 df</code></pre>
-<pre><code>##   Sample Treatment     Result
-## 1      1   Control 0.44807114
-## 2      2   Treated 0.80611973
-## 3      3   Control 0.53554750
-## 4      4   Treated 0.01877047</code></pre>
+<pre><code>##   Sample Treatment    Result
+## 1      1   Control 0.8914486
+## 2      2   Treated 0.2897445
+## 3      3   Control 0.7298564
+## 4      4   Treated 0.7813709</code></pre>
 </div>
 <div id="reference-data-columns" class="section level5">
 <h5>Reference Data Columns</h5>

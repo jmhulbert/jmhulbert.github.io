@@ -1,0 +1,48 @@
+---
+title: "R for Biology Data Science - Session 2 - Introduction to ggplot2 part 2"
+subtitle: "Faculty of Natural and Agricultural Sciences, University of Pretoria"
+author: "Joey Hulbert"
+date: "May 7, 2019"
+output: 
+  html_document:
+    css: custom.css
+    toc: TRUE 
+    toc_depth: 5
+    toc_float:
+      collapsed: FALSE
+---
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+    });
+</script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* Workshop Series
+    + [Home](http://jmhulbert.github.io/r/bio/)
+    + [Pre-session instructions](http://jmhulbert.github.io/r/bio/pre)
+    + [Session 1](http://jmhulbert.github.io/r/bio/s1)
+    + [Session 2](http://jmhulbert.github.io/r/bio/s2)
+    + [Mock Data](http://jmhulbert.github.io/r/bio/data)
+    
+
+```{r include=FALSE}
+library(knitr)
+```
+
+
+## Introduction
+
+More information coming soon.
+
+```{r include=FALSE}
+# Reminder to go over changing font in session 3. 
+```
+
