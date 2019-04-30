@@ -11,15 +11,7 @@ output:
     toc_float:
       collapsed: FALSE
 ---
-<script>
-    $(document).ready(function() {
-      $items = $('div#TOC li');
-      $items.each(function(idx) {
-        num_ul = $(this).parentsUntil('#TOC').length;
-        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
-      });
-    });
-</script>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -45,6 +37,38 @@ Welcome to the second session of our workshop series. The purpose of this page i
 
 You will need to have RStudio (and R) installed on your computer and have the 'tidyverse' package installed. More information about this can be found in the lesson for [Session 1](http://jmhulbert.github.io/r/bio/s1).
 
+## Session 1 Recap
+
+### Create a Project
+
+Projects provide a powerful means to keep your data organized. You can think of projects as a folder or directory. 
+
+I generally create a new project for each chapter or manuscript.
+
+### Download Data
+
+Lets download some data that we can use for this workshop series: [Mock Data](http://jmhulbert.github.io/r/bio/data)
+
+### Import Data to Project
+
+Now move the data to your working directory and add it to our environment using the below code.
+
+### Set Working Diretory
+
+*Files (tab) >> More >> Set as Working Directory*
+
+Defining a working directory is a critical step for making the most of projects and simplifying our workflow. A working directory essentially tells R where to look for and save your files.
+
+Remember to set your working directory if you create a new project so that R knows where to look for and save your data. 
+
+### Create R Script
+
+I recommend you start this session with a new script. 
+
+*File (menu) >> New File >> R Script* 
+
+We can save this script so that we can come back to our analysis later. Perhaps call your new script **Session2**.
+
 ### Install Packages
 
 Remember you can install packages using the below code.
@@ -53,7 +77,419 @@ Remember you can install packages using the below code.
 install.packages("tidyverse")
 ```
 
-It can take a few minutes for RStudio to unpack/install the packages. The [Tidyverse](https://www.tidyverse.org/) package is a collection (package) of packages. It includes several individual packages that work fairly well together. 
+It can take a few minutes for RStudio to unpack/install the packages. 
+
+The [Tidyverse](https://www.tidyverse.org/) package is a collection (package) of packages. It includes several individual packages that work fairly well together. 
+
+### Load Packages
+
+Once a package is installed, we can load it into our R session as below.
+
+```{r}
+library(tidyverse)
+```
+
+> Note that we have to load the package everytime we open R. 
+
+### Index Data
+
+Ok, now we need to add the mock data to our environment. 
+
+> Note that you will need to reload the data anytime you make changes to the excel files. 
+
+> Also note that the file has to be a '.csv' file for the below code to work. 
+
+If you prefer to work with '.xls' files, you will need can use the [readxl package](https://readxl.tidyverse.org/) (which is also part of the tidyverse). 
+
+```{r}
+data <- read.csv("Silver Tree Study.csv")
+```
+
+Ok, now you should see a data.frame in the 'Environment' pane. 
+
+> Note that everytime you reopen R you may have to rerun each line of code again for it to show up in the environment. 
+
+Note that you may need to add 'sep=";"' to the command if windows uses ';' for your .csv files rather than ','.
+
+Basically, if there is no data.frame called 'data' in your environment, you may need to include it as below.
+
+```{r eval=FALSE}
+data <-read.csv('Silver Tree Study.csv',sep=";")
+```
 
 
-More information coming soon.
+### Explore and Adjust
+
+Lets run a few commands to refresh ourselves about the structure and organization of our data
+
+```{r}
+str(data)
+```
+
+Here we can see how R reads some of the columns. Note that R reads Trial as an integer. 
+
+Lets change it to a factor (grouping variable).
+
+```{r}
+data$Trial <- as.factor(data$Trial)
+```
+
+Ok, now we can see if R recognizes the trial as a factor.
+
+```{r}
+str(data$Trial) #note that this time we can specify the column using $ to keep things shorter. 
+```
+
+Good, ok we will probably have to do that again with another variable later once we start visualizing the data with ggplot2. 
+
+Another way to remind ourselves about the different columns in our data is names().
+
+```{r}
+names(data)
+```
+
+Also, summary() is another neat function to summarize the data.
+
+```{r}
+summary(data$Photosynthesis)
+```
+
+Although I really only find it useful for telling us the number of observations in a group.
+
+```{r}
+summary(data$Treatment)
+```
+
+Ok, we had 821 observations of plants in the drought treatment, and 901 observations of plants in the wet treatment.
+
+
+## ggplot2
+
+Today we are going to learn to use ggplot, but we will learn to use dplyr in [Sessions 4 and 5](http://jmhulbert.github.io/r/bio/). 
+
+**Knowing how to use both of these packages provides a strong foundation for analyses.** 
+
+Today we will learn to plot raw data with ggplot, but once we know dplyr, we will be able to summarize data (calculate means, standard errors, add variables, etc.), then plot the summarized data.
+
+#### Introduction to ggplot2
+
+ggplot is a package that is included in the tidyverse. It was developed specifically for visualizing data so it is pretty powerful and highly customizable. 
+
+Remember that you can access the help file for ggplot or any of the ggplot commands/functions (geom_bar, aes, etc) by adding a questionmark
+
+```{r}
+?ggplot #note that you need to have loaded the package for that to work, otherwise you need to include two questionmarks (??ggplot)
+```
+
+### Download ggplot2 Cheatsheet
+
+RStudio has produced many 'cheatsheets' for various packages that are super helpful. Each package has many functions and it is impossible to remember them all. 
+
+[ggplot cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf) - click to download.
+
+#### General setup
+
+"ggplot() is used to construct the initial plot object, and is almost always followed by + to add component to the plot." 
+
+The general format for the ggplot command is:
+
+##### Long command version
+
+```{r eval=FALSE}
+ggplot(data=df, mapping=aes(x-variable, y-variable, other aesthetics such as color))
+```
+
+##### Short command version
+
+We can also run the same command without specifying data= or mapping = 
+
+```{r eval=FALSE}
+ggplot(df,aes(x-variable, y-variable, other aesthetics))
+```
+
+Then we can add + geom_col() or +geom_boxplot() depending on which type of plot we want. 
+
+#### Data Visualization
+
+#### One Variable Plots
+
+##### Continuous Data
+
+Continuous data refers to our data that ranges from 0 to infinity. For example our measurments for Photosynthsis is continous
+
+```{r}
+summary(data$Photosynthesis)
+```
+
+In contrast [discrete data](#discrete-data) (more below) is categorized into discrete groups.
+
+
+###### Histograms
+
+I generally recommend visualizing the distribution of your response variables (results) as a start because then you can decide which statistical tests are appropriate based on the distributions.
+
+First lets look at the distribution of the Photosyntehsis data. To do this we can use geom_histogram()
+
+```{r}
+names(data) #We can check the names of the columns to remind us which variables we can plot, and how to correctly spell/capitlize them.
+```
+
+```{r message=FALSE, warning=FALSE}
+ggplot(data,aes(Photosynthesis))+geom_histogram() #note that this is only a one variable plot (only x, not x and y). 
+```
+
+
+> Shoot I forgot about that super outlier.. Looks like we will need a quick glimpse into dplyr ( [Session 4](http://jmhulbert.github.io/r/bio/s4)). 
+
+```{r}
+data <- data %>% filter(Photosynthesis<300) # lots more about this in 3 weeks :)
+```
+
+Now we can run the same plot and see if the outlier is removed.
+
+```{r message=FALSE, warning=FALSE}
+ggplot(data,aes(Photosynthesis))+geom_histogram() #note that this is only a one variable plot (only x, not x and y). 
+```
+
+This plot is showing us the number of observations (y-axis) for every value of photosynthesis (x-axis). 
+
+We can also do the same thing for the other response variables.
+
+```{r eval=FALSE}
+ggplot(data,aes(Conductance))+geom_histogram()
+```
+
+Pretty much the same distribution as Photosynthesis, which makes sense, becuase they are related right? 
+
+Lets stick to plotting Photosynthesis for now. 
+
+###### Density Plots
+
+There are other plots to look at the same data. For example, below we can look at a density plot.
+
+```{r}
+ggplot(data,aes(Photosynthesis))+geom_density()
+```
+
+###### Group Comparisons
+
+Now we can add some complexity to compare the two groups, still only looking at a single respones variable. 
+
+Below we indicate that we want each Trial to have a different color using the 'fill=' command.
+
+> Remember that we designated Trial as a factor. The fill command only works with factors.
+
+```{r eval=FALSE}
+ggplot(data,aes(Photosynthesis,fill=Trial))+geom_histogram()
+```
+
+Here it looks like Trial 1 had higher level, but it is really because the Trial 1 data is stacked on top of Trial 2 data. 
+
+See what happens if you try a density plot instead..
+
+```{r eval=FALSE}
+ggplot(data,aes(Photosynthesis,fill=Trial))+geom_density()
+```
+
+To indicate that we want our groups to appear side by side, rather than on top of eachother we have to specify a position. 
+
+```{r message=FALSE, warning=FALSE}
+ggplot(data,aes(Photosynthesis,fill=Trial))+geom_histogram(position="dodge")
+```
+
+##### Discrete Data
+
+Discrete data referes to our data that are categorized into discrete groups. For example, our variables that are factors, are discrete variables
+
+```{r}
+summary(data$Trial)
+```
+```{r}
+summary(data$Treatment)
+```
+```{r}
+summary(data$Species)
+```
+
+We can visualize discrete data using geom_bar()
+
+```{r}
+ggplot(data,aes(Species))+geom_bar()
+```
+
+This plot is telling us how many observations were made for each (discrete) group. 
+
+Remember that at least 10 measurements were made for each plant, so these observations do not represent each plant. We will learn to summarize (average) the observations per plant in [Session 4](http://jmhulbert.github.io/r/bio/s4). 
+
+Note that we did not take many measurements from plants that were infected with both pathogens. We ultimately did not have enough time to measure the physiological response for that group. 
+
+> As a side note, I often prefer to flip the coordinates so that the labels read better. 
+
+We can flip the axises using +coord_flip()
+
+```{r}
+ggplot(data,aes(Species))+geom_bar() +coord_flip()
+```
+
+Looks like we measured less plants infected with the exotic pathogen than plants infected with indigenous pathogen or the controls. 
+
+Lets include one more discrete variable by adding a fill command and chaning the position.
+
+```{r}
+ggplot(data,aes(Species,fill=Treatment))+geom_bar(position="dodge") +coord_flip()
+```
+
+Looks like we measured a few more plants from the Wet treatment than from the drought treatment. 
+
+#### Two Variable Plots
+
+Now we can look at a few plots with two variables where we define x and y.
+
+##### Continuous x, Continous y
+
+We can see if there is a relationship between Phyotosyntehsis and Conductance. Then we can see if that relationship changes if plants are infected with pathogens.
+
+###### Point Plots
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance))+geom_point()
+```
+
+Pretty messy, but it looks like there is a linear trend as we would expect. 
+
+This time if we want to compare different treatments or other categories, we have to use the 'color=' command rather than the 'fill='. 
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance,color=Trial))+geom_point()
+```
+
+###### Line Plots
+
+The below plot essentially draws lines between points
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance))+geom_line()
+```
+
+We can use geom_smooth() command to essentially average our data. 
+
+    + we may want to check the helpfile for geom_smooth to see exactly what it is doing. 
+    
+```{r eval=FALSE}
+?geom_smooth()
+```
+
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance))+geom_smooth()
+```
+
+Not suprising, there is a linear relationship between the response variables. 
+
+We may also want to look at it linearly by defining the method in the geom_smooth() command. 
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance))+geom_smooth(method=lm)
+```
+
+Now lets see if they differ between treatments or species.
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance,linetype=Treatment))+geom_smooth(method=lm) #note that we define a linetype in this.
+```
+
+Interesting, the relationship has a steeper slope for plants in the wet trial. 
+
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance,linetype=Treatment,color=Species))+geom_smooth(method=lm) #note that we add color and linetype commands
+```
+
+Ok, clearly the plot is getting quite complicated once we start adding multiple grouping variables. This is a good time to introduce 'facet wrapping'.
+
+###### Facet Wrapping
+
+ggplot has a neat way to create plots side by side using a command called facet_wrap. 
+
+Here we can split the above plot into two seperate plots for each treatment. 
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance,color=Species))+geom_smooth(method=lm) +facet_wrap(~Treatment)#note that add Treatment as a facet_wrap argument rather than as a linetype. 
+```
+
+Well the plot is still pretty messy, but the differences between treatments are clearer. 
+
+We can also arrange facets differently
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance,color=Treatment))+geom_smooth(method=lm) +facet_wrap(~Species) #here we switched treatment and species
+```
+
+And we can define how many columns or rows we want to present the facets in. 
+
+```{r}
+ggplot(data,aes(Photosynthesis,Conductance,color=Treatment))+geom_smooth(method=lm) +facet_wrap(~Species,nrow=1) #here we define nrow=1
+```
+
+##### Discrete x, Continous y
+
+The final group of plots that we will cover in this session involve one (discrete) grouping variable and one continous variable. 
+
+###### Boxplots
+
+Boxplots are commonly used to visualize differences in distributions between groups. 
+
+```{r}
+ggplot(data,aes(Species,Photosynthesis))+geom_boxplot()
+```
+
+Note that boxplots show the median, not the mean. We will learn to calculate and visualize means and standard errors in [Session 3](http://jmhulbert.github.io/r/fabi/s3).
+
+
+```{r}
+ggplot(data,aes(Species,Photosynthesis))+geom_boxplot() +coord_flip()
+```
+
+It looks like the plants infected with pathogens had lower median Photosynthesis values overall. 
+
+```{r}
+ggplot(data,aes(Species,Photosynthesis,fill=Treatment))+geom_boxplot(position="dodge") +coord_flip()
+```
+
+Here we can see that drought substantially lowered the levels of Photosynthesis. 
+
+So there is one major limitation to the plots above. There is something that we are not accounting for. As plant pathologists, plant scientists, and mycologists can you guess what is?
+
+Lets look at our columns again
+
+```{r}
+names(data)
+```
+
+Do you see any variables that might be important to include to see a difference between our Species groups?
+
+
+```{r}
+str(data$Days.after.inoculation)
+```
+
+Here R recognizes days after inoculation as a integer. Lets see what happens if we try to plot that on the x axis.
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,fill=Species))+geom_boxplot(position="dodge")+facet_wrap(~Treatment)
+```
+
+Not quite what we looking for. We want to see if the photosynthesis levels change over time since infection. 
+Lets try if we set Days.after.inoculation as a factor. 
+
+```{r}
+data$Days.after.inoculation <- as.factor(data$Days.after.inoculation)
+```
+
+```{r}
+ggplot(data,aes(Days.after.inoculation,Photosynthesis,fill=Species))+geom_boxplot(position="dodge")+facet_wrap(~Treatment,ncol=1)
+```
+
+Ok, things are getting very complex. 
+
+

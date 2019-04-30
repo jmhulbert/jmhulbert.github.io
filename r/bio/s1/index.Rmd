@@ -25,6 +25,7 @@ output:
     + [Home](http://jmhulbert.github.io/r/bio/)
     + [Pre-session instructions](http://jmhulbert.github.io/r/bio/pre)
     + [Session 1](http://jmhulbert.github.io/r/bio/s1)
+    + [Session 2](http://jmhulbert.github.io/r/bio/s2)
     + [Mock Data](http://jmhulbert.github.io/r/bio/data)
 
 ## Introduction

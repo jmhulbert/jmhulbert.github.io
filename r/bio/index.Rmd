@@ -19,7 +19,7 @@ The purpose of this page is to provide resources for the *R for Biology Data Sci
         + [Session 1 - Introduction to RStudio](http://jmhulbert.github.io/r/bio/s1).
             + Learn the basics of coding, importing data, installing packages, and managing projects.
     + April 30, 2019. 
-        + [Session 2](http://jmhulbert.github.io/r/bio/s2) - Introduction to data visualization with ggplot2 **Part 1**.
+        + [Session 2 - Introduction to data visualization with ggplot2 **Part 1**](http://jmhulbert.github.io/r/bio/s2).
             + Create plots (histograms, boxplots, barplots), faceting, adjustments, etc.
     + May 7, 2019. 
         + Session 3 - Introduction to data visualization with ggplot2 **Part 2**.
