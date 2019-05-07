@@ -62,12 +62,13 @@ data <- read.csv("Silver Tree Study.csv") #again, for this to work, you need to 
 
 You can download the mock data [here](http://jmhulbert.github.io/r/bio/data).
 
-#### Part 1 Recap
+## Part 1 Recap
 
 Remember that we went through examples of plots following the structure of the [ggplot cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf), first plotting one *continuous* variable, then moving to two variables (one *discrete* and one *continuous*)
 
-##### One Variable Plots
+### ggplot2
 
+#### One Variable Plots
 
 ###### Continuous Data
 
@@ -95,11 +96,11 @@ Now we can see that observation is filtered out of the plot below.
 ggplot(data.filtered,aes(Photosynthesis))+geom_histogram() #note this time we used 'data.filtered'.
 ```
 
-##### Two Variable Plots
+#### Two Variable Plots
 
-###### Discrete x, Continous y
+##### Discrete x, Continous y
 
-####### Boxplots
+###### Boxplots
 
 Boxplots are commonly used to show data.filtered distributions between groups. 
 
@@ -118,7 +119,9 @@ ggplot(data.filtered,aes(Days.after.inoculation.factored,Photosynthesis,fill=Spe
 ```
 
 
-###### Continuous x, Continuous y
+##### Continuous x, Continuous y
+
+###### Linear model plots
 
 Lets look at the data if we keep 'Days.after.inoculation' as an integer rather than a factor. Thus, we are plotting a continuous variable. 
 
@@ -131,7 +134,7 @@ ggplot(data.filtered,aes(Days.after.inoculation,Photosynthesis,linetype=Treatmen
 ```
 
 
-### Part 2
+## Part 2
 
 #### ggplot2 Extras
 ##### Labels
