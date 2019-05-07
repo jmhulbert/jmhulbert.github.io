@@ -15,14 +15,14 @@ knitr::opts_chunk$set(echo = FALSE,message=FALSE, warning=FALSE)
 The purpose of this page is to provide resources for the *R for Biology Data Science* Workshop Series for postgrad students and postdocs in the [Faculty of Natural and Agricultural Sciences](https://www.up.ac.za/faculty-of-natural-agricultural-sciences) at the [University of Pretoria](https://www.up.ac.za/) in South Africa. 
 
 * Workshop Series
-    + April 23, 2019. **(Please note this session only starts at 4pm)**
+    + April 23, 2019. 
         + [Session 1 - Introduction to RStudio](http://jmhulbert.github.io/r/bio/s1).
             + Learn the basics of coding, importing data, installing packages, and managing projects.
     + April 30, 2019. 
         + [Session 2 - Introduction to data visualization with ggplot2 **Part 1**](http://jmhulbert.github.io/r/bio/s2).
             + Create plots (histograms, boxplots, barplots), faceting, adjustments, etc.
     + May 7, 2019. 
-        + Session 3 - Introduction to data visualization with ggplot2 **Part 2**.
+        + [Session 3 - Introduction to data visualization with ggplot2 **Part 2**](http://jmhulbert.github.io/r/bio/s3).
             + Customizing plot aesthetics (colors, labels, italics, etc.), saving and exporting.
     + May 14, 2019.
         + **No session offered**
@@ -77,13 +77,13 @@ names(rsvp)
 ### Department
 
 ```{r}
-ggplot(rsvp,aes(Department,fill=Department))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(Department,fill=Department))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw() +labs(y="Number of Participants")
 ```
 
 ### Academic Standing
 
 ```{r}
-ggplot(rsvp,aes(Academic.Standing,fill=Academic.Standing))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(Academic.Standing,fill=Academic.Standing))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()+labs(y="Number of Participants")
 ```
 
 ### Year
@@ -91,7 +91,7 @@ ggplot(rsvp,aes(Academic.Standing,fill=Academic.Standing))+geom_histogram(stat="
 Year in academic position
 
 ```{r}
-ggplot(rsvp,aes(Year.in.current.position.,fill=Year.in.current.position.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(Year.in.current.position.,fill=Year.in.current.position.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()+labs(y="Number of Participants")
 ```
 
 ### Data availability
@@ -99,7 +99,7 @@ ggplot(rsvp,aes(Year.in.current.position.,fill=Year.in.current.position.))+geom_
 Do you have your own data? 
 
 ```{r}
-ggplot(rsvp,aes(Do.you.have.your.own.data.,fill=Do.you.have.your.own.data.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(Do.you.have.your.own.data.,fill=Do.you.have.your.own.data.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()+labs(y="Number of Participants")
 ```
 
 ### Computer Availability
@@ -107,7 +107,7 @@ ggplot(rsvp,aes(Do.you.have.your.own.data.,fill=Do.you.have.your.own.data.))+geo
 Do you have a computer you can bring to the sessions?
 
 ```{r}
-ggplot(rsvp,aes(Do.you.have.a.computer.you.can.bring.to.the.sessions.,fill=Do.you.have.a.computer.you.can.bring.to.the.sessions.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(Do.you.have.a.computer.you.can.bring.to.the.sessions.,fill=Do.you.have.a.computer.you.can.bring.to.the.sessions.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()+labs(y="Number of Participants")
 ```
 
 ### R Familiarity
@@ -115,13 +115,13 @@ ggplot(rsvp,aes(Do.you.have.a.computer.you.can.bring.to.the.sessions.,fill=Do.yo
 Have you used R before?
 
 ```{r}
-ggplot(rsvp,aes(Have.you.used.R.before.,fill=Have.you.used.R.before.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(Have.you.used.R.before.,fill=Have.you.used.R.before.))+geom_histogram(stat="count")+coord_flip()+guides(fill="none")+theme_bw()+labs(y="Number of Participants")
 ```
 
 If so, how often? (1=never, 10=everday)
 
 ```{r}
-ggplot(rsvp,aes(If.so..how.often..,fill=If.so..how.often..))+geom_histogram(stat="count")+guides(fill="none")+theme_bw()
+ggplot(rsvp,aes(If.so..how.often..,fill=If.so..how.often..))+geom_histogram(stat="count")+guides(fill="none")+theme_bw()+labs(y="Number of Participants")
 ```
 
 ## 

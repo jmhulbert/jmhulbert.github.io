@@ -73,7 +73,7 @@ h6 {
 }
 </style>
 
-<link href="data:text/css;charset=utf-8,%23TOC%20%7B%0Aposition%3A%20fixed%3B%0Aleft%3A%200%3B%0Atop%3A%200%3B%0Awidth%3A%2015%25%3B%0Aoverflow%3Aauto%3B%0A%7D%0Abody%20%7B%0Awidth%3A%20100%25%3B%0Amargin%2Dleft%3A%2D15%25%3B%0Aline%2Dheight%3A20px%3B%0A%7D" rel="stylesheet" type="text/css" />
+<link href="data:text/css;charset=utf-8,%23TOC%20%7B%0Aposition%3A%20fixed%3B%0Aleft%3A%200%3B%0Atop%3A%200%3B%0Awidth%3A%2020%25%3B%0Aoverflow%3Aauto%3B%0A%7D%0Abody%20%7B%0Awidth%3A%20100%25%3B%0Amargin%3Aauto%3B%0Aline%2Dheight%3A20px%3B%0A%7D" rel="stylesheet" type="text/css" />
 
 </head>
 
@@ -291,12 +291,12 @@ div.tocify {
 <h3>Load Packages</h3>
 <p>Once a package is installed, we can load it into our R session as below.</p>
 <pre class="r"><code>library(tidyverse)</code></pre>
-<pre><code>## ── Attaching packages ─────────────────────── tidyverse 1.2.1 ──</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────── tidyverse 1.2.1 ──</code></pre>
 <pre><code>## ✔ ggplot2 3.1.0     ✔ purrr   0.2.5
 ## ✔ tibble  1.4.2     ✔ dplyr   0.7.8
 ## ✔ tidyr   0.8.2     ✔ stringr 1.3.1
 ## ✔ readr   1.1.1     ✔ forcats 0.3.0</code></pre>
-<pre><code>## ── Conflicts ────────────────────────── tidyverse_conflicts() ──
+<pre><code>## ── Conflicts ────────────────────────────────── tidyverse_conflicts() ──
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()</code></pre>
 <blockquote>
@@ -389,12 +389,12 @@ div.tocify {
 <p>The general format for the ggplot command is:</p>
 <div id="long-command-version" class="section level5">
 <h5>Long command version</h5>
-<pre class="r"><code>ggplot(data=df, mapping=aes(x-variable, y-variable, other aesthetics such as color))</code></pre>
+<pre class="r"><code>#ggplot(data=df, mapping=aes(x-variable, y-variable, other aesthetics such as color))</code></pre>
 </div>
 <div id="short-command-version" class="section level5">
 <h5>Short command version</h5>
 <p>We can also run the same command without specifying data= or mapping =</p>
-<pre class="r"><code>ggplot(df,aes(x-variable, y-variable, other aesthetics))</code></pre>
+<pre class="r"><code>#ggplot(df,aes(x-variable, y-variable, other aesthetics))</code></pre>
 <p>Then we can add + geom_col() or +geom_boxplot() depending on which type of plot we want.</p>
 </div>
 </div>

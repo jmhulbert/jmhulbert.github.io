@@ -196,7 +196,7 @@ The general format for the ggplot command is:
 ##### Long command version
 
 ```{r eval=FALSE}
-ggplot(data=df, mapping=aes(x-variable, y-variable, other aesthetics such as color))
+#ggplot(data=df, mapping=aes(x-variable, y-variable, other aesthetics such as color))
 ```
 
 ##### Short command version
@@ -204,7 +204,7 @@ ggplot(data=df, mapping=aes(x-variable, y-variable, other aesthetics such as col
 We can also run the same command without specifying data= or mapping = 
 
 ```{r eval=FALSE}
-ggplot(df,aes(x-variable, y-variable, other aesthetics))
+#ggplot(df,aes(x-variable, y-variable, other aesthetics))
 ```
 
 Then we can add + geom_col() or +geom_boxplot() depending on which type of plot we want. 

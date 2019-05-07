@@ -614,7 +614,7 @@ ggplot(data,aes(Species,Photosynthesis,fill=Treatment))+geom_boxplot(position="d
 
 ##### Add Text
 
-> Warning: below is a super messy example. For a better example, check the geom_text section of [Session 3](http://jmhulbert.github.io/r/s3)
+> Warning: below is a super messy example. For a better example, check the geom_text section of [Session 3](http://jmhulbert.github.io/r/fabi/s3)
 
 
 Suppose we want to add text to a plot. Perhaps we want to see which plant a given point our plot is. For this we can use the geom_text command. ›
