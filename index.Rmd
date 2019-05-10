@@ -58,7 +58,15 @@
 <p>2016-</p>
 </td>
 <td width="892">
-<p>Project leader, <em>Cape Citizen Science </em>(<a href="http://citsci.co.za">http://citsci.co.za</a>), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.</p>
+<p>Project leader, <em>Cape Citizen Science </em>(<a href="http://citsci.co.za/">http://citsci.co.za/</a>), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018-2019</p>
+</td>
+<td width="892">
+<p>Workshop organizer and instructor, <em>R for biology and ecology workshop series</em> (<a href="https://jmhulbert.github.io/r/">https://jmhulbert.github.io/r/</a>), two series offered at University of Pretoria and one series offered at Stellenbosch University.</p>
 </td>
 </tr>
 <tr>
@@ -66,16 +74,17 @@
 <p>2012-2014</p>
 </td>
 <td width="892">
-<p>Co-founder, <em>Inspiration Dissemination</em> <a href="http://blogs.oregonstate.edu/inspiration/">(http://blogs.oregonstate.edu/inspiration/)</a>, KBVR 88.7fm, Oregon State University.</p>
+<p>Co-founder, <em>Inspiration Dissemination</em> (<a href="http://blogs.oregonstate.edu/inspiration/">http://blogs.oregonstate.edu/inspiration/</a>), KBVR 88.7fm, Oregon State University.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong></p>
 <p><strong>PUBLICATIONS</strong></p>
+<p><strong>Hulbert JM</strong>, Roets F, Burgess T, Wingfield M. (submitted). Exotic and putatively native <em>Phytophthora</em> species are associated with distinct plant communities in southern Afrotemperate Forests.</p>
 <p><strong>Hulbert JM</strong>, Turner SC, Scott SL. (in press). Challenges and solutions to establishing and sustaining citizen science projects in South Africa, <em>South African Journal of Science</em>.</p>
 <p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (submitted). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
-<p><strong>Hulbert JM</strong> (in press). Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>.</p>
+<p><strong>Hulbert JM</strong> 2019. Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019.</p>
 <p>Ryan SF and 41 others, 2018. The role of citizen science in addressing grand challenges in food and agriculture research, <em>Proceedings of the Royal Society B</em>. Vol. 285, Issue 1891. DOI: 710.1098/rspb.2018.1977. </p>
 <p><strong>Hulbert JM</strong>, Roets F. 2018. Science engagement in South Africa. <em>Science</em>, 361(6406):985. DOI: 10.1126/science.aav1499.</p> 
 <p><strong>Hulbert JM</strong>, Agne M, Burgess T, Roets F, Wingfield M. 2017. Urban environments provide opportunities for early detections of <em>Phytophthora </em>invasions, <em>Biological Invasions</em> 19:3629&ndash;3644. DOI: 10.1007/s10530-017-1585-z.</p>
@@ -777,7 +786,7 @@
 </tr>
 </tbody>
 </table>
-<p><em><u>Workshop Series Lectures</u></em></p>
+<p><em><u>Workshop Series (multiple sessions)</u></em></p>
 <table>
 <tbody>
 <tr>
@@ -785,7 +794,7 @@
 <p>2019</p>
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute,  <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, Introduction to R Markdown.</em></p>
+<p>University of Pretoria, Faculty of Natural and Agricultural Sciences, <a href="http://jmhulbert.github.io/r/bio/" ><em>R for biology data science workshop series</a> (5 sessions, 76 participants, packages: ggplot2 and dplyr). </em></p>
 </td>
 </tr>
 <tr>
@@ -793,31 +802,7 @@
 <p>2019</p>
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to multivariate analysis with Vegan.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2019</p>
-</td>
-<td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to data transformation with dplyr.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2019</p>
-</td>
-<td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to data visualization with ggplot2.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2019</p>
-</td>
-<td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/" >RStudio and R package workshop series</a>, <em>Introduction to R and RStudio.</em></p>
+<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/fabi/" ><em>RStudio and R package workshop series</a> (5 sessions, 35 participants, packages: ggplot2, dplyr, vegan and Markdown). </em></p>
 </td>
 </tr>
 <tr>
@@ -825,31 +810,7 @@
 <p>2018</p>
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Multivariate analysis with R-package vegan.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Data transformation with R-package dplyr.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Data visulization with R-package ggplot2.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>Introduction to Rstudio.</em></p>
+<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>RStudio and R package workshop series (4 sessions, 23 participants, packages: ggplot2, dplyr, and vegan).</em></p>
 </td>
 </tr>
 </tbody>
@@ -1658,7 +1619,7 @@
 <p>2018-</p>
 </td>
 <td width="892">
-<p>Online CV (jmhulbert.github.io).</p>
+<p>R Workshop Series (jmhulbert.github.io/r/).</p>
 </td>
 </tr>
 <tr>
