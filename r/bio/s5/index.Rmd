@@ -2,7 +2,7 @@
 title: "R for Biology Data Science - Session 5 - Introduction to dplyr part 2"
 subtitle: "Faculty of Natural and Agricultural Sciences, University of Pretoria"
 author: "Joey Hulbert"
-date: "5/21/2019"
+date: "5/28/2019"
 output:
   html_document:
     toc: true
