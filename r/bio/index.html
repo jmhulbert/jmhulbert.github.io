@@ -70,9 +70,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -97,22 +95,92 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -122,9 +190,9 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">R for Biology Data Science Workshop Series</h1>
-<h3 class="subtitle"><em>Faculty of Natural and Agricultural Sciences, University of Pretoria</em></h3>
-<h4 class="author"><em>Joey Hulbert</em></h4>
-<h4 class="date"><em>April 23 - May 30, 2019</em></h4>
+<h3 class="subtitle">Faculty of Natural and Agricultural Sciences, University of Pretoria</h3>
+<h4 class="author">Joey Hulbert</h4>
+<h4 class="date">April 23 - May 30, 2019</h4>
 
 </div>
 
@@ -162,14 +230,14 @@ $(document).ready(function () {
 </ul></li>
 <li>May 21, 2019.
 <ul>
-<li>Session 4 - Introduction to data transformation with dplyr <strong>Part 1</strong>.
+<li><a href="http://jmhulbert.github.io/r/bio/s4">Session 4 - Introduction to data transformation with dplyr <strong>Part 1</strong></a>.
 <ul>
 <li>Filter data, summarize data (e.g. easily calculate means for groups), add variables.</li>
 </ul></li>
 </ul></li>
 <li>May 28, 2019.
 <ul>
-<li>Session 5 - Introduction to data transformation with dplyr <strong>Part 2</strong>.
+<li><a href="http://jmhulbert.github.io/r/bio/s5">Session 5 - Introduction to data transformation with dplyr <strong>Part 2</strong></a>.
 <ul>
 <li>Merge datasets, combine tables, introduction to stringr, introduction to R markdown.</li>
 </ul></li>

@@ -7,7 +7,8 @@ output:
   html_document:
     toc: true
     toc_depth: 5
-    toc_float: true
+    toc_float:
+      collapsed: FALSE
 ---
 
 <script>
@@ -25,6 +26,7 @@ output:
     + [Pre-session instructions](http://jmhulbert.github.io/r/bio/pre)
     + [Session 1](http://jmhulbert.github.io/r/bio/s1)
     + [Session 2](http://jmhulbert.github.io/r/bio/s2)
+    + [Session 3](http://jmhulbert.github.io/r/bio/s3)
     + [Mock Data](http://jmhulbert.github.io/r/bio/data)
     
 ```{r include=FALSE}
@@ -34,7 +36,7 @@ library(knitr)
 
 ## Introduction
 
-Welcome to the third session of our workshop series. The purpose of this page is to serve as a guide for the material we will cover during the session. We will learn to summarize and transform data using the [dplyr](https://dplyr.tidyverse.org/) package in our session today. 
+Welcome to the fourth session of our workshop series. The purpose of this page is to serve as a guide for the material we will cover during the session. We will learn to summarize and transform data using the [dplyr](https://dplyr.tidyverse.org/) package in our session today. 
 
 
 ```{r include=FALSE}
@@ -46,7 +48,7 @@ library(tidyverse)
 ```
 
 
-For more information about dyplr, check out the help file
+For more information about dplyr, check out the help file
 
 ```{r}
 ?dplyr #note you need to index the tidyverse package for this to work

@@ -27,10 +27,10 @@ The purpose of this page is to provide resources for the *R for Biology Data Sci
     + May 14, 2019.
         + **No session offered**
     + May 21, 2019. 
-        + Session 4 - Introduction to data transformation with dplyr **Part 1**.
+        + [Session 4 - Introduction to data transformation with dplyr **Part 1**](http://jmhulbert.github.io/r/bio/s4).
             + Filter data, summarize data (e.g. easily calculate means for groups), add variables. 
     + May 28, 2019. 
-        + Session 5 - Introduction to data transformation with dplyr **Part 2**.
+        + [Session 5 - Introduction to data transformation with dplyr **Part 2**](http://jmhulbert.github.io/r/bio/s5).
             + Merge datasets, combine tables, introduction to stringr, introduction to R markdown. 
 
 
