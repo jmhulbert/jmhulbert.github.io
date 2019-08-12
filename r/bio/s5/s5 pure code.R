@@ -1,39 +1,33 @@
 
 library(tidyverse)
 
-
-### Index our data
+### Index our data ####
 
 data <- read.csv('Silver Tree Study.csv')
 
-
-### Filter
+### Filter ####
 
 data.filtered <- data %>% filter(Photosynthesis<300)
 
 nrow(data)
 nrow(data.filtered)
 
-
-### Mutate
-
+### Mutate ####
 
 data.filtered.new.column <- data %>% mutate(new.column = Photosynthesis/Conductance)
 
 ncol(data.filtered)
 ncol(data.filtered.new.column)
 
+### Summarize ####
 
-### Summarize
+Treatment.mean <- data.filtered %>% group_by(Treatment,Species) %>% summarize(n=n(), mean.photo=mean(Photosynthesis),sd=sd(Photosynthesis),se = sd / sqrt(n),lowse = (mean.photo-se),highse = (mean.photo+se))
+Treatment.mean
+library(knitr)
 
+kable(Treatment.mean,align="c") ## note the kniter:: is telling r to look for the kable command in the knitter package. If you index(load) the knittr package at the beginning of your session, you can just write kable()
 
-Treatment.mean <- data.filtered %>% group_by(Treatment,Species) %>% summarize(n=n(), mean=mean(Photosynthesis),sd=sd(Photosynthesis),se = sd / sqrt(n),lowse = (mean-se),highse = (mean+se))
-
-
-knitr::kable(Treatment.mean,align="c") ## note the kniter:: is telling r to look for the kable command in the knitter package. If you index(load) the knittr package at the beginning of your session, you can just write kable()
-
-### Merge datasets
-
+### Merge datasets ####
 
 Total.plants.per.day <- data.filtered %>% group_by(Days.after.inoculation) %>% summarize(Total=n_distinct(Unique.Sample.Number))
 
@@ -44,14 +38,14 @@ Plants.overall <- left_join(Plants.per.treatment.per.day,Total.plants.per.day,by
 
 Plants.overall <- Plants.overall %>% mutate(Proportion=Number.of.Plants/Total)
 kable(Plants.overall,align="c")
+?round()
 
-Plants.overall <- Plants.overall %>% mutate(Proportion=round(Number.of.Plants/Total,2))
+Plants.overall <- Plants.overall %>% mutate(Proportion=round(Number.of.Plants/Total,digits=2))
 kable(Plants.overall,align="c")
 
+### Other handy packages in tidyverse ####
 
-### Other handy packages in tidyverse
-
-#### Stringr
+#### Stringr ####
 
 data.with.new.column <- data.filtered %>% mutate(and.and.and = "one & two & three") #and.and.and is the name of the new column, which is just a 'string' of text copied in every row.
 levels(data.with.new.column$and.and.and)
@@ -59,4 +53,18 @@ levels(data.with.new.column$and.and.and)
 data.new.rows <-separate_rows(data.with.new.column, and.and.and, sep = "&")
 levels(data.new.rows$and.and.and)
 
+levels(data.filtered$Treatment)
+photo.wet <- data.filtered %>% filter(Treatment=="Wet")
+photo.drought <- data.filtered %>% filter(Treatment=="Drought")
 
+?anova
+
+ggplot(data.filtered,aes(log(Photosynthesis)))+geom_histogram()+facet_wrap(~Treatment)
+
+
+t.test(photo.wet$Photosynthesis,photo.drought$Photosynthesis)
+?aov
+model <- aov(Photosynthesis~Species,data=data.filtered)
+
+summary(model)
+TukeyHSD(model)
