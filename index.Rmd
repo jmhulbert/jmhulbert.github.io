@@ -81,20 +81,23 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>PUBLICATIONS</strong></p>
-<p>Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, <strong>Hulbert JM</strong>, Kyba C, Larson L,  Lewandowski E, Shanley L. 2019. The problem with delineating narrow criteria for citizen science. Proceedings of the National Academy of Sciences 116(31). DOI: 10.1073/pnas.1909278116.</p>
+<p><strong>Hulbert JM</strong>, Paap T, Burgess T, Roets F, Wingfield M. (pre-proof online). Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. Urban Forestry and Urban Greening. DOI: 10.1016/j.ufug.2019.126461. </p>
 <p><strong>Hulbert JM</strong>, Turner SC, Scott SL. 2019. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, <em>South African Journal of Science</em>, 115(7/8). DOI: 10.17159/sajs.2019/5844.</p>
-<p><strong>Hulbert JM</strong> 2019. Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019. DOI: 10.1353/nib.2019.0024.</p>
-<p>Ryan SF and 41 others, 2018. The role of citizen science in addressing grand challenges in food and agriculture research, <em>Proceedings of the Royal Society B</em>. Vol. 285, Issue 1891. DOI: 710.1098/rspb.2018.1977.</p>
+<p>Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, <strong>Hulbert JM</strong>, Kyba C, Larson L,  Lewandowski E, Shanley L. 2019. The problem with delineating narrow criteria for citizen science. Proceedings of the National Academy of Sciences 116(31). DOI: 10.1073/pnas.1909278116.</p><p><strong>Hulbert JM</strong> 2019. Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019. DOI: 10.1353/nib.2019.0024.</p>
+<p>Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, <strong>Hulbert JM</strong>, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019. ‘Biodiversity provides opportunities for citizen science’ chapter in National Biodiversity Assessment 2018 Supplementary Material: Compendium of Benefits of Biodiversity. South African National Biodiversity Institute, Pretoria. Report number: http://hdl.handle.net/20.500.12143/6491 </p>
 <p><strong>Hulbert JM</strong>, Roets F. 2018. Science engagement in South Africa. <em>Science</em>, 361(6406):985. DOI: 10.1126/science.aav1499.</p> 
+<p>Ryan SF and 41 others, 2018. The role of citizen science in addressing grand challenges in food and agriculture research, <em>Proceedings of the Royal Society B</em>. Vol. 285, Issue 1891. DOI: 710.1098/rspb.2018.1977.</p>
 <p><strong>Hulbert JM</strong>, Agne M, Burgess T, Roets F, Wingfield M. 2017. Urban environments provide opportunities for early detections of <em>Phytophthora </em>invasions, <em>Biological Invasions</em> 19:3629&ndash;3644. DOI: 10.1007/s10530-017-1585-z.</p>
 <p><strong>Hulbert JM</strong>. 2016. Citizen science tools available for ecological research in South Africa, <em>South African Journal of Science</em>, 112:5/6. DOI: 10.17159/sajs.2016/a0152.</p>
 <p>Peterson E, Hansen EM, <strong>Hulbert JM</strong>. 2014. Source or Sink? The role of soil and water borne inoculum in the dispersal of <em>Phytophthora ramorum </em>in Oregon tanoak forests. <em>Forest Ecology and Management</em>, 322:48-57. DOI: 10.1016/j.foreco.2014.02.031.</p>
 <p>&nbsp;</p>
 <p><strong>SUBMITTED MANUSCRIPTS</strong></p>
 <p><strong>Hulbert JM</strong>, Roets F, Burgess T, Wingfield M. (submitted). Exotic and putatively native <em>Phytophthora</em> species are associated with distinct plant communities in southern Afrotemperate Forests.</p>
-<p><strong>Hulbert JM</strong>, Paap T, Burgess T, Roets F, Wingfield M. (in press). Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. </p>
 <p>Louw NL, Roets F, <strong>Hulbert JM</strong> (submitted). Molecular techniques reveal additional factors in the decline of the endangered silver tree (<em>Leucadendron argenteum</em>).</p>
 <p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (submitted). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
+<p>&nbsp;</p>
+<p><strong>MANUSCRIPTS IN PREP</strong></p>
+<p><strong>Hulbert JM</strong>, Roets F,  Burgess T, Wingfield M. (in prep). Citizen science can enhance biosecurity in developing economies. </p> 
 <p>&nbsp;</p>
 <p><strong>ACADEMIC HONORS &amp; AWARDS</strong></p>
 <table width="892">
