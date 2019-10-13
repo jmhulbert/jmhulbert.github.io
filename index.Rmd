@@ -93,8 +93,8 @@
 <p>&nbsp;</p>
 <p><strong>SUBMITTED MANUSCRIPTS</strong></p>
 <p><strong>Hulbert JM</strong>, Roets F, Burgess T, Wingfield M. (submitted). Exotic and putatively native <em>Phytophthora</em> species are associated with distinct plant communities in southern Afrotemperate Forests.</p>
-<p>Louw NL, Roets F, <strong>Hulbert JM</strong> (submitted). Molecular techniques reveal additional factors in the decline of the endangered silver tree (<em>Leucadendron argenteum</em>).</p>
-<p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (submitted). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
+<p>Louw NL, Roets F, <strong>Hulbert JM</strong> (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (<em>Leucadendron argenteum</em>).</p>
+<p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
 <p>&nbsp;</p>
 <p><strong>MANUSCRIPTS IN PREP</strong></p>
 <p><strong>Hulbert JM</strong>, Roets F,  Burgess T, Wingfield M. (in prep). Citizen science can enhance biosecurity in developing economies. </p> 
@@ -271,7 +271,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p><a href="https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika">Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika</a>, DOI:10.18258/8690</p>
+<p>Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, <a href="https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika">DOI:10.18258/8690</a></p>
 </td>
 </tr>
 <tr>
@@ -279,7 +279,7 @@
 <p>2015</p>
 </td>
 <td width="892">
-<p><a href="https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science">Discovering Plant Destroyers in South Africa with Citizen Science</a>, <br /> DOI:10.18258/2066</p>
+<p>Discovering Plant Destroyers in South Africa with Citizen Science, <a href="https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science">DOI:10.18258/2066</a></p>
 </td>
 </tr>
 </tbody>
@@ -427,8 +427,79 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CONFERENCE ORGANIZATION &amp; PANELS SERVED</strong></p>
+<p><em><u>Conference Organization</u></em></p>
+<table>
+<tbody>
+<tr>
+<td width="86">
+<p>2019</p>
+</td>
+<td width="892">
+<p>Session Coordinator, <em>Forest health defenders: empowering citizens to protect forests through research contributions</em>, IUFRO XXV World Congress, Curbita, Brazil.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Event Co-organizer, <em>South Africa Citizen Science Fair, International Citizen Science Day Event</em>, Kirstenbosch National Botanical Garden, Cape Town, South Africa.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2017</p>
+</td>
+<td width="892">
+<p>Session Coordinator, <em>Early detection and monitoring of invasive forest pests and pathogens with citizen science</em>, IUFRO 125th Anniversary Congress, Freiburg, Germany.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2014</p>
+</td>
+<td width="892">
+<p>Symposium Planning Committee, <em>Canopies to construction: the ecology, management and use of tomorrow’s forests</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013</p>
+</td>
+<td width="892">
+<p>Symposium Planning Committee, <em>Branching out: communicating forest research beyond academics</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em><u>Invited Panel Participation</u></em></p>
+<table>
+<tbody>
+<tr>
+<td width="86">
+<p>2015</p>
+</td>
+<td width="892">
+<p>Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2013</p>
+</td>
+<td width="892">
+<p>Maximizing Your Graduate Education, Fall Graduate School New Student Orientation, Oregon State University.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong>PRESENTATIONS AT PROFESSIONAL MEETINGS</strong></p>
 <p><em><u>International Conferences</u></em></p>
+<p><strong>Hulbert JM</strong>, 2019. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.</p>
+<p><strong>Hulbert JM</strong>, Burgess T, Roets F, Wingfield MJ. 2019. Non-scientist engagement in plant disease research in South Africa, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Burgess T, Roets F, Wingfield MJ. 2017. Public engagement to survey<em> Phytophthora</em> in South Africa, IUFRO Working Party <em>Phytophthora</em> in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roux J, Burgess T, Roets F, Wingfield MJ. 2017. Citizen science initiatives: opportunities to manage global forest pest challenges, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.</p>
 <p><strong>Hulbert JM</strong>, Roux J, Burgess T, Roets F, Wingfield MJ. 2017. Cape Citizen Science: public engagement to detect and discover <em>Phytophthora</em> species in South Africa, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.</p>
@@ -834,7 +905,7 @@
 </tbody>
 </table>
 <p><strong>&nbsp;</strong></p>
-<p><strong>EDUCATIONAL OUTREACH</strong></p>
+<p><strong>SCIENCE OUTREACH</strong></p>
 <p><em><u>Youth Engagement Activities</u></em></p>
 <table>
 <tbody>
@@ -1253,74 +1324,6 @@
 </td>
 <td width="892">
 <p>South Africa National Biodiversity Institute, <em>Introduction to </em>Phytophthora<em>: plant destroyers in South Africa</em>, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>CONFERENCE ORGANIZATION &amp; PANELS SERVED</strong></p>
-<p><em><u>Conference Organization</u></em></p>
-<table>
-<tbody>
-<tr>
-<td width="86">
-<p>2019</p>
-</td>
-<td width="892">
-<p>Session Coordinator, <em>Forest health defenders: empowering citizens to protect forests through research contributions</em>, IUFRO XXV World Congress, Curbita, Brazil.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Event Co-organizer, <em>South Africa Citizen Science Fair, International Citizen Science Day Event</em>, Kirstenbosch National Botanical Garden, Cape Town, South Africa.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>Session Coordinator, <em>Early detection and monitoring of invasive forest pests and pathogens with citizen science</em>, IUFRO 125th Anniversary Congress, Freiburg, Germany.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Symposium Planning Committee, <em>Canopies to construction: the ecology, management and use of tomorrow’s forests</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Symposium Planning Committee, <em>Branching out: communicating forest research beyond academics</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em><u>Invited Panel Participation</u></em></p>
-<table>
-<tbody>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="892">
-<p>Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Maximizing Your Graduate Education, Fall Graduate School New Student Orientation, Oregon State University.</p>
 </td>
 </tr>
 </tbody>
