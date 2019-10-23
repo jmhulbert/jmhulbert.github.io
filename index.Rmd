@@ -22,6 +22,20 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p><strong>WHERE NEXT?</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="86">
+<p>2020-</p>
+</td>
+<td width="892">
+<p>Currently seeking postdoctoral opportunities in North America.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong>EDUCATION</strong></p>
 <table>
 <tbody>
@@ -30,7 +44,7 @@
 <p>2015-2019 (expected)</p>
 </td>
 <td width="892">
-<p><strong>PhD </strong>Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant &amp; Soil Science, University of Pretoria, South Africa. Dissertation: Phytophthora <em>diversity in the Cape Floristic Region.</em> Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.</p>
+<p><strong>PhD </strong>Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant &amp; Soil Science, University of Pretoria, South Africa. Dissertation: <em>Phytophthora</em> diversity in the Cape Floristic Region. Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +60,7 @@
 <p>2012-2014</p>
 </td>
 <td width="892">
-<p><strong>Dual MSc</strong> Dept. of Botany &amp; Plant Pathology, Dept. of Wood Science &amp; Engineering, Oregon State University. Thesis:<em> Phytosanitation of Douglas-fir (</em>Pseudotsuga menziesii<em>) logs to mitigate the risk of artificially disseminating </em>Phytophthora ramorum<em> within the global trade of timber. </em>Advisors: Everett Hansen &amp; Jeff Morrell.</p>
+<p><strong>Dual MSc</strong> Dept. of Botany &amp; Plant Pathology, Dept. of Wood Science &amp; Engineering, Oregon State University. Thesis: Phytosanitation of Douglas-fir (<em>Pseudotsuga menziesii</em>) logs to mitigate the risk of artificially disseminating <em>Phytophthora ramorum</em> within the global trade of timber. Advisors: Everett Hansen &amp; Jeff Morrell.</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +68,7 @@
 <p>2006-2010</p>
 </td>
 <td width="892">
-<p><strong>BSc </strong>Dept. of Natural Resource Sciences, Washington State University. Undergraduate Thesis: <em>Influence of climatic variables on forest growth in the Sierra Nevada Mountains.</em></p>
+<p><strong>BSc </strong>Dept. of Natural Resource Sciences, Washington State University. Undergraduate Thesis: Influence of climatic variables on forest growth in the Sierra Nevada Mountains.</p>
 </td>
 </tr>
 </tbody>
@@ -69,6 +83,14 @@
 </td>
 <td width="892">
 <p>Project leader, <em>Cape Citizen Science </em>(<a href="http://citsci.co.za/">http://citsci.co.za/</a>), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2019-</p>
+</td>
+<td width="892">
+<p>Administrator, <em>Forest Health Citizen Science Network</em> (<a href="https://groups.io/g/ForestHealthCitSci">https://groups.io/g/ForestHealthCitSci</a>). </p>
 </td>
 </tr>
 <tr>
@@ -91,7 +113,7 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>PUBLICATIONS</strong></p>
-<p><strong>Hulbert JM</strong>, Paap T, Burgess T, Roets F, Wingfield M. (pre-proof online). Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. Urban Forestry and Urban Greening. DOI: 10.1016/j.ufug.2019.126461. </p>
+<p><strong>Hulbert JM</strong>, Paap T, Burgess T, Roets F, Wingfield M. Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. Urban Forestry and Urban Greening, 46:126461. DOI: 10.1016/j.ufug.2019.126461. </p>
 <p><strong>Hulbert JM</strong>, Turner SC, Scott SL. 2019. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, <em>South African Journal of Science</em>, 115(7/8). DOI: 10.17159/sajs.2019/5844.</p>
 <p>Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, <strong>Hulbert JM</strong>, Kyba C, Larson L,  Lewandowski E, Shanley L. 2019. The problem with delineating narrow criteria for citizen science. Proceedings of the National Academy of Sciences 116(31). DOI: 10.1073/pnas.1909278116.</p><p><strong>Hulbert JM</strong> 2019. Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019. DOI: 10.1353/nib.2019.0024.</p>
 <p>Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, <strong>Hulbert JM</strong>, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019. ‘Biodiversity provides opportunities for citizen science’ chapter in National Biodiversity Assessment 2018 Supplementary Material: Compendium of Benefits of Biodiversity. South African National Biodiversity Institute, Pretoria. Report number: http://hdl.handle.net/20.500.12143/6491 </p>
