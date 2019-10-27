@@ -90,7 +90,7 @@
 <p>2019-</p>
 </td>
 <td width="892">
-<p>Administrator, <em>Forest Health Citizen Science Network</em> (<a href="https://groups.io/g/ForestHealthCitSci">https://groups.io/g/ForestHealthCitSci</a>). </p>
+<p>Administrator, <em>Forest Health Citizen Science Community</em> (<a href="https://fhcs.page">https://fhcs.page/</a>). </p>
 </td>
 </tr>
 <tr>
@@ -1669,10 +1669,18 @@
 <tbody>
 <tr>
 <td width="86">
+<p>2019-</p>
+</td>
+<td width="892">
+<p>Forest Health Citizen Science Community, Github Pages (https://fhcs.page).</p>
+</td>
+</tr>
+<tr>
+<td width="86">
 <p>2018-</p>
 </td>
 <td width="892">
-<p>R Workshop Series (jmhulbert.github.io/r/).</p>
+<p>R Workshop Series, html & R Markdown (https://jmhulbert.github.io/r/).</p>
 </td>
 </tr>
 <tr>
@@ -1680,7 +1688,7 @@
 <p>2015-</p>
 </td>
 <td width="892">
-<p>Cape Citizen Science (citsci.co.za). </p>
+<p>Cape Citizen Science, Wordpress (https://citsci.co.za). </p>
 </td>
 </tr>
 <tr>
@@ -1688,7 +1696,7 @@
 <p>2015-2016</p>
 </td>
 <td width="892">
-<p>Personal website (jmhulbert.me).</p>
+<p>Personal website, Drupal (https://jmhulbert.me).</p>
 </td>
 </tr>
 <tr>
@@ -1696,7 +1704,7 @@
 <p>2013-2014</p>
 </td>
 <td width="892">
-<p>Inspiration Dissemination (oregonstate.edu/inspire).</p>
+<p>Inspiration Dissemination, Drupal (oregonstate.edu/inspire).</p>
 </td>
 </tr>
 <tr>
@@ -1704,7 +1712,7 @@
 <p>2013-2014</p>
 </td>
 <td width="892">
-<p>Botany and Plant Pathology Graduate Student Association (gsa.bpp.oregonstate.edu).</p>
+<p>Botany and Plant Pathology Graduate Student Association, Drupal (https://gsa.bpp.oregonstate.edu).</p>
 </td>
 </tr>
 <tr>
@@ -1712,7 +1720,7 @@
 <p>2013-2014</p>
 </td>
 <td width="892">
-<p>Western Forestry Graduate Research Symposium (gradsymp.forestry.oregonstate.edu).</p>
+<p>Western Forestry Graduate Research Symposium, Drupal (gradsymp.forestry.oregonstate.edu).</p>
 </td>
 </tr>
 <tr>
@@ -1720,7 +1728,7 @@
 <p>2013-2014</p>
 </td>
 <td width="892">
-<p>Forest Graduate Undergraduate Mentorship Program (gump.forestry.oregonstate.edu).</p>
+<p>Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonstate.edu).</p>
 </td>
 </tr>
 </tbody>
