@@ -1035,7 +1035,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>South African Education and Environment Project, <em>SAEP and Cape Citizen Science Present: Adventures in Helderberg Nature Reserve</em>, three activities (July 29, August 5, and October 7) Cape Town Municipality, Somerset West,</p>
+<p>South African Education and Environment Project, <em>SAEP and Cape Citizen Science Present: Adventures in Helderberg Nature Reserve</em>, three activities (July 29, August 5, and October 7), Cape Town Municipality, Somerset West,</p>
 </td>
 </tr>
 <tr>
@@ -1043,7 +1043,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>South African Education and Environment Project, <em>SAEP and Cape Citizen Science Present: Adventures in Cape Point</em>, Cape Point, Table Mountain National Park.</p>
+<p>South African Education and Environment Project, <em>SAEP and Cape Citizen Science Present: Adventures in Cape Point</em>, three activities (June 10, 17 and 24), Cape Point, Table Mountain National Park.</p>
 </td>
 </tr>
 <tr>
@@ -1120,7 +1120,15 @@
 <p>2018</p>
 </td>
 <td width="892">
-<p>Biodiversity Careers Day, Kirstenbosch Research Centre, Cape Town</p>
+<p>Science Forum South African, Council for Scientific and Industrial Research, Pretoria.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Biodiversity Careers Day, Kirstenbosch Research Centre, Cape Town.</p>
 </td>
 </tr>
 <tr>
@@ -1207,7 +1215,7 @@
 <p>2017</p>
 </td>
 <td width="892">
-<p>South Africa National Parks, <em>Forest </em>Phytophthoras<em>: Invisible threats or contributors to plant community diversity?</em> Garden Route National Park SANParks Office, Knysna, South Africa,</p>
+<p>South Africa National Parks, <em>Forest </em>Phytophthoras<em>: Invisible threats or contributors to plant community diversity?</em> Garden Route National Park SANParks Office, Knysna, South Africa.</p>
 </td>
 </tr>
 <tr>
@@ -1770,7 +1778,7 @@
 <tbody>
 <tr>
 <td width="86">
-<p>2015-2018</p>
+<p>2015-2019</p>
 </td>
 <td width="892">
 <p>Graduate Student, University of Pretoria, Dept. of Plant and Soil Sciences, Primary Supervisor: Mike Wingfield. Co-supervisors: Treena Burgess, Francois Roets.</p>
@@ -1781,7 +1789,7 @@
 <p>2012-2014</p>
 </td>
 <td width="892">
-<p>Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Supervisors: Everett Hansen, Jeff Morrell</p>
+<p>Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Supervisors: Everett Hansen, Jeff Morrell.</p>
 </td>
 </tr>
 <tr>
@@ -1789,7 +1797,7 @@
 <p>2011-2012</p>
 </td>
 <td width="892">
-<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton</p>
+<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton.</p>
 </td>
 </tr>
 <tr>
@@ -1805,7 +1813,7 @@
 <p>2009</p>
 </td>
 <td width="892">
-<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North</p>
+<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North.</p>
 </td>
 </tr>
 <tr>
@@ -1821,7 +1829,7 @@
 <p>2008</p>
 </td>
 <td width="892">
-<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho. Supervisors: Ned Klopfenstein, Mee-Sook Kim</p>
+<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho. Supervisors: Ned Klopfenstein, Mee-Sook Kim.</p>
 </td>
 </tr>
 <tr>
@@ -1829,7 +1837,7 @@
 <p>2007-2010</p>
 </td>
 <td width="892">
-<p>Research Technician, Washington State University, Dept. of Plant Pathology. Supervisor: Patricia Okubara</p>
+<p>Research Technician, Washington State University, Dept. of Plant Pathology. Supervisor: Patricia Okubara.</p>
 </td>
 </tr>
 <tr>
