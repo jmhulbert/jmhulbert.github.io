@@ -82,7 +82,7 @@
 <p>2016-</p>
 </td>
 <td width="892">
-<p>Project leader, <em>Cape Citizen Science </em>(<a href="http://citsci.co.za/">http://citsci.co.za/</a>), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.</p>
+<p>Project leader, <em>Cape Citizen Science </em>(<a href="https://citsci.co.za/">https://citsci.co.za/</a>), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.</p>
 </td>
 </tr>
 <tr>
@@ -113,19 +113,19 @@
 </table>
 <p>&nbsp;</p>
 <p><strong>PUBLICATIONS</strong></p>
-<p><strong>Hulbert JM</strong>, Paap T, Burgess T, Roets F, Wingfield M. 2019. Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. <em>Urban Forestry and Urban Greening</em>, 46:126461. DOI: 10.1016/j.ufug.2019.126461. </p>
+<p><strong>Hulbert JM</strong>, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019. Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. <em>Urban Forestry and Urban Greening</em>, 46:126461. DOI: 10.1016/j.ufug.2019.126461. </p>
 <p><strong>Hulbert JM</strong>, Turner SC, Scott SL. 2019. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, <em>South African Journal of Science</em>, 115(7/8). DOI: 10.17159/sajs.2019/5844.</p>
 <p>Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, <strong>Hulbert JM</strong>, Kyba C, Larson L,  Lewandowski E, Shanley L. 2019. The problem with delineating narrow criteria for citizen science. <em>Proceedings of the National Academy of Sciences</em>, 116(31). DOI: 10.1073/pnas.1909278116.</p><p><strong>Hulbert JM</strong> 2019. Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019. DOI: 10.1353/nib.2019.0024.</p>
 <p>Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, <strong>Hulbert JM</strong>, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019. ‘Biodiversity provides opportunities for citizen science’ chapter in <em>National Biodiversity Assessment 2018 Supplementary Material: Compendium of Benefits of Biodiversity</em>. South African National Biodiversity Institute, Pretoria. Report number: http://hdl.handle.net/20.500.12143/6491 </p>
 <p><strong>Hulbert JM</strong>, Roets F. 2018. Science engagement in South Africa. <em>Science</em>, 361(6406):985. DOI: 10.1126/science.aav1499.</p> 
 <p>Ryan SF and 41 others, 2018. The role of citizen science in addressing grand challenges in food and agriculture research, <em>Proceedings of the Royal Society B</em>. Vol. 285, Issue 1891. DOI: 710.1098/rspb.2018.1977.</p>
-<p><strong>Hulbert JM</strong>, Agne M, Burgess T, Roets F, Wingfield M. 2017. Urban environments provide opportunities for early detections of <em>Phytophthora </em>invasions, <em>Biological Invasions</em> 19:3629&ndash;3644. DOI: 10.1007/s10530-017-1585-z.</p>
+<p><strong>Hulbert JM</strong>, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017. Urban environments provide opportunities for early detections of <em>Phytophthora </em>invasions, <em>Biological Invasions</em> 19:3629&ndash;3644. DOI: 10.1007/s10530-017-1585-z.</p>
 <p><strong>Hulbert JM</strong>. 2016. Citizen science tools available for ecological research in South Africa, <em>South African Journal of Science</em>, 112:5/6. DOI: 10.17159/sajs.2016/a0152.</p>
 <p>Peterson E, Hansen EM, <strong>Hulbert JM</strong>. 2014. Source or Sink? The role of soil and water borne inoculum in the dispersal of <em>Phytophthora ramorum </em>in Oregon tanoak forests. <em>Forest Ecology and Management</em>, 322:48-57. DOI: 10.1016/j.foreco.2014.02.031.</p>
 <p>&nbsp;</p>
 <p><strong>SUBMITTED MANUSCRIPTS</strong></p>
-<p><strong>Hulbert JM</strong>, Roets F, Burgess T, Wingfield M. (submitted). Exotic and putatively native <em>Phytophthora</em> species are associated with distinct plant communities in southern Afrotemperate Forests.</p>
-<p><strong>Hulbert JM</strong>, Wingfield M. (submitted). Alleviating the threats of <em>Phytophthora</em> in South Africa with citizen science.</p>
+<p><strong>Hulbert JM</strong>, Roets F, Burgess TI, Wingfield MJ. (submitted). Exotic and putatively native <em>Phytophthora</em> species are associated with distinct plant communities in southern Afrotemperate Forests.</p>
+<p><strong>Hulbert JM</strong>, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of <em>Phytophthora</em> in South Africa with citizen science.</p>
 <p>Louw NL, Roets F, <strong>Hulbert JM</strong> (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (<em>Leucadendron argenteum</em>).</p>
 <p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
 <p>&nbsp;</p>
@@ -1790,7 +1790,15 @@
 <p>2015-2019</p>
 </td>
 <td width="892">
-<p>Graduate Student, University of Pretoria, Dept. of Plant and Soil Sciences, Primary Supervisor: Mike Wingfield. Co-supervisors: Treena Burgess, Francois Roets.</p>
+<p>Graduate Student, University of Pretoria, Dept. of Plant and Soil Sciences, Pretoria, Gauteng, South Africa. Primary Supervisor: Mike Wingfield. Co-supervisors: Treena Burgess, Francois Roets.</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2016-2018</p>
+</td>
+<td width="892">
+<p>Affiliate Research Student, Stellenbosch University, Dept. of Conservation Ecology and Entomology, Stellenbosch, Western Cape Province, South Africa. Supervisor: Francois Roets.</p>
 </td>
 </tr>
 <tr>
@@ -1798,7 +1806,7 @@
 <p>2012-2014</p>
 </td>
 <td width="892">
-<p>Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Supervisors: Everett Hansen, Jeff Morrell.</p>
+<p>Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Jeff Morrell.</p>
 </td>
 </tr>
 <tr>
@@ -1806,7 +1814,7 @@
 <p>2011-2012</p>
 </td>
 <td width="892">
-<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton.</p>
+<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton.</p>
 </td>
 </tr>
 <tr>
@@ -1814,7 +1822,7 @@
 <p>2010</p>
 </td>
 <td width="892">
-<p>Field Technician, Oregon State University, Dept. of Forest Engineering, Resources and Management. Supervisors: Dave Shaw, Travis Woolley.</p>
+<p>Field Technician, Oregon State University, Dept. of Forest Engineering, Resources and Management, Corvallis, Oregon, USA. Supervisors: Dave Shaw, Travis Woolley.</p>
 </td>
 </tr>
 <tr>
@@ -1822,7 +1830,7 @@
 <p>2009</p>
 </td>
 <td width="892">
-<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North.</p>
+<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California, USA. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North.</p>
 </td>
 </tr>
 <tr>
@@ -1830,7 +1838,7 @@
 <p>2008</p>
 </td>
 <td width="892">
-<p>Field Technician, Joint project with University of Idaho and Forest Service Rocky Mountain Research Station, Moscow, Idaho. Supervisors: Andrew Hudak, Penny Morgan.</p>
+<p>Field Technician, Joint project with University of Idaho and Forest Service Rocky Mountain Research Station, Moscow, Idaho, USA. Supervisors: Andrew Hudak, Penny Morgan.</p>
 </td>
 </tr>
 <tr>
@@ -1838,7 +1846,7 @@
 <p>2008</p>
 </td>
 <td width="892">
-<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho. Supervisors: Ned Klopfenstein, Mee-Sook Kim.</p>
+<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho, USA. Supervisors: Ned Klopfenstein, Mee-Sook Kim.</p>
 </td>
 </tr>
 <tr>
@@ -1846,7 +1854,7 @@
 <p>2007-2010</p>
 </td>
 <td width="892">
-<p>Research Technician, Washington State University, Dept. of Plant Pathology. Supervisor: Patricia Okubara.</p>
+<p>Research Technician, Washington State University, Dept. of Plant Pathology, Pullman, Washington, USA. Supervisor: Patricia Okubara.</p>
 </td>
 </tr>
 <tr>
@@ -1854,7 +1862,7 @@
 <p>2004</p>
 </td>
 <td width="892">
-<p>Research Technician, Kansas State University, Dept. of Plant Pathology.</p>
+<p>Research Technician, Kansas State University, Dept. of Plant Pathology, Manhattan, Kansas, USA.</p>
 </td>
 </tr>
 </tbody>
