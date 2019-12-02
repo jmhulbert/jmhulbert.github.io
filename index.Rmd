@@ -469,7 +469,6 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong></p>
 <p><strong>CONFERENCE ORGANIZATION &amp; PANELS SERVED</strong></p>
 <p><em><u>Conference Organization</u></em></p>
 <table>
@@ -1782,6 +1781,36 @@
 <p>Green Living, Radio Helderberg 93.6FM, February 23, 2017.</p>
 <p>KLCC News, NPR KLCC 89.7, April 8, 2015.</p>
 <p>&nbsp;</p>
+<p><strong>SCIENCE COMMUNITY SERVICE</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="86">
+<p>2019</p>
+</td>
+<td width="892">
+<p>Adhoc Reviewer, African Journal of Marine Biology (1 Manuscript)</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2018</p>
+</td>
+<td width="892">
+<p>Adhoc Reviewer, Biological Invasions (1 Manuscript)</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p>2016</p>
+</td>
+<td width="892">
+<p>Adhoc Reviewer, IMAfungus (1 Manuscript)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong>RESEARCH POSITIONS</strong></p>
 <table>
 <tbody>
@@ -1867,7 +1896,7 @@
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
 <p><strong>REFERENCES</strong></p>
 <p><u>Primary PhD Supervisor</u></p>
 <p>Mike J. Wingfield</p>
