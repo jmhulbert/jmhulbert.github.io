@@ -1786,6 +1786,14 @@
 <tbody>
 <tr>
 <td width="86">
+<p>2020</p>
+</td>
+<td width="892">
+<p>Adhoc Reviewer, Scientific Reports (1 Manuscript), Journal of Pest Science (1 Manuscript)</p>
+</td>
+</tr>
+<tr>
+<td width="86">
 <p>2019</p>
 </td>
 <td width="892">
