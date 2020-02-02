@@ -1,3 +1,11 @@
+---
+title: "Joseph (Joey) Michael Hulbert"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+    toc_float: TRUE
+---
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-7"></script>
@@ -8,1935 +16,2237 @@
   gtag('config', 'UA-44627976-7');
 </script>
 </head>
-<p align="center"><strong><font size="6">Joseph (Joey) Michael Hulbert</font></strong></p>
+
+<style>
+.button {
+  border-color: lightgrey;
+  border-style: solid;
+  border-radius: 5px;
+  color: black;
+  padding: 1px 1px;
+  text-align: center;
+  cursor: pointer;
+}
+.button:hover {
+  color: darkblue;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 <table>
 <tbody>
-<tr>
+<tr valign="top">
 <td width="450">
-<p>Forestry and Agricultural Biotechnology Institute, <br> Dept. of Plant &amp; Soil Science, University of Pretoria, <br> Private Bag X20, Hatfield, Pretoria 0002, South Africa.</p>
-</td> 
+Forestry and Agricultural Biotechnology Institute,  
+Dept. of Plant & Soil Science, University of Pretoria,  
+Private Bag X20, Hatfield, Pretoria 0002, South Africa.
+</td>
 <td width="442">
-<p align="right">+27-63-996-1135 (SA) <br> 1-541-908-5129 (USA) <br> <a href="mailto:joey.hulbert@fabi.up.ac.za">joey.hulbert@fabi.up.ac.za</a></p>
++27-63-996-1135 (SA)  
+1-541-908-5129 (USA)  
+[joey.hulbert@fabi.up.ac.za](mailto:joey.hulbert@fabi.up.ac.za)
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>WHERE NEXT?</strong></p>
+
+### Where Next?
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2020-</p>
+<tr valign="top">
+<td width="100">
+2020-
 </td>
 <td width="892">
-<p>Currently seeking postdoctoral opportunities in North America.</p>
+Currently seeking postdoctoral opportunities in North America.
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>EDUCATION</strong></p>
+
+### Education
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2015-2020 (February)</p>
+<tr valign="top">
+<td width="100">
+2015-2020 (February)
 </td>
 <td width="892">
-<p><strong>PhD </strong>Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant &amp; Soil Science, University of Pretoria, South Africa. Dissertation: <em>Phytophthora</em> diversity in the Cape Floristic Region. Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.</p>
+**PhD** Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant & Soil Science, University of Pretoria, South Africa. Dissertation: _Phytophthora_ diversity in the Cape Floristic Region. Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016-2019</p>
+<tr valign="top">
+<td width="100">
+2016-2019
 </td>
 <td width="892">
-<p><strong>Affiliate Research Student</strong>, Dept. of Conservation Ecology &amp; Entomology, Stellenbosch University, South Africa.</p>
+**Affiliate Research Student**, Dept. of Conservation Ecology & Entomology, Stellenbosch University, South Africa.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
+<tr valign="top">
+<td width="100">
+2012-2014
 </td>
 <td width="892">
-<p><strong>Dual MSc</strong> Dept. of Botany &amp; Plant Pathology, Dept. of Wood Science &amp; Engineering, Oregon State University. Thesis: Phytosanitation of Douglas-fir (<em>Pseudotsuga menziesii</em>) logs to mitigate the risk of artificially disseminating <em>Phytophthora ramorum</em> within the global trade of timber. Advisors: Everett Hansen &amp; Jeff Morrell.</p>
+**Dual MSc** Dept. of Botany & Plant Pathology, Dept. of Wood Science & Engineering, Oregon State University. Thesis: Phytosanitation of Douglas-fir (_Pseudotsuga menziesii_) logs to mitigate the risk of artificially disseminating _Phytophthora ramorum_ within the global trade of timber. Advisors: Everett Hansen & Jeff Morrell.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2006-2010</p>
+<tr valign="top">
+<td width="100">
+2006-2010
 </td>
 <td width="892">
-<p><strong>BSc </strong>Dept. of Natural Resource Sciences, Washington State University. Undergraduate Thesis: Influence of climatic variables on forest growth in the Sierra Nevada Mountains.</p>
+**BSc** Dept. of Natural Resource Sciences, Washington State University. Undergraduate Thesis: Influence of climatic variables on forest growth in the Sierra Nevada Mountains.
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>INITIATIVES</strong></p>
+</details>
+
+### Initiatives
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2016-</p>
+<tr valign="top">
+<td width="100">
+2016-
 </td>
 <td width="892">
-<p>Project leader, <em>Cape Citizen Science </em>(<a href="https://citsci.co.za/">https://citsci.co.za/</a>), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.</p>
+Project leader, _Cape Citizen Science_ ([https://citsci.co.za/](https://citsci.co.za/)), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2019-</p>
+<tr valign="top">
+<td width="100">
+2019-
 </td>
 <td width="892">
-<p>Prime mover, <em>Forest Health Citizen Science Community</em> (<a href="https://fhcs.page">https://fhcs.page/</a>). </p>
+Prime mover, _Forest Health Citizen Science Community_ ([https://fhcs.page/](https://fhcs.page)).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018-2019</p>
+<tr valign="top">
+<td width="100">
+2018-2019
 </td>
 <td width="892">
-<p>Instructor, <em>R for biology and ecology workshop series</em> (<a href="https://jmhulbert.github.io/r/">https://jmhulbert.github.io/r/</a>), two series offered at University of Pretoria and one series offered at Stellenbosch University.</p>
+Instructor, _R for biology and ecology workshop series_ ([https://jmhulbert.github.io/r/](https://jmhulbert.github.io/r/)), two series offered at University of Pretoria and one series offered at Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
+<tr valign="top">
+<td width="100">
+2012-2014
 </td>
 <td width="892">
-<p>Co-founder, <em>Inspiration Dissemination</em> (<a href="http://blogs.oregonstate.edu/inspiration/">http://blogs.oregonstate.edu/inspiration/</a>), KBVR 88.7fm, Oregon State University.</p>
+Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspiration/](http://blogs.oregonstate.edu/inspiration/)), KBVR 88.7fm, Oregon State University.
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>PUBLICATIONS</strong></p>
-<p><strong>Hulbert JM</strong>, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019. Botanical gardens provide valuable baseline <em>Phytophthora</em> diversity data. <em>Urban Forestry and Urban Greening</em>, 46:126461. DOI: 10.1016/j.ufug.2019.126461. </p>
-<p><strong>Hulbert JM</strong>, Turner SC, Scott SL. 2019. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, <em>South African Journal of Science</em>, 115(7/8). DOI: 10.17159/sajs.2019/5844.</p>
-<p>Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, <strong>Hulbert JM</strong>, Kyba C, Larson L,  Lewandowski E, Shanley L. 2019. The problem with delineating narrow criteria for citizen science. <em>Proceedings of the National Academy of Sciences</em>, 116(31). DOI: 10.1073/pnas.1909278116.</p><p><strong>Hulbert JM</strong> 2019. Citizen science increases the ethics of foreign led research, <em>Narrative Inquiry in Bioethics</em>, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019. DOI: 10.1353/nib.2019.0024.</p>
-<p>Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, <strong>Hulbert JM</strong>, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019. ‘Biodiversity provides opportunities for citizen science’ chapter in <em>National Biodiversity Assessment 2018: Compendium of Benefits of Biodiversity</em>. South African National Biodiversity Institute, Pretoria. hdl.handle.net/20.500.12143/6491 </p>
-<p><strong>Hulbert JM</strong>, Roets F. 2018. Science engagement in South Africa. <em>Science</em>, 361(6406):985. DOI: 10.1126/science.aav1499.</p> 
-<p>Ryan SF and 41 others, 2018. The role of citizen science in addressing grand challenges in food and agriculture research, <em>Proceedings of the Royal Society B</em>. Vol. 285, Issue 1891. DOI: 710.1098/rspb.2018.1977.</p>
-<p><strong>Hulbert JM</strong>, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017. Urban environments provide opportunities for early detections of <em>Phytophthora </em>invasions, <em>Biological Invasions</em> 19:3629&ndash;3644. DOI: 10.1007/s10530-017-1585-z.</p>
-<p><strong>Hulbert JM</strong>. 2016. Citizen science tools available for ecological research in South Africa, <em>South African Journal of Science</em>, 112:5/6. DOI: 10.17159/sajs.2016/a0152.</p>
-<p>Peterson E, Hansen EM, <strong>Hulbert JM</strong>. 2014. Source or Sink? The role of soil and water borne inoculum in the dispersal of <em>Phytophthora ramorum </em>in Oregon tanoak forests. <em>Forest Ecology and Management</em>, 322:48-57. DOI: 10.1016/j.foreco.2014.02.031.</p>
-<p>&nbsp;</p>
-<p><strong>SUBMITTED MANUSCRIPTS</strong></p>
-<p><strong>Hulbert JM</strong>, Roets F,  Burgess T, Paap T, Wingfield M. (submitted). Citizen science can enhance biosecurity in developing economies. </p>
-<p><strong>Hulbert JM</strong>, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of <em>Phytophthora</em> in South Africa with citizen science.</p>
-<p><strong>Hulbert JM</strong>, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native <em>Phytophthora</em> species are associated with distinct plant communities in southern Afrotemperate Forests.</p>
-<p>Louw NL, Roets F, <strong>Hulbert JM</strong> (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (<em>Leucadendron argenteum</em>).</p>
-<p><strong>Hulbert JM</strong>, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.</p>
-<p>&nbsp;</p>
-<p><strong>MANUSCRIPTS IN PREP</strong></p>
-<p><strong>Hulbert JM</strong>, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks. </p> 
-<p>&nbsp;</p>
-<p><strong>ACADEMIC HONORS &amp; AWARDS</strong></p>
-<table width="892">
-<tbody>
-<tr>
-<td width="86">
-<p>2019</p>
-</td>
-<td width="438">
-<p>Getting the Message to the Public, Forestry and Agricultural Biotechnology Institute</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="438">
-<p>Travel Fund, British Society for Plant Pathology</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="438">
-<p>Stephen A. Johnston Student Travel Award, American Phytopathological Society</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="438">
-<p>Getting the Message to the Public, Forestry and Agricultural Biotechnology Institute</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="438">
-<p>Best Student Personal Website, Forestry and Agricultural Biotechnology Institute</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="438">
-<p>Best PhD Oral Presentation, Dept. of Plant Science Postgraduate Research Symposium</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014-2015</p>
-</td>
-<td width="438">
-<p> Graduate Scholarship, Oregon Lottery</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="438">
-<p>Travel Award, Oregon State University Graduate School </p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="438">
-<p>Student Travel Award, Botany and Plant Pathology Graduate Student Association</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="438">
-<p>Bartholomew Memorial Scholarship</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="438">
-<p>Most Innovative Radio Program, Intercollegiate Broadcasting System</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="438">
-<p>Best WSE Oral Presentation, Western Forestry Graduate Research Symposium</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
-</td>
-<td width="438">
-<p>Schutz Family Fellowship</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
-</td>
-<td width="438">
-<p>Alfred W. Moltke Fellowship</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
-</td>
-<td width="438">
-<p>Jack &amp; Lila Saubert Fellowship</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
-</td>
-<td width="438">
-<p>Larry Moore Award for Graduate Education in Plant Pathology</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="438">
-<p>Student Travel Award, Western International Forest Disease Work Conference</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>OUTREACH GRANTS</strong></p>
+</details>
+
+### Publications {.tabset .tabset-fade}
+#### Peer-Reviewed
+ + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_, 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
+  + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_. Vol. 285, Issue 1891\. DOI: 710.1098/rspb.2018.1977.
+  + **Hulbert JM**, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017\. Urban environments provide opportunities for early detections of _Phytophthora_ invasions, _Biological Invasions_ 19:3629–3644\. DOI: 10.1007/s10530-017-1585-z.
+  + Peterson E, Hansen EM, **Hulbert JM**. 2014\. Source or Sink? The role of soil and water borne inoculum in the dispersal of _Phytophthora ramorum_ in Oregon tanoak forests. _Forest Ecology and Management_, 322:48-57\. DOI: 10.1016/j.foreco.2014.02.031. 
+ 
+#### Not Peer-Reviewed
+  + **Hulbert JM**, Turner SC, Scott SL. 2019\. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
+  + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. The problem with delineating narrow criteria for citizen science. _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
+  + **Hulbert JM** 2019\. Citizen science increases the ethics of foreign led research, _Narrative Inquiry in Bioethics_, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019\. DOI: 10.1353/nib.2019.0024.
+  + Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, **Hulbert JM**, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019\. ‘Biodiversity provides opportunities for citizen science’ chapter in _National Biodiversity Assessment 2018: Compendium of Benefits of Biodiversity_. South African National Biodiversity Institute, Pretoria. hdl.handle.net/20.500.12143/6491
+  + **Hulbert JM**, Roets F. 2018\. Science engagement in South Africa. _Science_, 361(6406):985\. DOI: 10.1126/science.aav1499.
+  + **Hulbert JM**. 2016\. Citizen science tools available for ecological research in South Africa, _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
+</details>
+
+### Submitted Manuscripts
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+  + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (submitted). Citizen science can enhance biosecurity in developing economies.
+  + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of _Phytophthora_ in South Africa with citizen science.
+  + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
+  + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (_Leucadendron argenteum_).
+  + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
+</details>
+
+### Manuscripts in Prep
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+  + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
+</details>
+
+### Academic Honors & Awards
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>Social Impact Grant, Faculty of AgriScience, Stellenbosch University</p>
+Getting the Message to the Public, Forestry and Agricultural Biotechnology Institute
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Mathre Education Endowment Award, American Phytopathological Society</p>
+Travel Fund, British Society for Plant Pathology
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Plant Pathology Promotion Fund, British Society for Plant Pathology</p>
+Stephen A. Johnston Student Travel Award, American Phytopathological Society
 </td>
 </tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><strong>CROWDFUNDED PROJECTS</strong></p>
-<table>
-<tbody>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, <a href="https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika">DOI:10.18258/8690</a></p>
+Getting the Message to the Public, Forestry and Agricultural Biotechnology Institute
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Discovering Plant Destroyers in South Africa with Citizen Science, <a href="https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science">DOI:10.18258/2066</a></p>
+Best Student Personal Website, Forestry and Agricultural Biotechnology Institute
 </td>
 </tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>ACADEMIC LEADERSHIP</strong></p>
-<table>
-<tbody>
-<tr>
-<td width="86">
-<p>2017-2020</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>Committee Member, American Phytopathological Society, Committee for Diversity and Equality</p>
+Best PhD Oral Presentation, Dept. of Plant Science Postgraduate Research Symposium
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017-2020</p>
+<tr valign="top">
+<td width="100">
+2014-2015
 </td>
 <td width="892">
-<p>Committee Member, American Phytopathological Society, Forest Pathology Committee</p>
+Graduate Scholarship, Oregon Lottery
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016-</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>Founder and Project Leader, Cape Citizen Science</p>
+Travel Award, Oregon State University Graduate School
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>Coordinator, University of Pretoria Invasive Species Journal Club</p>
+Student Travel Award, Botany and Plant Pathology Graduate Student Association
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>Founder and Director, Botany and Plant Pathology BUDS Program</p>
+Bartholomew Memorial Scholarship
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>Planning Committee Member, Western Forestry Graduate Research Symposium</p>
+Most Innovative Radio Program, Intercollegiate Broadcasting System
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>President, Botany and Plant Pathology Graduate Student Association</p>
+Best WSE Oral Presentation, Western Forestry Graduate Research Symposium
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Co-Founder and Director, Forest Graduate Undergraduate Mentorship Program</p>
+Schutz Family Fellowship
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Planning Committee Member, Western Forestry Graduate Research Symposium</p>
+Alfred W. Moltke Fellowship
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Planning Committee Member, College of Forestry Graduate Student Orientation</p>
+Jack & Lila Saubert Fellowship
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Organizer, Natural Science Graduate Student BBQ</p>
+Larry Moore Award for Graduate Education in Plant Pathology
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="892">
-<p>Co-host, Inspiration Dissemination</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Officer, College of Forestry Graduate Student Council</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Wood Science Steward, Coalition of Graduate Employees</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Graduate Representative, Dept. of Wood Science and Engineering</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
-</td>
-<td width="892">
-<p>Committee Member, Wood Science and Engineering Graduate Affairs</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2012</p>
-</td>
-<td width="892">
-<p>Organizer, Natural Science Graduate Student BBQ</p>
+Student Travel Award, Western International Forest Disease Work Conference
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>CONFERENCE ORGANIZATION &amp; PANELS SERVED</strong></p>
-<p><em><u>Conference Organization</u></em></p>
+</details>
+
+### Outreach Grants
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2019</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Session Coordinator, <em>Forest health defenders: empowering citizens to protect forests through research contributions</em>, IUFRO XXV World Congress, Curbita, Brazil.</p>
+Social Impact Grant, Faculty of AgriScience, Stellenbosch University
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Event Co-organizer, <em>South Africa Citizen Science Fair, International Citizen Science Day Event</em>, Kirstenbosch National Botanical Garden, Cape Town, South Africa.</p>
+Mathre Education Endowment Award, American Phytopathological Society
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Session Coordinator, <em>Early detection and monitoring of invasive forest pests and pathogens with citizen science</em>, IUFRO 125th Anniversary Congress, Freiburg, Germany.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Symposium Planning Committee, <em>Canopies to construction: the ecology, management and use of tomorrow’s forests</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Symposium Planning Committee, <em>Branching out: communicating forest research beyond academics</em>, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.</p>
+Plant Pathology Promotion Fund, British Society for Plant Pathology
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Invited Panel Participation</u></em></p>
+</details>
+
+### Crowdfunded Projects
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.</p>
+Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258/8690](https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika)
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>Maximizing your graduate education, fall Graduate School new student orientation, Oregon State University.</p>
+Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258/2066](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science)
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>PRESENTATIONS AT PROFESSIONAL MEETINGS</strong></p>
-<p><em><u>International Conferences</u></em></p>
-<p><strong>Hulbert JM</strong>, 2019. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Burgess T, Roets F, Wingfield MJ. 2019. Non-scientist engagement in plant disease research in South Africa, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Burgess T, Roets F, Wingfield MJ. 2017. Public engagement to survey<em> Phytophthora</em> in South Africa, IUFRO Working Party <em>Phytophthora</em> in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Roux J, Burgess T, Roets F, Wingfield MJ. 2017. Citizen science initiatives: opportunities to manage global forest pest challenges, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Roux J, Burgess T, Roets F, Wingfield MJ. 2017. Cape Citizen Science: public engagement to detect and discover <em>Phytophthora</em> species in South Africa, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, De Beer ZW, Wingfield MJ. 2017. Cape Citizen Science: public engagement for plant disease research in a biodiversity hotspot, International Botanical Congress, Shenzhen, China, Poster Presentation (not presenting author).</p>
-<p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM, 2014. Wooden Vectors of <em>Phytophthora ramorum</em>: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 <em>Phytophthora </em>in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).</p>
-<p>Peterson E, <strong>Hulbert JM</strong>, Hansen EM. 2012. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO <em>Phytophthora </em>in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).</p>
-<p><em><u>South African Conferences</u></em></p>
-<p><strong>Hulbert JM</strong> 2018. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation. </p>
-<p><strong>Hulbert JM</strong>, Roets FR. 2017. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Roets FR. 2017. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017. Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Agne MC, Roux J, Burges TI, Roets F, Wingfield MJ. 2016. Records of <em>Phytophthora </em>invasions suggest that early detection programs should focus on urban environments, DST-NRF Centre of Excellence for Invasion Biology Workshop, <em>Non-native species in urban environments: patterns, processes, impacts and challenges</em>, Stellenbosch, South Africa. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>. 2016. Monitoring invasive species with citizen science: an international review, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>. 2015. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, <em>Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management</em>, Stellenbosch, South Africa. Oral Presentation.</p>
-<p><em><u>North American Conferences</u></em></p>
-<p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, Burgess TI, Roets F, Wingfield MJ. 2018. The Cape Town Hypothesis Test: <em>Phytophthora</em> in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Chemical treatment to sanitize <em>Phytophthora ramorum</em> colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, Rosenberger R. 2014. Forest G.U.M.P. The value of graduate-undergraduate mentorship programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.</p>
-<p><strong>Hulbert JM</strong>, Morrell JJ, Hansen EM. 2014. Potential of using boron for mitigation of <em>Phytophthora ramorum </em>in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.</p>
-<p><strong>Hulbert JM</strong>, Kamvar Z. 2014. <em>Inspiration Dissemination</em>: Science Communication for College Students. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.</p>
-<p><strong>Hulbert JM</strong> 2014. The value of graduate-undergraduate mentorship programs. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.</p>
-<p><strong>Hulbert JM</strong>, Kamvar Z. 2014. <em>Inspiration Dissemination</em>: Science Communication for College Students. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.</p>
-<p><strong>Hulbert JM</strong>, Morrell J, Hansen E. 2012. Chemical treatment to sanitize <em>Phytophthora ramorum </em>colonized timber products. Western International Forest Disease Work Conference, Tahoe City, California. Oral Presentation.</p>
-<p>Hansen E, <strong>Hulbert JM</strong>, Reeser P, Sutton W, Kanaskie A. 2011. Sudden larch death? Larch susceptibility to <em>Phytophthora ramorum</em>. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.</p>
-<p>&nbsp;</p>
-<p><strong>UNIVERSITY SYMPOSIA, DEPARTMENTAL SEMINARS, INVITED AND PUBLIC TALKS </strong></p>
-<p><em><u>University Symposia</u></em></p>
+</details>
+
+### Academic Leadership
+<details open>
+<summary><a class="button">Hide</a></summary>
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2019</p>
+<tr valign="top">
+<td width="100">
+2017-2020
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, Phytophthora multivora:<em> local driver of plant diversity and global agent of bio-insecurity.</em></p>
+Committee Member, American Phytopathological Society, Committee for Diversity and Equality
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2017-2020
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, Phytophthora <em>diversity in southern Afrotemperate forests.</em></p>
+Committee Member, American Phytopathological Society, Forest Pathology Committee
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2016-
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, Research Day, <em>Introduction to Cape Citizen Science: A project to engage the public in plant disease research.</em></p>
+Founder and Project Leader, Cape Citizen Science
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, <em>Developing a citizen science program on tree health in South Africa.</em></p>
+Coordinator, University of Pretoria Invasive Species Journal Club
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, NRF-DST Centre of Excellence in Tree Health Biotechnology Annual Meeting, <em>The history of </em>Phytophthora cinnamomi<em> in South Africa.</em></p>
+Founder and Director, Botany and Plant Pathology BUDS Program
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>University of Pretoria, Dept. of Plant &amp; Soil Science Postgraduate Research Symposium, <em>Introduction to Cape Citizen Science: A project to engage the public in plant disease research. </em></p>
+Planning Committee Member, Western Forestry Graduate Research Symposium
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, <em>Wooden vectors of </em>Phytophthora ramorum<em>: Are Douglas-fir logs really a risk?</em></p>
+President, Botany and Plant Pathology Graduate Student Association
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, <em>Chemical treatments to sanitize </em>Phytophthora ramorum <em>colonized timber material and mitigate the risk of artificial Sudden Oak Death dissemination.</em></p>
+Co-Founder and Director, Forest Graduate Undergraduate Mentorship Program
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Planning Committee Member, Western Forestry Graduate Research Symposium
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Planning Committee Member, College of Forestry Graduate Student Orientation
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Organizer, Natural Science Graduate Student BBQ
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Co-host, Inspiration Dissemination
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Officer, College of Forestry Graduate Student Council
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Wood Science Steward, Coalition of Graduate Employees
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Graduate Representative, Dept. of Wood Science and Engineering
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Committee Member, Wood Science and Engineering Graduate Affairs
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012
+</td>
+<td width="892">
+Organizer, Natural Science Graduate Student BBQ
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Departmental Seminars and Lab Meetings</u></em></p>
+</details>
+
+### Conference Organization & Panels Served {.tabset .tabset-fade}
+#### Conference Organization
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology and Entomology, Roets, Oberlander, and Dryer Join Lab Meeting, <em>The Cape Town Hypothesis Test.</em></p>
+Session Coordinator, _Forest health defenders: empowering citizens to protect forests through research contributions_, IUFRO XXV World Congress, Curbita, Brazil.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Thursday Morning Seminar Series, <em>The trade of live plants in Africa: a risk to tree health?</em></p>
+Event Co-organizer, _South Africa Citizen Science Fair, International Citizen Science Day Event_, Kirstenbosch National Botanical Garden, Cape Town, South Africa.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Research Discussion Seminar, <em>The role of scientists in society: developing a responsible protocol in case we discover an internationally regulated plant pathogen.</em></p>
+Session Coordinator, _Early detection and monitoring of invasive forest pests and pathogens with citizen science_, IUFRO 125th Anniversary Congress, Freiburg, Germany.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>University of Pretoria, Dept. of Plant and Soil Science, Fall Seminar Series, <em>Citizen science tools available for phytogeographical research in South Africa</em>.</p>
+Symposium Planning Committee, _Canopies to construction: the ecology, management and use of tomorrow’s forests_, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Plant Pathology, Friday Forum Seminar Series, <em>Cape Citizen Science: community engagement to survey Phytophthora species in the fynbos.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, Thursday Morning Seminar Series, Methods of sampling <em>Phytophthora</em> with citizen science.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="892">
-<p>Oregon State University, Dept. of Botany and Plant Pathology, Spring Seminar Series, <em>Crowdfunding and citizen science applications in biology</em>.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Oregon State University, Dept. of Wood Science &amp; Engineering, Spring Seminar Series, <em>Using wood science to mitigate the impact of Sudden Oak Death.</em></p>
+Symposium Planning Committee, _Branching out: communicating forest research beyond academics_, Western Forestry Graduate Symposium, Corvallis, Oregon, USA.
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Invited Talks</u></em></p>
+
+#### Invited Panel Participation
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2019</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>National Research Foundation, South African Agency for Science and Technology Advancement, FAMELAB Alumni Network Event, <em>Public engagement with citizen science in South Africa.</em></p>
+Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="892">
-<p>Transatlantic Science Education Cooperative, Annual Workshop, Stellenbosch University, <em>Cape Citizen Science: methods of youth engagement.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Iimbovane Outreach Workshop, Centre for Excellence in Invasion Biology, Stellenbosch University, <em>Microscopic organisms: why and how we study them.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Plant Conservation Unit, University of Cape Town, <em>Benefits and challenges of citizen science: the experiences of @CapeCitSci in South Africa.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>Farm to Table Working Group, North Carolina State University, <em>Citizen science in South Africa: applications for agriculture </em> (teleconference).</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, 20th Anniversary Meeting, <em>Inspiring a new generation of plant health specialists in Africa.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2018</p>
-</td>
-<td width="892">
-<p>University of Washington, School of the Environment and Forests, Harvey Lab Meeting, <em>Citizen science and plant disease in South Africa.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology and Entomology, Regional Universities Forum for Capacity Building in Agriculture (RuForum) visit, <em>Conserving Biodiversity with citizen science.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Agricultural Research Council, Stellenbosch University, Dept. of Plant Pathology, Pre-symposium Fungal Pathogens Discussion Group, ARC-PPRI 24th Interdisciplinary Symposium on Soil-borne Plant Diseases, <em>Public engagement to survey plant destroyers in South Africa.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Stellenbosch University, Centre of Excellence in Invasion Biology, Dept. of Zoology, Invasives in the Cape Discussion Group, <em>Is the greatest threat to South Africa's natural resources something we cannot see?</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="892">
-<p>Oregon State University, Dept. of Integrative Biology, Undergraduate Club, Spring Term Meeting, <em>Deciding how to impact the world: Issues, options, and tools.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="892">
-<p>Oregon State University, Science Communication Brown Bag Lunch Seminar Series, <em>Crowdfunding: creating new possibilities for science</em>.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Oregon State University, Science Communication Brown Bag Lunch Seminar Series, <em>The Process of Podcasting: Using College Radio to Communicate Science.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Oregon State University, College of Forestry, Researcher Teacher Partnerships: Making global climate change relevant in the classroom, Spring Workshop, <em>Invasive Species: Service Learning Opportunities for K-12.</em></p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Oregon State University, College of Forestry, Researcher Teacher Partnerships: Making global climate change relevant in the classroom, Spring Workshop, <em>Inspiring Science as Graduate Students.</em></p>
+Maximizing your graduate education, fall Graduate School new student orientation, Oregon State University.
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Public Talks</u></em></p>
+
+### Presentations at Professional Meetings {.tabset .tabset-fade}
+#### International Conferences
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>South African Citizen Science Project Fair, International Citizen Science Day, Old Mutual Conference Center, Kirstenbosch National Botanical Garden, <em>Cape Citizen Science.</em></p>
+**Hulbert JM**, 2019\. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>Friends of Brackenfell Nature Reserve, Brackenfell Nature Reserve, monthly meeting, <em>How citizens can protect the Cape Floral Kingdom from new plant diseases.</em></p>
+**Hulbert JM**, Burgess T, Roets F, Wingfield MJ. 2019\. Non-scientist engagement in plant disease research in South Africa, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Wildlife and Environment Society of South Africa, Tygerberg Nature Reserve, Big Friends Group Event, <em>How citizens can protect the Cape Floral Kingdom from new plant diseases.</em></p>
+**Hulbert JM**, Burgess T, Roets F, Wingfield MJ. 2017\. Public engagement to survey _Phytophthora_ in South Africa, IUFRO Working Party _Phytophthora_ in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>South African National Biodiversity Institute, Kirstenbosch National Botanical Garden, Room To Grow Wednesday Talks Series, <em>Cape Citizen Science: plant disease in the fynbos.</em></p>
+**Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. 2017\. Citizen science initiatives: opportunities to manage global forest pest challenges, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. 2017\. Cape Citizen Science: public engagement to detect and discover _Phytophthora_ species in South Africa, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, De Beer ZW, Wingfield MJ. 2017\. Cape Citizen Science: public engagement for plant disease research in a biodiversity hotspot, International Botanical Congress, Shenzhen, China, Poster Presentation (not presenting author).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Morrell JJ, Hansen EM, 2014\. Wooden Vectors of _Phytophthora ramorum_: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012
+</td>
+<td width="892">
+Peterson E, **Hulbert JM**, Hansen EM. 2012\. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO _Phytophthora_ in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>TEACHING EXPERIENCE</strong></p>
-<p><em><u>Guest Lectures</u></em></p>
+
+#### South African Conferences
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Cape Peninsula University of Technology, Faculty of Applied Sciences, Btech Plants Module, Lecture, <em>Invasive microscopic organisms: plant pathogens and biosecurity.</em></p>
+**Hulbert JM** 2018\. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, CONSECOL414: Advanced Conservation Management, Lecture, <em>Microscopic organisms: plant promoters and plant destroyers.</em></p>
+**Hulbert JM**, Roets FR. 2017\. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, CONSECOL414: Advanced Conservation Management, Lecture, <em>A look into the microscopic world: lifelines or invisible threats.</em></p>
+**Hulbert JM**, Roets FR. 2017\. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, CONSECOL414: Advanced Conservation Management, Field Course, Drie Kulien Nature Reserve.</p>
+**Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017\. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Stellenbosch University, International Winter School, Biodiversity &amp; Ecology Course, Lecture, <em>Surveying Phytophthora species with citizen science</em>.</p>
+**Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. 2017\. Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+**Hulbert JM**, Agne MC, Roux J, Burges TI, Roets F, Wingfield MJ. 2016\. Records of _Phytophthora_ invasions suggest that early detection programs should focus on urban environments, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Non-native species in urban environments: patterns, processes, impacts and challenges_, Stellenbosch, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+**Hulbert JM**. 2016\. Monitoring invasive species with citizen science: an international review, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+**Hulbert JM**. 2015\. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management_, Stellenbosch, South Africa. Oral Presentation.
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Workshop Series (multiple sessions)</u></em></p>
+
+#### North American Conferences
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2019</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>University of Pretoria, Faculty of Natural and Agricultural Sciences, <a href="http://jmhulbert.github.io/r/bio/" ><em>R for biology data science workshop series</a> (5 sessions, 76 participants, packages: ggplot2 and dplyr). </em></p>
+**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2019</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>University of Pretoria, Forestry and Agricultural Biotechnology Institute, <a href="http://jmhulbert.github.io/r/fabi/" ><em>RStudio and R package workshop series</a> (5 sessions, 35 participants, packages: ggplot2, dplyr, vegan and Markdown). </em></p>
+**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. The Cape Town Hypothesis Test: _Phytophthora_ in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>Stellenbosch University, Dept. of Conservation Ecology &amp; Entomology, <em>RStudio and R package workshop series (4 sessions, 23 participants, packages: ggplot2, dplyr, and vegan).</em></p>
+**Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Rosenberger R. 2014\. Forest G.U.M.P. The value of graduate-undergraduate mentorship programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Potential of using boron for mitigation of _Phytophthora ramorum_ in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM** 2014\. The value of graduate-undergraduate mentorship programs. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012
+</td>
+<td width="892">
+**Hulbert JM**, Morrell J, Hansen E. 2012\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products. Western International Forest Disease Work Conference, Tahoe City, California. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2011
+</td>
+<td width="892">
+Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch death? Larch susceptibility to _Phytophthora ramorum_. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>SCIENCE OUTREACH</strong></p>
-<p><em><u>Youth Engagement Activities</u></em></p>
+
+
+### University Symposia, Departmental Seminars, Invited and Public Talks {.tabset .tabset-fade}  
+#### University Symposia
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>Kluitjieskraal and Waterval Junior Rangers, <em>Part 2: Collecting bark and ambrosia beetles</em>, Cape Nature, Wolseley.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, Phytophthora multivora: _local driver of plant diversity and global agent of bio-insecurity._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Littlewood Primary, <em>Part 2: Collecting bark and ambrosia beetles</em>, Cape Nature, Wolseley.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, Phytophthora _diversity in southern Afrotemperate forests._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Littlewood Primary, <em>Part 1: Collecting bark and ambrosia beetles</em>, Cape Nature, Wolseley.</p>
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, Research Day, _Introduction to Cape Citizen Science: A project to engage the public in plant disease research._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Kluitjieskraal and Waterval Junior Rangers, <em>Part 1: Collecting bark and ambrosia beetles</em>, Cape Nature, Wolseley.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, Tree Protection Co-operative Program Annual Meeting, _Developing a citizen science program on tree health in South Africa._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>SANParks Junior Rangers, <em>Hike to De Mond</em>, Cape Point, Table Mountain National Park.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, NRF-DST Centre of Excellence in Tree Health Biotechnology Annual Meeting, _The history of_ Phytophthora cinnamomi _in South Africa._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>Noordhoek Primary, <em>Cape Citizen Science Presents: Cape Nature Junior Ranger Adventures in Rochepan Nature Reserve</em>, Cape Nature, Veldrift.</p>
+University of Pretoria, Dept. of Plant & Soil Science Postgraduate Research Symposium, _Introduction to Cape Citizen Science: A project to engage the public in plant disease research._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="892">
-<p>Littlewood Primary,<em> Cape Citizen Science Presents: Cape Nature Junior Ranger Adventures in Drift Sand Nature Reserve</em>, Cape Nature, Blue Downs.</p>
+Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, _Wooden vectors of_ Phytophthora ramorum_: Are Douglas-fir logs really a risk?_
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="892">
-<p>Se7en +1 homeschool group, <em>Cape Citizen Science Presents: Lab Visit with Se7en +1</em>, Stellenbosch University, Stellenbosch.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>Fish Hoek Girl Guides, <em>Adventures with First Fish Hoek Girl Guides</em>, Fish Hoek.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>Se7en +1 homeschool group, <em>Mountain hike with Seven+1</em>, Fish Hoek.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>Mamre Girls Brigade, <em>Cape Citizen Science Presents: Adventures in Silwer Stream. </em>Cape Nature, Mamre.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>South African Education and Environment Project, <em>SAEP and Cape Citizen Science Present: Adventures in Helderberg Nature Reserve</em>, three activities (July 29, August 5, and October 7), Cape Town Municipality, Somerset West,</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>South African Education and Environment Project, <em>SAEP and Cape Citizen Science Present: Adventures in Cape Point</em>, three activities (June 10, 17 and 24), Cape Point, Table Mountain National Park.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2017</p>
-</td>
-<td width="892">
-<p>Vision Afrika, <em>Pathogen hunting in Jonkershoek Nature Reserve on Earth Day</em>, Jonkersheok Nature Reserve, Stellenbosch.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Helderberg Eco-Rangers,<em> Sampling streams for Phytophthora and monitoring stream health with miniSASS</em>, Edward Wood Environmental Education Center, Somerset West.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Helderberg Eco-Rangers, <em>Training to be citizen scientists: reporting dying plants with IspotNature</em>, Helderberg Eco-Rangers, Edward Wood Environmental Education Center, Somerset West.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Four Cape Town Scout Troops, <em>Cape Citizen Science</em><em>: plant disease on Hoys Koppie</em>, Hermanus, Scout excursion.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Helderberg&nbsp;Eco-Rangers, <em>Disease in our fynbos</em>, Edward Wood Environmental Education Center, Somerset West.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2015</p>
-</td>
-<td width="892">
-<p>Se7en +1 homeschool group, <em>Sampling in Kirstenbosch National Botanical Garden</em>, South African National Biodiversity Institute, Cape Town.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2014</p>
-</td>
-<td width="892">
-<p>Wood Magic Volunteer, <em>Forest products in everyday materials</em>, World Forestry Institute, Portland, Oregon.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Wood Magic Volunteer, <em>Forest products in everyday materials</em>, World Forestry Institute, Portland, Oregon.</p>
+Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, _Chemical treatments to sanitize_ Phytophthora ramorum _colonized timber material and mitigate the risk of artificial Sudden Oak Death dissemination._
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Promotional Table Events</u></em></p>
+#### Departmental Seminars and Lab Meetings
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Science Forum South African, Council for Scientific and Industrial Research, Pretoria.</p>
+Stellenbosch University, Dept. of Conservation Ecology and Entomology, Roets, Oberlander, and Dryer Join Lab Meeting, _The Cape Town Hypothesis Test._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>Biodiversity Careers Day, Kirstenbosch Research Centre, Cape Town.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, Thursday Morning Seminar Series, _The trade of live plants in Africa: a risk to tree health?_
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Science Forum South African, Council for Scientific and Industrial Research, Pretoria.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, Research Discussion Seminar, _The role of scientists in society: developing a responsible protocol in case we discover an internationally regulated plant pathogen._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>National Science Week<em>,</em> African Institute of Mathematical Sciences, Khayelitsha. <em>&nbsp;</em></p>
+University of Pretoria, Dept. of Plant and Soil Science, Fall Seminar Series, _Citizen science tools available for phytogeographical research in South Africa_.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Open Day, Faculty of AgriSciences, Stellenbosch University.</p>
+Stellenbosch University, Dept. of Plant Pathology, Friday Forum Seminar Series, _Cape Citizen Science: community engagement to survey Phytophthora species in the fynbos._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Hermanus Botanical Society Flower Festival, Hermanus.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, Thursday Morning Seminar Series, Methods of sampling _Phytophthora_ with citizen science.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>Funky Fynbos Festival, Gaansbai.</p>
+Oregon State University, Dept. of Botany and Plant Pathology, Spring Seminar Series, _Crowdfunding and citizen science applications in biology_.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="892">
-<p>Arbor Week Expo, Stellenbosch.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Spring Discovery Days, Oregon State University.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2013</p>
-</td>
-<td width="892">
-<p>Fall Discovery Days, Oregon State University.</p>
+Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Series, _Using wood science to mitigate the impact of Sudden Oak Death._
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>STAKEHOLDER ENGAGEMENT</strong></p>
-<p><em><u>Presentations</u></em></p>
+#### Invited Talks
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>South African National Biodiversity Institute, <em>Introduction to</em> Phytophthora, Plant Pest Monitoring and Prevention Workshop, International Plant Sentinel Network, , Kirstenbosch National Botanical Garden, November 6-7, 2017.</p>
+National Research Foundation, South African Agency for Science and Technology Advancement, FAMELAB Alumni Network Event, _Public engagement with citizen science in South Africa._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>South Africa National Parks, <em>Forest </em>Phytophthoras<em>: Invisible threats or contributors to plant community diversity?</em> Garden Route National Park SANParks Office, Knysna, South Africa.</p>
+Transatlantic Science Education Cooperative, Annual Workshop, Stellenbosch University, _Cape Citizen Science: methods of youth engagement._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Cape Town Municipality, <em>Plant disease in the Cape Floristic Region</em>, Branch Meeting, Cape Town.</p>
+Iimbovane Outreach Workshop, Centre for Excellence in Invasion Biology, Stellenbosch University, _Microscopic organisms: why and how we study them._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Cape Town Municipality, Cape Nature, World Wildlife Foundation, <em>Plant disease in the Cape Floristic Region</em>, BioNet Steering Committee Meeting, Cape Town.</p>
+Plant Conservation Unit, University of Cape Town, _Benefits and challenges of citizen science: the experiences of @CapeCitSci in South Africa._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>South Africa National Parks, <em>Cape Citizen Science: Sampling Phytophthora with Citizen Science</em>, Research Committee Feedback Discussion, Cape Research Centre, Tokai, Cape Town.</p>
+Farm to Table Working Group, North Carolina State University, _Citizen science in South Africa: applications for agriculture_ (teleconference).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Cape Nature, <em>Involving Cape Nature to study dying plants in the fynbos</em>, Eastern Division Quarterly Ecological Meeting, George.</p>
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, 20th Anniversary Meeting, _Inspiring a new generation of plant health specialists in Africa._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Cape Nature, <em>Engaging citizens in research through workshops and targeted sampling</em>, Central Division Quarterly Ecological Meeting, Fernkloof Nature Reserve, Hermanus.</p>
+University of Washington, School of the Environment and Forests, Harvey Lab Meeting, _Citizen science and plant disease in South Africa._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Cape Nature, <em>Community driven research about plant disease in the fynbos</em>, Western Division Quarterly Ecological Meeting, Porterville.</p>
+Stellenbosch University, Dept. of Conservation Ecology and Entomology, Regional Universities Forum for Capacity Building in Agriculture (RuForum) visit, _Conserving Biodiversity with citizen science._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Agricultural Research Council, Stellenbosch University, Dept. of Plant Pathology, Pre-symposium Fungal Pathogens Discussion Group, ARC-PPRI 24th Interdisciplinary Symposium on Soil-borne Plant Diseases, _Public engagement to survey plant destroyers in South Africa._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Stellenbosch University, Centre of Excellence in Invasion Biology, Dept. of Zoology, Invasives in the Cape Discussion Group, _Is the greatest threat to South Africa's natural resources something we cannot see?_
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+Oregon State University, Dept. of Integrative Biology, Undergraduate Club, Spring Term Meeting, _Deciding how to impact the world: Issues, options, and tools._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+Oregon State University, Science Communication Brown Bag Lunch Seminar Series, _Crowdfunding: creating new possibilities for science_.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+Oregon State University, Science Communication Brown Bag Lunch Seminar Series, _The Process of Podcasting: Using College Radio to Communicate Science._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+Oregon State University, College of Forestry, Researcher Teacher Partnerships: Making global climate change relevant in the classroom, Spring Workshop, _Invasive Species: Service Learning Opportunities for K-12._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+Oregon State University, College of Forestry, Researcher Teacher Partnerships: Making global climate change relevant in the classroom, Spring Workshop, _Inspiring Science as Graduate Students._
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Plant Disease Workshops and Research Activities</u></em></p>
+
+#### Public Talks
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>South African National Parks, <em>Hunting for </em>Phytophthora<em> in West Coast National Park</em>, SANParks office, Langebaan, West Coast.</p>
+South African Citizen Science Project Fair, International Citizen Science Day, Old Mutual Conference Center, Kirstenbosch National Botanical Garden, _Cape Citizen Science._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Stellenbosch Municipality, <em>Surveying </em>Phytophthora<em> in Jan Marais Nature Reserve</em>, Stellenbosch.</p>
+Friends of Brackenfell Nature Reserve, Brackenfell Nature Reserve, monthly meeting, _How citizens can protect the Cape Floral Kingdom from new plant diseases._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Cape Nature, <em>Surveying </em>Phytophthora<em> in Marloth Nature Reserve</em>, Marloth Nature Reserve, Swellendam.</p>
+Wildlife and Environment Society of South Africa, Tygerberg Nature Reserve, Big Friends Group Event, _How citizens can protect the Cape Floral Kingdom from new plant diseases._
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>South African National Biodiversity Institute,<em> Recognizing plant disease, sampling soil, and testing hypotheses</em>, Harold Porter Botanical Garden, Bettys Bay.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>Stellenbosch University, <em>Recognizing plant disease and sampling soil for Phytophthora spp.,</em> Stellenbosch University Botanical Garden, Stellenbosch.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South African National Biodiversity Institute, <em>Hypothesis testing in Kirstenbosch National Botanical Garden with Citizen Science</em>, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South African Botanical Society, <em>Surveying </em>Phytophthora<em> species in Fernkloof Nature Reserve</em>, Fernkloof Nature Reserve Hall, Hermanus.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South Africa National Parks, Surveying <em>Phytophthora</em> species in Agulhas National Park, SANParks Office, Agulhas.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South African National Biodiversity Institute, Phytophthora<em> soil baiting in the Protea Garden</em>, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South Africa National Parks, <em>Sampling dying plants and the Breede river in Bontebok National Park</em>, Bontebok National park, Swellendam.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South African National Biodiversity Institute, <em>Recognizing plant disease: why and how</em>, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.</p>
-</td>
-</tr>
-<tr>
-<td width="86">
-<p>2016</p>
-</td>
-<td width="892">
-<p>South Africa National Biodiversity Institute, <em>Introduction to </em>Phytophthora<em>: plant destroyers in South Africa</em>, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.</p>
+South African National Biodiversity Institute, Kirstenbosch National Botanical Garden, Room To Grow Wednesday Talks Series, _Cape Citizen Science: plant disease in the fynbos._
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>MENTORSHIP AND SUPERVISION</strong></p>
+
+
+### Teaching Experience {.tabset .tabset-fade}
+#### Guest Lectures
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Cape Peninsula University of Technology, Faculty of Applied Sciences, Btech Plants Module, Lecture, _Invasive microscopic organisms: plant pathogens and biosecurity._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Lecture, _Microscopic organisms: plant promoters and plant destroyers._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Lecture, _A look into the microscopic world: lifelines or invisible threats._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Field Course, Drie Kulien Nature Reserve.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Stellenbosch University, International Winter School, Biodiversity & Ecology Course, Lecture, _Surveying Phytophthora species with citizen science_.
+</td>
+</tr>
+</tbody>
+</table>
+#### Workshop Series (multiple sessions)
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2019
+</td>
+<td width="892">
+University of Pretoria, Faculty of Natural and Agricultural Sciences, [_R for biology data science workshop series_](http://jmhulbert.github.io/r/bio/) _(5 sessions, 76 participants, packages: ggplot2 and dplyr)._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2019
+</td>
+<td width="892">
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, [_RStudio and R package workshop series_](http://jmhulbert.github.io/r/fabi/) _(5 sessions, 35 participants, packages: ggplot2, dplyr, vegan and Markdown)._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio and R package workshop series (4 sessions, 23 participants, packages: ggplot2, dplyr, and vegan)._
+</td>
+</tr>
+</tbody>
+</table>
+
+### Science Outreach {.tabset .tabset-fade}
+#### Youth Engagement Activities
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Kluitjieskraal and Waterval Junior Rangers, _Part 2: Collecting bark and ambrosia beetles_, Cape Nature, Wolseley.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Littlewood Primary, _Part 2: Collecting bark and ambrosia beetles_, Cape Nature, Wolseley.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Littlewood Primary, _Part 1: Collecting bark and ambrosia beetles_, Cape Nature, Wolseley.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Kluitjieskraal and Waterval Junior Rangers, _Part 1: Collecting bark and ambrosia beetles_, Cape Nature, Wolseley.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+SANParks Junior Rangers, _Hike to De Mond_, Cape Point, Table Mountain National Park.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Noordhoek Primary, _Cape Citizen Science Presents: Cape Nature Junior Ranger Adventures in Rochepan Nature Reserve_, Cape Nature, Veldrift.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Littlewood Primary, _Cape Citizen Science Presents: Cape Nature Junior Ranger Adventures in Drift Sand Nature Reserve_, Cape Nature, Blue Downs.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Se7en +1 homeschool group, _Cape Citizen Science Presents: Lab Visit with Se7en +1_, Stellenbosch University, Stellenbosch.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Fish Hoek Girl Guides, _Adventures with First Fish Hoek Girl Guides_, Fish Hoek.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Se7en +1 homeschool group, _Mountain hike with Seven+1_, Fish Hoek.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Mamre Girls Brigade, _Cape Citizen Science Presents: Adventures in Silwer Stream._ Cape Nature, Mamre.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+South African Education and Environment Project, _SAEP and Cape Citizen Science Present: Adventures in Helderberg Nature Reserve_, three activities (July 29, August 5, and October 7), Cape Town Municipality, Somerset West,
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+South African Education and Environment Project, _SAEP and Cape Citizen Science Present: Adventures in Cape Point_, three activities (June 10, 17 and 24), Cape Point, Table Mountain National Park.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Vision Afrika, _Pathogen hunting in Jonkershoek Nature Reserve on Earth Day_, Jonkersheok Nature Reserve, Stellenbosch.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Helderberg Eco-Rangers, _Sampling streams for Phytophthora and monitoring stream health with miniSASS_, Edward Wood Environmental Education Center, Somerset West.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Helderberg Eco-Rangers, _Training to be citizen scientists: reporting dying plants with IspotNature_, Helderberg Eco-Rangers, Edward Wood Environmental Education Center, Somerset West.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Four Cape Town Scout Troops, _Cape Citizen Science__: plant disease on Hoys Koppie_, Hermanus, Scout excursion.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Helderberg Eco-Rangers, _Disease in our fynbos_, Edward Wood Environmental Education Center, Somerset West.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+Se7en +1 homeschool group, _Sampling in Kirstenbosch National Botanical Garden_, South African National Biodiversity Institute, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+Wood Magic Volunteer, _Forest products in everyday materials_, World Forestry Institute, Portland, Oregon.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Wood Magic Volunteer, _Forest products in everyday materials_, World Forestry Institute, Portland, Oregon.
+</td>
+</tr>
+</tbody>
+</table>
+#### Promotional Table Events
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Science Forum South African, Council for Scientific and Industrial Research, Pretoria.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Biodiversity Careers Day, Kirstenbosch Research Centre, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Science Forum South African, Council for Scientific and Industrial Research, Pretoria.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+National Science Week_,_ African Institute of Mathematical Sciences, Khayelitsha. 
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Open Day, Faculty of AgriSciences, Stellenbosch University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Hermanus Botanical Society Flower Festival, Hermanus.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Funky Fynbos Festival, Gaansbai.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+Arbor Week Expo, Stellenbosch.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Spring Discovery Days, Oregon State University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Fall Discovery Days, Oregon State University.
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### Stakeholder Engagement {.tabset .tabset-fade}
+#### Presentations
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+South African National Biodiversity Institute, _Introduction to_ Phytophthora, Plant Pest Monitoring and Prevention Workshop, International Plant Sentinel Network, , Kirstenbosch National Botanical Garden, November 6-7, 2017.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+South Africa National Parks, _Forest_ Phytophthoras_: Invisible threats or contributors to plant community diversity?_ Garden Route National Park SANParks Office, Knysna, South Africa.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Cape Town Municipality, _Plant disease in the Cape Floristic Region_, Branch Meeting, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Cape Town Municipality, Cape Nature, World Wildlife Foundation, _Plant disease in the Cape Floristic Region_, BioNet Steering Committee Meeting, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South Africa National Parks, _Cape Citizen Science: Sampling Phytophthora with Citizen Science_, Research Committee Feedback Discussion, Cape Research Centre, Tokai, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Cape Nature, _Involving Cape Nature to study dying plants in the fynbos_, Eastern Division Quarterly Ecological Meeting, George.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Cape Nature, _Engaging citizens in research through workshops and targeted sampling_, Central Division Quarterly Ecological Meeting, Fernkloof Nature Reserve, Hermanus.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Cape Nature, _Community driven research about plant disease in the fynbos_, Western Division Quarterly Ecological Meeting, Porterville.
+</td>
+</tr>
+</tbody>
+</table>
+
+#### Plant Disease Workshops and Research Activities
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+South African National Parks, _Hunting for_ Phytophthora _in West Coast National Park_, SANParks office, Langebaan, West Coast.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Stellenbosch Municipality, _Surveying_ Phytophthora _in Jan Marais Nature Reserve_, Stellenbosch.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Cape Nature, _Surveying_ Phytophthora _in Marloth Nature Reserve_, Marloth Nature Reserve, Swellendam.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South African National Biodiversity Institute, _Recognizing plant disease, sampling soil, and testing hypotheses_, Harold Porter Botanical Garden, Bettys Bay.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Stellenbosch University, _Recognizing plant disease and sampling soil for Phytophthora spp.,_ Stellenbosch University Botanical Garden, Stellenbosch.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South African National Biodiversity Institute, _Hypothesis testing in Kirstenbosch National Botanical Garden with Citizen Science_, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South African Botanical Society, _Surveying_ Phytophthora _species in Fernkloof Nature Reserve_, Fernkloof Nature Reserve Hall, Hermanus.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South Africa National Parks, Surveying _Phytophthora_ species in Agulhas National Park, SANParks Office, Agulhas.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South African National Biodiversity Institute, Phytophthora _soil baiting in the Protea Garden_, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South Africa National Parks, _Sampling dying plants and the Breede river in Bontebok National Park_, Bontebok National park, Swellendam.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South African National Biodiversity Institute, _Recognizing plant disease: why and how_, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: plant destroyers in South Africa_, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.
+</td>
+</tr>
+</tbody>
+</table>
+
+### Mentorship and Supervision
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="131">
-<p>Eric Norton</p>
+Eric Norton
 </td>
 <td width="576">
-<p>BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="131">
-<p>Ashleigh Basel</p>
+Ashleigh Basel
 </td>
 <td width="576">
-<p>BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="131">
-<p>Gr&eacute;g Thiry</p>
+Grég Thiry
 </td>
 <td width="576">
-<p>MSc Environmental Education,&nbsp; Universit&eacute; of Montpellier, France. South African Environmental Education Project Intern.</p>
+MSc Environmental Education,  Université of Montpellier, France. South African Environmental Education Project Intern.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="131">
-<p>Nicolas Louw</p>
+Nicolas Louw
 </td>
 <td width="576">
-<p>BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+BSc Honors (4th year), Dept. of Conservation Ecology and Entomology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="131">
-<p>Adam Wentzel</p>
+Adam Wentzel
 </td>
 <td width="576">
-<p>Work Integrated Learning Student, Cape Nature, Jonkershoek Nature Reserve, Dept. of Biodiversity and Conservation, Cape Peninsula University of Technology.</p>
+Work Integrated Learning Student, Cape Nature, Jonkershoek Nature Reserve, Dept. of Biodiversity and Conservation, Cape Peninsula University of Technology.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="131">
-<p>Tara Nair Van Ryneveld</p>
+Tara Nair Van Ryneveld
 </td>
 <td width="576">
-<p>BSc Honors (4th year), Plant Conservation Unit, Dept. of Biological Sciences, University of Cape Town.</p>
+BSc Honors (4th year), Plant Conservation Unit, Dept. of Biological Sciences, University of Cape Town.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="131">
-<p>Liza-Marie Dippenaar</p>
+Liza-Marie Dippenaar
 </td>
 <td width="576">
-<p>BSc Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
+BSc Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="131">
-<p>James Coldrey</p>
+James Coldrey
 </td>
 <td width="576">
-<p>BSc Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.</p>
+BSc Plant Pathology 4th year project, Dept. of Plant Pathology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="131">
-<p>Jeff Groenewald</p>
+Jeff Groenewald
 </td>
 <td width="576">
-<p>BSc (3rd year), Biodiversity and Ecology, Dept. of Botany and Zoology, Stellenbosch University.</p>
+BSc (3rd year), Biodiversity and Ecology, Dept. of Botany and Zoology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="131">
-<p>Emma Buczkowski</p>
+Emma Buczkowski
 </td>
 <td width="576">
-<p>BSc Zoology, Dept. of Botany &amp; Plant Pathology Undergraduate Mentorship Program (BUDS) Oregon State University.</p>
+BSc Zoology, Dept. of Botany & Plant Pathology Undergraduate Mentorship Program (BUDS) Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="131">
-<p>Joey DeSheilds</p>
+Joey DeSheilds
 </td>
 <td width="576">
-<p>BSc Molecular and Cell Biology, Dept. of Botany &amp; Plant Pathology Mentorship Program (BUDS), Oregon State University.</p>
+BSc Molecular and Cell Biology, Dept. of Botany & Plant Pathology Mentorship Program (BUDS), Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="131">
-<p>Kayla Nass</p>
+Kayla Nass
 </td>
 <td width="576">
-<p>BSc Wood Science and Engineering, Hourly Morrell Lab Student Employee, Oregon State University.</p>
+BSc Wood Science and Engineering, Hourly Morrell Lab Student Employee, Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="131">
-<p>Al Pancoast</p>
+Al Pancoast
 </td>
 <td width="576">
-<p>BSc Forest Engineering, Forestry Graduate Undergraduate Mentorship Program (GUMP), Oregon State University.</p>
+BSc Forest Engineering, Forestry Graduate Undergraduate Mentorship Program (GUMP), Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2014</p>
+<tr valign="top">
+<td width="100">
+2014
 </td>
 <td width="131">
-<p>Alex Abair</p>
+Alex Abair
 </td>
 <td width="576">
-<p>BSc Botany &amp; Plant Pathology, Hourly Hansen Lab Student Employee, Oregon State University.</p>
+BSc Botany & Plant Pathology, Hourly Hansen Lab Student Employee, Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="131">
-<p>Josh Petitmermet</p>
+Josh Petitmermet
 </td>
 <td width="576">
-<p>Hourly Hansen Lab Student Employee, Oregon State University.</p>
+Hourly Hansen Lab Student Employee, Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="131">
-<p>Jake Kotche</p>
+Jake Kotche
 </td>
 <td width="576">
-<p>Hourly Hansen Lab Student Employee, Oregon State University.</p>
+Hourly Hansen Lab Student Employee, Oregon State University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013</p>
+<tr valign="top">
+<td width="100">
+2013
 </td>
 <td width="131">
-<p>Patrick Duyck</p>
+Patrick Duyck
 </td>
 <td width="576">
-<p>BSc Forest Engineering, Personal Initiative.</p>
+BSc Forest Engineering, Personal Initiative.
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>MENTORSHIP OUTCOMES</strong></p>
-<p>Basel A, <strong>Hulbert JM</strong>, Midgley G, Jacobs S, Dreyer L, Roets F. 2018. Disease or drought? A physiological analysis on the effects of <em>Phytophthora</em> infection and water stress on <em>Leucadendron argenteum</em>, Fynbos Forum, Worcestor, South Africa. Oral Presentation.</p> 
-<p>Groenewald J, Roets F, <strong>Hulbert JM. </strong>2017. <em>Phytophthora cinnamomi</em>: a driver behind endangered flora in the CFR?, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Poster Presentation.</p>
-<p>Louw NL, Roets F, <strong>Hulbert JM. </strong>2017. The diminishing silver lining: re-evaluating the microscopic threats to South Africa's silver tree, Fynbos Forum, Swellendam, South Africa. Oral Presentation.</p>
-<p>&nbsp;</p>
-<p><strong>WORKSHOPS ATTENDED</strong></p>
+</details>
+
+### Mentorship Outcomes
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+  + Basel A, **Hulbert JM**, Midgley G, Jacobs S, Dreyer L, Roets F. 2018\. Disease or drought? A physiological analysis on the effects of _Phytophthora_ infection and water stress on _Leucadendron argenteum_, Fynbos Forum, Worcestor, South Africa. Oral Presentation.
+  + Groenewald J, Roets F, **Hulbert JM.** 2017\. _Phytophthora cinnamomi_: a driver behind endangered flora in the CFR?, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Poster Presentation.
+  + Louw NL, Roets F, **Hulbert JM.** 2017\. The diminishing silver lining: re-evaluating the microscopic threats to South Africa's silver tree, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
+</details>
+
+### Workshops Attended
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Citizen science and youth education in South Africa, Transatlantic Science Education Cooperative, Stellenbosch University.</p>
+Citizen science and youth education in South Africa, Transatlantic Science Education Cooperative, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>The People Side of Ecology, Social Science Methods Workshop, Dept. of Conservation Ecology and Entomology, Stellenbosch University.</p>
+The People Side of Ecology, Social Science Methods Workshop, Dept. of Conservation Ecology and Entomology, Stellenbosch University.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Introduction to Phylogenetics Workshop, Forestry and Agricultural Biotechnology Institute, University of Pretoria.</p>
+Introduction to Phylogenetics Workshop, Forestry and Agricultural Biotechnology Institute, University of Pretoria.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Microsatellite Workshop, Forestry and Agricultural Biotechnology Institute, University of Pretoria.</p>
+Microsatellite Workshop, Forestry and Agricultural Biotechnology Institute, University of Pretoria.
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>DIGITAL MEDIA PRODUCTION</strong></p>
-<p><em><u>Podcast Production</u></em></p>
+</details>
+
+### Digital Media Production {.tabset .tabset-fade}
+#### Podcast Production
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p><a href="https://archive.org/details/DylanE1"> <em>Dylan</em></a>, Cape Citizen Science.</p>
+[_Dylan_](https://archive.org/details/DylanE1), Cape Citizen Science.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p><em>Behind the Research</em>, Oregon State University, College of Forestry.</p>
+_Behind the Research_, Oregon State University, College of Forestry.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
+<tr valign="top">
+<td width="100">
+2012-2014
 </td>
 <td width="892">
-<p><em>Inspiration Dissemination</em>, Oregon State University, 88.7fm KBVR.</p>
+_Inspiration Dissemination_, Oregon State University, 88.7fm KBVR.
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Video Production</u></em></p>
+
+#### Video Production
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2017</p>
+<tr valign="top">
+<td width="100">
+2017
 </td>
 <td width="892">
-<p>A year of empowering young minds. <a href="https://youtu.be/PKSI1sxHiEc" >YouTube</a>.</p>
+A year of empowering young minds. [YouTube](https://youtu.be/PKSI1sxHiEc).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Engage Kayamandi youth in Cape Citizen Science with Vision Afrika. <a href=" https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika">Experiment.com</a>.</p>
+Engage Kayamandi youth in Cape Citizen Science with Vision Afrika. [Experiment.com]( https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Release your inner scientist (website header). <a href="https://youtu.be/X-tXBPpDxWs">YouTube</a>.</p>
+Release your inner scientist (website header). [YouTube](https://youtu.be/X-tXBPpDxWs).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015</p>
+<tr valign="top">
+<td width="100">
+2015
 </td>
 <td width="892">
-<p>Discovering plant destroyers in South Africa with citizen science. <a href="https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science">Experiment.com</a>.</p>
+Discovering plant destroyers in South Africa with citizen science. [Experiment.com](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science).
 </td>
 </tr>
 </tbody>
 </table>
-<p><em><u>Web Development</u></em></p>
+
+#### Web Development
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2019-</p>
+<tr valign="top">
+<td width="100">
+2019-
 </td>
 <td width="892">
-<p>Forest Health Citizen Science Community, Github Pages (https://fhcs.page/).</p>
+Forest Health Citizen Science Community, Github Pages (https://fhcs.page/).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018-</p>
+<tr valign="top">
+<td width="100">
+2018-
 </td>
 <td width="892">
-<p>R Workshop Series, html & R Markdown (https://jmhulbert.github.io/r/).</p>
+R Workshop Series, html & R Markdown (https://jmhulbert.github.io/r/).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015-</p>
+<tr valign="top">
+<td width="100">
+2015-
 </td>
 <td width="892">
-<p>Cape Citizen Science, Wordpress (https://citsci.co.za). </p>
+Cape Citizen Science, Wordpress (https://citsci.co.za).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2015-2016</p>
+<tr valign="top">
+<td width="100">
+2015-2016
 </td>
 <td width="892">
-<p>Personal website, Drupal (https://jmhulbert.me).</p>
+Personal website, Drupal (https://jmhulbert.me).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Inspiration Dissemination, Drupal (oregonstate.edu/inspire).</p>
+Inspiration Dissemination, Drupal (oregonstate.edu/inspire).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Botany and Plant Pathology Graduate Student Association, Drupal (https://gsa.bpp.oregonstate.edu).</p>
+Botany and Plant Pathology Graduate Student Association, Drupal (https://gsa.bpp.oregonstate.edu).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Western Forestry Graduate Research Symposium, Drupal (gradsymp.forestry.oregonstate.edu).</p>
+Western Forestry Graduate Research Symposium, Drupal (gradsymp.forestry.oregonstate.edu).
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2013-2014</p>
+<tr valign="top">
+<td width="100">
+2013-2014
 </td>
 <td width="892">
-<p>Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonstate.edu).</p>
+Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonstate.edu).
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>SELECTED POPULAR WRITING</strong></p>
-<p>Hulbert JM, Roets F. 2017. Citizen science: how ordinary people can guard Cape Town's biodiversity, The Conversation-Africa.</p>
-<p>Hulbert JM. 2017. Pathogen Hunters: citizen scientists track plant diseases to save species, The Conversation-Africa.</p>
-<p>Hulbert JM. 2017. Two species of plant killing genus<em> Phytophthora</em> found in a Western Cape garden, Veld &amp; Flora Vol 103(1).</p>
-<p>Hulbert JM. 2017. Citizen Science, Supernova: the magazine for curious kids Vol 6.1.</p>
-<p>Hulbert JM. 2016. Citizen driven science: the citizen science movement in South Africa, Quest Magazine, Vol 12 (2).</p>
-<p>Hulbert JM. 2016. Plant Destroyers, Supernova: the magazine for curious kids, Vol 5.6.</p>
-<p>Hulbert JM. 2016. Super Fungi, Supernova: the magazine for curious kids, Vol 5.5.</p>
-<p>Hulbert JM. 2016. Citizen science: research experience for all, Veld &amp; Flora, Vol 102(2).</p>
-<p>Hulbert JM. 2016. Recycled pathogens: avoiding accidental infection through awareness, Agrikultuur Magazine, Vol 34.</p>
-<p>Hulbert JM. 2015. Microbes, Supernova: the magazine for curious kids, Vol 5.3.</p>
-<p>Hulbert JM. 2015. Citizen engagement in research to protect fynbos&mdash;and forests, SA Forestry.</p>
-<p>Hulbert JM. Navarro S. 2011. Effective collaboration slows the spread of Sudden Oak Death in Oregon, Western Forester, Vol 56(3).</p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>SELECTED MEDIA COVERAGE</strong></p>
-<p><em><u>Articles</u></em></p>
-<p>de Bruin L. 2018. Be part of the Cape Town hypothesis test, University of Pretoria homepage, online article.</p>
-<p>Duvenage E. 2017. Jy kan PhD-student help met grondmonsters, Die Burger, newspaper article.</p>
-<p>Burt B. 2017. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, online article.</p>
-<p>Duvenage E. 2017. Citizen science crowdfunding project pays off, SciBraai, online article.</p>
-<p>Brits E. 2016. 'Publiek kan help om fynbos te red, Netwerk 24, newspaper article.</p>
-<p>Heyl A. 2016. Join the hunt for pathogens in the fynbos, UP News, online article.</p>
-<p>Editor. 2016. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, newspaper article.</p>
-<p>DeKlerk, R. 2016. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.</p>
-<p><em><u>Radio Interviews</u></em></p>
-<p>Middag op RSG, RSG 100-104FM, January 23, 2018.</p>
-<p>Detour, Maties MFM 92.6FM, November 29, 2017.</p>
-<p>Green Living, Radio Helderberg 93.6FM, February 23, 2017.</p>
-<p>KLCC News, NPR KLCC 89.7, April 8, 2015.</p>
-<p>&nbsp;</p>
-<p><strong>SCIENCE COMMUNITY SERVICE</strong></p>
+
+### Selected Popular Writing
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+  + Hulbert JM, Roets F. 2017\. Citizen science: how ordinary people can guard Cape Town's biodiversity, The Conversation-Africa.
+  + Hulbert JM. 2017\. Pathogen Hunters: citizen scientists track plant diseases to save species, The Conversation-Africa.
+  + Hulbert JM. 2017\. Two species of plant killing genus _Phytophthora_ found in a Western Cape garden, Veld & Flora Vol 103(1).
+  + Hulbert JM. 2017\. Citizen Science, Supernova: the magazine for curious kids Vol 6.1.
+  + Hulbert JM. 2016\. Citizen driven science: the citizen science movement in South Africa, Quest Magazine, Vol 12 (2).
+  + Hulbert JM. 2016\. Plant Destroyers, Supernova: the magazine for curious kids, Vol 5.6.
+  + Hulbert JM. 2016\. Super Fungi, Supernova: the magazine for curious kids, Vol 5.5.
+  + Hulbert JM. 2016\. Citizen science: research experience for all, Veld & Flora, Vol 102(2).
+  + Hulbert JM. 2016\. Recycled pathogens: avoiding accidental infection through awareness, Agrikultuur Magazine, Vol 34.
+  + Hulbert JM. 2015\. Microbes, Supernova: the magazine for curious kids, Vol 5.3.
+  + Hulbert JM. 2015\. Citizen engagement in research to protect fynbos—and forests, SA Forestry.
+  + Hulbert JM. Navarro S. 2011\. Effective collaboration slows the spread of Sudden Oak Death in Oregon, Western Forester, Vol 56(3).
+
+</details>
+
+### Selected Media Coverage
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+* Articles
+    + de Bruin L. 2018\. Be part of the Cape Town hypothesis test, University of Pretoria homepage, online article.
+    + Duvenage E. 2017\. Jy kan PhD-student help met grondmonsters, Die Burger, newspaper article.
+    + Burt B. 2017\. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, online article.
+    + Duvenage E. 2017\. Citizen science crowdfunding project pays off, SciBraai, online article.
+    + Brits E. 2016\. 'Publiek kan help om fynbos te red, Netwerk 24, newspaper article.
+    + Heyl A. 2016\. Join the hunt for pathogens in the fynbos, UP News, online article.
+    + Editor. 2016\. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, newspaper article.
+    + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
+
+* Radio Interviews
+    + Middag op RSG, RSG 100-104FM, January 23, 2018.
+    + Detour, Maties MFM 92.6FM, November 29, 2017.
+    + Green Living, Radio Helderberg 93.6FM, February 23, 2017.
+    + KLCC News, NPR KLCC 89.7, April 8, 2015.
+
+</details>
+
+### Science Community Service
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2020</p>
+<tr valign="top">
+<td width="100">
+2020
 </td>
 <td width="892">
-<p>Adhoc Reviewer, Scientific Reports (1 Manuscript), Journal of Pest Science (1 Manuscript)</p>
+Adhoc Reviewer, Scientific Reports (1 Manuscript), Journal of Pest Science (1 Manuscript)
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2019</p>
+<tr valign="top">
+<td width="100">
+2019
 </td>
 <td width="892">
-<p>Adhoc Reviewer, African Journal of Marine Biology (1 Manuscript)</p>
+Adhoc Reviewer, African Journal of Marine Biology (1 Manuscript)
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2018</p>
+<tr valign="top">
+<td width="100">
+2018
 </td>
 <td width="892">
-<p>Adhoc Reviewer, Biological Invasions (1 Manuscript)</p>
+Adhoc Reviewer, Biological Invasions (1 Manuscript)
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016</p>
+<tr valign="top">
+<td width="100">
+2016
 </td>
 <td width="892">
-<p>Adhoc Reviewer, IMAfungus (1 Manuscript)</p>
+Adhoc Reviewer, IMAfungus (1 Manuscript)
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>RESEARCH POSITIONS</strong></p>
+</details>
+
+### Research Positions
+<details open>
+<summary><a class="button">Hide</a></summary>
 <table>
 <tbody>
-<tr>
-<td width="86">
-<p>2015-2019</p>
+<tr valign="top">
+<td width="100">
+2015-2019
 </td>
 <td width="892">
-<p>Graduate Student, University of Pretoria, Dept. of Plant and Soil Sciences, Pretoria, Gauteng, South Africa. Primary Supervisor: Mike Wingfield. Co-supervisors: Treena Burgess, Francois Roets.</p>
+Graduate Student, University of Pretoria, Dept. of Plant and Soil Sciences, Pretoria, Gauteng, South Africa. Primary Supervisor: Mike Wingfield. Co-supervisors: Treena Burgess, Francois Roets.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2016-2018</p>
+<tr valign="top">
+<td width="100">
+2016-2018
 </td>
 <td width="892">
-<p>Affiliate Research Student, Stellenbosch University, Dept. of Conservation Ecology and Entomology, Stellenbosch, Western Cape Province, South Africa. Supervisor: Francois Roets.</p>
+Affiliate Research Student, Stellenbosch University, Dept. of Conservation Ecology and Entomology, Stellenbosch, Western Cape Province, South Africa. Supervisor: Francois Roets.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2012-2014</p>
+<tr valign="top">
+<td width="100">
+2012-2014
 </td>
 <td width="892">
-<p>Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Jeff Morrell.</p>
+Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Jeff Morrell.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2011-2012</p>
+<tr valign="top">
+<td width="100">
+2011-2012
 </td>
 <td width="892">
-<p>Research Technician, Oregon State University, Dept. of Botany and Plant Pathology, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton.</p>
+Research Technician, Oregon State University, Dept. of Botany and Plant Pathology, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Paul Resser, Wendy Sutton.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2010</p>
+<tr valign="top">
+<td width="100">
+2010
 </td>
 <td width="892">
-<p>Field Technician, Oregon State University, Dept. of Forest Engineering, Resources and Management, Corvallis, Oregon, USA. Supervisors: Dave Shaw, Travis Woolley.</p>
+Field Technician, Oregon State University, Dept. of Forest Engineering, Resources and Management, Corvallis, Oregon, USA. Supervisors: Dave Shaw, Travis Woolley.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2009</p>
+<tr valign="top">
+<td width="100">
+2009
 </td>
 <td width="892">
-<p>Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California, USA. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North.</p>
+Forest Service STEP Field Technician, Joint project with U.C. Davis and Forest Service Sierra Nevada Research Center, Davis, California, USA. Supervisors: Seth Bigelow, Michael Papaik, Malcolm North.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2008</p>
+<tr valign="top">
+<td width="100">
+2008
 </td>
 <td width="892">
-<p>Field Technician, Joint project with University of Idaho and Forest Service Rocky Mountain Research Station, Moscow, Idaho, USA. Supervisors: Andrew Hudak, Penny Morgan.</p>
+Field Technician, Joint project with University of Idaho and Forest Service Rocky Mountain Research Station, Moscow, Idaho, USA. Supervisors: Andrew Hudak, Penny Morgan.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2008</p>
+<tr valign="top">
+<td width="100">
+2008
 </td>
 <td width="892">
-<p>Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho, USA. Supervisors: Ned Klopfenstein, Mee-Sook Kim.</p>
+Volunteer Lab Technician, Forest Pathology Lab, Forest Service Rocky Mountain Research Station, Moscow, Idaho, USA. Supervisors: Ned Klopfenstein, Mee-Sook Kim.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2007-2010</p>
+<tr valign="top">
+<td width="100">
+2007-2010
 </td>
 <td width="892">
-<p>Research Technician, Washington State University, Dept. of Plant Pathology, Pullman, Washington, USA. Supervisor: Patricia Okubara.</p>
+Research Technician, Washington State University, Dept. of Plant Pathology, Pullman, Washington, USA. Supervisor: Patricia Okubara.
 </td>
 </tr>
-<tr>
-<td width="86">
-<p>2004</p>
+<tr valign="top">
+<td width="100">
+2004
 </td>
 <td width="892">
-<p>Research Technician, Kansas State University, Dept. of Plant Pathology, Manhattan, Kansas, USA.</p>
+Research Technician, Kansas State University, Dept. of Plant Pathology, Manhattan, Kansas, USA.
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>REFERENCES</strong></p>
-<p><u>Primary PhD Supervisor</u></p>
-<p>Mike J. Wingfield</p>
-<p> Advisor to the Executive, University of Pretoria </p>
-<p>President, International Union of Forest Research Organizations</p>
-<p>Founding Director, Forestry and Agricultural Biotechnology Institute</p>
-<p>Professor, Department of Microbiology and Plant Pathology</p>
-<p>University of Pretoria</p>
-<p>Pretoria, South Africa 0002</p>
-<p>mike.wingfield@up.ac.za</p>
-<p>&nbsp;</p>
-<p><u>PhD Co-Supervisor</u></p>
-<p>Treena I. Burgess</p>
-<p>Interim Dean of Research, College of Science, Health, Engineering and Education</p>
-<p>Director, Centre of <em>Phytophthora</em> Science and Management</p>
-<p>Professor, Plant Biology</p>
-<p>Murdoch University</p>
-<p>Murdoch, Western Australia 6150</p>
-<p>t.burgess@murdoch.edu.au</p>
-<p>&nbsp;</p>
-<p><u>PhD Co-Supervisor</u></p>
-<p>Francois Roets</p>
-<p>Assistant Professor, Dept. of Conservation Ecology and Entomology</p>
-<p>Stellenbosch University</p>
-<p>Stellenbosch, South Africa 7600</p>
-<p>fr@sun.ac.za</p>
-<p>&nbsp;</p>
-<p><u>MSc Supervisor</u></p>
-<p>Everett M. Hansen</p>
-<p>Professor Emeritus, Dept. of Botany and Plant Pathology</p>
-<p>Oregon State University</p>
-<p>Corvallis, Oregon, USA 97330</p>
-<p>hansene@oregonstate.ed</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+</details>
+
+### References
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+<u>Primary PhD Supervisor</u>
+
+Mike J. Wingfield
+
+Advisor to the Executive, University of Pretoria
+President, International Union of Forest Research Organizations
+Founding Director, Forestry and Agricultural Biotechnology Institute
+Professor, Department of Microbiology and Plant Pathology
+University of Pretoria
+Pretoria, South Africa 0002
+mike.wingfield@up.ac.za
+
+<u>PhD Co-Supervisor</u>
+
+Treena I. Burgess
+
+Interim Dean of Research, College of Science, Health, Engineering and Education
+Director, Centre of _Phytophthora_ Science and Management
+Professor, Plant Biology
+Murdoch University
+Murdoch, Western Australia 6150
+t.burgess@murdoch.edu.au
+
+<u>PhD Co-Supervisor</u>
+
+Francois Roets
+
+Assistant Professor, Dept. of Conservation Ecology and Entomology
+Stellenbosch University
+Stellenbosch, South Africa 7600
+fr@sun.ac.za
+
+<u>MSc Supervisor</u>
+
+Everett M. Hansen
+
+Professor Emeritus, Dept. of Botany and Plant Pathology
+Oregon State University
+Corvallis, Oregon, USA 97330
+hansene@oregonstate.ed
+</details>
