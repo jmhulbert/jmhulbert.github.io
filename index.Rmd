@@ -2211,42 +2211,36 @@ Research Technician, Kansas State University, Dept. of Plant Pathology, Manhatta
 
 <u>Primary PhD Supervisor</u>
 
-Mike J. Wingfield
-
-Advisor to the Executive, University of Pretoria
-President, International Union of Forest Research Organizations
-Founding Director, Forestry and Agricultural Biotechnology Institute
-Professor, Department of Microbiology and Plant Pathology
-University of Pretoria
-Pretoria, South Africa 0002
+**Mike J. Wingfield**<br>
+Advisor to the Executive, University of Pretoria <br>
+Past President, International Union of Forest Research Organizations<br>
+Founding Director, Forestry and Agricultural Biotechnology Institute<br>
+Professor, Department of Microbiology and Plant Pathology<br>
+University of Pretoria, Pretoria, South Africa 0002<br>
 mike.wingfield@up.ac.za
 
+
 <u>PhD Co-Supervisor</u>
 
-Treena I. Burgess
-
-Interim Dean of Research, College of Science, Health, Engineering and Education
-Director, Centre of _Phytophthora_ Science and Management
-Professor, Plant Biology
-Murdoch University
-Murdoch, Western Australia 6150
+**Treena I. Burgess**<br>
+Interim Dean of Research, College of Science, Health, Engineering and Education<br>
+Director, Centre of _Phytophthora_ Science and Management<br>
+Professor, Plant Biology<br>
+Murdoch University, Murdoch, Western Australia 6150<br>
 t.burgess@murdoch.edu.au
 
+
 <u>PhD Co-Supervisor</u>
 
-Francois Roets
-
-Assistant Professor, Dept. of Conservation Ecology and Entomology
-Stellenbosch University
-Stellenbosch, South Africa 7600
+**Francois Roets** <br>
+Assistant Professor, Dept. of Conservation Ecology and Entomology<br>
+Stellenbosch University, Stellenbosch, South Africa 7600<br>
 fr@sun.ac.za
 
 <u>MSc Supervisor</u>
 
-Everett M. Hansen
-
-Professor Emeritus, Dept. of Botany and Plant Pathology
-Oregon State University
-Corvallis, Oregon, USA 97330
+**Everett M. Hansen**<br>
+Professor Emeritus, Dept. of Botany and Plant Pathology<br>
+Oregon State University, Corvallis, Oregon, USA 97330<br>
 hansene@oregonstate.ed
 </details>
