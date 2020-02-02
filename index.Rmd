@@ -661,7 +661,7 @@ Maximizing your graduate education, fall Graduate School new student orientation
 2014
 </td>
 <td width="892">
-**Hulbert JM**, Morrell JJ, Hansen EM, 2014\. Wooden Vectors of _Phytophthora ramorum_: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
+**Hulbert JM**, Morrell JJ, Hansen EM, 2014\. Wooden Vectors of *Phytophthora ramorum*: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
 </td>
 </tr>
 <tr valign="top">
@@ -889,7 +889,7 @@ University of Pretoria, Dept. of Plant & Soil Science Postgraduate Research Symp
 2014
 </td>
 <td width="892">
-Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, _Wooden vectors of_ Phytophthora ramorum_: Are Douglas-fir logs really a risk?_
+Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, *Wooden vectors of* Phytophthora ramorum: *Are Douglas-fir logs really a risk?*
 </td>
 </tr>
 <tr valign="top">
@@ -1349,7 +1349,7 @@ Helderberg Eco-Rangers, _Training to be citizen scientists: reporting dying plan
 2016
 </td>
 <td width="892">
-Four Cape Town Scout Troops, _Cape Citizen Science__: plant disease on Hoys Koppie_, Hermanus, Scout excursion.
+Four Cape Town Scout Troops, *Cape Citizen Science: plant disease on Hoys Koppie*, Hermanus, Scout excursion.
 </td>
 </tr>
 <tr valign="top">
@@ -1482,7 +1482,7 @@ Fall Discovery Days, Oregon State University.
 2017
 </td>
 <td width="892">
-South African National Biodiversity Institute, _Introduction to_ Phytophthora, Plant Pest Monitoring and Prevention Workshop, International Plant Sentinel Network, , Kirstenbosch National Botanical Garden, November 6-7, 2017.
+South African National Biodiversity Institute, *Introduction to Phytophthora*, Plant Pest Monitoring and Prevention Workshop, International Plant Sentinel Network, Kirstenbosch National Botanical Garden, November 6-7, 2017.
 </td>
 </tr>
 <tr valign="top">
@@ -1490,7 +1490,7 @@ South African National Biodiversity Institute, _Introduction to_ Phytophthora, P
 2017
 </td>
 <td width="892">
-South Africa National Parks, _Forest_ Phytophthoras_: Invisible threats or contributors to plant community diversity?_ Garden Route National Park SANParks Office, Knysna, South Africa.
+South Africa National Parks, *Forest Phytophthoras: invisible threats or contributors to plant community diversity?* Garden Route National Park SANParks Office, Knysna, South Africa.
 </td>
 </tr>
 <tr valign="top">
