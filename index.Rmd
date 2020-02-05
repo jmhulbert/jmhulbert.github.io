@@ -2085,7 +2085,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 2020
 </td>
 <td width="892">
-Adhoc Reviewer, Scientific Reports (1 Manuscript), Journal of Pest Science (1 Manuscript)
+Adhoc Reviewer, Scientific Reports (1 Manuscript)
 </td>
 </tr>
 <tr valign="top">
