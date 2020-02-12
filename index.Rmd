@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <tbody>
 <tr valign="top">
 <td width="450">
-Forestry and Agricultural Biotechnology Institute,  
+[Forestry and Agricultural Biotechnology Institute](https://fabinet.up.ac.za),  
 Dept. of Plant & Soil Science, University of Pretoria,  
 Private Bag X20, Hatfield, Pretoria 0002, South Africa.
 </td>
@@ -907,6 +907,14 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 <tbody>
 <tr valign="top">
 <td width="100">
+2020
+</td>
+<td width="892">
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, _A quest for plant destroyers in the Cape Floristic Region: a story of the growth of an indigenous-plant pathologist_ (PhD Prestige Seminar). 
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2018
 </td>
 <td width="892">
@@ -974,6 +982,14 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 #### Invited Talks
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Urban Ecology Research Laboratory, University of Washington, _Seattle Urban Forest Atlas Project Proposal._
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2019
