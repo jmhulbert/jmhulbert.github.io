@@ -1911,35 +1911,6 @@ Microsatellite Workshop, Forestry and Agricultural Biotechnology Institute, Univ
 </details>
 
 ### Digital Media Production {.tabset .tabset-fade}
-#### Podcast Production
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-[_Dylan_](https://archive.org/details/DylanE1), Cape Citizen Science.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2015
-</td>
-<td width="892">
-_Behind the Research_, Oregon State University, College of Forestry.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2012-2014
-</td>
-<td width="892">
-_Inspiration Dissemination_, Oregon State University, 88.7fm KBVR.
-</td>
-</tr>
-</tbody>
-</table>
 
 #### Video Production
 <table>
@@ -1974,6 +1945,36 @@ Release your inner scientist (website header). [YouTube](https://youtu.be/X-tXBP
 </td>
 <td width="892">
 Discovering plant destroyers in South Africa with citizen science. [Experiment.com](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science).
+</td>
+</tr>
+</tbody>
+</table>
+
+#### Podcast Production
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+[_Dylan_](https://archive.org/details/DylanE1), Cape Citizen Science.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+_Behind the Research_, Oregon State University, College of Forestry.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+_Inspiration Dissemination_, Oregon State University, 88.7fm KBVR.
 </td>
 </tr>
 </tbody>
