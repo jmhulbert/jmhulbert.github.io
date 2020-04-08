@@ -6,18 +6,20 @@ output:
     toc_depth: 3
     toc_float: TRUE
 ---
+<!-- Global site tag (gtag.js) - Google Analytics 
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
   gtag('config', 'UA-44627976-7');
 </script>
 </head>
-
 <style>
+-->
+
 .button {
   border-color: lightgrey;
   border-style: solid;
@@ -166,11 +168,11 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
   + **Hulbert JM**. 2016\. Citizen science tools available for ecological research in South Africa, _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
 </details>
 
-### Submitted Manuscripts
+### In Review or Revision
 <details open>
 <summary><a class="button">Hide</a></summary>
-
-  + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (submitted). Citizen science can enhance biosecurity in developing economies.
+  + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. (submitted). Invasion frameworks: A tree health perspective.
+  + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (under revision). Citizen science can enhance biosecurity in developing economies.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of _Phytophthora_ in South Africa with citizen science.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
   + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (_Leucadendron argenteum_).
