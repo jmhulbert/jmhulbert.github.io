@@ -8,6 +8,15 @@
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-44627976-7');
+</script>
 
 
 
@@ -258,10 +267,7 @@ div.tocify {
 
 
 <!-- Global site tag (gtag.js) - Google Analytics 
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-7"></script>
--->
-<head>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -269,7 +275,7 @@ div.tocify {
 
   gtag('config', 'UA-44627976-7');
 </script>
-</head>
+-->
 <style>
 .button {
   border-color: lightgrey;
@@ -2569,7 +2575,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
