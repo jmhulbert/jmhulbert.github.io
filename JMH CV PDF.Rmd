@@ -1,58 +1,30 @@
 ---
 title: "Joseph (Joey) Michael Hulbert"
+subtitle: |
+  Ornamental Plant Pathology,
+  
+  Puyallup Research and Extension Center, 
+  
+  Washington State University, 
+  
+  2606 West Pioneer, Puyallup, WA, 98371-4998 USA. 
+  
+  https://jmhulbert.github.io 
+  
+  1-541-908-5129 
+  
+  hulbe@wsu.edu
 output:
-  html_document:
+  pdf_document:
     toc: yes
-    toc_depth: 3
-    toc_float: yes
+    toc_depth: '3'
 ---
-<!-- Global site tag (gtag.js) - Google Analytics 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-44627976-7');
-</script>
--->
-<style>
-.button {
-  border-color: lightgrey;
-  border-style: solid;
-  border-radius: 5px;
-  color: black;
-  padding: 1px 1px;
-  text-align: center;
-  cursor: pointer;
-}
-.button:hover {
-  color: darkblue;
-}
-</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-<table>
-<tbody>
-<tr valign="top">
-<td width="450">
-[WSU Ornamental Plant Pathology Program](https://ppo.puyallup.wsu.edu),<br>
-Puyallup Research and Extension Center,  
-Dept. of Plant Pathology, Washington State University,  
-2606 West Pioneer, Puyallup, WA, 98371-4998 USA.
-</td>
-<td width="442">
-[https://jmhulbert.github.io](https://jmhulbert.github.io)  
-1-541-908-5129 (USA)  
-[hulbe@wsu.edu](mailto:hulbe@wsu.edu)
-</td>
-</tr>
-</tbody>
-</table>
 
-### Academic Appointments
+## Academic Appointments
 <table>
 <tbody>
 <tr valign="top">
@@ -66,10 +38,7 @@ Dept. of Plant Pathology, Washington State University,
 </tbody>
 </table>
 
-### Education
-<details open>
-<summary><a class="button">Hide</a></summary>
-
+## Education
 <table>
 <tbody>
 <tr valign="top">
@@ -93,7 +62,7 @@ Dept. of Plant Pathology, Washington State University,
 2012-2014
 </td>
 <td width="892">
-**Dual MSc** Dept. of Botany & Plant Pathology, Dept. of Wood Science & Engineering, Oregon State University. Thesis: Phytosanitation of Douglas-fir (_Pseudotsuga menziesii_) logs to mitigate the risk of artificially disseminating _Phytophthora ramorum_ within the global trade of timber. Advisors: Everett Hansen & Jeff Morrell.
+**Dual MSc** Dept. of Botany & Plant Pathology, Dept. of Wood Science & Engineering, Oregon State University. Thesis: Phytosanitation of Douglas-fir (_Pseudotsuga menziesii_) logs to mitigate the risk of artificially disseminating _Phytophthora ramorum_ within the global trade of timber. Advisers: Everett Hansen & Jeff Morrell.
 </td>
 </tr>
 <tr valign="top">
@@ -106,12 +75,9 @@ Dept. of Plant Pathology, Washington State University,
 </tr>
 </tbody>
 </table>
-</details>
 
-### Initiatives
-<details open>
-<summary><a class="button">Hide</a></summary>
 
+## Initiatives
 <table>
 <tbody>
 <tr valign="top">
@@ -148,46 +114,46 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 </tr>
 </tbody>
 </table>
-</details>
 
-### Publications {.tabset .tabset-fade}
-#### Peer-Reviewed
+
+## Publications 
+### Peer-Reviewed
  + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_, 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
   + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_. Vol. 285, Issue 1891\. DOI: 710.1098/rspb.2018.1977.
-  + **Hulbert JM**, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017\. Urban environments provide opportunities for early detections of _Phytophthora_ invasions, _Biological Invasions_ 19:3629–3644\. DOI: 10.1007/s10530-017-1585-z.
+  + **Hulbert JM**, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017\. Urban environments provide opportunities for early detection of _Phytophthora_ invasions, _Biological Invasions_ 19:3629–3644\. DOI: 10.1007/s10530-017-1585-z.
   + Peterson E, Hansen EM, **Hulbert JM**. 2014\. Source or Sink? The role of soil and water borne inoculum in the dispersal of _Phytophthora ramorum_ in Oregon tanoak forests. _Forest Ecology and Management_, 322:48-57\. DOI: 10.1016/j.foreco.2014.02.031. 
  
-#### Not Peer-Reviewed
+### Not Peer-Reviewed
   + **Hulbert JM**, Turner SC, Scott SL. 2019\. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
   + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. The problem with delineating narrow criteria for citizen science. _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
   + **Hulbert JM** 2019\. Citizen science increases the ethics of foreign led research, _Narrative Inquiry in Bioethics_, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019\. DOI: 10.1353/nib.2019.0024.
   + Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, **Hulbert JM**, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019\. ‘Biodiversity provides opportunities for citizen science’ chapter in _National Biodiversity Assessment 2018: Compendium of Benefits of Biodiversity_. South African National Biodiversity Institute, Pretoria. hdl.handle.net/20.500.12143/6491
   + **Hulbert JM**, Roets F. 2018\. Science engagement in South Africa. _Science_, 361(6406):985\. DOI: 10.1126/science.aav1499.
   + **Hulbert JM**. 2016\. Citizen science tools available for ecological research in South Africa, _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
-</details>
 
-### In Review or Revision
-<details open>
-<summary><a class="button">Hide</a></summary>
 
-  + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. (submitted). Invasion frameworks: A tree health perspective.
+### Manuscripts in Review or Revision
+
+
+
+  + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. (under revision). Invasion frameworks: A tree health perspective.
   + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (under revision). Citizen science can enhance biosecurity in developing economies.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of _Phytophthora_ in South Africa with citizen science.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
   + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (_Leucadendron argenteum_).
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
-</details>
 
-### Manuscripts in Prep
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Manuscripts in Prep
+
+
 
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
-</details>
 
-### Academic Honors & Awards
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Academic Honors & Awards
+
+
 
 <table>
 <tbody>
@@ -329,11 +295,11 @@ Student Travel Award, Western International Forest Disease Work Conference
 </tr>
 </tbody>
 </table>
-</details>
 
-### Outreach Grants
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Outreach Grants
+
+
 
 <table>
 <tbody>
@@ -363,11 +329,11 @@ Plant Pathology Promotion Fund, British Society for Plant Pathology
 </tr>
 </tbody>
 </table>
-</details>
 
-### Crowdfunded Projects
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Crowdfunded Projects
+
+
 
 <table>
 <tbody>
@@ -389,11 +355,11 @@ Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258
 </tr>
 </tbody>
 </table>
-</details>
 
-### Academic Leadership
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Academic Leadership
+
+
 <table>
 <tbody>
 <tr valign="top">
@@ -534,10 +500,10 @@ Organizer, Natural Science Graduate Student BBQ
 </tr>
 </tbody>
 </table>
-</details>
 
-### Conference Organization & Panels Served {.tabset .tabset-fade}
-#### Conference Organization
+
+## Conference Organization & Panels Served 
+### Conference Organization
 <table>
 <tbody>
 <tr valign="top">
@@ -583,7 +549,7 @@ Symposium Planning Committee, _Branching out: communicating forest research beyo
 </tbody>
 </table>
 
-#### Invited Panel Participation
+### Invited Panel Participation
 <table>
 <tbody>
 <tr valign="top">
@@ -605,8 +571,8 @@ Maximizing your graduate education, fall Graduate School new student orientation
 </tbody>
 </table>
 
-### Presentations at Professional Meetings {.tabset .tabset-fade}
-#### International Conferences
+## Presentations at Professional Meetings 
+### International Conferences
 <table>
 <tbody>
 <tr valign="top">
@@ -676,7 +642,7 @@ Peterson E, **Hulbert JM**, Hansen EM. 2012\. Roads and streams are not signific
 </tbody>
 </table>
 
-#### South African Conferences
+### South African Conferences
 <table>
 <tbody>
 <tr valign="top">
@@ -746,7 +712,7 @@ Peterson E, **Hulbert JM**, Hansen EM. 2012\. Roads and streams are not signific
 </tbody>
 </table>
 
-#### North American Conferences
+### North American Conferences
 <table>
 <tbody>
 <tr valign="top">
@@ -833,8 +799,8 @@ Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch de
 </table>
 
 
-### University Symposia, Departmental Seminars, Invited and Public Talks {.tabset .tabset-fade}  
-#### University Symposia
+## University Symposia, Departmental Seminars, Invited and Public Talks   
+### University Symposia
 <table>
 <tbody>
 <tr valign="top">
@@ -903,7 +869,7 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 </tr>
 </tbody>
 </table>
-#### Departmental Seminars and Lab Meetings
+### Departmental Seminars and Lab Meetings
 <table>
 <tbody>
 <tr valign="top">
@@ -980,7 +946,7 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 </tr>
 </tbody>
 </table>
-#### Invited Talks
+### Invited Talks
 <table>
 <tbody>
 <tr valign="top">
@@ -1122,7 +1088,7 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 </tbody>
 </table>
 
-#### Public Talks
+### Public Talks
 <table>
 <tbody>
 <tr valign="top">
@@ -1161,8 +1127,8 @@ South African National Biodiversity Institute, Kirstenbosch National Botanical G
 </table>
 
 
-### Teaching Experience {.tabset .tabset-fade}
-#### Guest Lectures
+## Teaching Experience 
+### Guest Lectures
 <table>
 <tbody>
 <tr valign="top">
@@ -1207,7 +1173,7 @@ Stellenbosch University, International Winter School, Biodiversity & Ecology Cou
 </tr>
 </tbody>
 </table>
-#### Workshop Series (multiple sessions)
+### Workshop Series (multiple sessions)
 <table>
 <tbody>
 <tr valign="top">
@@ -1237,8 +1203,8 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
 </tbody>
 </table>
 
-### Science Outreach {.tabset .tabset-fade}
-#### Youth Engagement Activities
+## Science Outreach 
+### Youth Engagement Activities
 <table>
 <tbody>
 <tr valign="top">
@@ -1411,7 +1377,7 @@ Wood Magic Volunteer, _Forest products in everyday materials_, World Forestry In
 </tr>
 </tbody>
 </table>
-#### Promotional Table Events
+### Promotional Table Events
 <table>
 <tbody>
 <tr valign="top">
@@ -1498,8 +1464,8 @@ Fall Discovery Days, Oregon State University.
 </table>
 
 
-### Stakeholder Engagement {.tabset .tabset-fade}
-#### Presentations
+## Stakeholder Engagement 
+### Presentations
 <table>
 <tbody>
 <tr valign="top">
@@ -1569,7 +1535,7 @@ Cape Nature, _Community driven research about plant disease in the fynbos_, West
 </tbody>
 </table>
 
-#### Plant Disease Workshops and Research Activities
+### Plant Disease Workshops and Research Activities
 <table>
 <tbody>
 <tr valign="top">
@@ -1671,9 +1637,9 @@ South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: p
 </tbody>
 </table>
 
-### Mentorship and Supervision
-<details open>
-<summary><a class="button">Hide</a></summary>
+## Mentorship and Supervision
+
+
 
 <table>
 <tbody>
@@ -1866,20 +1832,20 @@ BSc Forest Engineering, Personal Initiative.
 </tr>
 </tbody>
 </table>
-</details>
 
-### Mentorship Outcomes
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Mentorship Outcomes
+
+
 
   + Basel A, **Hulbert JM**, Midgley G, Jacobs S, Dreyer L, Roets F. 2018\. Disease or drought? A physiological analysis on the effects of _Phytophthora_ infection and water stress on _Leucadendron argenteum_, Fynbos Forum, Worcestor, South Africa. Oral Presentation.
   + Groenewald J, Roets F, **Hulbert JM.** 2017\. _Phytophthora cinnamomi_: a driver behind endangered flora in the CFR?, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Poster Presentation.
   + Louw NL, Roets F, **Hulbert JM.** 2017\. The diminishing silver lining: re-evaluating the microscopic threats to South Africa's silver tree, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
-</details>
 
-### Workshops Attended
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Workshops Attended
+
+
 
 <table>
 <tbody>
@@ -1917,11 +1883,11 @@ Microsatellite Workshop, Forestry and Agricultural Biotechnology Institute, Univ
 </tr>
 </tbody>
 </table>
-</details>
 
-### Digital Media Production {.tabset .tabset-fade}
 
-#### Video Production
+## Digital Media Production 
+
+### Video Production
 <table>
 <tbody>
 <tr valign="top">
@@ -1959,7 +1925,7 @@ Discovering plant destroyers in South Africa with citizen science. [Experiment.c
 </tbody>
 </table>
 
-#### Podcast Production
+### Podcast Production
 <table>
 <tbody>
 <tr valign="top">
@@ -1989,7 +1955,7 @@ _Inspiration Dissemination_, Oregon State University, 88.7fm KBVR.
 </tbody>
 </table>
 
-#### Web Development
+### Web Development
 <table>
 <tbody>
 <tr valign="top">
@@ -2075,9 +2041,9 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 </tbody>
 </table>
 
-### Selected Popular Writing
-<details open>
-<summary><a class="button">Hide</a></summary>
+## Selected Popular Writing
+
+
 
   + Hulbert JM, Roets F. 2017\. Citizen science: how ordinary people can guard Cape Town's biodiversity, The Conversation-Africa.
   + Hulbert JM. 2017\. Pathogen Hunters: citizen scientists track plant diseases to save species, The Conversation-Africa.
@@ -2092,11 +2058,11 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
   + Hulbert JM. 2015\. Citizen engagement in research to protect fynbos—and forests, SA Forestry.
   + Hulbert JM. Navarro S. 2011\. Effective collaboration slows the spread of Sudden Oak Death in Oregon, Western Forester, Vol 56(3).
 
-</details>
 
-### Selected Media Coverage
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Selected Media Coverage
+
+
 
 * Articles
     + de Bruin L. 2018\. Be part of the Cape Town hypothesis test, University of Pretoria homepage, online article.
@@ -2114,11 +2080,11 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
     + Green Living, Radio Helderberg 93.6FM, February 23, 2017.
     + KLCC News, NPR KLCC 89.7, April 8, 2015.
 
-</details>
 
-### Science Community Service
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Science Community Service
+
+
 
 <table>
 <tbody>
@@ -2156,11 +2122,11 @@ Adhoc Reviewer, IMAfungus (1 Manuscript)
 </tr>
 </tbody>
 </table>
-</details>
 
-### Research Positions
-<details open>
-<summary><a class="button">Hide</a></summary>
+
+## Research Positions
+
+
 <table>
 <tbody>
 <tr valign="top">
@@ -2245,19 +2211,19 @@ Research Technician, Kansas State University, Dept. of Plant Pathology, Manhatta
 </tr>
 </tbody>
 </table>
-</details>
 
-### References
-<details open>
-<summary><a class="button">Hide</a></summary>
 
-<u>Primary Postdoc Mentor</u>
+## References
+
+
+
+_Primary Postdoc Mentor_
 
 **Gary Chastagner**<br>
 Professor and Extension Specialist, Washington State University<br>
 chastag@wsu.edu
 
-<u>Primary PhD Supervisor</u>
+_Primary PhD Supervisor_
 
 **Mike J. Wingfield**<br>
 Advisor to the Executive, University of Pretoria <br>
@@ -2268,7 +2234,7 @@ University of Pretoria, Pretoria, South Africa 0002<br>
 mike.wingfield@up.ac.za
 
 
-<u>PhD Co-Supervisor</u>
+_PhD Co-Supervisor_
 
 **Treena I. Burgess**<br>
 Research Director - Institutes, Murdoch University<br>
@@ -2278,17 +2244,16 @@ Murdoch University, Murdoch, Western Australia 6150<br>
 t.burgess@murdoch.edu.au
 
 
-<u>PhD Co-Supervisor</u>
+_PhD Co-Supervisor_
 
 **Francois Roets** <br>
 Assistant Professor, Dept. of Conservation Ecology and Entomology<br>
 Stellenbosch University, Stellenbosch, South Africa 7600<br>
 fr@sun.ac.za
 
-<u>MSc Supervisor</u>
+_MSc Supervisor_
 
 **Everett M. Hansen**<br>
 Professor Emeritus, Dept. of Botany and Plant Pathology<br>
 Oregon State University, Corvallis, Oregon, USA 97330<br>
-hansene@oregonstate.ed
-</details>
+hansene@oregonstate.edu
