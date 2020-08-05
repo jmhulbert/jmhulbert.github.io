@@ -82,6 +82,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <tbody>
 <tr valign="top">
 <td width="100">
+2020-
+</td>
+<td width="892">
+Project leader, _Forest Health Watch_ (tentative title), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2016-
 </td>
 <td width="892">
@@ -144,7 +152,7 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
 
 
-## Manuscripts in Prep
+### Manuscripts in Prep
 
 
 
@@ -954,7 +962,23 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 2020
 </td>
 <td width="892">
-EcoPhysiology Working Group, Reed College, Portland State University & WSU Vancouver, _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion._
+Puyallup Watershed Initiative, Forest Community of Interest, Bimonthly Meeting _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Forestry and Natural Resources Extension Coffee Hour, Oregon State University _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+EcoPhysiology Working Group, Reed College, Portland State University & WSU Vancouver, _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2131,6 +2155,14 @@ Adhoc Reviewer, IMAfungus (1 Manuscript)
 <tbody>
 <tr valign="top">
 <td width="100">
+2020-2022
+</td>
+<td width="892">
+Postdoctoral Research Associate, Washington State University, Dept. of Plant Pathology, Puyallup Research and Extension Center. Primary Supervisor: Gary Chastagner. 
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2015-2019
 </td>
 <td width="892">
@@ -2220,7 +2252,8 @@ Research Technician, Kansas State University, Dept. of Plant Pathology, Manhatta
 _Primary Postdoc Mentor_
 
 **Gary Chastagner**<br>
-Professor and Extension Specialist, Washington State University<br>
+Professor, Washington State University<br>
+Extension Specialist, WSU Research and Extension Center in Puyallup<br>
 chastag@wsu.edu
 
 _Primary PhD Supervisor_

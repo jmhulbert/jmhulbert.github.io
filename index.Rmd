@@ -15,7 +15,6 @@ output:
 
   gtag('config', 'UA-44627976-7');
 </script>
--->
 <style>
 .button {
   border-color: lightgrey;
@@ -45,7 +44,7 @@ Dept. of Plant Pathology, Washington State University,
 </td>
 <td width="442">
 [https://jmhulbert.github.io](https://jmhulbert.github.io)  
-1-541-908-5129 (USA)  
+1-541-908-5129  
 [hulbe@wsu.edu](mailto:hulbe@wsu.edu)
 </td>
 </tr>
@@ -116,7 +115,15 @@ Dept. of Plant Pathology, Washington State University,
 <tbody>
 <tr valign="top">
 <td width="100">
-2016-
+2020-
+</td>
+<td width="892">
+Project leader, _Forest Health Watch_ (tentative title), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016-2020
 </td>
 <td width="892">
 Project leader, _Cape Citizen Science_ ([https://citsci.co.za/](https://citsci.co.za/)), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.
@@ -150,14 +157,20 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 </table>
 </details>
 
-### Publications {.tabset .tabset-fade}
+### Publications 
 #### Peer-Reviewed
+<details open>
+<summary><a class="button">Hide</a></summary>
+
  + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_, 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
   + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_. Vol. 285, Issue 1891\. DOI: 710.1098/rspb.2018.1977.
   + **Hulbert JM**, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017\. Urban environments provide opportunities for early detections of _Phytophthora_ invasions, _Biological Invasions_ 19:3629–3644\. DOI: 10.1007/s10530-017-1585-z.
-  + Peterson E, Hansen EM, **Hulbert JM**. 2014\. Source or Sink? The role of soil and water borne inoculum in the dispersal of _Phytophthora ramorum_ in Oregon tanoak forests. _Forest Ecology and Management_, 322:48-57\. DOI: 10.1016/j.foreco.2014.02.031. 
+  + Peterson E, Hansen EM, **Hulbert JM**. 2014\. Source or Sink? The role of soil and water borne inoculum in the dispersal of _Phytophthora ramorum_ in Oregon tanoak forests. _Forest Ecology and Management_, 322:48-57\. DOI: 10.1016/j.foreco.2014.02.031. </details>
  
 #### Not Peer-Reviewed
+<details open>
+<summary><a class="button">Hide</a></summary>
+
   + **Hulbert JM**, Turner SC, Scott SL. 2019\. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
   + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. The problem with delineating narrow criteria for citizen science. _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
   + **Hulbert JM** 2019\. Citizen science increases the ethics of foreign led research, _Narrative Inquiry in Bioethics_, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019\. DOI: 10.1353/nib.2019.0024.
@@ -166,7 +179,7 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
   + **Hulbert JM**. 2016\. Citizen science tools available for ecological research in South Africa, _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
 </details>
 
-### In Review or Revision
+#### In Review or Revision
 <details open>
 <summary><a class="button">Hide</a></summary>
 
@@ -178,7 +191,7 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
 </details>
 
-### Manuscripts in Prep
+#### Manuscripts in Prep
 <details open>
 <summary><a class="button">Hide</a></summary>
 
@@ -988,7 +1001,23 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 2020
 </td>
 <td width="892">
-EcoPhysiology Working Group, Reed College, Portland State University & WSU Vancouver, _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion._
+Puyallup Watershed Initiative, Forest Community of Interest, Bimonthly Meeting _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Forestry and Natural Resources Extension Coffee Hour, Oregon State University _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+EcoPhysiology Working Group, Reed College, Portland State University & WSU Vancouver, _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2165,6 +2194,14 @@ Adhoc Reviewer, IMAfungus (1 Manuscript)
 <tbody>
 <tr valign="top">
 <td width="100">
+2020-2022
+</td>
+<td width="892">
+Postdoctoral Research Associate, Washington State University, Dept. of Plant Pathology, Puyallup Research and Extension Center. Primary Supervisor: Gary Chastagner. 
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2015-2019
 </td>
 <td width="892">
@@ -2254,7 +2291,8 @@ Research Technician, Kansas State University, Dept. of Plant Pathology, Manhatta
 <u>Primary Postdoc Mentor</u>
 
 **Gary Chastagner**<br>
-Professor and Extension Specialist, Washington State University<br>
+Professor, Washington State University<br>
+Extension Specialist, WSU Research and Extension Center in Puyallup<br>
 chastag@wsu.edu
 
 <u>Primary PhD Supervisor</u>
