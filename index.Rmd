@@ -118,7 +118,15 @@ Dept. of Plant Pathology, Washington State University,
 2020-
 </td>
 <td width="892">
-Project leader, _Forest Health Watch_ (tentative title), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
+Program director, _Forest Health Watch_ ([https://foresthealth.org/](https://foresthealth.org/)), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Organizer, WSU Forestry Working Group, Washington State University.
 </td>
 </tr>
 <tr valign="top">
@@ -161,7 +169,7 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 #### Peer-Reviewed
 <details open>
 <summary><a class="button">Hide</a></summary>
-
+  + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. 2020\. Harmonising the fields of invasion science and forest pathology. _NeoBiota_ 62:301-332. DOI: 10.3897/neobiota.62.52991.
  + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_, 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
   + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_. Vol. 285, Issue 1891\. DOI: 710.1098/rspb.2018.1977.
   + **Hulbert JM**, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017\. Urban environments provide opportunities for early detections of _Phytophthora_ invasions, _Biological Invasions_ 19:3629–3644\. DOI: 10.1007/s10530-017-1585-z.
@@ -183,7 +191,6 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 <details open>
 <summary><a class="button">Hide</a></summary>
 
-  + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. (submitted). Invasion frameworks: A tree health perspective.
   + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (under revision). Citizen science can enhance biosecurity in developing economies.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of _Phytophthora_ in South Africa with citizen science.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
@@ -196,8 +203,8 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 <summary><a class="button">Hide</a></summary>
 
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
+  + Bose TB, **Hulbert JM**, Burgess TI, Paap T, Wingfield MJ, Two novel *Phytophthora* species from the Cape Floristic Region of South Africa. 
 </details>
-
 ### Academic Honors & Awards
 <details open>
 <summary><a class="button">Hide</a></summary>
@@ -409,6 +416,14 @@ Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258
 <summary><a class="button">Hide</a></summary>
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Voting Member, Puyallup Watershed Initiative, Forest Community of Interest
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2017-2020
@@ -924,6 +939,14 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 2020
 </td>
 <td width="892">
+Washington State University, 4-H Eco-Stewards Program meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
 University of Pretoria, Forestry and Agricultural Biotechnology Institute, _A quest for plant destroyers in the Cape Floristic Region: a story of the growth of an indigenous-plant pathologist_ (PhD Prestige Seminar). 
 </td>
 </tr>
@@ -996,6 +1019,54 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 #### Invited Talks
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State Department of Agriculture, Plant Protection Group Meeting, _Forest Health Watch - upcoming community science program_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+South King County Culture (SoCoCulture), Member Update, _Forest Health Watch - partnering with SoCuCulture to promote the Engaging Trees platform_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Forest Adaptation Network, Bi-Annual Meeting, _Forest Health Watch - engaging communities in forest adaptation science_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Seattle Urban Forestry Interdepartmental Team, Quarterly Meeting, _Forest Health Watch - upcoming community science program_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Seattle Urban Forestry Commission, Monthly Meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+City of Seattle, Urban Forest Core Team, monthly Meeting, _Forest Health Watch - an upcoming community science program in the Pacific Northwest_ (Video Conferencing Presentation).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020
@@ -1156,6 +1227,14 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 <tbody>
 <tr valign="top">
 <td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, _Forest Health Watch - Collaborator Update Meeting 1 _ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2018
 </td>
 <td width="892">
@@ -1183,11 +1262,41 @@ Wildlife and Environment Society of South Africa, Tygerberg Nature Reserve, Big 
 2017
 </td>
 <td width="892">
-South African National Biodiversity Institute, Kirstenbosch National Botanical Garden, Room To Grow Wednesday Talks Series, _Cape Citizen Science: plant disease in the fynbos._
+South African National Biodiversity Institute, Kirstenbosch National Botanical Garden, Room To Grow Wednesday Talks Series, _Cape Citizen Science: plant disease in the fynbos_.
 </td>
 </tr>
 </tbody>
 </table>
+
+### Competitive Presentations {.tabset .tabset-fade}
+#### Travel Awards
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, Innovation and Research Engagement Office, Research Week, _Washington State Forest Health and Climate Change Research Cooperative._
+</td>
+</tr>
+</tbody>
+</table>
+
+#### Science Communication
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Scholars Insights, Oregon State University, _It only takes one spore to start an epidemic._
+</td>
+</tr>
+</tbody>
+</table>
+
 
 
 ### Teaching Experience {.tabset .tabset-fade}
@@ -2151,6 +2260,22 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Adhoc Reviewer, Journal of Science Communication (1 Manuscript)
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Adhoc Reviewer, Journal of Plant Pathology (1 Manuscript)
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020
