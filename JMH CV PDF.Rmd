@@ -1,5 +1,6 @@
 ---
 title: "Joseph (Joey) Michael Hulbert"
+date: "CV Updated: `r format(Sys.time(), '%d %B, %Y')`"
 subtitle: |
   Ornamental Plant Pathology,
   
@@ -93,7 +94,7 @@ Program director, _Forest Health Watch_ ([https://foresthealth.org/](https://for
 2020-
 </td>
 <td width="892">
-Organizer, WSU Forestry Working Group, Washington State University.
+Organizer, _WSU Forestry Working Group_, Washington State University.
 </td>
 </tr>
 <tr valign="top">
@@ -134,6 +135,8 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 
 ## Publications 
 ### Peer-Reviewed
+  
+  + Elliott M, **Hulbert JM**, Streng D, Chastagner GA (accepted).  Multiagency collaborations help public gardens contain Phytophthora outbreaks while providing insights and opportunities for novel research, _Plant Health Progress_.
   + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. 2020\. Harmonising the fields of invasion science and forest pathology. _NeoBiota_ 62:301-332. DOI: 10.3897/neobiota.62.52991.
  + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_ 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
   + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_ 285(1891)\. DOI: 710.1098/rspb.2018.1977.
@@ -141,6 +144,9 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
   + Peterson E, Hansen EM, **Hulbert JM**. 2014\. Source or Sink? The role of soil and water borne inoculum in the dispersal of _Phytophthora ramorum_ in Oregon tanoak forests. _Forest Ecology and Management_, 322:48-57\. DOI: 10.1016/j.foreco.2014.02.031. 
  
 ### Not Peer-Reviewed
+
+  + Chastagner GA, Elliott M, **Hulbert JM** (in press)\. Effectiveness of fungicides and biopesticides in controlling Botrytis gray mold on western hemlock nursery stock. _Tree Planter's Notes_.
+  + Elliott M, Rollins L, Bourret T, **Hulbert JM**, Chastagner GA (Accepted)\. Three new hosts for _Phytophthora ramorum_ confirmed in Washington State: Salal, Oregon grape, and red huckleberry, _Plant Health Progress_.
   + **Hulbert JM**, Turner SC, Scott SL. 2019\. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
   + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. The problem with delineating narrow criteria for citizen science. _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
   + **Hulbert JM** 2019\. Citizen science increases the ethics of foreign led research, _Narrative Inquiry in Bioethics_, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019\. DOI: 10.1353/nib.2019.0024.
@@ -148,20 +154,19 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
   + **Hulbert JM**, Roets F. 2018\. Science engagement in South Africa. _Science_, 361(6406):985\. DOI: 10.1126/science.aav1499.
   + **Hulbert JM**. 2016\. Citizen science tools available for ecological research in South Africa, _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
 
-
 ### Manuscripts in Review or Revision
 
+   + Bose TB, **Hulbert JM**, Burgess TI, Paap T, Wingfield MJ (submitted), Two novel *Phytophthora* species from the Cape Floristic Region of South Africa. 
   + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (under revision). Citizen science can enhance biosecurity in developing economies.
-  + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (submitted). Alleviating the threats of _Phytophthora_ in South Africa with citizen science.
+  + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Alleviating the threats of _Phytophthora_ in South Africa with citizen science.
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
   + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (_Leucadendron argenteum_).
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
 
-
 ### Manuscripts in Prep
 
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
-  + Bose TB, **Hulbert JM**, Burgess TI, Paap T, Wingfield MJ, Two novel *Phytophthora* species from the Cape Floristic Region of South Africa. 
+ 
 
 ## Academic Honors & Awards
 
@@ -317,6 +322,14 @@ Student Travel Award, Western International Forest Disease Work Conference
 <tbody>
 <tr valign="top">
 <td width="100">
+2020
+</td>
+<td width="892">
+Tribal Engagement Activity Proposal, Forest Community of Interest, Puyallup Watershed Initiative
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2018
 </td>
 <td width="892">
@@ -374,6 +387,22 @@ Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Program Director, Forest Health Watch
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Organizer, Forestry Working Group, Washington State University
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020-
@@ -526,6 +555,22 @@ Organizer, Natural Science Graduate Student BBQ
 ### Conference Organization
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Session Moderator (4 sessions), Washington Forest Owners' Winter School, Washington State University Extension (Webinar).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Member Meeting (Webinar).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2019
@@ -819,10 +864,34 @@ Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch de
 </table>
 
 
-## University Symposia, Departmental Seminars, Invited and Public Talks   
-### University Symposia
+## Symposia, Seminars, Invited and Public Talks   
+### Symposia
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, _Exploring the dieback of western redcedar as a symbol of the inequities in urban environments_. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Portland State University, Cedar Summit, _Understanding western redcedar dieback: the community science approach,_ Webinar Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Puyallup Watershed Symposium, Pierce County, _Forest Health Watch - community science for healthy forests,_ Webinar Presentation.
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2019
@@ -889,9 +958,17 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 </tr>
 </tbody>
 </table>
-### Departmental Seminars and Lab Meetings
+### Seminars and Lab Meetings
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, Forestry Working Group meeting, _Forest Health Watch and the WSU forestry community_ (Video Conferencing Presentation).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020
@@ -974,9 +1051,74 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 </tr>
 </tbody>
 </table>
+
 ### Invited Talks
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+City of Tacoma, Nature and Enviornment Advisory Council Meeting, _Forest Health Watch: community engagement for healthy parks_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Natural Resource Faculty Meeting, Green River College,  _Forest Health Watch: community engagement for healthy forests_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Washington State University, Washington Forest Owners' Winter School, _Western redcedar dieback: what’s happening and how you can help_ (Webinar Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Duwamish River Re-vegetation Partners Meeting, King County, _Insights for healthy restoration practices_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Green Cities Partnership Network Meeting, _Forest Health Watch - keeping forests healthy_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+University of Washington, Urban Ecology Research Lab Meeting, _Exploring the dieback of western redcedar as a metaphor for the inequities in urban communities_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Climate Resiliency Fund, Bonneville Environmental Foundation, Riparian Climate Corridors Project Extension Group Meeting, _Forest Health Watch - community science_ (Video Conferencing Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+King County, King County Conservation District Forestry Team Meeting, _Western redcedar dieback in King County_ (Video Conferencing Presentation).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020
@@ -1188,7 +1330,15 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 2020
 </td>
 <td width="892">
-Washington State University, _Forest Health Watch - Collaborator Update Meeting 1 _ (Video Conferencing Presentation).
+Tacoma Tree Foundation, Growing Skills Webinar Series, _Forest Health Watch - recognizing signs and symptoms of tree pests and diseases in our neighborhoods_ (Webinar Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, _Forest Health Watch - Collaborator Update Meetings (3 events)_ (Video Conferencing Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1256,10 +1406,42 @@ Scholars Insights, Oregon State University, _It only takes one spore to start an
 </table>
 
 
-## Teaching Experience 
+## Teaching Experience
+
+### Co-direction
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+University of Washington, Human Centered Design and Engineering, Directed Research Group, Winter & Spring Quarters, _The UX of climate change: western redcedar dieback._
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Guest Lectures
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, Department of Plant Pathology, General Plant Pathology (PLP 429) Lecture, _Forest Pathology._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, 4H Ecostewards Program, Chelan/Douglas County Extension, Guest Lecture, _Super Fungi - adaptations and super powers._
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2018
@@ -1302,7 +1484,7 @@ Stellenbosch University, International Winter School, Biodiversity & Ecology Cou
 </tr>
 </tbody>
 </table>
-### Workshop Series (multiple sessions)
+### Workshop Instruction
 <table>
 <tbody>
 <tr valign="top">
@@ -1972,12 +2154,52 @@ BSc Forest Engineering, Personal Initiative.
   + Louw NL, Roets F, **Hulbert JM.** 2017\. The diminishing silver lining: re-evaluating the microscopic threats to South Africa's silver tree, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
 
 
-## Workshops Attended
+## Professional Development
 
 
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Software Carpentry, University of Washington.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Partnership Development Training, USDA Forest Service
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+PI Roles and Responsibilities Training, Washington State University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Working with Industry 101, Washington State University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Study Circle on Racism and Equity, Washington State University.
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2018
@@ -2020,6 +2242,21 @@ Microsatellite Workshop, Forestry and Agricultural Biotechnology Institute, Univ
 <table>
 <tbody>
 <tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Western Redcedar Dieback Map - Adding Observations to iNaturalist. [YouTube](https://www.youtube.com/watch?v=nh1Ye3pDONw).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Forest Health Watch - Puyallup High School Introduction. [YouTube](https://www.youtube.com/watch?v=cRrT1ix7XNE).
+</td>
+</tr><tr valign="top">
 <td width="100">
 2017
 </td>
@@ -2174,6 +2411,9 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 
 
+  + Hulbert JM 2021. [Community science and the dieback of western redcedar](http://www.b-e-f.org/wp-content/uploads/2021/02/BEF_Watersheds_newsletter242102_2.pdf), treeline, Bonneville Environmental Foundation, Watersheds Program. 
+  + Hulbert JM 2020. [Forest Heatlh Watch - a new community science initiative in the Northwest](https://foreststewardshipnotes.wordpress.com/2020/10/01/forest-health-watch-a-new-community-science-initiative-in-the-northwest/), Forest Stewardship Notes, Department of Natural Resources. 
+  + Hulbert JM 2020. [You can contribute to western redcedar dieback research](https://sflonews.wordpress.com/2020/12/08/you-can-contribute-to-western-redcedar-dieback-research/), Small Forest Landowner News. 
   + Hulbert JM, Roets F. 2017\. Citizen science: how ordinary people can guard Cape Town's biodiversity, The Conversation-Africa.
   + Hulbert JM. 2017\. Pathogen Hunters: citizen scientists track plant diseases to save species, The Conversation-Africa.
   + Hulbert JM. 2017\. Two species of plant killing genus _Phytophthora_ found in a Western Cape garden, Veld & Flora Vol 103(1).
@@ -2194,6 +2434,8 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 
 * Articles
+    + Truscott S. 2021\. Citizen scientists can help study, halt die-off of Pacific Northwest’s redcedars,College of Agricultural, Human and Natural Resource Science, Washington State University, online article. 
+    + Media and Communication 2018\. Getting citizen science into South African classrooms, University of Stellenbosch, online article.
     + de Bruin L. 2018\. Be part of the Cape Town hypothesis test, University of Pretoria homepage, online article.
     + Duvenage E. 2017\. Jy kan PhD-student help met grondmonsters, Die Burger, newspaper article.
     + Burt B. 2017\. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, online article.
@@ -2204,6 +2446,8 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
     + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
 
 * Radio Interviews
+    + treehugger podcast, Madrones! with Arbutus ARME https://www.treehuggerpod.com/ January, 2021.
+    + Cherry Creek Media, Wenatchee Washington, March 12, 2021.
     + Middag op RSG, RSG 100-104FM, January 23, 2018.
     + Detour, Maties MFM 92.6FM, November 29, 2017.
     + Green Living, Radio Helderberg 93.6FM, February 23, 2017.
@@ -2217,6 +2461,22 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Workshop Participant, _Citizen science and its future role for monitoring nature and the environment_ (Joint University Initiative, United Kingdom)
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Adhoc Reviewer, Urban Forests Urban Greening (1 Manuscript)
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020
