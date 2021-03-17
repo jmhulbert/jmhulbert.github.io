@@ -46,7 +46,8 @@ Dept. of Plant Pathology, Washington State University,
 <td width="442">
 [https://jmhulbert.github.io](https://jmhulbert.github.io)  
 1-541-908-5129  
-[hulbe@wsu.edu](mailto:hulbe@wsu.edu)
+[hulbe@wsu.edu](mailto:hulbe@wsu.edu)  
+[Curriculum Vitae PDF](https://jmhulbert.github.io/JMH-CV-PDF.pdf)
 </td>
 </tr>
 </tbody>
@@ -2515,6 +2516,14 @@ Workshop Participant, _Citizen science and its future role for monitoring nature
 </tr>
 <tr valign="top">
 <td width="100">
+2021
+</td>
+<td width="892">
+Adhoc Reviewer, African Journal of Marine Science (1 Manuscript)
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2020
 </td>
 <td width="892">
@@ -2550,7 +2559,7 @@ Adhoc Reviewer, Scientific Reports (1 Manuscript)
 2019
 </td>
 <td width="892">
-Adhoc Reviewer, African Journal of Marine Biology (1 Manuscript)
+Adhoc Reviewer, African Journal of Marine Science (1 Manuscript)
 </td>
 </tr>
 <tr valign="top">
