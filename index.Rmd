@@ -2709,6 +2709,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 ### Selected Popular Writing
 <details open>
 <summary><a class="button">Hide</a></summary>
+
   + Hulbert JM. [Forest Health Watch – Opportunities to contribute to research and strengthen our biosecurity](https://online.flippingbook.com/view/868811809/22-23/). PNW ISA Trees, Spring Issue 2021.
   + Hulbert JM. [Pacific Northwest Forest Bio-Surveillance Training Available](https://foreststewardshipnotes.wordpress.com/2021/06/03/pacific-northwest-forest-bio-surveillance-training-available/), DNR & WSU Forest Stewardship Notes.
   + Hulbert JM 2021. [Community science and the dieback of western redcedar](http://www.b-e-f.org/wp-content/uploads/2021/02/BEF_Watersheds_newsletter242102_2.pdf), treeline, Bonneville Environmental Foundation, Watersheds Program. 
