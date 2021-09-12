@@ -206,7 +206,7 @@ FY2020-2022
 FY2020
 </td>
 <td width="892">
-**Postdoc**, _Developing a toolkit for climate adaptive conservation of the western redcedar in the Pacific Northwest_. David H. Smith Conservation Research Fellowship, Society for Conservation Biology **($123,000)**. 
+**Postdoc**, _Forest Health Defenders: public engagement to conserve the western redcedar_. David H. Smith Conservation Research Fellowship, Society for Conservation Biology **($123,000)**. 
 </td>
 </tr>
 <tr valign="top">
@@ -763,7 +763,7 @@ Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Memb
 2021
 </td>
 <td width="892">
-Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
+Conference Co-Organizer (in progress), [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
 </td>
 </tr>
 <tr valign="top">
@@ -1092,7 +1092,7 @@ Washington State University Research Showcase, _Community science to keep forest
 2021
 </td>
 <td width="892">
-Washington State University, 4th Annual PLant Science Symposium, _Forest Health Watch: community science to accelerate research about the dieback of western redcedar_. Poster presentation.
+Washington State University, 4th Annual plant Science Symposium, _Forest Health Watch: community science to accelerate research about the dieback of western redcedar_. Poster presentation.
 </td>
 </tr>
 <tr valign="top">
@@ -1838,7 +1838,7 @@ Muckleshoot Tribal College - Early College Program, _Educational Walks in Tomana
 2021
 </td>
 <td width="892">
-Muckleshoot Tribal College - Early College Program, _Research Tour_ (2 events), Washington State University, Puyallup Research and Extension Center.
+Muckleshoot Tribal College - Early College Program, _Research Tour_, Washington State University, Puyallup Research and Extension Center.
 </td>
 </tr>
 <tr valign="top">
@@ -2442,7 +2442,7 @@ South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: p
 2021
 </td>
 <td width="131">
-Brieanne Laia & Hailey Diilow
+Brieanne Laia & Hailey Dilow
 </td>
 <td width="576">
 Marine Chemistry Science Project (Grade 12), Bellarmine Prepratory Highschool, Tacoma, Washington.
