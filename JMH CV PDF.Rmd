@@ -1,24 +1,17 @@
 ---
 title: "Joseph (Joey) Michael Hulbert"
-date: "CV Updated: `r format(Sys.time(), '%d %B, %Y')`"
-subtitle: |
-  Ornamental Plant Pathology,
-  
-  Puyallup Research and Extension Center, 
-  
-  Washington State University, 
-  
-  2606 West Pioneer, Puyallup, WA, 98371-4998 USA. 
-  
-  https://jmhulbert.github.io 
-  
-  1-541-908-5129 
-  
-  hulbe@wsu.edu
+date: "CV Updated: '`r format(Sys.Date(), '%B %d, %Y')`"
+subtitle: "Ornamental Plant Pathology,\n\nPuyallup Research and Extension Center,
+  \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
+  USA. \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n"
 output:
   pdf_document:
     toc: yes
-    toc_depth: '3'
+    toc_depth: '5'
+  html_document:
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -165,8 +158,10 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 ### Manuscripts in Prep
 
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
- 
-## Funded Postdoctoral Fellowship Research Proposals
+
+## Funding and In-Kind Support
+
+### Funded Postdoctoral Fellowship Research Proposals
 
 <table>
 <tbody>
@@ -181,7 +176,7 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 </tbody>
 </table>
 
-## Submitted Postdoctoral Fellowship Research Proposals
+### Submitted Postdoctoral Fellowship Research Proposals
 
 <table>
 <tbody>
@@ -220,7 +215,7 @@ FY2019
 </tbody>
 </table>
 
-## Funded Research Grants
+### Funded Research Grants
 
 <table>
 <tbody>
@@ -251,7 +246,7 @@ FY2019
 </tbody>
 </table>
 
-## Submitted Research Grants
+### Submitted Research Grants
 <table>
 <tbody>
 <tr valign="top">
@@ -298,7 +293,7 @@ FY2019
 </table>
 
 
-## Funded Outreach Grants
+### Funded Outreach Grants
 
 <table>
 <tbody>
@@ -338,7 +333,7 @@ Plant Pathology Promotion Fund, British Society for Plant Pathology
 </table>
 
 
-## Crowdfunded Projects
+### Crowdfunded Projects
 
 
 
@@ -363,10 +358,18 @@ Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258
 </tbody>
 </table>
 
-## In Kind Support
+### In Kind Support
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Field Sampling Equipment (GPS units, camera traps, communication devices), Transition Fidalgo
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -397,6 +400,29 @@ Soil temperature and moisture monitoring equipment, Meter
 </td>
 <td width="892">
 Field Guide to Fynbos (20 copies), Rapula Trust
+</td>
+</tr>
+</tbody>
+</table>
+
+### Successful Internship Proposals
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+_Keeping trees healthy in changing environments of the Pacific Northwest_, College of Agriculture, Human and Natural Resource Sciences, Washington State University ($3,000).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+_Tree health and heat islands in Seattle_, College of the Environment, Environmental Science, University of Washington, Capstone Project Proposal.
 </td>
 </tr>
 </tbody>
@@ -717,7 +743,9 @@ Organizer, Natural Science Graduate Student BBQ
 
 
 ## Webinar, Conference Organization & Panels Served 
-#### Webinar Organization
+
+### Webinar Organization
+
 <table>
 <tbody>
 <tr valign="top">
@@ -763,7 +791,7 @@ Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Memb
 2021
 </td>
 <td width="892">
-Conference Co-Organizer (in progress), [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
+Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
 </td>
 </tr>
 <tr valign="top">
@@ -831,150 +859,28 @@ Maximizing your graduate education, fall Graduate School new student orientation
 </tbody>
 </table>
 
-## Presentations at Professional Meetings 
-### International Conferences
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2019
-</td>
-<td width="892">
-**Hulbert JM**. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2019
-</td>
-<td width="892">
-**Hulbert JM**, Burgess T, Roets F, Wingfield MJ. Non-scientist engagement in plant disease research in South Africa, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, Burgess T, Roets F, Wingfield MJ. Public engagement to survey _Phytophthora_ in South Africa, IUFRO Working Party _Phytophthora_ in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. Citizen science initiatives: opportunities to manage global forest pest challenges, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. Cape Citizen Science: public engagement to detect and discover _Phytophthora_ species in South Africa, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, De Beer ZW, Wingfield MJ. Cape Citizen Science: public engagement for plant disease research in a biodiversity hotspot, International Botanical Congress, Shenzhen, China, Poster Presentation (not presenting author).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM**, Morrell JJ, Hansen EM. Wooden Vectors of *Phytophthora ramorum*: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2012
-</td>
-<td width="892">
-Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO _Phytophthora_ in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).
-</td>
-</tr>
-</tbody>
-</table>
+## Presentations
 
-### South African Conferences
+### Presentations at Professional Meetings 
+#### North American Conferences
 <table>
 <tbody>
 <tr valign="top">
 <td width="100">
-2018
+2021
 </td>
 <td width="892">
-**Hulbert JM**. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation.
+**Hulbert JM**, Western redcedar dieback as an indicator of the effects of climate change on cultural resources and tribal communities, 2021 Rising Voices Workshop, [Virtual (Poster-walk) Presentation](https://public.tableau.com/app/profile/joey.hulbert/viz/2021RisingVoicesWorkshopPoster/Dashboard1)
 </td>
 </tr>
 <tr valign="top">
 <td width="100">
-2017
+2021
 </td>
 <td width="892">
-**Hulbert JM**, Roets FR. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
+**Hulbert JM**, So, you want to start a citizen science project?, 2021 Pacific Northwest Citizen and Community Science Summit, Virtual Presentation.
 </td>
 </tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, Roets FR. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-**Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2016
-</td>
-<td width="892">
-**Hulbert JM**, Agne MC, Roux J, Burges TI, Roets F, Wingfield MJ. Records of _Phytophthora_ invasions suggest that early detection programs should focus on urban environments, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Non-native species in urban environments: patterns, processes, impacts and challenges_, Stellenbosch, South Africa. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2016
-</td>
-<td width="892">
-**Hulbert JM**. Monitoring invasive species with citizen science: an international review, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2015
-</td>
-<td width="892">
-**Hulbert JM**. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management_, Stellenbosch, South Africa. Oral Presentation.
-</td>
-</tr>
-</tbody>
-</table>
-
-### North American Conferences
-<table>
-<tbody>
 <tr valign="top">
 <td width="100">
 2021
@@ -1074,9 +980,150 @@ Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch de
 </tbody>
 </table>
 
+#### International Conferences
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2019
+</td>
+<td width="892">
+**Hulbert JM**. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2019
+</td>
+<td width="892">
+**Hulbert JM**, Burgess T, Roets F, Wingfield MJ. Non-scientist engagement in plant disease research in South Africa, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Burgess T, Roets F, Wingfield MJ. Public engagement to survey _Phytophthora_ in South Africa, IUFRO Working Party _Phytophthora_ in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. Citizen science initiatives: opportunities to manage global forest pest challenges, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. Cape Citizen Science: public engagement to detect and discover _Phytophthora_ species in South Africa, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, De Beer ZW, Wingfield MJ. Cape Citizen Science: public engagement for plant disease research in a biodiversity hotspot, International Botanical Congress, Shenzhen, China, Poster Presentation (not presenting author).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Morrell JJ, Hansen EM. Wooden Vectors of *Phytophthora ramorum*: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012
+</td>
+<td width="892">
+Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO _Phytophthora_ in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).
+</td>
+</tr>
+</tbody>
+</table>
 
-## Symposia, Seminars, Invited and Public Talks   
-### Symposia
+#### South African Conferences
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+**Hulbert JM**. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roets FR. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roets FR. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+**Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+**Hulbert JM**, Agne MC, Roux J, Burges TI, Roets F, Wingfield MJ. Records of _Phytophthora_ invasions suggest that early detection programs should focus on urban environments, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Non-native species in urban environments: patterns, processes, impacts and challenges_, Stellenbosch, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+**Hulbert JM**. Monitoring invasive species with citizen science: an international review, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+**Hulbert JM**. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management_, Stellenbosch, South Africa. Oral Presentation.
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### Symposia, Seminars, Invited and Public Talks   
+#### Symposia
+
 <table>
 <tbody>
 <tr valign="top">
@@ -1177,7 +1224,9 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 </tr>
 </tbody>
 </table>
-### Seminars and Lab Meetings
+
+#### Seminars and Lab Meetings
+
 <table>
 <tbody>
 <tr valign="top">
@@ -1279,7 +1328,8 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 </tbody>
 </table>
 
-### Invited Talks
+#### Invited Talks
+
 <table>
 <tbody>
 <tr valign="top">
@@ -1575,7 +1625,8 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 </tbody>
 </table>
 
-### Public Talks
+#### Public Talks
+
 <table>
 <tbody>
 <tr valign="top">
@@ -1629,8 +1680,8 @@ South African National Biodiversity Institute, Kirstenbosch National Botanical G
 </tbody>
 </table>
 
-## Competitive Presentations
-### Travel Awards
+### Competitive Presentations
+#### Travel Awards
 <table>
 <tbody>
 <tr valign="top">
@@ -1644,7 +1695,7 @@ Washington State University, Innovation and Research Engagement Office, Research
 </tbody>
 </table>
 
-### Science Communication
+#### Science Communication
 <table>
 <tbody>
 <tr valign="top">
@@ -1701,6 +1752,22 @@ Green River College, BAS in Forest Resource Management program, _Forest Ecology_
 ### Guest Lectures
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Green River College, Forest Resource Management, Forest Health and Protection course, On-Campus Lab instruction, _Sooty bark disease and western redcedar dieback on Green River campus._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Pacific University, Department of Biology and Environmental Science, Plant Pathology, _Western redcedar dieback - plant pathology research with Pacific University._
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -1821,7 +1888,7 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
 </tbody>
 </table>
 
-## Science Engagement 
+## Public Science Engagement 
 ### Youth Engagement Activities
 <table>
 <tbody>
@@ -2651,7 +2718,6 @@ BSc Forest Engineering, Personal Initiative.
 ## Professional Development
 
 
-
 <table>
 <tbody>
 <tr valign="top">
@@ -2659,7 +2725,7 @@ BSc Forest Engineering, Personal Initiative.
 2021
 </td>
 <td width="892">
-Introduction to Climate Change Adaptation Planning for Tribes, Tribes & Climate Change Program, Institute
+[Integrating Climate into Hazard Mitigation Plans (Western Region)](http://www7.nau.edu/itep/main/tcc/docs/training/BLR_FEMA%20Course%20Description.pdf), Tribes & Climate Change Program, Institute
 for Tribal Environmental Professionals, Northern Arizona University.
 </td>
 </tr>
@@ -2668,7 +2734,16 @@ for Tribal Environmental Professionals, Northern Arizona University.
 2021
 </td>
 <td width="892">
-Software Carpentry, University of Washington.
+[CC101: Introduction to Climate Change Adaptation Planning for Tribes](http://www7.nau.edu/itep/main/tcc/Training/Trainings), Tribes & Climate Change Program, Institute
+for Tribal Environmental Professionals, Northern Arizona University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Software/Data Carpentry workshop at the UW eScience Institute, University of Washington.
 </td>
 </tr>
 <tr valign="top">
@@ -2920,6 +2995,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 ## Selected Popular Writing
 
+  + Hulbert JM. [Community scientists needed for western redcedar dieback research](https://www.mtnativeplants.org/wp-content/uploads/2021/10/Kelseya-v-34-4.pdf). Kelseya, Montana Native Plant Society, Volume 34, Issue 4, Summer 2021.
   + Hulbert JM. [Forest Health Watch – Opportunities to contribute to research and strengthen our biosecurity](https://online.flippingbook.com/view/868811809/22-23/). PNW ISA Trees, Spring Issue 2021.
   + Hulbert JM. [Pacific Northwest Forest Bio-Surveillance Training Available](https://foreststewardshipnotes.wordpress.com/2021/06/03/pacific-northwest-forest-bio-surveillance-training-available/), DNR & WSU Forest Stewardship Notes.
   + Hulbert JM 2021. [Community science and the dieback of western redcedar](http://www.b-e-f.org/wp-content/uploads/2021/02/BEF_Watersheds_newsletter242102_2.pdf), treeline, Bonneville Environmental Foundation, Watersheds Program. 
@@ -2945,6 +3021,11 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 
 * Articles
+    + Truscott S. 2021 [WSU researcher engages communities in tree health research with Forest Health Watch](https://news.cahnrs.wsu.edu/wsu-researcher-engages-communities-in-tree-health-research-with-forest-health-watch/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
+    + Truscott S. 2021 [WSU co-organizes first annual Pacific Northwest Citizen and Community Science Summit](https://news.cahnrs.wsu.edu/wsu-co-organizes-first-annual-pacific-northwest-citizen-and-community-science-summit/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
+    + Editor. 2021. [Comox Valley Nature lecture discusses western redcedar tree health](https://www.comoxvalleyrecord.com/community/comox-valley-nature-lecture-discusses-western-redcedar-dieback/), Comox Valley Record, newspaper.
+    + Kempe Y. 2021. [An iconic tree is dying off in Whatcom — what’s causing it and how can you help save it?](https://www.bellinghamherald.com/news/local/article253989778.html#storylink=mainstage_lead), Bellingham Herald, Bellingham.
+    + Extoque R. 2021. [The Unlikely Partnership Supporting South Seattle Youth Through Forest Science](https://southseattleemerald.com/2021/09/04/the-unlikely-partnership-supporting-south-seattle-youth-through-forest-science/#more-74007), South Sound Emerald, Seattle, digital newspaper.
     + Dunne N. 2021\. Mapping Cedar Dieback, University of Washington, Arboretum Bulletin, Washington. 
     + Inghram I. 2021\. Citizen scientists study western redcedars, Anacortes newspaper, Washington. 
     + Peterson C. 2021. Help needed to assist dying western redcedars. Hungry Horse News and Whitefish Pilot, Montana.
@@ -2960,7 +3041,8 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
     + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
 
 * Radio Interviews
-    + treehugger podcast, Madrones! with Arbutus ARME https://www.treehuggerpod.com/ January, 2021.
+    + [treehugger podcast](https://www.treehuggerpod.com/), Forest health and climate change (in production)
+    + [treehugger podcast](https://www.treehuggerpod.com/), Madrones! with Arbutus ARME, January, 2021.
     + Cherry Creek Media, Wenatchee Washington, March 12, 2021.
     + Middag op RSG, RSG 100-104FM, January 23, 2018.
     + Detour, Maties MFM 92.6FM, November 29, 2017.
@@ -2973,6 +3055,14 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Promotion Review, External Evaluation, Associate Professor of Practice)
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021

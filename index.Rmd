@@ -435,6 +435,14 @@ Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258
 2021
 </td>
 <td width="892">
+Field Sampling Equipment (GPS units, camera traps, communication devices), Transition Fidalgo
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
 Field Notebooks, Rite in the Rain
 </td>
 </tr>
@@ -465,6 +473,29 @@ Field Guide to Fynbos (20 copies), Rapula Trust
 </tbody>
 </table>
 </details>
+
+#### Successful Internship Proposals
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+_Keeping trees healthy in changing environments of the Pacific Northwest_, College of Agriculture, Human and Natural Resource Sciences, Washington State University ($3,000).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+_Tree health and heat islands in Seattle_, College of the Environment, Environmental Science, University of Washington, Capstone Project Proposal.
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Academic Honors & Awards
 <details open>
@@ -784,6 +815,7 @@ Organizer, Natural Science Graduate Student BBQ
 
 ### Webinar, Conference Organization & Panels Served {.tabset .tabset-fade}
 #### Webinar Organization
+
 <table>
 <tbody>
 <tr valign="top">
@@ -829,7 +861,7 @@ Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Memb
 2021
 </td>
 <td width="892">
-Conference Co-Organizer (in progress), [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
+Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
 </td>
 </tr>
 <tr valign="top">
@@ -900,6 +932,132 @@ Maximizing your graduate education, fall Graduate School new student orientation
 ### Presentations
 
 #### Presentations at Professional Meetings {.tabset .tabset-fade}
+##### North American Conferences
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+**Hulbert JM**, Western redcedar dieback as an indicator of the effects of climate change on cultural resources and tribal communities, 2021 Rising Voices Workshop, [Virtual (Poster-walk) Presentation](https://public.tableau.com/app/profile/joey.hulbert/viz/2021RisingVoicesWorkshopPoster/Dashboard1).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+**Hulbert JM**, So, you want to start a citizen science project?, 2021 Pacific Northwest Citizen and Community Science Summit, Virtual Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+**Hulbert JM**, Forest Health Watch: empowering community scientists to accelerate research, Northwest Climate Conference (Online), Virtual Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, _Exploring the dieback of western redcedar as a symbol of the inequities in urban environments_. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. The Cape Town Hypothesis Test: _Phytophthora_ in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Rosenberger R. 2014\. Forest G.U.M.P. The value of graduate-undergraduate mentorship programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Potential of using boron for mitigation of _Phytophthora ramorum_ in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM** 2014\. The value of graduate-undergraduate mentorship programs. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+**Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012
+</td>
+<td width="892">
+**Hulbert JM**, Morrell J, Hansen E. 2012\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products. Western International Forest Disease Work Conference, Tahoe City, California. Oral Presentation.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2011
+</td>
+<td width="892">
+Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch death? Larch susceptibility to _Phytophthora ramorum_. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.
+</td>
+</tr>
+</tbody>
+</table>
+
 ##### International Conferences
 <table>
 <tbody>
@@ -1035,116 +1193,6 @@ Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pat
 </td>
 <td width="892">
 **Hulbert JM**. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management_, Stellenbosch, South Africa. Oral Presentation.
-</td>
-</tr>
-</tbody>
-</table>
-
-##### North American Conferences
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-**Hulbert JM**, Forest Health Watch: empowering community scientists to accelerate research, Northwest Climate Conference (Online), Virtual Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, _Exploring the dieback of western redcedar as a symbol of the inequities in urban environments_. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-**Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. The Cape Town Hypothesis Test: _Phytophthora_ in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM**, Rosenberger R. 2014\. Forest G.U.M.P. The value of graduate-undergraduate mentorship programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Potential of using boron for mitigation of _Phytophthora ramorum_ in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM** 2014\. The value of graduate-undergraduate mentorship programs. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014
-</td>
-<td width="892">
-**Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2012
-</td>
-<td width="892">
-**Hulbert JM**, Morrell J, Hansen E. 2012\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products. Western International Forest Disease Work Conference, Tahoe City, California. Oral Presentation.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2011
-</td>
-<td width="892">
-Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch death? Larch susceptibility to _Phytophthora ramorum_. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.
 </td>
 </tr>
 </tbody>
@@ -1782,6 +1830,22 @@ Green River College, BAS in Forest Resource Management program, _Forest Ecology_
 2021
 </td>
 <td width="892">
+Green River College, Forest Resource Management, Forest Health and Protection course, On-Campus Lab instruction, _Sooty bark disease and western redcedar dieback on Green River campus._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Pacific University, Department of Biology and Environmental Science, Plant Pathology, _Western redcedar dieback - plant pathology research with Pacific University._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
 Evergreen State College, Environmental Studies, Field Ecology Lecture, _Western redcedar dieback - exploring local project opportunities with students at Evergreen State College._
 </td>
 </tr>
@@ -1897,7 +1961,7 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
 </tbody>
 </table>
 
-### Science Engagement {.tabset .tabset-fade}
+### Public Science Engagement {.tabset .tabset-fade}
 #### Youth Engagement Activities
 <table>
 <tbody>
@@ -2743,7 +2807,7 @@ BSc Forest Engineering, Personal Initiative.
 2021
 </td>
 <td width="892">
-Introduction to Climate Change Adaptation Planning for Tribes, Tribes & Climate Change Program, Institute
+[Integrating Climate into Hazard Mitigation Plans (Western Region)](http://www7.nau.edu/itep/main/tcc/docs/training/BLR_FEMA%20Course%20Description.pdf), Tribes & Climate Change Program, Institute
 for Tribal Environmental Professionals, Northern Arizona University.
 </td>
 </tr>
@@ -2752,7 +2816,16 @@ for Tribal Environmental Professionals, Northern Arizona University.
 2021
 </td>
 <td width="892">
-Software Carpentry, University of Washington.
+[CC101: Introduction to Climate Change Adaptation Planning for Tribes](http://www7.nau.edu/itep/main/tcc/Training/Trainings), Tribes & Climate Change Program, Institute
+for Tribal Environmental Professionals, Northern Arizona University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Software/Data Carpentry workshop at the UW eScience Institute, University of Washington.
 </td>
 </tr>
 <tr valign="top">
@@ -3006,7 +3079,8 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 ### Selected Popular Writing
 <details open>
 <summary><a class="button">Hide</a></summary>
-
+  
+  + Hulbert JM. [Community scientists needed for western redcedar dieback research](https://www.mtnativeplants.org/wp-content/uploads/2021/10/Kelseya-v-34-4.pdf). Kelseya, Montana Native Plant Society, Volume 34, Issue 4, Summer 2021.
   + Hulbert JM. [Forest Health Watch – Opportunities to contribute to research and strengthen our biosecurity](https://online.flippingbook.com/view/868811809/22-23/). PNW ISA Trees, Spring Issue 2021.
   + Hulbert JM. [Pacific Northwest Forest Bio-Surveillance Training Available](https://foreststewardshipnotes.wordpress.com/2021/06/03/pacific-northwest-forest-bio-surveillance-training-available/), DNR & WSU Forest Stewardship Notes.
   + Hulbert JM 2021. [Community science and the dieback of western redcedar](http://www.b-e-f.org/wp-content/uploads/2021/02/BEF_Watersheds_newsletter242102_2.pdf), treeline, Bonneville Environmental Foundation, Watersheds Program. 
@@ -3032,7 +3106,12 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 <summary><a class="button">Hide</a></summary>
 
 * Articles
-        + Dunne N. 2021\. Mapping Cedar Dieback, University of Washington, Arboretum Bulletin, Washington. 
+     + Truscott S. 2021 [WSU researcher engages communities in tree health research with Forest Health Watch](https://news.cahnrs.wsu.edu/wsu-researcher-engages-communities-in-tree-health-research-with-forest-health-watch/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
+    + Truscott S. 2021 [WSU co-organizes first annual Pacific Northwest Citizen and Community Science Summit](https://news.cahnrs.wsu.edu/wsu-co-organizes-first-annual-pacific-northwest-citizen-and-community-science-summit/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
+    + Editor. 2021. [Comox Valley Nature lecture discusses western redcedar tree health](https://www.comoxvalleyrecord.com/community/comox-valley-nature-lecture-discusses-western-redcedar-dieback/), Comox Valley Record, newspaper.
+    + Kempe Y. 2021. [An iconic tree is dying off in Whatcom — what’s causing it and how can you help save it?](https://www.bellinghamherald.com/news/local/article253989778.html#storylink=mainstage_lead), Bellingham Herald, Bellingham.
+    + Extoque R. 2021. [The Unlikely Partnership Supporting South Seattle Youth Through Forest Science](https://southseattleemerald.com/2021/09/04/the-unlikely-partnership-supporting-south-seattle-youth-through-forest-science/#more-74007), South Sound Emerald, Seattle, digital newspaper.
+    + Dunne N. 2021\. Mapping Cedar Dieback, University of Washington, Arboretum Bulletin, Washington. 
     + Inghram I. 2021\. Citizen scientists study western redcedars, Anacortes newspaper, Washington. 
     + Peterson C. 2021. Help needed to assist dying western redcedars. Hungry Horse News and Whitefish Pilot, Montana. 
     + Truscott S. 2021\. Citizen scientists can help study, halt die-off of Pacific Northwest’s redcedars, College of Agricultural, Human and Natural Resource Science, Washington State University, online article. 
@@ -3047,6 +3126,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
     + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
 
 * Radio Interviews
+    + treehugger podcast, Forest health and climate change (in production)
     + treehugger podcast, Madrones! with Arbutus ARME https://www.treehuggerpod.com/ January, 2021.
     + Cherry Creek Media, Wenatchee Washington, March 12, 2021.
     + Middag op RSG, RSG 100-104FM, January 23, 2018.
@@ -3062,6 +3142,14 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Promotion Review, External Evaluation, Associate Professor of Practice)
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
