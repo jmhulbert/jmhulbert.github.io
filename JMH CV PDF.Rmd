@@ -1,6 +1,6 @@
 ---
 title: "Joseph (Joey) Michael Hulbert"
-date: "CV Updated: '`r format(Sys.Date(), '%B %d, %Y')`"
+date: "CV Updated: `r format(Sys.time(), '%d %B, %Y')`"
 subtitle: "Ornamental Plant Pathology,\n\nPuyallup Research and Extension Center,
   \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
   USA. \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n"
@@ -158,8 +158,10 @@ Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspirati
 ### Manuscripts in Prep
 
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
+  + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others (invited). Citizen Science Methods, Nature Reviews Methods Primer.
+  + **Hulbert JM** (in prep). More mentorship needed in academia for research coproduction with marginalized communities.
 
-## Funding and In-Kind Support
+## Funding and Support
 
 ### Funded Postdoctoral Fellowship Research Proposals
 
@@ -358,7 +360,7 @@ Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258
 </tbody>
 </table>
 
-### In Kind Support
+### In Kind Support (materials/equipment)
 
 <table>
 <tbody>
@@ -383,7 +385,7 @@ Field Notebooks, Rite in the Rain
 2021
 </td>
 <td width="892">
-240 Western redcedar trees, Weyerhaeuser
+Western redcedar trees, Weyerhaeuser
 </td>
 </tr>
 <tr valign="top">
@@ -414,7 +416,7 @@ Field Guide to Fynbos (20 copies), Rapula Trust
 2021
 </td>
 <td width="892">
-_Keeping trees healthy in changing environments of the Pacific Northwest_, College of Agriculture, Human and Natural Resource Sciences, Washington State University ($3,000).
+_Keeping trees healthy in changing environments of the Pacific Northwest_, College of Agriculture, Human and Natural Resource Sciences, Washington State University **($3,000)**.
 </td>
 </tr>
 <tr valign="top">
@@ -784,6 +786,7 @@ Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Memb
 </table>
 
 ### Conference Organization
+
 <table>
 <tbody>
 <tr valign="top">
@@ -838,6 +841,7 @@ Symposium Planning Committee, _Branching out: communicating forest research beyo
 </table>
 
 ### Invited Panel Participation
+
 <table>
 <tbody>
 <tr valign="top">
@@ -863,6 +867,7 @@ Maximizing your graduate education, fall Graduate School new student orientation
 
 ### Presentations at Professional Meetings 
 #### North American Conferences
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -981,6 +986,7 @@ Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch de
 </table>
 
 #### International Conferences
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1051,6 +1057,7 @@ Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pat
 </table>
 
 #### South African Conferences
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1123,7 +1130,7 @@ Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pat
 
 ### Symposia, Seminars, Invited and Public Talks   
 #### Symposia
-
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1226,7 +1233,7 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 </table>
 
 #### Seminars and Lab Meetings
-
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1329,7 +1336,7 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 </table>
 
 #### Invited Talks
-
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1625,8 +1632,8 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 </tbody>
 </table>
 
-#### Public Talks
-
+#### Additional Public Talks
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1682,6 +1689,7 @@ South African National Biodiversity Institute, Kirstenbosch National Botanical G
 
 ### Competitive Presentations
 #### Travel Awards
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1696,6 +1704,7 @@ Washington State University, Innovation and Research Engagement Office, Research
 </table>
 
 #### Science Communication
+\  
 <table>
 <tbody>
 <tr valign="top">
@@ -1752,6 +1761,14 @@ Green River College, BAS in Forest Resource Management program, _Forest Ecology_
 ### Guest Lectures
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Pierce College, Cell Biology, On-Campus Lecture, _The need for more forest health scientists to increase climate resilience in urban communities._
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -1887,6 +1904,18 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
 </tr>
 </tbody>
 </table>
+
+## Courses Prepared to Teach
+
+* Potential courses
+  + Methods of Citizen and Community Science
+  + Invasion and Disturbance Ecology
+  + General Plant Pathology
+  + Forest Health and Protection
+  + Urban Forestry and Climate Change 
+  + Science Communication
+  + Data Visualization
+  + Introduction to Applied Ecological Statistics
 
 ## Public Science Engagement 
 ### Youth Engagement Activities
@@ -3060,7 +3089,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 2021
 </td>
 <td width="892">
-Promotion Review, External Evaluation, Associate Professor of Practice)
+Promotion Review, External Evaluation, Associate Professor of Practice
 </td>
 </tr>
 <tr valign="top">
@@ -3311,14 +3340,21 @@ Research Technician, Kansas State University, Dept. of Plant Pathology, Manhatta
 
 ## References
 
-
-
 _Primary Postdoc Mentor_
 
 **Gary Chastagner**<br>
 Professor, Washington State University<br>
 Extension Specialist, WSU Research and Extension Center in Puyallup<br>
 chastag@wsu.edu
+
+
+_Puyallup Research and Extension Director_
+
+**Todd Murray**<br>
+Director, WSU Research and Extension Center in Puyallup<br>
+Washington State University <br>
+tmurray@wsu.edu
+
 
 _Primary PhD Supervisor_
 
