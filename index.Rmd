@@ -9,14 +9,15 @@ output:
     toc_float: yes
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-5"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44627976-7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-44627976-5');
+  gtag('config', 'UA-44627976-7');
 </script>
+
 
 <style>
 .button {
@@ -54,6 +55,16 @@ Dept. of Plant Pathology, Washington State University,
 </tr>
 </tbody>
 </table>
+
+<!-- 
+### Highlights
+  + A year of empowering young minds [YouTube](https://youtu.be/PKSI1sxHiEc).
+  + **Hulbert JM**, Roets F. 2018\. Science engagement in South Africa. _Science_, 361(6406):985\. DOI: 10.1126/science.aav1499.
+  + Webinar Co-Organizer, [Western Redcedar: Cultural and ecological reflections and dieback concerns](https://youtu.be/FrGBTo7HBnk), (2021) Treeline Webinar Series.
+  + _Research Tour_ (2021), Muckleshoot Tribal College - Early College Program, Washington State University, Puyallup Research and Extension Center.
+  + Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619) (2021), Online Conference, Zoom.
+  + Funding received to date: ~$300,000
+-->
 
 ### Academic Appointments
 <table>
@@ -135,6 +146,14 @@ Organizer, _WSU Forestry Working Group_, Washington State University.
 </tr>
 <tr valign="top">
 <td width="100">
+2020-
+</td>
+<td width="892">
+Organizer, [https://pnwcitsci.org/](https://pnwcitsci.org)
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2016-2020
 </td>
 <td width="892">
@@ -163,6 +182,65 @@ Instructor, _R for biology and ecology workshop series_ ([https://jmhulbert.gith
 </td>
 <td width="892">
 Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspiration/](http://blogs.oregonstate.edu/inspiration/)), KBVR 88.7fm, Oregon State University.
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+
+### Community Service
+<details open>
+<summary><a class="button">Hide</a></summary>
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021-
+</td>
+<td width="892">
+Volunteer, Nature and Environment Council, MetroParks Tacoma
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021-
+</td>
+<td width="892">
+Member, Pierce County Community Engagement Task Force 
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021-
+</td>
+<td width="892">
+Volunteer Mechanic, Second Cycle, Tacoma, Washington
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Voting Member, Puyallup Watershed Initiative, Forest Community of Interest
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Volunteer Mechanic, Palouse Bicycle Collective, Moscow, Idaho
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014-2015
+</td>
+<td width="892">
+Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 </td>
 </tr>
 </tbody>
@@ -370,7 +448,7 @@ FY2019
 2020
 </td>
 <td width="892">
-Tribal Engagement Activity Proposal, Forest Community of Interest, Puyallup Watershed Initiative
+Tribal Engagement Activity Proposal, Forest Community of Interest, Puyallup Watershed Initiative **($8,500)**.
 </td>
 </tr>
 <tr valign="top">
@@ -378,7 +456,7 @@ Tribal Engagement Activity Proposal, Forest Community of Interest, Puyallup Wate
 2018
 </td>
 <td width="892">
-Social Impact Grant, Faculty of AgriScience, Stellenbosch University
+Social Impact Grant, Faculty of AgriScience, Stellenbosch University **(~$4,000)**.
 </td>
 </tr>
 <tr valign="top">
@@ -386,7 +464,7 @@ Social Impact Grant, Faculty of AgriScience, Stellenbosch University
 2017
 </td>
 <td width="892">
-Mathre Education Endowment Award, American Phytopathological Society
+Mathre Education Endowment Award, American Phytopathological Society **($1,000)**.
 </td>
 </tr>
 <tr valign="top">
@@ -394,7 +472,7 @@ Mathre Education Endowment Award, American Phytopathological Society
 2017
 </td>
 <td width="892">
-Plant Pathology Promotion Fund, British Society for Plant Pathology
+Plant Pathology Promotion Fund, British Society for Plant Pathology **(~$2,500)**.
 </td>
 </tr>
 </tbody>
@@ -412,7 +490,7 @@ Plant Pathology Promotion Fund, British Society for Plant Pathology
 2017
 </td>
 <td width="892">
-Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258/8690](https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika)
+Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258/8690](https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika) **(626)**. 
 </td>
 </tr>
 <tr valign="top">
@@ -420,7 +498,7 @@ Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258
 2015
 </td>
 <td width="892">
-Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258/2066](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science)
+Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258/2066](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science) **(5,000)**. 
 </td>
 </tr>
 </tbody>
@@ -476,7 +554,7 @@ Field Guide to Fynbos (20 copies), Rapula Trust
 </table>
 </details>
 
-#### Successful Internship Proposals
+#### Sponsored Internship Proposals
 
 <table>
 <tbody>
@@ -815,6 +893,205 @@ Organizer, Natural Science Graduate Student BBQ
 </table>
 </details>
 
+### Teaching Experience {.tabset .tabset-fade}
+
+#### Co-direction
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+University of Washington, Human Centered Design and Engineering, Directed Research Group, Winter & Spring Quarters, _The UX of climate change: western redcedar dieback._
+</td>
+</tr>
+</tbody>
+</table>
+
+#### Field Assistance
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Evergreen State College, Environmental Studies Path Affiliation, _Field Ecology_
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Green River College, BAS in Forest Resource Management program, _Forest Ecology_
+</td>
+</tr>
+</tbody>
+</table>
+
+#### Guest Lectures
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Pierce College, Cell Biology, On-Campus Lecture, _The need for more forest health scientists to increase climate resilience in urban communities._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Green River College, Forest Resource Management, Forest Health and Protection course, On-Campus Lab instruction, _Sooty bark disease and western redcedar dieback on Green River campus._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Pacific University, Department of Biology and Environmental Science, Plant Pathology, _Western redcedar dieback - plant pathology research with Pacific University._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Evergreen State College, Environmental Studies, Field Ecology Lecture, _Western redcedar dieback - exploring local project opportunities with students at Evergreen State College._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Green River College, Forest Resource Management, Forest Ecology Lecture, _Western redcedar dieback - exploring local project opportunities with students at Green River College._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Washington State University, School of the Environment, Disturbance Ecology (SOE 485) Lecture, _Tree root diseases - effects at multiple scales._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+University of Washington, Human Centered Design and Engineering, Directed Research Group, Winter & Spring Quarters, The UX of climate change: _Forest Health Watch - community engagement for healthy forests_
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, Department of Plant Pathology, General Plant Pathology (PLP 429) Lecture, _Forest Pathology._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, 4H Ecostewards Program, Chelan/Douglas County Extension, Guest Lecture, _Super Fungi - adaptations and super powers._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Cape Peninsula University of Technology, Faculty of Applied Sciences, Btech Plants Module, Lecture, _Invasive microscopic organisms: plant pathogens and biosecurity._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Lecture, _Microscopic organisms: plant promoters and plant destroyers._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Lecture, _A look into the microscopic world: lifelines or invisible threats._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Field Course, Drie Kulien Nature Reserve.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016
+</td>
+<td width="892">
+Stellenbosch University, International Winter School, Biodiversity & Ecology Course, Lecture, _Surveying Phytophthora species with citizen science_.
+</td>
+</tr>
+</tbody>
+</table>
+#### Workshop Instruction
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2019
+</td>
+<td width="892">
+University of Pretoria, Faculty of Natural and Agricultural Sciences, [_R for biology data science workshop series_](http://jmhulbert.github.io/r/bio/) _(5 sessions, 76 participants, packages: ggplot2 and dplyr)._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2019
+</td>
+<td width="892">
+University of Pretoria, Forestry and Agricultural Biotechnology Institute, [_RStudio and R package workshop series_](http://jmhulbert.github.io/r/fabi/) _(5 sessions, 35 participants, packages: ggplot2, dplyr, vegan and Markdown)._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018
+</td>
+<td width="892">
+Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio and R package workshop series (4 sessions, 23 participants, packages: ggplot2, dplyr, and vegan)._
+</td>
+</tr>
+</tbody>
+</table>
+
+### Courses Prepared to Teach
+
+* Potential courses
+  + Methods of Citizen and Community Science
+  + Urban Forestry and Climate Change
+  + Invasion / Disturbance Ecology
+  + Forest Health and Protection
+  + General Plant Pathology / Biology
+  + Science Communication / Grant Writing
+  + Interactive Data Visualization
+  + General Applied Ecological Statistics
+  + Introduction to GIS
+
 ### Webinar, Conference Organization & Panels Served {.tabset .tabset-fade}
 #### Webinar Organization
 
@@ -871,7 +1148,7 @@ Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://ww
 2019
 </td>
 <td width="892">
-Session Coordinator, _Forest health defenders: empowering citizens to protect forests through research contributions_, IUFRO XXV World Congress, Curbita, Brazil.
+Session Coordinator, _Forest health defenders: empowering citizens to protect forests through research contributions_, IUFRO XXV World Congress, Curitiba, Brazil.
 </td>
 </tr>
 <tr valign="top">
@@ -1785,205 +2062,6 @@ Scholars Insights, Oregon State University, _It only takes one spore to start an
 </tbody>
 </table>
 
-
-
-### Teaching Experience {.tabset .tabset-fade}
-
-#### Co-direction
-
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-University of Washington, Human Centered Design and Engineering, Directed Research Group, Winter & Spring Quarters, _The UX of climate change: western redcedar dieback._
-</td>
-</tr>
-</tbody>
-</table>
-
-#### Field Assistance
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Evergreen State College, Environmental Studies Path Affiliation, _Field Ecology_
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Green River College, BAS in Forest Resource Management program, _Forest Ecology_
-</td>
-</tr>
-</tbody>
-</table>
-
-#### Guest Lectures
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Pierce College, Cell Biology, On-Campus Lecture, _The need for more forest health scientists to increase climate resilience in urban communities._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Green River College, Forest Resource Management, Forest Health and Protection course, On-Campus Lab instruction, _Sooty bark disease and western redcedar dieback on Green River campus._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Pacific University, Department of Biology and Environmental Science, Plant Pathology, _Western redcedar dieback - plant pathology research with Pacific University._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Evergreen State College, Environmental Studies, Field Ecology Lecture, _Western redcedar dieback - exploring local project opportunities with students at Evergreen State College._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Green River College, Forest Resource Management, Forest Ecology Lecture, _Western redcedar dieback - exploring local project opportunities with students at Green River College._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Washington State University, School of the Environment, Disturbance Ecology (SOE 485) Lecture, _Tree root diseases - effects at multiple scales._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-University of Washington, Human Centered Design and Engineering, Directed Research Group, Winter & Spring Quarters, The UX of climate change: _Forest Health Watch - community engagement for healthy forests_
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2020
-</td>
-<td width="892">
-Washington State University, Department of Plant Pathology, General Plant Pathology (PLP 429) Lecture, _Forest Pathology._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2020
-</td>
-<td width="892">
-Washington State University, 4H Ecostewards Program, Chelan/Douglas County Extension, Guest Lecture, _Super Fungi - adaptations and super powers._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-Cape Peninsula University of Technology, Faculty of Applied Sciences, Btech Plants Module, Lecture, _Invasive microscopic organisms: plant pathogens and biosecurity._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Lecture, _Microscopic organisms: plant promoters and plant destroyers._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Lecture, _A look into the microscopic world: lifelines or invisible threats._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2017
-</td>
-<td width="892">
-Stellenbosch University, Dept. of Conservation Ecology & Entomology, CONSECOL414: Advanced Conservation Management, Field Course, Drie Kulien Nature Reserve.
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2016
-</td>
-<td width="892">
-Stellenbosch University, International Winter School, Biodiversity & Ecology Course, Lecture, _Surveying Phytophthora species with citizen science_.
-</td>
-</tr>
-</tbody>
-</table>
-#### Workshop Instruction
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2019
-</td>
-<td width="892">
-University of Pretoria, Faculty of Natural and Agricultural Sciences, [_R for biology data science workshop series_](http://jmhulbert.github.io/r/bio/) _(5 sessions, 76 participants, packages: ggplot2 and dplyr)._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2019
-</td>
-<td width="892">
-University of Pretoria, Forestry and Agricultural Biotechnology Institute, [_RStudio and R package workshop series_](http://jmhulbert.github.io/r/fabi/) _(5 sessions, 35 participants, packages: ggplot2, dplyr, vegan and Markdown)._
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio and R package workshop series (4 sessions, 23 participants, packages: ggplot2, dplyr, and vegan)._
-</td>
-</tr>
-</tbody>
-</table>
-
-### Courses Prepared to Teach
-
-* Potential courses
-  + Methods of Citizen and Community Science
-  + Invasion and Disturbance Ecology
-  + General Plant Pathology
-  + Forest Health and Protection
-  + Urban Forestry and Climate Change 
-  + Science Communication
-  + Data Visualization
-  + Introduction to Applied Ecological Statistics
 
 ### Public Science Engagement {.tabset .tabset-fade}
 #### Youth Engagement Activities
@@ -3260,64 +3338,6 @@ Adhoc Reviewer, Biological Invasions (1 Manuscript)
 </td>
 <td width="892">
 Adhoc Reviewer, IMAfungus (1 Manuscript)
-</td>
-</tr>
-</tbody>
-</table>
-</details>
-
-### Community Service
-<details open>
-<summary><a class="button">Hide</a></summary>
-
-<table>
-<tbody>
-<tr valign="top">
-<td width="100">
-2021-
-</td>
-<td width="892">
-Volunteer, Nature and Environment Council, MetroParks Tacoma
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021-
-</td>
-<td width="892">
-Member, Pierce County Community Engagement Task Force 
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021-
-</td>
-<td width="892">
-Volunteer Mechanic, Second Cycle, Tacoma, Washington
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2020-
-</td>
-<td width="892">
-Voting Member, Puyallup Watershed Initiative, Forest Community of Interest
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2018
-</td>
-<td width="892">
-Volunteer Mechanic, Palouse Bicycle Collective, Moscow, Idaho
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2014-2015
-</td>
-<td width="892">
-Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 </td>
 </tr>
 </tbody>
