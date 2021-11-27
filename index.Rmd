@@ -490,7 +490,7 @@ Plant Pathology Promotion Fund, British Society for Plant Pathology **(~$2,500)*
 2017
 </td>
 <td width="892">
-Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258/8690](https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika) **(626)**. 
+Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258/8690](https://experiment.com/projects/engage-kayamandi-youth-in-cape-citizen-science-with-vision-afrika) **($626)**. 
 </td>
 </tr>
 <tr valign="top">
@@ -498,7 +498,7 @@ Engage Kayamandi Youth in Cape Citizen Science with Vision Afrika, [DOI:10.18258
 2015
 </td>
 <td width="892">
-Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258/2066](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science) **(5,000)**. 
+Discovering Plant Destroyers in South Africa with Citizen Science, [DOI:10.18258/2066](https://experiment.com/projects/discovering-plant-destroyers-in-south-africa-with-citizen-science) **($5,000)**. 
 </td>
 </tr>
 </tbody>
@@ -1191,10 +1191,18 @@ Symposium Planning Committee, _Branching out: communicating forest research beyo
 <tbody>
 <tr valign="top">
 <td width="100">
+2021
+</td>
+<td width="892">
+_Urban Forests: Climate Change Solution or Casualty?_ [Youtube](https://www.youtube.com/watch?v=H5YAX3MAzBg),Cascadia Climate Action, Climate Science on Tap Event.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2015
 </td>
 <td width="892">
-Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.
+_Is one tree worth a forest?_ World Forestry Congress, World Cafe Forest Health Session, Durban, South Africa.
 </td>
 </tr>
 <tr valign="top">
@@ -1202,7 +1210,7 @@ Is one tree worth a forest? World Forestry Congress, World Cafe Forest Health Se
 2013
 </td>
 <td width="892">
-Maximizing your graduate education, fall Graduate School new student orientation, Oregon State University.
+_Maximizing your graduate education_, new student orientation panel, Graduate School, Oregon State University.
 </td>
 </tr>
 </tbody>
@@ -1212,7 +1220,6 @@ Maximizing your graduate education, fall Graduate School new student orientation
 
 #### Presentations at Professional Meetings {.tabset .tabset-fade}
 ##### North American Conferences
-
 <table>
 <tbody>
 <tr valign="top">
@@ -1221,6 +1228,14 @@ Maximizing your graduate education, fall Graduate School new student orientation
 </td>
 <td width="892">
 **Hulbert JM**, Western redcedar dieback as an indicator of the effects of climate change on cultural resources and tribal communities, 2021 Rising Voices Workshop, [Virtual (Poster-walk) Presentation](https://public.tableau.com/app/profile/joey.hulbert/viz/2021RisingVoicesWorkshopPoster/Dashboard1).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+**Hulbert JM**, Using iNaturalist as a tool for foresting shared understanding about environmental change. E3 Washington 2021 Conference, Virtual Presentation.
 </td>
 </tr>
 <tr valign="top">
@@ -1244,7 +1259,7 @@ Maximizing your graduate education, fall Graduate School new student orientation
 2021
 </td>
 <td width="892">
-Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, _Exploring the dieback of western redcedar as a symbol of the inequities in urban environments_. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
+**Hulbert JM**, Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Exploring the dieback of western redcedar as a symbol of the inequities in urban environments. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
 </td>
 </tr>
 <tr valign="top">
@@ -1590,15 +1605,23 @@ Oregon State University, College of Forestry, Western Forestry Graduate Research
 2021
 </td>
 <td width="892">
+USDA Forest Service, Forest Health and Protection (Region 6), monthly forest pathology meeting, _Sooty Bark Disease: climate change ‘time bomb’ in many broadleaf trees in the PNW_ (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
 Washington State University, Department of Plant Pathology Spring Seminar Series, _Forest Health Watch: community engagement for healthy forests_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
 <td width="100">
-2020
+2021
 </td>
 <td width="892">
-Washington State University, Forestry Working Group meeting, _Forest Health Watch and the WSU forestry community_ (Video Conferencing Presentation).
+Systematic Biology Seminar, Systematic Biology Programme, Uppsala University, Sweden  _Citizen science methods to accelerate research about forest health issues_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1606,7 +1629,15 @@ Washington State University, Forestry Working Group meeting, _Forest Health Watc
 2020
 </td>
 <td width="892">
-Washington State University, 4-H Eco-Stewards Program meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Video Conferencing Presentation).
+Washington State University, Forestry Working Group meeting, _Forest Health Watch and the WSU forestry community_ (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020
+</td>
+<td width="892">
+Washington State University, 4-H Eco-Stewards Program meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1683,6 +1714,7 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 </tr>
 </tbody>
 </table>
+
 ##### Invited Talks
 <table>
 <tbody>
@@ -1691,7 +1723,47 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 2021
 </td>
 <td width="892">
-Department of Natural Resources, Presentation to State Forester & Forest Health Division Leads, _Forest Health Watch: community engagement for healthy forests_ (Virtual Presentation).
+Washington Native Plant Society, Koma Kushan Chapter, _Community scientists needed for Western redcedar dieback in Pacific Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Issaquah Alps Trail Club, _Community scientists needed for Western redcedar dieback in Pacific Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Idaho Native Plant Society, Kinnikinnick Chapter, _Community scientists needed for Western redcedar dieback in Inland Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Idaho Native Plant Society, White Pine Chapter, _Community scientists needed for Western redcedar dieback in Inland Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Montana Native Plant Society, Flathead and Kelsey chapters _Community scientists needed for research about western redcedar dieback_ (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Washington Department of Natural Resources, Presentation to State Forester & Forest Health Division Leads, _Forest Health Watch: community engagement for healthy forests_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1741,7 +1813,7 @@ Bonneville Environmental Foundation, Treeline Practitioners Meeting, _Tools for 
 2021
 </td>
 <td width="892">
-City of Tacoma, Nature and Enviornment Advisory Council Meeting, _Forest Health Watch: community engagement for healthy parks_ (Video Conferencing Presentation).
+City of Tacoma, Nature and Enviornment Advisory Council Meeting, _Forest Health Watch: community engagement for healthy parks_ (Virtual).
 </td>
 </tr>
 <tr valign="top">
@@ -1749,7 +1821,15 @@ City of Tacoma, Nature and Enviornment Advisory Council Meeting, _Forest Health 
 2021
 </td>
 <td width="892">
-Forest Resource Management Faculty Meeting, Green River College,  _Forest Health Watch: community engagement for healthy forests_ (Video Conferencing Presentation).
+Forest Resource Management Faculty Meeting, Green River College,  _Forest Health Watch: community engagement for healthy forests_ (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Arbutus ARME, Spring member meeting, _TreeSnap and iNaturalist observation update_, (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1757,7 +1837,7 @@ Forest Resource Management Faculty Meeting, Green River College,  _Forest Health
 2020
 </td>
 <td width="892">
-University of Washington, Urban Ecology Research Lab Meeting, _Exploring the dieback of western redcedar as a metaphor for the inequities in urban communities_ (Video Conferencing Presentation).
+University of Washington, Urban Ecology Research Lab Meeting, _Exploring the dieback of western redcedar as a metaphor for the inequities in urban communities_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1765,7 +1845,7 @@ University of Washington, Urban Ecology Research Lab Meeting, _Exploring the die
 2020
 </td>
 <td width="892">
-Climate Resiliency Fund, Bonneville Environmental Foundation, Riparian Climate Corridors Project Extension Group Meeting, _Forest Health Watch - community science_ (Video Conferencing Presentation).
+Climate Resiliency Fund, Bonneville Environmental Foundation, Riparian Climate Corridors Project Extension Group Meeting, _Forest Health Watch - community science_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1773,7 +1853,7 @@ Climate Resiliency Fund, Bonneville Environmental Foundation, Riparian Climate C
 2020
 </td>
 <td width="892">
-King County, King County Conservation District Forestry Team Meeting, _Western redcedar dieback in King County_ (Video Conferencing Presentation).
+King County, King County Conservation District Forestry Team Meeting, _Western redcedar dieback in King County_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1781,7 +1861,7 @@ King County, King County Conservation District Forestry Team Meeting, _Western r
 2020
 </td>
 <td width="892">
-Washington State Department of Agriculture, Plant Protection Group Meeting, _Forest Health Watch - upcoming community science program_ (Video Conferencing Presentation).
+Washington State Department of Agriculture, Plant Protection Group Meeting, _Forest Health Watch - upcoming community science program_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1789,7 +1869,7 @@ Washington State Department of Agriculture, Plant Protection Group Meeting, _For
 2020
 </td>
 <td width="892">
-South King County Culture (SoCoCulture), Member Update, _Forest Health Watch - partnering with SoCuCulture to promote the Engaging Trees platform_ (Video Conferencing Presentation).
+South King County Culture (SoCoCulture), Member Update, _Forest Health Watch - partnering with SoCuCulture to promote the Engaging Trees platform_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1797,7 +1877,7 @@ South King County Culture (SoCoCulture), Member Update, _Forest Health Watch - p
 2020
 </td>
 <td width="892">
-Forest Adaptation Network, Bi-Annual Meeting, _Forest Health Watch - engaging communities in forest adaptation science_ (Video Conferencing Presentation).
+Forest Adaptation Network, Bi-Annual Meeting, _Forest Health Watch - engaging communities in forest adaptation science_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1805,7 +1885,7 @@ Forest Adaptation Network, Bi-Annual Meeting, _Forest Health Watch - engaging co
 2020
 </td>
 <td width="892">
-Seattle Urban Forestry Interdepartmental Team, Quarterly Meeting, _Forest Health Watch - upcoming community science program_ (Video Conferencing Presentation).
+Seattle Urban Forestry Interdepartmental Team, Quarterly Meeting, _Forest Health Watch - upcoming community science program_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1813,7 +1893,7 @@ Seattle Urban Forestry Interdepartmental Team, Quarterly Meeting, _Forest Health
 2020
 </td>
 <td width="892">
-Seattle Urban Forestry Commission, Monthly Meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Video Conferencing Presentation).
+Seattle Urban Forestry Commission, Monthly Meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1821,7 +1901,7 @@ Seattle Urban Forestry Commission, Monthly Meeting, _Forest Health Watch - commu
 2020
 </td>
 <td width="892">
-City of Seattle, Urban Forest Core Team, monthly Meeting, _Forest Health Watch - an upcoming community science program in the Pacific Northwest_ (Video Conferencing Presentation).
+City of Seattle, Urban Forest Core Team, monthly Meeting, _Forest Health Watch - an upcoming community science program in the Pacific Northwest_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1829,7 +1909,7 @@ City of Seattle, Urban Forest Core Team, monthly Meeting, _Forest Health Watch -
 2020
 </td>
 <td width="892">
-Puyallup Watershed Initiative, Forest Community of Interest, Bimonthly Meeting _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+Puyallup Watershed Initiative, Forest Community of Interest, Bimonthly Meeting _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1837,7 +1917,7 @@ Puyallup Watershed Initiative, Forest Community of Interest, Bimonthly Meeting _
 2020
 </td>
 <td width="892">
-Forestry and Natural Resources Extension Coffee Hour, Oregon State University _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+Forestry and Natural Resources Extension Coffee Hour, Oregon State University _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1845,7 +1925,7 @@ Forestry and Natural Resources Extension Coffee Hour, Oregon State University _F
 2020
 </td>
 <td width="892">
-EcoPhysiology Working Group, Reed College, Portland State University & WSU Vancouver, _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Video Conferencing Presentation).
+EcoPhysiology Working Group, Reed College, Portland State University & WSU Vancouver, _Forest Health Defenders - Pacific Northwest Citizen Science - Brainstorm and Discussion_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -1979,9 +2059,25 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 </tbody>
 </table>
 
-##### Public Talks
+##### Additional Public Talks
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Tacoma Tree Foundation, Growing Skills Webinar Series, _Tracking sooty bark disease in the Pacific Northwest_ (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Comox Valley Nature (Vancouver Island, BC), _Western Redcedar Dieback and Community Science in the Pacific Northwest_ (Virtual Presentation).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020
@@ -1995,7 +2091,7 @@ Tacoma Tree Foundation, Growing Skills Webinar Series, _Forest Health Watch - re
 2020
 </td>
 <td width="892">
-Washington State University, _Forest Health Watch - Collaborator Update Meetings (3 events)_ (Video Conferencing Presentation).
+Washington State University, _Forest Health Watch - Collaborator Update Meetings (3 events)_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2357,14 +2453,6 @@ Washington State University, _Forest Health Watch - Research Updates_, Montly (J
 2021
 </td>
 <td width="892">
-Montana Native Plant Society, Flathead and Kelsey chapters _Community scientists needed for research about western redcedar dieback_ (Virtual Presentation).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
 USFS Region 6 Advanced Silviculture Training _Community science to accelerate research and enhance biosecurity in the Pacific Northwest_ (Virtual Presentation).
 </td>
 </tr>
@@ -2469,7 +2557,7 @@ Washington State University, _Pacific Northwest Forest Biosurveillance Training 
 2021
 </td>
 <td width="892">
-Washington State University, _March Forest Health Watch - Collaborator Update Meetings (4 events)_ (Video Conferencing Presentation).
+Washington State University, _March Forest Health Watch - Collaborator Update Meetings (4 events)_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2485,7 +2573,7 @@ Washington State University, Washington Forest Owners' Winter School, _Western r
 2021
 </td>
 <td width="892">
-Duwamish River Re-vegetation Partners Meeting, King County, _Insights for healthy restoration practices_ (Video Conferencing Presentation).
+Duwamish River Re-vegetation Partners Meeting, King County, _Insights for healthy restoration practices_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2493,7 +2581,7 @@ Duwamish River Re-vegetation Partners Meeting, King County, _Insights for health
 2020
 </td>
 <td width="892">
-Green Cities Partnership Network Meeting, _Forest Health Watch - keeping forests healthy_ (Video Conferencing Presentation).
+Green Cities Partnership Network Meeting, _Forest Health Watch - keeping forests healthy_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2509,7 +2597,7 @@ Washington State University, _Research Updates (Montly June-Dec)_ (Virtual Prese
 2020
 </td>
 <td width="892">
-Washington State University, _November Forest Health Watch - Collaborator Update Meetings (3 events)_ (Video Conferencing Presentation).
+Washington State University, _November Forest Health Watch - Collaborator Update Meetings (3 events)_ (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2687,6 +2775,28 @@ South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: p
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="131">
+Lyndsay Felthoven
+</td>
+<td width="576">
+Capstone Project (Senior), Environmental Studies, University of Washington
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="131">
+Angela Mabel Gaither 
+</td>
+<td width="576">
+Capstone Project (Senior), Environmental Studies, University of Washington
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -3208,6 +3318,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 <summary><a class="button">Hide</a></summary>
 
 * Articles
+     + Editor. 2021.[Using iNaturalist to track redcedar dieback](https://wnpskoma.org/wp-content/uploads/2021/04/Spring-2021.pdf). Koma Kushan Chapter WNPS Newsletter. 
      + Truscott S. 2021 [WSU researcher engages communities in tree health research with Forest Health Watch](https://news.cahnrs.wsu.edu/wsu-researcher-engages-communities-in-tree-health-research-with-forest-health-watch/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
     + Truscott S. 2021 [WSU co-organizes first annual Pacific Northwest Citizen and Community Science Summit](https://news.cahnrs.wsu.edu/wsu-co-organizes-first-annual-pacific-northwest-citizen-and-community-science-summit/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
     + Editor. 2021. [Comox Valley Nature lecture discusses western redcedar tree health](https://www.comoxvalleyrecord.com/community/comox-valley-nature-lecture-discusses-western-redcedar-dieback/), Comox Valley Record, newspaper.
@@ -3228,8 +3339,9 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
     + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
 
 * Radio Interviews
-    + treehugger podcast, Forest health and climate change (in production)
-    + treehugger podcast, Madrones! with Arbutus ARME https://www.treehuggerpod.com/ January, 2021.
+    + KBCS 91.3 Bellevue Washington, [The Redlined Western Redcedar Study Project](https://www.kbcs.fm/2021/11/18/the-redlined-western-red-cedar-study-project/), November 18, 2021.
+    + [treehugger podcast](https://www.treehuggerpod.com/), Forest health and climate change (in production).
+    + [treehugger podcast](https://www.treehuggerpod.com/), Madrones! with Arbutus ARME, January, 2021.
     + Cherry Creek Media, Wenatchee Washington, March 12, 2021.
     + Middag op RSG, RSG 100-104FM, January 23, 2018.
     + Detour, Maties MFM 92.6FM, November 29, 2017.
