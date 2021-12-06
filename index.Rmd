@@ -289,7 +289,7 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 <summary><a class="button">Hide</a></summary>
 
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
-   + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others (invited). Citizen Science Methods, Nature Reviews Methods Primer.
+   + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others (invited). Citizen Science, Nature Reviews Methods Primer.
   + **Hulbert JM**, (in prep). More mentorship needed in academia for research coproduction with marginalized communities.
 
 </details>
@@ -1079,11 +1079,11 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
 </tbody>
 </table>
 
-### Courses Prepared to Teach
+<!--### Courses Prepared to Teach
 
 * Potential courses
   + Methods of Citizen and Community Science
-  + Urban Forestry and Climate Change
+  + Urban Forests and Climate Change
   + Invasion / Disturbance Ecology
   + Forest Health and Protection
   + General Plant Pathology / Biology
@@ -1091,7 +1091,7 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
   + Interactive Data Visualization
   + General Applied Ecological Statistics
   + Introduction to GIS
-
+--> 
 ### Webinar, Conference Organization & Panels Served {.tabset .tabset-fade}
 #### Webinar Organization
 
