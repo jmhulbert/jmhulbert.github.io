@@ -203,7 +203,7 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
   
   + Engelbrecht J, Duong TA, Paap T, **Hulbert JM**, Hanneman JJ, van den Berg N 2022 \. Population genetic analyses of *Phytophthora cinnamomi* reveals three lineages and movement between natural vegetation and avocado orchards in South Africa. Phytopathology. DOI: 10.1094/PHYTO-10-21-0414-R
   + Bose TB, **Hulbert JM**, Burgess TI, Paap T, Wingfield MJ 2021\. Two novel *Phytophthora* species from the Cape Floristic Region of South Africa. _Mycological Progress_, 20(6):755-767\. DOI: 10.1007/s11557-021-01702-y.
-  + Elliott M, **Hulbert JM**, Streng D, Chastagner GA 2021\.  Multiagency collaborations help public gardens contain Phytophthora outbreaks while providing insights and opportunities for novel research. _Plant Health Progress_ (First Look). DOI: 10.1094/PHP-02-21-0045-FI.
+  + Elliott M, **Hulbert JM**, Streng D, Chastagner GA 2021\.  Multiagency collaborations help public gardens contain Phytophthora outbreaks while providing insights and opportunities for novel research. _Plant Health Progress_. DOI: 10.1094/PHP-02-21-0045-FI.
   + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. 2020\. Harmonising the fields of invasion science and forest pathology. _NeoBiota_ 62:301-332. DOI: 10.3897/neobiota.62.52991.
   + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_ 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
   + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_ 285(1891)\. DOI: 710.1098/rspb.2018.1977.
@@ -212,7 +212,7 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
  
 ### Not Peer-Reviewed
 
-  + Elliott M, Rollins L, Bourret T, **Hulbert JM**, Chastagner GA 2021\. Three new hosts for _Phytophthora ramorum_ confirmed in Washington State: Salal, Oregon grape, and red huckleberry, _Plant Health Progress_ (First Look). DOI: 10.1094/PHP-01-21-0003-FI.
+  + Elliott M, Rollins L, Bourret T, **Hulbert JM**, Chastagner GA 2021\. Three new hosts for _Phytophthora ramorum_ confirmed in Washington State: Salal, Oregon grape, and red huckleberry, _Plant Health Progress_. DOI: 10.1094/PHP-01-21-0003-FI.
   + Chastagner GA, Elliott M, **Hulbert JM** 2021\. Effectiveness of fungicides and biopesticides in controlling Botrytis gray mold on western hemlock nursery stock. _Tree Planter's Notes_, 64(1):21-31.
   + **Hulbert JM**, Turner SC, Scott SL. 2019\. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
   + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. The problem with delineating narrow criteria for citizen science. _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
