@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <tbody>
 <tr valign="top">
 <td width="100">
-2015-2020 (February)
+2015-2020
 </td>
 <td width="892">
 **PhD** Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant & Soil Science, University of Pretoria, South Africa. Dissertation: _Phytophthora_ diversity in the Cape Floristic Region. Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.
@@ -79,6 +79,14 @@ knitr::opts_chunk$set(echo = FALSE)
 </td>
 <td width="892">
 Program director, _Forest Health Watch_ ([https://foresthealth.org/](https://foresthealth.org/)), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022-
+</td>
+<td width="892">
+Prime mover, _Open Redcedar Adaptation Network_ ([https://jmhulbert.github.io/adaptation](https://jmhulbert.github.io/adaptation)), Washington State University.
 </td>
 </tr>
 <tr valign="top">
@@ -193,10 +201,11 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 ## Publications 
 ### Peer-Reviewed
   
+  + Engelbrecht J, Duong TA, Paap T, **Hulbert JM**, Hanneman JJ, van den Berg N 2022 \. Population genetic analyses of *Phytophthora cinnamomi* reveals three lineages and movement between natural vegetation and avocado orchards in South Africa. Phytopathology. DOI: 10.1094/PHYTO-10-21-0414-R
   + Bose TB, **Hulbert JM**, Burgess TI, Paap T, Wingfield MJ 2021\. Two novel *Phytophthora* species from the Cape Floristic Region of South Africa. _Mycological Progress_, 20(6):755-767\. DOI: 10.1007/s11557-021-01702-y.
   + Elliott M, **Hulbert JM**, Streng D, Chastagner GA 2021\.  Multiagency collaborations help public gardens contain Phytophthora outbreaks while providing insights and opportunities for novel research. _Plant Health Progress_ (First Look). DOI: 10.1094/PHP-02-21-0045-FI.
   + Paap T, Wingfield MJ, Burgess I, **Hulbert JM**, Santini A. 2020\. Harmonising the fields of invasion science and forest pathology. _NeoBiota_ 62:301-332. DOI: 10.3897/neobiota.62.52991.
- + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_ 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
+  + **Hulbert JM**, Paap T, Burgess TI, Roets F, Wingfield MJ. 2019\. Botanical gardens provide valuable baseline _Phytophthora_ diversity data. _Urban Forestry and Urban Greening_ 46:126461\. DOI: 10.1016/j.ufug.2019.126461\.
   + Ryan SF and 41 others, 2018\. The role of citizen science in addressing grand challenges in food and agriculture research, _Proceedings of the Royal Society B_ 285(1891)\. DOI: 710.1098/rspb.2018.1977.
   + **Hulbert JM**, Agne MC, Burgess TI, Roets F, Wingfield MJ. 2017\. Urban environments provide opportunities for early detection of _Phytophthora_ invasions, _Biological Invasions_ 19:3629–3644\. DOI: 10.1007/s10530-017-1585-z.
   + Peterson E, Hansen EM, **Hulbert JM**. 2014\. Source or Sink? The role of soil and water borne inoculum in the dispersal of _Phytophthora ramorum_ in Oregon tanoak forests. _Forest Ecology and Management_, 322:48-57\. DOI: 10.1016/j.foreco.2014.02.031. 
@@ -220,10 +229,12 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
 
 ### Manuscripts in Prep
-
+  
+  + **Hulbert JM** (submitted). More mentorship needed for research co-production with marginalized communities.
+  + Brooks R, **Hulbert JM**, Omdall D, Elliott M, Chastagner GA (submitted). Sooty Bark Disease Diagnostic Guide, WSU Extension Fact Sheet.
   + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
-  + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others (invited). Citizen Science, Nature Reviews Methods Primer.
-  + **Hulbert JM** (in prep). More mentorship needed in academia for research coproduction with marginalized communities.
+  + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others (in prep). Citizen Science, Nature Reviews Methods Primer.
+  + **Hulbert JM** and others (in prep). Citizen science links environmental factors to western redcedar dieback.
 
 ## Funding and Support
 
@@ -287,6 +298,14 @@ FY2019
 <tbody>
 <tr valign="top">
 <td width="100">
+2022
+</td>
+<td width="892">
+**PI**, _Increasing Native Vigilance, Awareness and Surveillance of Invasions via Education (INVASIVE) Project_. USDA APHIS PPQ PPA Section 7721 **($87,763)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2021
 </td>
 <td width="892">
@@ -317,10 +336,18 @@ FY2019
 <tbody>
 <tr valign="top">
 <td width="100">
-2021
+2022
 </td>
 <td width="892">
-**PI**, _Community engagement to explore the microbes associated with the dieback of western redcedar_. USGS Directed Research Funding - Northwest Climate Adaptation Science Center **($226,493)**.
+**PI**, _Tacoma Sooty Bark Disease Vulnerability_. Washington State Department of Natural Resources, Community Forestry Assistance Grant **($40,000)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**Co-PI**, _Washington Nursery and Landscape Biosurveillance Education Program_. Washington State Department of Agriculture, Nursery Research Funding **($33,337)**.
 </td>
 </tr>
 <tr valign="top">
@@ -328,7 +355,7 @@ FY2019
 2021
 </td>
 <td width="892">
-**PI**, _Increasing Native Vigilance, Awareness and Surveillance of Invasions via Education (INVASIVE) Project_. USDA APHIS PPQ PPA Section 7721 **($87,763)**.
+**PI**, _Community engagement to explore the microbes associated with the dieback of western redcedar_. USGS Directed Research Funding - Northwest Climate Adaptation Science Center **($226,493)**.
 </td>
 </tr>
 <tr valign="top">
@@ -477,7 +504,15 @@ Field Guide to Fynbos (20 copies), Rapula Trust
 <tbody>
 <tr valign="top">
 <td width="100">
-2021
+2022
+</td>
+<td width="892">
+_Supporting ornamental, flower, and bulb crop productions in the Pacific Northwest through applied research_, College of Agriculture, Human and Natural Resource Sciences, Washington State University, Research and Extension Experiences for Undergraduates (REEU): Sustainable High-value Horticulture and Processing **($4,500)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
 </td>
 <td width="892">
 _Keeping trees healthy in changing environments of the Pacific Northwest_, College of Agriculture, Human and Natural Resource Sciences, Washington State University **($3,000)**.
@@ -849,6 +884,22 @@ Green River College, BAS in Forest Resource Management program, _Forest Ecology_
 ### Guest Lectures
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Washington State University, School of the Environment, Graduate class in Ecology (SOE 593) Lecture, _Western redcedar dieback and the community science approach._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Washington State University, Department of Plant Pathology, General Plant Pathology (PLP 429) Lecture, _Forest Pathology - concepts and issues in the Pacific Northwest._
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -2076,6 +2127,22 @@ Scholars Insights, Oregon State University, _It only takes one spore to start an
 <tbody>
 <tr valign="top">
 <td width="100">
+2022
+</td>
+<td width="892">
+Hilltop Heritage Middle School, Thrive Program, _Educational walk and tree identification_ (1 event), Point Defiance Park, Tacoma, Washington.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Mount Tahoma High School, Botany class _Forest Walk at Lincoln Tree Farm_, Spanaway, Washington. 
+</td>
+</tr
+<tr valign="top">
+<td width="100">
 2021
 </td>
 <td width="892">
@@ -2353,7 +2420,47 @@ Fall Discovery Days, Oregon State University.
 <tbody>
 <tr valign="top">
 <td width="100">
-2021
+2022
+</td>
+<td width="892">
+Selkirk Alliance for Science, _Community Science for western redcedar research_ (Webinar Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Washington State Department of Transportation, Revegetation Climate Change Discussions _Forest Health Watch and western redcedar dieback research_ (Webinar Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Washington State University, Washington Forest Owners' Winter School, _Sooty Bark Disease in the PNW - what to look for in your maple trees_ (Webinar Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+City of Seattle, _Sooty Bark Disease in the Pacific Northwest_, Integrated Pest Management and Recertification Webinar (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+South Sound Educators, Science Leadership Collaborative, _Linking ecology education and research with iNaturalist_ (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021-2022
 </td>
 <td width="892">
 Washington State University, _Forest Health Watch - Research Updates_, Montly (June-Dec) (Virtual Presentations).
@@ -2688,7 +2795,29 @@ South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: p
 <tbody>
 <tr valign="top">
 <td width="100">
-2021
+2022
+</td>
+<td width="131">
+Nicole Vonberckefeldt
+</td>
+<td width="576">
+Capstone Project (Senior), Natural Resources, Green River College
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="131">
+Jennifer Olson
+</td>
+<td width="576">
+Capstone Project (Senior), Natural Resources, Green River College
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
 </td>
 <td width="131">
 Lyndsay Felthoven
@@ -2699,7 +2828,7 @@ Capstone Project (Senior), Environmental Studies, University of Washington
 </tr>
 <tr valign="top">
 <td width="100">
-2021
+2022
 </td>
 <td width="131">
 Angela Mabel Gaither 
@@ -3225,6 +3354,7 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 
 * Articles
+    + Wheeler H. 2021. [Takeaways from Forest Health Watch](https://www.issaquahalps.org/articles/2021/11/19/takeaways-from-forest-health-watch), Issaquah Alps Trail Club Newsletter.
     + Editor. 2021.[Using iNaturalist to track redcedar dieback](https://wnpskoma.org/wp-content/uploads/2021/04/Spring-2021.pdf). Koma Kushan Chapter WNPS Newsletter. 
     + Truscott S. 2021 [WSU researcher engages communities in tree health research with Forest Health Watch](https://news.cahnrs.wsu.edu/wsu-researcher-engages-communities-in-tree-health-research-with-forest-health-watch/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
     + Truscott S. 2021 [WSU co-organizes first annual Pacific Northwest Citizen and Community Science Summit](https://news.cahnrs.wsu.edu/wsu-co-organizes-first-annual-pacific-northwest-citizen-and-community-science-summit/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
@@ -3261,6 +3391,14 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Guest Editor, Special Issue, Frontiers in Ecology and Evolution, *The Role of Community and Industry Surveillance in Managing Invasive Species: a Review of Current Knowledge*
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
