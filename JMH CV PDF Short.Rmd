@@ -5,12 +5,17 @@ subtitle: "Ornamental Plant Pathology,\n\nPuyallup Research and Extension Center
   \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
   USA. \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n"
 output:
-  pdf_document: default
-  html_document: null
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(knitr)
+library(rmdformats)
+options(knitr.table.format = "html")
 ```
 
 ## Academic Appointments
@@ -32,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <tbody>
 <tr valign="top">
 <td width="100">
-2015-2020 (February)
+2015-2020
 </td>
 <td width="892">
 **PhD** Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant & Soil Science, University of Pretoria, South Africa. Dissertation: _Phytophthora_ diversity in the Cape Floristic Region. Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.
@@ -67,6 +72,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## Initiatives
+### Initiatives
+<details open>
+<summary><a class="button">Hide</a></summary>
+
 <table>
 <tbody>
 <tr valign="top">
@@ -79,6 +88,14 @@ Program director, _Forest Health Watch_ ([https://foresthealth.org/](https://for
 </tr>
 <tr valign="top">
 <td width="100">
+2022-
+</td>
+<td width="892">
+Prime mover, _Open Redcedar Adaptation Network_ ([https://jmhulbert.github.io/adaptation](https://jmhulbert.github.io/adaptation)), Washington State University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2020-
 </td>
 <td width="892">
@@ -87,14 +104,216 @@ Organizer, _WSU Forestry Working Group_, Washington State University.
 </tr>
 <tr valign="top">
 <td width="100">
-2016-
+2020-
+</td>
+<td width="892">
+Organizer, [https://pnwcitsci.org/](https://pnwcitsci.org)
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016-2020
 </td>
 <td width="892">
 Project leader, _Cape Citizen Science_ ([https://citsci.co.za/](https://citsci.co.za/)), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.
 </td>
 </tr>
+<tr valign="top">
+<td width="100">
+2019-
+</td>
+<td width="892">
+Prime mover, _Forest Health Citizen Science Community_ ([https://fhcs.page/](https://fhcs.page)).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2018-2019
+</td>
+<td width="892">
+Instructor, _R for biology and ecology workshop series_ ([https://jmhulbert.github.io/r/](https://jmhulbert.github.io/r/)), two series offered at University of Pretoria and one series offered at Stellenbosch University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspiration/](http://blogs.oregonstate.edu/inspiration/)), KBVR 88.7fm, Oregon State University.
+</td>
+</tr>
 </tbody>
 </table>
+</details>
+
+### Academic Leadership
+<details open>
+<summary><a class="button">Hide</a></summary>
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Program Director, Forest Health Watch
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2020-
+</td>
+<td width="892">
+Organizer, Forestry Working Group, Washington State University
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021-
+</td>
+<td width="892">
+Member, Forest Adaptation Network
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017-2020
+</td>
+<td width="892">
+Committee Member, American Phytopathological Society, Committee for Diversity and Equality
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2017-2020
+</td>
+<td width="892">
+Committee Member, American Phytopathological Society, Forest Pathology Committee
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2016-
+</td>
+<td width="892">
+Founder and Project Leader, Cape Citizen Science
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2015
+</td>
+<td width="892">
+Coordinator, University of Pretoria Invasive Species Journal Club
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+Founder and Director, Botany and Plant Pathology BUDS Program
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2014
+</td>
+<td width="892">
+Planning Committee Member, Western Forestry Graduate Research Symposium
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013-2014
+</td>
+<td width="892">
+President, Botany and Plant Pathology Graduate Student Association
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013-2014
+</td>
+<td width="892">
+Co-Founder and Director, Forest Graduate Undergraduate Mentorship Program
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Planning Committee Member, Western Forestry Graduate Research Symposium
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Planning Committee Member, College of Forestry Graduate Student Orientation
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2013
+</td>
+<td width="892">
+Organizer, Natural Science Graduate Student BBQ
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Co-host, Inspiration Dissemination
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Officer, College of Forestry Graduate Student Council
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Wood Science Steward, Coalition of Graduate Employees
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Graduate Representative, Dept. of Wood Science and Engineering
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012-2014
+</td>
+<td width="892">
+Committee Member, Wood Science and Engineering Graduate Affairs
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2012
+</td>
+<td width="892">
+Organizer, Natural Science Graduate Student BBQ
+</td>
+</tr>
+</tbody>
+</table>
+</details>
 
 ## Publications 
 <table>
@@ -123,3 +342,6 @@ In prep, review or revision
 5
 </td>
 </tr>
+
+
+
