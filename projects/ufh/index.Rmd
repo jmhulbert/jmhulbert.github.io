@@ -1,21 +1,16 @@
 ---
-title: "Forest Health Watch"
+title: "Urban Forest Health Research Lab"
 author: "Joey Hulbert"
 date: "3/24/2022"
 output: html_document
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r include=FALSE}
-setwd("~/ServerFiles/jmhulbert.github.io")
-```
 
-
-![tree planting](~/ServerFiles/jmhulbert.github.io/files/pictures/Tree_Planting_Banner_low.jpeg)
+![tree planting](~/ServerFiles/jmhulbert.github.io/files/pictures/urban_redcedar_banner_low.jpg)
 
 # Introduction
 
