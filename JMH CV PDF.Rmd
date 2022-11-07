@@ -23,6 +23,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <tbody>
 <tr valign="top">
 <td width="100">
+2022-2023
+</td>
+<td width="892">
+**Postdoctoral Research Associate**, WSU Puyallup Research and Extension Center, Washington State University.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2020-2022
 </td>
 <td width="892">
@@ -102,7 +110,7 @@ Organizer, _WSU Forestry Working Group_, Washington State University.
 2020-
 </td>
 <td width="892">
-Organizer, [https://pnwcitsci.org/](https://pnwcitsci.org)
+Organizer, _Pacific Northwest Citizen Science Network_ [https://pnwcitsci.org/](https://pnwcitsci.org)
 </td>
 </tr>
 <tr valign="top">
@@ -200,7 +208,7 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 
 ## Publications 
 ### Peer-Reviewed
-  
+  + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others 2022. Citizen Science in environmental and ecological sciences, Nature Review Methods Primers 2, 64. DOI: 10.1038/s43586-022-00144-4.
   + Engelbrecht J, Duong TA, Paap T, **Hulbert JM**, Hanneman JJ, van den Berg N 2022 \. Population genetic analyses of *Phytophthora cinnamomi* reveals three lineages and movement between natural vegetation and avocado orchards in South Africa. Phytopathology. DOI: 10.1094/PHYTO-10-21-0414-R
   + Bose TB, **Hulbert JM**, Burgess TI, Paap T, Wingfield MJ 2021\. Two novel *Phytophthora* species from the Cape Floristic Region of South Africa. _Mycological Progress_, 20(6):755-767\. DOI: 10.1007/s11557-021-01702-y.
   + Elliott M, **Hulbert JM**, Streng D, Chastagner GA 2021\.  Multiagency collaborations help public gardens contain Phytophthora outbreaks while providing insights and opportunities for novel research. _Plant Health Progress_. DOI: 10.1094/PHP-02-21-0045-FI.
@@ -229,12 +237,13 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
 
 ### Manuscripts in Prep
-  
+
   + **Hulbert JM** (submitted). More mentorship needed for research co-production with marginalized communities.
   + Brooks R, **Hulbert JM**, Omdall D, Elliott M, Chastagner GA (submitted). Sooty Bark Disease Diagnostic Guide, WSU Extension Fact Sheet.
-  + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can add value to forest pest and pathogen management frameworks.
-  + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others (in prep). Citizen Science, Nature Reviews Methods Primer.
+  + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can enhance forest pest and pathogen management strategies.
   + **Hulbert JM** and others (in prep). Citizen science links environmental factors to western redcedar dieback.
+  + Arte H, White E, Felthoven L, Gaither A, Billo T, McDonald S, **Hulbert JM** (Manuscript in Prep). Western redcedar dieback is associated with urban heat in King County Washington.
+
 
 ## Funding and Support
 
@@ -257,6 +266,14 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022-2023
+</td>
+<td width="892">
+**PI**, _Visualizing western redcedar vulnerability and demonstrating assisted seed migration as an approach for climate adaptation_. USGS Northwest Climate Adaptation Science Center Research Fellowship Program **($65,069)**.
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2020-2021
@@ -301,7 +318,15 @@ FY2019
 2022
 </td>
 <td width="892">
-**PI**, _Increasing Native Vigilance, Awareness and Surveillance of Invasions via Education (INVASIVE) Project_. USDA APHIS PPQ PPA Section 7721 **($87,763)**.
+**PI**, _Tacoma Sooty Bark Disease Vulnerability_. Washington State Department of Natural Resources, Community Forestry Assistance Grant **($40,000)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**PI**, _Increasing Native Vigilance, Awareness and Surveillance of Invasions via Education (INVASIVE) Project_. USDA APHIS PPQ PPA Section 7721 **($77,763)**.
 </td>
 </tr>
 <tr valign="top">
@@ -334,12 +359,30 @@ FY2019
 ### Submitted Research Grants
 <table>
 <tbody>
+<table>
+<tbody>
 <tr valign="top">
 <td width="100">
 2022
 </td>
 <td width="892">
-**PI**, _Tacoma Sooty Bark Disease Vulnerability_. Washington State Department of Natural Resources, Community Forestry Assistance Grant **($40,000)**.
+**Co-PI**, _Detecting biological invasions with sentinel plantings at ports and urban points of dispersal in Washington State_. USDA Forest Service, International Programs **($205,071)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**PI**, _Increasing Native Vigilance, Awareness and Surveillance of Invasions via Education and Resources (INVASIVE-R) Project (Year Two)_. USDA APHIS PPQ PPA Section 7721 **($89,403)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**Co-PI**, _Schools as oases in urban heat islands: addressing urban forest equity through school and community partnerships and research_. National Science Foundation, Civic Innovation Challenge **($48,653)**.
 </td>
 </tr>
 <tr valign="top">
@@ -380,6 +423,29 @@ FY2019
 </td>
 <td width="892">
 **PI**, _Forest Health Defenders: Public engagement to conserve the western redcedar_. USDA Forest Service Citizen Science Competitive Funding Program Application **($30,000)**.  
+</td>
+</tr>
+</tbody>
+</table>
+
+### Foundation Grants and Gifts Received
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**PI** _Minimizing Human Health Risks and Urban Tree Infections from Sooty Bark Disease_, Tree Research and Education Endowment Fund, John Z. Duling Grant **($24,942 - Submitted)**.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**PI** _Ravenholt Urban Forest Health Lab_, Albert Victor Ravenholt Fund **($270,000)**.
 </td>
 </tr>
 </tbody>
@@ -889,6 +955,14 @@ Green River College, BAS in Forest Resource Management program, _Forest Ecology_
 2022
 </td>
 <td width="892">
+Green River College, Forest Resource Management, Forest Ecology, On-Campus Lab instruction, _Western redcedar dieback and Sooty Bark Disease issues on Green River Campus._
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
 Washington State University, School of the Environment, Graduate class in Ecology (SOE 593) Lecture, _Western redcedar dieback and the community science approach._
 </td>
 </tr>
@@ -1051,14 +1125,13 @@ Stellenbosch University, Dept. of Conservation Ecology & Entomology, _RStudio an
   + Urban Forestry and Climate Change
   + Invasion / Disturbance Ecology
   + Forest Health and Protection
+  + Forest Pathology
   + General Plant Pathology / Biology
   + Science Communication / Grant Writing
   + Interactive Data Visualization
-  + General Applied Ecological Statistics
   + Introduction to GIS
 
-
-## Webinar, Conference Organization & Panels Served 
+## Webinar, Workshop, Conference Organization & Panels Served 
 
 ### Webinar Organization
 
@@ -1099,10 +1172,41 @@ Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Memb
 </tbody>
 </table>
 
+### Workshop Organization
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Pacific Education Institute, Urban Forestry Solutions Oriented Storylines, Almendinger Conference Center, WSU Puyallup Research and Extension Center, Puyallup, Washington.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Washington Invasive Species Council & Washington State University, Invasive Species Preparedness Resources for Tribal Nations Workshop, Almendinger Conference Center, WSU Puyallup Research and Extension Center, Puyallup, Washington.
+</td>
+</tr>
+</tbody>
+</table>
+
 ### Conference Organization
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Session Chair, Collaboration and Community Science, Human-Nature Systems, Salish Sea Ecosystem Conference. Online Conference, Zoom.
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -1192,6 +1296,38 @@ _Maximizing your graduate education_, new student orientation panel, Graduate Sc
 \  
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**Hulbert JM**, Are Oomycetes associated with the dieback of western redcedar?, 10th Meeting of the International Union of Forest Resaerch Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**Hulbert JM**, Forest Health Watch: empowering communities to keep trees healthy, 10th Meeting of the International Union of Forest Resaerch Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**Hulbert JM**, Community engagement to accelerate research and learning about the dieback of western redcedar. Salish Sea Ecosystem Conference. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+**Hulbert JM**, Community engagement can accelerate research about urban forest health issues. Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Portland Oregon. (Virtual Presentation).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2021
@@ -1679,42 +1815,10 @@ Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Ser
 <tbody>
 <tr valign="top">
 <td width="100">
-2021
+2022
 </td>
 <td width="892">
-Washington Native Plant Society, Koma Kushan Chapter, _Community scientists needed for Western redcedar dieback in Pacific Northwest_. (Virtual Presentation).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Issaquah Alps Trail Club, _Community scientists needed for Western redcedar dieback in Pacific Northwest_. (Virtual Presentation).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Idaho Native Plant Society, Kinnikinnick Chapter, _Community scientists needed for Western redcedar dieback in Inland Northwest_. (Virtual Presentation).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Idaho Native Plant Society, White Pine Chapter, _Community scientists needed for Western redcedar dieback in Inland Northwest_. (Virtual Presentation).
-</td>
-</tr>
-<tr valign="top">
-<td width="100">
-2021
-</td>
-<td width="892">
-Montana Native Plant Society, Flathead and Kelsey chapters _Community scientists needed for research about western redcedar dieback_ (Virtual Presentation).
+Northwest Indian Fisheries Commission, USDA Animal and PLant Health Inspection Service, Emergency Prepardness Response Management Training, _USDA APHIS INVASIVE Project Introduction_.
 </td>
 </tr>
 <tr valign="top">
@@ -2024,6 +2128,14 @@ Oregon State University, College of Forestry, Researcher Teacher Partnerships: M
 <tbody>
 <tr valign="top">
 <td width="100">
+2022
+</td>
+<td width="892">
+Washington State University, WSU Forestry Webinar, Western Redcedar Diebak Webinar [_Community science to advance knowledge and learning about western redcedar dieback_](https://www.youtube.com/watch?v=reWd-pzg1qA) (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
 2021
 </td>
 <td width="892">
@@ -2125,6 +2237,22 @@ Scholars Insights, Oregon State University, _It only takes one spore to start an
 ### Youth Engagement Activities
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Northwest Youth Corps, Capitol Land Trust, Inspiring Kids Preserve, _Forest Health and Invasive Species walk_ 
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Muckleshoot Tomanamus Forest, Muckleshoot Tribal College - Early College Program and College and Career Education Opportunities Program, _Invasive Species_ (1 event).
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2022
@@ -2327,9 +2455,27 @@ Wood Magic Volunteer, _Forest products in everyday materials_, World Forestry In
 </tr>
 </tbody>
 </table>
+
 ### Promotional Table Events
+
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+_Forest Health Watch_, South Sound Sustainability Fair, Tacoma, Washington.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+_Forest Health Watch_, Tacoma Tree Foundation, Hilltop Tree Giveaway, Tacoma, Washington.
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2018
@@ -2423,6 +2569,30 @@ Fall Discovery Days, Oregon State University.
 2022
 </td>
 <td width="892">
+WSU Master Gardeners, Lewis County Chapter, _Community science to study the dieback of western redcedar_.
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Washington State University, Master Naturalist Programming, _Community science to study the dieback of western redcedar_. (Two Virtual Presentations).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Washington Native Plant Society, Koma Kushan Chapter, _Community scientists needed for Western redcedar dieback in Pacific Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
 Selkirk Alliance for Science, _Community Science for western redcedar research_ (Webinar Presentation).
 </td>
 </tr>
@@ -2464,6 +2634,30 @@ South Sound Educators, Science Leadership Collaborative, _Linking ecology educat
 </td>
 <td width="892">
 Washington State University, _Forest Health Watch - Research Updates_, Montly (June-Dec) (Virtual Presentations).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Issaquah Alps Trail Club, _Community scientists needed for Western redcedar dieback in Pacific Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Idaho Native Plant Society, Kinnikinnick Chapter, _Community scientists needed for Western redcedar dieback in Inland Northwest_. (Virtual Presentation).
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2021
+</td>
+<td width="892">
+Idaho Native Plant Society, White Pine Chapter, _Community scientists needed for Western redcedar dieback in Inland Northwest_. (Virtual Presentation).
 </td>
 </tr>
 <tr valign="top">
@@ -2798,6 +2992,39 @@ South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: p
 2022
 </td>
 <td width="131">
+Hibaaq Arte
+</td>
+<td width="576">
+Capstone Project (Senior), Environmental Studies, University of Washington
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="131">
+Daviti Vardishvili
+</td>
+<td width="576">
+Internship Project (Junior), High-Value Agriculture Research and Extension Experiences for Undergraduate Students (REEU) Program, Washington State University
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="131">
+Grant Irey
+</td>
+<td width="576">
+Internship Project (Freshmen), College of Agricultural, Human, and Natural Resource Sciences Internship Program, Washington State University
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="131">
 Nicole Vonberckefeldt
 </td>
 <td width="576">
@@ -3041,8 +3268,12 @@ BSc Forest Engineering, Personal Initiative.
 
 ## Mentorship Outcomes
 
-
-
+ + Arte H, White E, Felthoven L, Gaither A, Billo T, McDonald S, **Hulbert JM** (Manuscript in Prep). Western redcedar dieback is associated with urban heat in King County Washington.
+  + Olson J, Vonberckefeldt N, **Hulbert JM** 2022. Oomycete communities associated with redcedar on Green River College campus, Green River College Capstone Presentation.
+  + Vardishvili D, Shrader K, Harvey S, **Hulbert J**, Chastagner G. 2022. Post-harvest hydration treatment effects on the vase life of Peonie, Washington State University, Summer Undergraduate Research Symposium. (Poster Presentation.) 
+  + Gaither A, Billo T, **Hulbert JM** 2022. Redcedar dieback and urban heat in Renton, Environmental Studies Capstone Project Presentations, University of Washington. Poster Presentation. 
+  + Felthoven L, Billo T, **Hulbert JM** 2022. Redcedar dieback and environmental health disparities in Seattle, Environmental Studies Capstone Project Presentations, University of Washington. Oral Presentation. 
+  + Laia B, Dilow H, **Hulbert J** 2021. Phytophthora species associated with unhealthy red alder trees at Titlow Park, Bellarmine Prepatory Highschool Science Fair.
   + Basel A, **Hulbert JM**, Midgley G, Jacobs S, Dreyer L, Roets F. 2018\. Disease or drought? A physiological analysis on the effects of _Phytophthora_ infection and water stress on _Leucadendron argenteum_, Fynbos Forum, Worcestor, South Africa. Oral Presentation.
   + Groenewald J, Roets F, **Hulbert JM.** 2017\. _Phytophthora cinnamomi_: a driver behind endangered flora in the CFR?, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Poster Presentation.
   + Louw NL, Roets F, **Hulbert JM.** 2017\. The diminishing silver lining: re-evaluating the microscopic threats to South Africa's silver tree, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
@@ -3351,31 +3582,33 @@ Forest Graduate Undergraduate Mentorship Program, Drupal (gump.forestry.oregonst
 
 ## Selected Media Coverage
 
-
-
-* Articles
-    + Wheeler H. 2021. [Takeaways from Forest Health Watch](https://www.issaquahalps.org/articles/2021/11/19/takeaways-from-forest-health-watch), Issaquah Alps Trail Club Newsletter.
-    + Editor. 2021.[Using iNaturalist to track redcedar dieback](https://wnpskoma.org/wp-content/uploads/2021/04/Spring-2021.pdf). Koma Kushan Chapter WNPS Newsletter. 
-    + Truscott S. 2021 [WSU researcher engages communities in tree health research with Forest Health Watch](https://news.cahnrs.wsu.edu/wsu-researcher-engages-communities-in-tree-health-research-with-forest-health-watch/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
-    + Truscott S. 2021 [WSU co-organizes first annual Pacific Northwest Citizen and Community Science Summit](https://news.cahnrs.wsu.edu/wsu-co-organizes-first-annual-pacific-northwest-citizen-and-community-science-summit/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
-    + Editor. 2021. [Comox Valley Nature lecture discusses western redcedar tree health](https://www.comoxvalleyrecord.com/community/comox-valley-nature-lecture-discusses-western-redcedar-dieback/), Comox Valley Record, newspaper.
-    + Kempe Y. 2021. [An iconic tree is dying off in Whatcom — what’s causing it and how can you help save it?](https://www.bellinghamherald.com/news/local/article253989778.html#storylink=mainstage_lead), Bellingham Herald, Bellingham.
-    + Extoque R. 2021. [The Unlikely Partnership Supporting South Seattle Youth Through Forest Science](https://southseattleemerald.com/2021/09/04/the-unlikely-partnership-supporting-south-seattle-youth-through-forest-science/#more-74007), South Sound Emerald, Seattle, digital newspaper.
-    + Dunne N. 2021\. Mapping Cedar Dieback, University of Washington, Arboretum Bulletin, Washington. 
-    + Inghram I. 2021\. Citizen scientists study western redcedars, Anacortes newspaper, Washington. 
-    + Peterson C. 2021. Help needed to assist dying western redcedars. Hungry Horse News and Whitefish Pilot, Montana.
-    + Truscott S. 2021\. Citizen scientists can help study, halt die-off of Pacific Northwest’s redcedars,College of Agricultural, Human and Natural Resource Science, Washington State University, online article. 
-    + Media and Communication 2018\. Getting citizen science into South African classrooms, University of Stellenbosch, online article.
-    + de Bruin L. 2018\. Be part of the Cape Town hypothesis test, University of Pretoria homepage, online article.
-    + Duvenage E. 2017\. Jy kan PhD-student help met grondmonsters, Die Burger, newspaper article.
-    + Burt B. 2017\. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, online article.
-    + Duvenage E. 2017\. Citizen science crowdfunding project pays off, SciBraai, online article.
-    + Brits E. 2016\. 'Publiek kan help om fynbos te red, Netwerk 24, newspaper article.
-    + Heyl A. 2016\. Join the hunt for pathogens in the fynbos, UP News, online article.
-    + Editor. 2016\. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, newspaper article.
-    + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
+  + Nathan Gilles. 2022. [Pac NW's 'trees of live' are dying. Now we know why](https://columbiainsight.org/pac-nws-trees-of-life-are-dying-now-we-know-why/), Columbia Insight, Online Article.
+  + Craig Sailor. 2022. [Another tree disease has appeared in Pierce County, and this one can injure people, too](https://www.thenewstribune.com/news/local/article263269698.html?ac_cid=DM671103&ac_bid=446512792), The News Tribune, Tacoma Washington. Newspaper article. 
+  + Pacific Education Institute. 2022. [PEI's Urban Forestry SOLS inspire PSESD teachers to explore forests with students](https://www.climetime.org/peis-urban-forestry-sols-inspire-psesd-teachers-to-explore-forests-with-students/), online article. 
+  + Truscott S. 2022. [Tacoma tree planting helps young scientists learn how redcedar can survive changing climates](https://news.wsu.edu/news/2022/03/16/tacoma-tree-planting-helps-young-scientists-learn-how-redcedars-can-survive-changing-climate/), College of Agriculture, Human and Natural Resource Science, Washington State University. Online Article.
+  + Wheeler H. 2021. [Takeaways from Forest Health Watch](https://www.issaquahalps.org/articles/2021/11/19/takeaways-from-forest-health-watch), Issaquah Alps Trail Club Newsletter.
+  + Editor. 2021.[Using iNaturalist to track redcedar dieback](https://wnpskoma.org/wp-content/uploads/2021/04/Spring-2021.pdf). Koma Kushan Chapter WNPS Newsletter. 
+  + Truscott S. 2021 [WSU researcher engages communities in tree health research with Forest Health Watch](https://news.cahnrs.wsu.edu/wsu-researcher-engages-communities-in-tree-health-research-with-forest-health-watch/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
+  + Truscott S. 2021 [WSU co-organizes first annual Pacific Northwest Citizen and Community Science Summit](https://news.cahnrs.wsu.edu/wsu-co-organizes-first-annual-pacific-northwest-citizen-and-community-science-summit/), College of Agricultural, Human and Natural Resource Science, Washington State University, online article.
+  + Editor. 2021. [Comox Valley Nature lecture discusses western redcedar tree health](https://www.comoxvalleyrecord.com/community/comox-valley-nature-lecture-discusses-western-redcedar-dieback/), Comox Valley Record, newspaper.
+  + Kempe Y. 2021. [An iconic tree is dying off in Whatcom — what’s causing it and how can you help save it?](https://www.bellinghamherald.com/news/local/article253989778.html#storylink=mainstage_lead), Bellingham Herald, Bellingham.
+  + Extoque R. 2021. [The Unlikely Partnership Supporting South Seattle Youth Through Forest Science](https://southseattleemerald.com/2021/09/04/the-unlikely-partnership-supporting-south-seattle-youth-through-forest-science/#more-74007), South Sound Emerald, Seattle, digital newspaper.
+  + Dunne N. 2021\. Mapping Cedar Dieback, University of Washington, Arboretum Bulletin, Washington. 
+  + Inghram I. 2021\. Citizen scientists study western redcedars, Anacortes newspaper, Washington. 
+  +  Peterson C. 2021. Help needed to assist dying western redcedars. Hungry Horse News and Whitefish Pilot, Montana.
+  + Truscott S. 2021\. Citizen scientists can help study, halt die-off of Pacific Northwest’s redcedars,College of Agricultural, Human and Natural Resource Science, Washington State University, online article. 
+  + Media and Communication 2018\. Getting citizen science into South African classrooms, University of Stellenbosch, online article.
+  + de Bruin L. 2018\. Be part of the Cape Town hypothesis test, University of Pretoria homepage, online article.
+  + Duvenage E. 2017\. Jy kan PhD-student help met grondmonsters, Die Burger, newspaper article.
+  + Burt B. 2017\. Citizen scientists around the world take to the woods in an effort to improve the health of forests, IUFRO Spotlight # 49, online article.
+  + Duvenage E. 2017\. Citizen science crowdfunding project pays off, SciBraai, online article.
+  + Brits E. 2016\. 'Publiek kan help om fynbos te red, Netwerk 24, newspaper article.
+  + Heyl A. 2016\. Join the hunt for pathogens in the fynbos, UP News, online article.
+  + Editor. 2016\. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, newspaper article.
+  + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
 
 * Radio Interviews
+    + NPR KNKX 88.5 Tacoma Washington, Sooty bark disease vulnerability study, July 12, 2022.
     + KBCS 91.3 Bellevue Washington, [The Redlined Western Redcedar Study Project](https://www.kbcs.fm/2021/11/18/the-redlined-western-red-cedar-study-project/), November 18, 2021.
     + [treehugger podcast](https://www.treehuggerpod.com/), Forest health and climate change (in production)
     + [treehugger podcast](https://www.treehuggerpod.com/), Madrones! with Arbutus ARME, January, 2021.

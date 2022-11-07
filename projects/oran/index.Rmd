@@ -1,0 +1,26 @@
+---
+title: "Open Redcedar Adaptation Network"
+author: "Joey Hulbert"
+date: "3/24/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Open Redcedar Adaptation Network, Swan Creek Planting](./pictures/swan_creek_planting_banner.jpg)
+
+# Project Status: in progress
+
+
+# Introduction
+
+
+# Purpose
+
+# Approach
+
+# Impact
+
+# Needs

@@ -10,12 +10,10 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r include=FALSE}
-setwd("~/ServerFiles/jmhulbert.github.io")
-```
 
-
-![tree planting](~/ServerFiles/jmhulbert.github.io/files/pictures/Tree_Planting_Banner_low.jpeg)
+![tree planting](./pictures/Tree_Planting_Banner_low.jpeg)
+# Project Status
+ 
 
 # Introduction
 

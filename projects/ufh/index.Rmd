@@ -10,7 +10,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![tree planting](~/ServerFiles/jmhulbert.github.io/files/pictures/urban_redcedar_banner_low.jpg)
+![unhealthy redcedar](./pictures/urban_redcedar_banner_low.jpg)
+
+# Project Status
 
 # Introduction
 
