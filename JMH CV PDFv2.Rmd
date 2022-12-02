@@ -84,10 +84,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Manuscripts in Prep
 
   + **Hulbert JM** (submitted). More mentorship needed for research co-production with marginalized communities.
-  + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (in prep). Citizen science can enhance forest pest and pathogen management strategies.
+  + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (submitted). Citizen science can enhance forest pest and pathogen management strategies.
   + Lanning K, Kline N, Elliott M, Stamm E, Warnick T, LeBoldus J, Garbelotto M, Chastagner G, **Hulbert JM** (in prep). Citizen science can add value to _Phytophthora_ monitoring: five case studies from western North America. 
   + Zobrist KW, Bomberger RA, Marquis J, Glass J, Murray T, **Hulbert JM** (in prep). What you need to know about the risks of emerald ash borer in Washington, Extension Fact Sheet.
-  + **Hulbert JM** and others (in prep). Citizen science links environmental factors to western redcedar dieback.
+  + **Hulbert JM** and others (in prep). Citizen science reveals important environmental factors in the western redcedar dieback.
   + Arte H, White E, Felthoven L, Gaither A, Billo T, McDonald S, **Hulbert JM** (Manuscript in Prep). Western redcedar dieback is associated with urban heat in King County Washington.
 
 ### Community Science Field Guides
@@ -303,6 +303,7 @@ knitr::opts_chunk$set(echo = FALSE)
 #### North American Conferences
 \  
 
++ 2022 **Hulbert JM** Sooty Bark Disease - Climate Change Time Bomb in the Pacific Northwest, Partners in Community Forestry, Seattle Washington.
 + 2022 **Hulbert JM** History of PNW CitSci and the Citizen Science Community, Pacific Northwest Citizen and Community Science Summit (Virtual Presentation). 
 + 2022 **Hulbert JM** Sooty Bark Disease: Diagnostics & Research in the Pacific Northwest Pacific Northwest International Society of Arboriculture Meeting, Coure D'Alene, Idaho.
 + 2022 **Hulbert JM**, Are Oomycetes associated with the dieback of western redcedar?, 10th Meeting of the International Union of Forest Research Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
