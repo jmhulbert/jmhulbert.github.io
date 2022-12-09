@@ -297,6 +297,8 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 <details open>
 <summary><a class="button">Hide</a></summary>
 
+  + **Hulbert JM**, Hallett RA, Roy HE, Cleary M. (submitted). Citizen science can enhance forest pest and pathogen management strategies.
+  + **Hulbert JM** (submitted). More mentorship needed for research co-production with marginalized communities.
   + **Hulbert JM**, Roets F, Burgess T, Paap T, Wingfield M. (under revision). Citizen science can enhance biosecurity in developing economies.
    + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
   + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree ( _Leucadendron argenteum_).
@@ -307,8 +309,6 @@ Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
 <details open>
 <summary><a class="button">Hide</a></summary>
 
-  + **Hulbert JM** (submitted). More mentorship needed for research co-production with marginalized communities.
-  + **Hulbert JM**, Cleary M, Hallett RA, Roy HE and others (submitted). Citizen science can enhance forest pest and pathogen management strategies.
   + Lanning K, Kline N, Elliott M, Stamm E, Warnick T, LeBoldus J, Garbelotto M, Chastagner G, **Hulbert JM** (in prep). Citizen science can add value to _Phytophthora_ monitoring: five case studies from western North America. 
    + Zobrist KW, Bomberger RA, Marquis J, Glass J, Murray T, **Hulbert JM** (in prep). What you need to know about the risks of emerald ash borer in Washington, Extension Fact Sheet.
   + **Hulbert JM** and others (in prep). Citizen science reveals important environmental factors in western redcedar dieback.
@@ -1021,6 +1021,14 @@ Organizer, Natural Science Graduate Student BBQ
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="892">
+Washington State University, Plant Pathology (PLP 429) _Forest Pathology - Tree health issues in the Pacific Northwest._
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2022
@@ -3412,6 +3420,28 @@ South Africa National Biodiversity Institute, _Introduction to_ Phytophthora_: p
 
 <table>
 <tbody>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="131">
+Noah Willards
+</td>
+<td width="576">
+Part-time Lab Technician and prospective graduate student
+</td>
+</tr>
+<tr valign="top">
+<td width="100">
+2022
+</td>
+<td width="131">
+Fig Dewitz
+</td>
+<td width="576">
+Part-time Field and Lab Technician
+</td>
+</tr>
 <tr valign="top">
 <td width="100">
 2022
