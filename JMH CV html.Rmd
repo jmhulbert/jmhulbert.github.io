@@ -1,22 +1,37 @@
 ---
 title: "Joseph (Joey) Michael Hulbert"
 date: "CV Updated: `r format(Sys.time(), '%d %B, %Y')`"
-subtitle: "Ravenholt Urban Forest Health Lab,\n\nPuyallup Research and Extension Center,
-  \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
-  USA. \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n"
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '5'
   html_document:
+    css: style.css
     toc: yes
-    toc_depth: 5
+    toc_depth: 3
     toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+<table>
+<tbody>
+<tr valign="top">
+<td width="450">
+[Ravenholt Urban Forest Health Lab](https://treehealth.wsu.edu/),<br>
+Puyallup Research and Extension Center,  
+Dept. of Plant Pathology, Washington State University,  
+2606 West Pioneer, Puyallup, WA, 98371-4998 USA.
+</td>
+<td width="442">
+[https://jmhulbert.github.io](https://jmhulbert.github.io)  
+1-541-908-5129  
+[hulbe@wsu.edu](mailto:hulbe@wsu.edu)  
+[Curriculum Vitae PDF](https://jmhulbert.github.io/JMH-CV-PDFv2.pdf)
+</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Academic Appointments
 
@@ -348,7 +363,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Presentations
 
-### North American Conferences
+#### North American Conferences
 
 + 2023 **Hulbert JM**, Community engagement, Oomycetes and western redcedar dieback, American Phytopathological Society annual conference, Denver, Colorado. 
 + 2023 **Hulbert JM**, Community engagement for healthy forests, Western International Forest Disease Work Conference, Sonoma, California.
@@ -379,7 +394,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + 2011 Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch death? Larch susceptibility to _Phytophthora ramorum_. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.
 \  
 
-### International Conferences
+#### International Conferences
 
 + 2022 **Hulbert JM**. Citizen science approaches: mass participation or structured monitoring of invasive species.  International Plant Health Conference, London. [Recorded presentation](https://youtu.be/bvxTDj1ozZs). 
 + 2019 **Hulbert JM**. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
@@ -392,7 +407,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + 2012 Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO _Phytophthora_ in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).
 \  
 
-### South African Conferences
+#### South African Conferences
 
 + 2018 **Hulbert JM**. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation.
 + 2017 **Hulbert JM**, Roets FR. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
@@ -404,7 +419,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + 2015 **Hulbert JM**. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management_, Stellenbosch, South Africa. Oral Presentation.
 \ 
 
-### Symposia
+#### Symposia
 
 + 2022 University of Washington Urban Forest Symposium. _Western redcedar trees as cultural resources in urban environments_. Pre-recorded presentation.
 + 2022 Washington State University Research Week, _Engaging community scientists in research about tree health and urban heat islands_. Virtual Presentation.
@@ -422,7 +437,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + 2013 Oregon State University, College of Forestry, Western Forestry Graduate Research Symposium, _Chemical treatments to sanitize_ Phytophthora ramorum _colonized timber material and mitigate the risk of artificial Sudden Oak Death dissemination._
 \ 
 
-### Seminars and Lab Meetings
+#### Seminars and Lab Meetings
 
 + 2023 Washington State University, Department of Plant Pathology Fall Seminar Series, _Citizen science and biosecurity- opportunities for plant disease monitoring and research_
 + 2022 Washington State University, Department of Plant Pathology Fall Seminar Series, _Research needs for mitigating the emergence of sooty bark disease in the Pacific Northwest_ (Virtual Presentation).
@@ -442,7 +457,7 @@ knitr::opts_chunk$set(echo = FALSE)
 + 2013 Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Series, _Using wood science to mitigate the impact of Sudden Oak Death_.
 \  
 
-### Invited Talks
+#### Invited Talks
 
 + 2022 Washington Community Forestry Council Meeting, _Urban Forestry Programming at WSU_ (Virtual Presentation).
 + 2022 Northwest Indian Fisheries Commission, USDA Animal and PLant Health Inspection Service, Emergency Preparedness Response Management Training, _USDA APHIS INVASIVE Project Introduction_.
@@ -484,18 +499,18 @@ knitr::opts_chunk$set(echo = FALSE)
 + 2014 Oregon State University, College of Forestry, Researcher Teacher Partnerships: Making global climate change relevant in the classroom, Spring Workshop, _Invasive Species: Service Learning Opportunities for K-12._
 + 2014 Oregon State University, College of Forestry, Researcher Teacher Partnerships: Making global climate change relevant in the classroom, Spring Workshop, _Inspiring Science as Graduate Students._
 
-### Competitive Presentations
-#### Travel Awards
+#### Competitive Presentations
+##### Travel Awards
 
 + 2020 Washington State University, Innovation and Research Engagement Office, Research Week, _Washington State Forest Health and Climate Change Research Cooperative._
 
-#### Science Communication
+##### Science Communication
 
 + 2013 Scholars Insights, Oregon State University, _It only takes one spore to start an epidemic._
 
 ## Public Engagement
 
-### Public Presentations
+#### Public Presentations
 
 
 + 2022 Forest Health Watch, Tacoma Community Science Introduction (Virtual Presentation).
