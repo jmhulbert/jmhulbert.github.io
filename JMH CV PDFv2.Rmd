@@ -118,7 +118,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Total Funding Secured as Postdoc (2020- )**
 
-+ Funding awarded at WSU:	**$2,918,200** ($2,582,064 as PI)
++ Funding awarded at WSU:	**$2,918,200**
++ Funding awarded as PI: **$2,582,064**
 + Funding pending: **$88,221**
 + Funding applied for at WSU: **$4,682,978**
 
