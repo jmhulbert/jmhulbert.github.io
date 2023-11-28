@@ -11,6 +11,9 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+## NOTE you need to copy paste from CV document into area below table 
+
 ```
 
 <table>
@@ -69,11 +72,12 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Publications 
 ### Book Chapters
-  + Liebhold A, Moltzen B, Juzwik J, **Hulbert JM**, (submitted) Forest tree pathogen biosecurity. USFS National Forest Health Assessment Chapter 6. 
+  + Liebhold A, Moltzen B, Juzwik J, **Hulbert JM**, (submitted) Forest tree pathogen biosecurity. USFS National Forest Health Assessment Chapter 6.
+  + Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, **Hulbert JM**, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019\. ‘Biodiversity provides opportunities for citizen science’ chapter in _National Biodiversity Assessment 2018: Compendium of Benefits of Biodiversity_. South African National Biodiversity Institute, Pretoria. hdl.handle.net/20.500.12143/6491
 
 ### Peer-Reviewed Manuscripts
-  + Brooks R, Omdall D, **Hulbert JM**, Brown S, Marshall JC, Elliott M, Chastagner GA. 2023. _Cryptostroma corticale_, the causal agent of sooty bark disease of maple, appears widespread in western Washington State, USA. _Forest Pathology_ (accepted).
-  + Andrus et al. 2023. Canary in the Forest? – Tree mortality and canopy dieback of western redcedar linked to drier and warmer summers. _Journal of Biogeography_ JBI-23-0212.R1 (in press). ([pre-print @ BioRx](https://www.biorxiv.org/content/10.1101/2023.01.11.522134v1.full.pdf))
+  + Brooks R, Omdall D, **Hulbert JM**, Brown S, Marshall JC, Elliott M, Chastagner GA. 2023. [_Cryptostroma corticale_, the causal agent of sooty bark disease of maple, appears widespread in western Washington State](https://onlinelibrary.wiley.com/doi/10.1111/efp.12835), USA. _Forest Pathology_. Online Early View e12835.
+  + Andrus et al. 2023. [Canary in the Forest? – Tree mortality and canopy dieback of western redcedar linked to drier and warmer summers](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jbi.14732). _Journal of Biogeography_ JBI-23-0212.R1.
   + **Hulbert JM**, Hallett RA, Roy HE, Cleary M 2023. [Citizen science can enhance strategies to detect and manage invasive forest pests and pathogens](https://www.frontiersin.org/articles/10.3389/fevo.2023.1113978/full), _Frontiers in Ecology and Evolution_ 11. DOI: 10.3389/fevo.2023.1113978.
   + Lanning KK, Kline N, Elliott M, Stamm E, Warnick T, LeBoldus JM, Garbelotto M, Chastagner GA, **Hulbert JM** 2023. [Citizen science can add value to *Phytophthora* monitoring: five case studies from western North America](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1130210/full). _Frontiers in Environmental Science_ 11. DOI: 10.3389/fenvs.2023.1130210.
   + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others 2022. [Citizen Science in environmental and ecological sciences](https://www.nature.com/articles/s43586-022-00144-4), _Nature Review Methods Primers_ 2, 64. DOI: 10.1038/s43586-022-00144-4.
@@ -88,15 +92,14 @@ Dept. of Plant Pathology, Washington State University,
  
 ### Not Peer-Reviewed Manuscripts
 
-  + Hester SN, Kruger H, Ticehurst JL, **Hulbert JM** and Cacho OJ. 2023. Editorial: The Role of Community and Industry Surveillance in Managing Invasive Species: A Review of Current Knowledge. _Frontiers in Ecology and Evolution_ 11. (accepted).
-  + Elliott M, Rollins L, Bourret T, **Hulbert JM**, Chastagner GA 2021\. Three new hosts for _Phytophthora ramorum_ confirmed in Washington State: Salal, Oregon grape, and red huckleberry, _Plant Health Progress_. DOI: 10.1094/PHP-01-21-0003-FI.
+  + Hester SN, Kruger H, Ticehurst JL, **Hulbert JM** and Cacho OJ. 2023. [Editorial: The Role of Community and Industry Surveillance in Managing Invasive Species: A Review of Current Knowledge](https://www.frontiersin.org/articles/10.3389/fevo.2023.1281472/full). _Frontiers in Ecology and Evolution_ 11. (accepted).
+  + Elliott M, Rollins L, Bourret T, **Hulbert JM**, Chastagner GA 2021\. [Three new hosts for _Phytophthora ramorum_ confirmed in Washington State: Salal, Oregon grape, and red huckleberry](https://apsjournals.apsnet.org/doi/10.1094/PHP-01-21-0003-FI), _Plant Health Progress_. DOI: 10.1094/PHP-01-21-0003-FI.
   + Chastagner GA, Elliott M, **Hulbert JM** 2021\. Effectiveness of fungicides and biopesticides in controlling Botrytis gray mold on western hemlock nursery stock. _Tree Planter's Notes_, 64(1):21-31.
-  + **Hulbert JM**, Turner SC, Scott SL. 2019\. Challenges and solutions to establishing and sustaining citizen science projects in South Africa, _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
-  + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. The problem with delineating narrow criteria for citizen science. _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
+  + **Hulbert JM**, Turner SC, Scott SL. 2019\. [Challenges and solutions to establishing and sustaining citizen science projects in South Africa](https://journals.co.za/doi/pdf/10.17159/sajs.2019/5844), _South African Journal of Science_, 115(7/8). DOI: 10.17159/sajs.2019/5844.
+  + Auerbach J, Barthelmess E, Cavalier D, Cooper C,Fenyk H, Haklay M, **Hulbert JM**, Kyba C, Larson L, Lewandowski E, Shanley L. 2019\. [The problem with delineating narrow criteria for citizen science](https://www.pnas.org/doi/10.1073/pnas.1909278116). _Proceedings of the National Academy of Sciences_, 116(31). DOI: 10.1073/pnas.1909278116.
   + **Hulbert JM** 2019\. Citizen science increases the ethics of foreign led research, _Narrative Inquiry in Bioethics_, Johns Hopkins University Press. Volume 9, Number 1, Spring 2019\. DOI: 10.1353/nib.2019.0024.
-  + Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, **Hulbert JM**, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019\. ‘Biodiversity provides opportunities for citizen science’ chapter in _National Biodiversity Assessment 2018: Compendium of Benefits of Biodiversity_. South African National Biodiversity Institute, Pretoria. hdl.handle.net/20.500.12143/6491
-  + **Hulbert JM**, Roets F. 2018\. Science engagement in South Africa. _Science_, 361(6406):985\. DOI: 10.1126/science.aav1499.
-  + **Hulbert JM**. 2016\. Citizen science tools available for ecological research in South Africa, _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
+  + **Hulbert JM**, Roets F. 2018\. [Science engagement in South Africa](https://www.science.org/doi/10.1126/science.aav1499). _Science_, 361(6406):985\. DOI: 10.1126/science.aav1499.
+  + **Hulbert JM**. 2016\. [Citizen science tools available for ecological research in South Africa](https://journals.co.za/doi/pdf/10.17159/sajs.2016/a0152), _South African Journal of Science_, 112:5/6\. DOI: 10.17159/sajs.2016/a0152.
 
 ### Manuscripts in Review or Revision
 
@@ -105,21 +108,16 @@ Dept. of Plant Pathology, Washington State University,
   + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (_Leucadendron argenteum_).
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
 
-### Manuscripts in Prep
-
-  + **Hulbert JM** and others (in prep). Citizen science reveals important environmental factors in the western redcedar dieback.
-  + Arte H, White E, Felthoven L, Gaither A, Billo T, McDonald S, **Hulbert JM** (in Prep). Western redcedar dieback is associated with urban heat in King County Washington.
-
 ### Extension Fact Sheets
 
- + Zobrist KW, Bomberger RA, Glass J, **Hulbert JM**, Darr M, Roberts E, (accepted). managing emerald ash borer in Washington State, WSU Extension Fact Sheet.
-  + Zobrist KW, Bomberger RA, Glass J, Marquis J, **Hulbert JM**, Darr M, Roberts E, (accepted). What you need to know about the risks of emerald ash borer in Washington, WSU Extension Fact Sheet.
-  + Brooks R, **Hulbert JM**, Omdall D, Elliott M, Chastagner GA 2022. Sooty Bark Disease Diagnostic Guide, WSU Extension Fact Sheet FS375E.
+ + Zobrist KW, Bomberger RA, Glass J, **Hulbert JM**, Darr M, Roberts E. 2023. [Managing emerald ash borer in Washington State](https://pubs.extension.wsu.edu/managing-emerald-ash-borer-in-washington-state), WSU Extension Fact Sheet FS384.
+  + Zobrist KW, Bomberger RA, Glass J, Marquis J, **Hulbert JM**, Darr M, Roberts E, (accepted). [Emerald Ash Borer and its implications for Washington State](https://pubs.extension.wsu.edu/emerald-ash-borer-and-its-implications-for-washington-state), WSU Extension Manual EM127.
+  + Brooks R, **Hulbert JM**, Omdall D, Elliott M, Chastagner GA 2022. [Sooty Bark Disease Diagnostic Guide](https://pubs.extension.wsu.edu/sooty-bark-disease-diagnostic-guide), WSU Extension Fact Sheet FS375E.
 
 ### ArcGIS Story Maps
  
-  + Dewitz F, Hulbert JM. 2023. [Tacoma schools, urban heat and trees](https://storymaps.arcgis.com/stories/0b8e2570da4a47d3a6ffb0907b738cea)
-  + Hulbert JM, Elliott JM, Chastagner G. 2023. [*Phytophthora* communities in eastern Cascade waterways](https://storymaps.arcgis.com/stories/af79904ceee04d019c8db5699819aaea)
+  + Dewitz F, **Hulbert JM**. 2023. [Tacoma schools, urban heat and trees](https://storymaps.arcgis.com/stories/0b8e2570da4a47d3a6ffb0907b738cea)
+  + **Hulbert JM**, Elliott JM, Chastagner G. 2023. [*Phytophthora* communities in eastern Cascade waterways](https://storymaps.arcgis.com/stories/af79904ceee04d019c8db5699819aaea)
 
 ### Community Science Field Guides
 
@@ -139,6 +137,7 @@ Dept. of Plant Pathology, Washington State University,
 **Total Funding Secured as Postdoc (2020- )**
 
 + Funding awarded at WSU:	**$2,918,200**
++ Funding awarded as PI: **$2,582,064**
 + Funding pending: **$88,221**
 + Funding applied for at WSU: **$4,682,978**
 
@@ -246,7 +245,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Academic Leadership
 
-+ 2022- Vision Committee, WSU Puyallup Research and Extension Center 
++ 2022- Vision Committee Member, WSU Puyallup Research and Extension Center 
 + 2020- Program Director, Forest Health Watch
 + 2020- Organizer, Forestry Working Group, Washington State University
 + 2021- Member, Forest Adaptation Network
@@ -319,7 +318,6 @@ Dept. of Plant Pathology, Washington State University,
   + Forest Health and Protection
   + Forest Pathology
   + Methods of Citizen and Community Science
-  + Data Visualization
 
 ## Event Organization
 
@@ -421,6 +419,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Symposia
 
++ 2023 Master Gardener Advanced Education Conference. _Backyard Citizen Science opportunities in the Northwest_. Oral Presentation. 
 + 2022 University of Washington Urban Forest Symposium. _Western redcedar trees as cultural resources in urban environments_. Pre-recorded presentation.
 + 2022 Washington State University Research Week, _Engaging community scientists in research about tree health and urban heat islands_. Virtual Presentation.
 + 2021 Washington State University Research Showcase, _Community science to keep forests healthy in the face of climate change_. Poster presentation.
@@ -459,6 +458,10 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Invited Talks
 
++ 2023 Canadian Phytopathological Society, British Columbia Regional Meeting. Keynote: _Sharing the responsibility of biosecurity: engaging communities in plant disease monitoring_ (Virtual Presentation).
++ 2023 Environmental Justice Week, Highline College, _Urban forest equity and tree health in the Pacific Northwest_.
++ 2023 Washington Invasive Species Council Meeting, September. _Summary of the 2023 Invasive Species Workshop and Webinars for Tribal Audiences_
++ 2023 Palouse Discovery Science Center, Science Pub _Community minded scholarship: empowering people to address concerns with community science_. 
 + 2022 Washington Community Forestry Council Meeting, _Urban Forestry Programming at WSU_ (Virtual Presentation).
 + 2022 Northwest Indian Fisheries Commission, USDA Animal and PLant Health Inspection Service, Emergency Preparedness Response Management Training, _USDA APHIS INVASIVE Project Introduction_.
 + 2021 Washington Department of Natural Resources, Presentation to State Forester & Forest Health Division Leads, _Forest Health Watch: community engagement for healthy forests_ (Virtual Presentation).
@@ -511,7 +514,6 @@ Dept. of Plant Pathology, Washington State University,
 ## Public Engagement
 
 ### Public Presentations
-
 
 + 2022 Forest Health Watch, Tacoma Community Science Introduction (Virtual Presentation).
 + 2022 Washington State University, Forest Health Watch. Sooty Bark Disease Bi-Monthly Information Sessions (Virtual Presentation). 
@@ -572,6 +574,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Promotional Table Events
 
++ 2023 WSU Puyallup Research and Extension Center, Tomanamus Community Day, Muckleshoot Indian Tribe, Green Water, Washington.
 + 2023 Forest Health Watch, Fall State Fair - NW Outdoors Exhibit, Puyallup, Washington.
 + 2023 WSU INVASIVES-R Project, Affiliated Tribes of Northwest Indians, 
 + 2023 WSU INVASIVES-R Project, Northwest Intertribal Agricultural Council Regional Meeting, Pendleton Oregon.
@@ -598,6 +601,8 @@ Dept. of Plant Pathology, Washington State University,
 ## Stakeholder Engagement 
 ### Presentations
 
++ 2023 Forest Health Watch, November Collaborator Updates (3 meetings with presentations)
++ 2023 Annual Training Conference, Pacific Northwest Chapter of the International Society of Arboriculture, _Western redcedar dieback in the urban environment, Tacoma, Washington_.
 + 2023 Intertribal Agriculture Council, Pacific Northwest Region Meeting, _No-cost educational materials to amplify awareness and mitigate the impacts of invasive species_.
 + 2023 Washington State University Extension Western Washington Family Field Day, _Emerging Diseases in the Pacific Northwest_.
 + 2023 Cascadia User Group of Open Source (CUGOS) meeting, _Western redcedar dieback: open analyses of open data_, Seattle, Washington.
@@ -652,7 +657,9 @@ Dept. of Plant Pathology, Washington State University,
 
 ### WSU Puyallup REC Tours
 
-+ 2023 Tacoma Community College, Environmental Science students. 
++ 2023 Tacoma Community College, Environmental Science students, Fall.
++ 2023 Pacific Lutheran University, Botany students
++ 2023 Tacoma Community College, Environmental Science students, Spring. 
 + 2023 Tacoma Community College, Math Engineering and Science Achievement (MESA) students.
 + 2022 Conservation District Foresters.
 + 2022 Pierce County Americorps Crew.
@@ -668,6 +675,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Plant Health Workshops
 
++ 2023 Sooty Bark Disease Tour, Annual Training Conference, Pacific Northwest Chapter of International Society of Arboriculture. 
 + 2022 Forest Health Watch, Wapato Park Tour, Co-hosted with Forterra and City of Tacoma Open Spaces, Tacoma, Washington. 
 + 2017 South African National Parks, _Hunting for_ Phytophthora _in West Coast National Park_, SANParks office, Langebaan, West Coast.
 + 2017 Stellenbosch Municipality, _Surveying_ Phytophthora _in Jan Marais Nature Reserve_, Stellenbosch.
@@ -717,6 +725,8 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Mentorship Outcomes
 
+ + McNees T, **Hulbert JM**, Elliott M, Chastagner G. 2023. Sooty bark disease of bigleaf maple: A microscopic threat to the world’s largest maple species, Puyallup Watershed Symposium. 
+ + McNees T, NSF Graduate Research Fellowship proposal: Population genomics of _Cryptostroma corticale_.  
  + Arte H, White E, Felthoven L, Gaither A, Billo T, McDonald S, **Hulbert JM** (Manuscript in Prep). Western redcedar dieback is associated with urban heat in King County Washington.
   + Olson J, Vonberckefeldt N, **Hulbert JM** 2022. Oomycete communities associated with redcedar on Green River College campus, Green River College Capstone Presentation.
   + Vardishvili D, Shrader K, Harvey S, **Hulbert J**, Chastagner G. 2022. Post-harvest hydration treatment effects on the vase life of Peonie, Washington State University, Summer Undergraduate Research Symposium. (Poster Presentation.) 
@@ -792,6 +802,7 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ## Selected Popular Writing
 
+ + Hulbert JM. 2023. [Maple health watch - community scientists needed](https://foreststewardshipnotes.wordpress.com/2023/06/07/maple-health-watch-community-scientists-needed/), Forest Stewardship Notes, Washington Department of Natural Resources.
  + Zobrist K, Shults P, Hulbert JM. 2022. Focus on: emerald ash borer, WSU Puget Sound Extension Forestry Fall E-Newsletter.
   + Zobrist K, Shults P, Hulbert JM. 2022. [Washington residents should anticipate impacts from emerald ash borer ](https://foreststewardshipnotes.wordpress.com/2022/10/03/washington-residents-should-anticipate-impacts-from-emerald-ash-borer/), Forest Stewardship Notes, Washington Department of Natural Resources.
   + Hulbert JM. [Community scientists needed for western redcedar dieback research](https://www.mtnativeplants.org/wp-content/uploads/2021/10/Kelseya-v-34-4.pdf). Kelseya, Montana Native Plant Society, Volume 34, Issue 4, Summer 2021.
@@ -817,7 +828,9 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ## Selected Media Coverage
 
-* Articles
+### Articles
+
+  + Wenda Reed. 2023. [High and dry for a NW icon?](https://www.magcloud.com/webviewer/2562319), Washington State Magazine, Fall 2023.
   + Seth Truscott. 2023. [WSU sentinel plantings to guard against invasive pests, diseases at Washington ports](https://news.cahnrs.wsu.edu/article/wsu-sentinel-plantings-to-guard-against-invasive-pests-diseases-at-washington-ports/), WSU CAHNRS News
   + Joe Roberts. 2023. [Engaging the curious: WSU Extension educates and empowers citizen scientists](https://news.cahnrs.wsu.edu/article/engaging-the-curious-wsu-extension-educates-and-empowers-citizen-scientists/), WSU CAHNRS News
   + WSU, 2022. [Climate Science on Tap explores urban forests with WSU researcher](https://news.wsu.edu/announcements/climate-science-on-tap-explores-urban-forests-with-wsu-researcher/), WSU Insider
@@ -848,20 +861,22 @@ for Tribal Environmental Professionals, Northern Arizona University.
   + Editor. 2016\. Science Project aims to boost fynbos conservation, Boland Gazette, Hermanus Times, newspaper article.
   + DeKlerk, R. 2016\. Identifying plant diseases at the southernmost point of Africa SanParks Times, magazine article.
 
-* Radio Interviews
-    + NPR KNKX 88.5 Tacoma Washington, Sooty bark disease vulnerability study, July 12, 2022.
-    + KBCS 91.3 Bellevue Washington, [The Redlined Western Redcedar Study Project](https://www.kbcs.fm/2021/11/18/the-redlined-western-red-cedar-study-project/), November 18, 2021.
-    + [treehugger podcast](https://www.treehuggerpod.com/), Forest health and climate change (in production)
-    + [treehugger podcast](https://www.treehuggerpod.com/), Madrones! with Arbutus ARME, January, 2021.
-    + Cherry Creek Media, Wenatchee Washington, March 12, 2021.
-    + Middag op RSG, RSG 100-104FM, January 23, 2018.
-    + Detour, Maties MFM 92.6FM, November 29, 2017.
-    + Green Living, Radio Helderberg 93.6FM, February 23, 2017.
-    + KLCC News, NPR KLCC 89.7, April 8, 2015.
+### Radio Interviews
+
+  + NPR KNKX 88.5 Tacoma Washington, Sooty bark disease vulnerability study, July 12, 2022.
+  + KBCS 91.3 Bellevue Washington, [The Redlined Western Redcedar Study Project](https://www.kbcs.fm/2021/11/18/the-redlined-western-red-cedar-study-project/), November 18, 2021.
+  + [treehugger podcast](https://www.treehuggerpod.com/), Forest health and climate change (in production)
+  + [treehugger podcast](https://www.treehuggerpod.com/), Madrones! with Arbutus ARME, January, 2021.
+  + Cherry Creek Media, Wenatchee Washington, March 12, 2021.
+  + Middag op RSG, RSG 100-104FM, January 23, 2018.
+  + Detour, Maties MFM 92.6FM, November 29, 2017.
+  + Green Living, Radio Helderberg 93.6FM, February 23, 2017.
+  + KLCC News, NPR KLCC 89.7, April 8, 2015.
 
 
 ## Science Community Service
 
+  + 2023- Technical Advisory Committee Member, The effectiveness of trees in mitigating stormwater runoff in Western Washington – Phase 2, Washington State Department of Ecology
   + 2022 Guest Editor, Special Issue, Frontiers in Ecology and Evolution, *The Role of Community and Industry Surveillance in Managing Invasive Species: a Review of Current Knowledge*
   + 2021 Promotion Review, External Evaluation, Associate Professor of Practice
   + 2021 Workshop Participant, _Citizen science and its future role for monitoring nature and the environment_ (Joint University Initiative, United Kingdom)
@@ -878,7 +893,7 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ## Research Positions
 
-  + 2020 - 2022 Postdoctoral Research Associate, Washington State University, Dept. of Plant Pathology, Puyallup Research and Extension Center. Primary Supervisor: Gary Chastagner. 
+  + 2020 - 2023 Postdoctoral Research Associate, Washington State University, Dept. of Plant Pathology, Puyallup Research and Extension Center. Primary Supervisor: Gary Chastagner. 
   + 2015 - 2019 Graduate Student, University of Pretoria, Dept. of Plant and Soil Sciences, Pretoria, Gauteng, South Africa. Primary Supervisor: Mike Wingfield. Co-supervisors: Treena Burgess, Francois Roets.
   + 2016 - 2018 Affiliate Research Student, Stellenbosch University, Dept. of Conservation Ecology and Entomology, Stellenbosch, Western Cape Province, South Africa. Supervisor: Francois Roets.
   + 2012 - 2014 Graduate Research Assistant, Oregon State University, Dept. of Wood Science and Engineering, Corvallis, Oregon, USA. Supervisors: Everett Hansen, Jeff Morrell.
