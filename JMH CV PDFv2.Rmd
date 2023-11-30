@@ -89,6 +89,13 @@ knitr::opts_chunk$set(echo = FALSE)
   + **Hulbert JM**, Roets F, Burgess TI, Wingfield MJ. (under revision). Exotic and putatively native _Phytophthora_ species are associated with distinct plant communities in southern Afrotemperate Forests.
   + Louw NL, Roets F, **Hulbert JM** (under revision). Molecular techniques reveal additional factors in the decline of the endangered silver tree (_Leucadendron argenteum_).
   + **Hulbert JM**, Scholtz K, Roets F. (under revision). Youth participation in citizen science reveals differences between outreach and engagement and connects plant pathology research to public health.
+  
+### Manuscripts in Prep
+
+  + **Hulbert JM** and others (in prep). Community sciene reveals important environmental factors associated with western redcedar dieback. 
+  + **Hulbert JM** and others (in prep). Western redcedar trees in urban heat islands are associated with higher levels of canopy dieback
+  + **Hulbert JM**, Elliott M, McNees T, Chastagner G (in prep). Stakeholder engagement increases knowledge of distribution and host range of _Cryptostroma corticale_. 
+
 
 ### Extension Fact Sheets
 
@@ -859,8 +866,8 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ## Science Community Service
 
+  + 2023 Guest Editor, Special Issue, Frontiers in Ecology and Evolution, *The Role of Community and Industry Surveillance in Managing Invasive Species: a Review of Current Knowledge*
   + 2023- Technical Advisory Committee Member, The effectiveness of trees in mitigating stormwater runoff in Western Washington – Phase 2, Washington State Department of Ecology
-  + 2022 Guest Editor, Special Issue, Frontiers in Ecology and Evolution, *The Role of Community and Industry Surveillance in Managing Invasive Species: a Review of Current Knowledge*
   + 2021 Promotion Review, External Evaluation, Associate Professor of Practice
   + 2021 Workshop Participant, _Citizen science and its future role for monitoring nature and the environment_ (Joint University Initiative, United Kingdom)
   + 2021 Adhoc Reviewer, Oregon State University Extension (1 Extension Publication)
