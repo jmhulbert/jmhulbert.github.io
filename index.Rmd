@@ -38,7 +38,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Academic Appointments
 
-+ 2022-2023. **Postdoctoral Research Associate**, WSU Puyallup Research and Extension Center, Washington State University.
++ 2022-2024. **Postdoctoral Research Associate**, WSU Puyallup Research and Extension Center, Washington State University.
 + 2020-2022. **USDA NIFA Postdoctoral Fellow**, Ornamental Plant Pathology, WSU Puyallup Research and Extension Center, Washington State University.
 
 ## Education
@@ -51,13 +51,12 @@ Dept. of Plant Pathology, Washington State University,
 ## Initiatives
 
 + 2022- PI, _Ravenholt Urban Forest Health Lab_ ([https://treehealth.wsu.edu/](https://treehealth.wsu.edu/)), Washington State University, Albert Victor Ravenholt Fund. 
-+ 2020- Program director, _Forest Health Watch_ ([https://foresthealth.org/](https://foresthealth.org/)), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
-+ 2022- Prime mover, _Open Redcedar Adaptation Network_ ([https://jmhulbert.github.io/adaptation](https://jmhulbert.github.io/adaptation)), Washington State University.
-+ 2022- Prime mover, _USDA APHIS PPA 7721 Invasive Species Outreach for Tribes_ ([https://extension.wsu.edu/invasive-species](https://extension.wsu.edu/invasive-species)), Washington State University.
++ 2020- Program Director, _Forest Health Watch_ ([https://foresthealth.org/](https://foresthealth.org/)), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
++ 2022- Project Director, _USDA APHIS PPA 7721 Invasive Species Outreach for Tribes_ ([https://extension.wsu.edu/invasive-species](https://extension.wsu.edu/invasive-species)), Washington State University.
 + 2020- Organizer, _WSU Forestry Working Group_, Washington State University.
 + 2020- Organizer, _Pacific Northwest Citizen Science Network_ [https://pnwcitsci.org/](https://pnwcitsci.org)
 + 2016-2020 Project leader, _Cape Citizen Science_ ([https://citsci.co.za/](https://citsci.co.za/)), Forestry and Agricultural Biotechnology Institute, University of Pretoria, Stellenbosch University, DST-NRF Centre of Excellence in Tree Health Biotechnology.
-+ 2019- Prime mover, _Forest Health Citizen Science Community_ ([https://fhcs.page/](https://fhcs.page)).
++ 2019- Organizer, _Forest Health Citizen Science Community_ ([https://fhcs.page/](https://fhcs.page)).
 + 2018-2019 Instructor, _R for biology and ecology workshop series_ ([https://jmhulbert.github.io/r/](https://jmhulbert.github.io/r/)), two series offered at University of Pretoria and one series offered at Stellenbosch University.
 + 2012-2014 Co-founder, _Inspiration Dissemination_ ([http://blogs.oregonstate.edu/inspiration/](http://blogs.oregonstate.edu/inspiration/)), KBVR 88.7fm, Oregon State University.
 
@@ -76,8 +75,8 @@ Dept. of Plant Pathology, Washington State University,
   + Van der Colff D, Ebrahim I, Powrie LW, Rebelo AG, Edge D, Mecenero S, Scott SL, Hoffman MT, **Hulbert JM**, Ditlhale N, Mahood K, Gafen M, Sink KJ, Franken M, Zikishe V, Grieve K, Parbhoo S, Dayaram A and Turner SC. 2019\. ‘Biodiversity provides opportunities for citizen science’ chapter in _National Biodiversity Assessment 2018: Compendium of Benefits of Biodiversity_. South African National Biodiversity Institute, Pretoria. hdl.handle.net/20.500.12143/6491
 
 ### Peer-Reviewed Manuscripts
+  + Andrus et al. 2024. [Canary in the Forest? – Tree mortality and canopy dieback of western redcedar linked to drier and warmer summers](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jbi.14732). _Journal of Biogeography_ JBI-23-0212.R1.
   + Brooks R, Omdall D, **Hulbert JM**, Brown S, Marshall JC, Elliott M, Chastagner GA. 2023. [_Cryptostroma corticale_, the causal agent of sooty bark disease of maple, appears widespread in western Washington State](https://onlinelibrary.wiley.com/doi/10.1111/efp.12835), USA. _Forest Pathology_. Online Early View e12835.
-  + Andrus et al. 2023. [Canary in the Forest? – Tree mortality and canopy dieback of western redcedar linked to drier and warmer summers](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jbi.14732). _Journal of Biogeography_ JBI-23-0212.R1.
   + **Hulbert JM**, Hallett RA, Roy HE, Cleary M 2023. [Citizen science can enhance strategies to detect and manage invasive forest pests and pathogens](https://www.frontiersin.org/articles/10.3389/fevo.2023.1113978/full), _Frontiers in Ecology and Evolution_ 11. DOI: 10.3389/fevo.2023.1113978.
   + Lanning KK, Kline N, Elliott M, Stamm E, Warnick T, LeBoldus JM, Garbelotto M, Chastagner GA, **Hulbert JM** 2023. [Citizen science can add value to *Phytophthora* monitoring: five case studies from western North America](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1130210/full). _Frontiers in Environmental Science_ 11. DOI: 10.3389/fenvs.2023.1130210.
   + Fraisl D, Hager G, Bedessem B, Hsing P, Gold M, Haklay M, **Hulbert, JM**, and others 2022. [Citizen Science in environmental and ecological sciences](https://www.nature.com/articles/s43586-022-00144-4), _Nature Review Methods Primers_ 2, 64. DOI: 10.1038/s43586-022-00144-4.
@@ -110,13 +109,15 @@ Dept. of Plant Pathology, Washington State University,
   
 ### Manuscripts in Prep
 
-  + **Hulbert JM** and others (in prep). Community sciene reveals important environmental factors associated with western redcedar dieback. 
-  + **Hulbert JM** and others (in prep). Western redcedar trees in urban heat islands are associated with higher levels of canopy dieback
-  + **Hulbert JM**, Elliott M, McNees T, Chastagner G (in prep). Stakeholder engagement increases knowledge of distribution and host range of _Cryptostroma corticale_. 
+  + **Hulbert JM** and others (in prep). Dieback of western redcedar increases with urban heat. 
+  + **Hulbert JM**, Elliott M, McNees T, Chastagner G (in prep). Stakeholder engagement increases knowledge of distribution and host range of _Cryptostroma corticale_.
+    + **Hulbert JM** and others (in prep). Community science reveals important environmental factors associated with western redcedar dieback. 
 
 
 ### Extension Fact Sheets
-
+ 
+  + Dewitz F, Darr M, Murray T, Zobrist K, Kohler G, **Hulbert J**. In Prep. Bronze Birch Borer. 
+  + Dewitz F, Darr M, Murray T, Zobrist K, Kohler G, **Hulbert J**. In Prep. Mediterranean Oak Borer. 
  + Zobrist KW, Bomberger RA, Glass J, **Hulbert JM**, Darr M, Roberts E. 2023. [Managing emerald ash borer in Washington State](https://pubs.extension.wsu.edu/managing-emerald-ash-borer-in-washington-state), WSU Extension Fact Sheet FS384.
   + Zobrist KW, Bomberger RA, Glass J, Marquis J, **Hulbert JM**, Darr M, Roberts E, (accepted). [Emerald Ash Borer and its implications for Washington State](https://pubs.extension.wsu.edu/emerald-ash-borer-and-its-implications-for-washington-state), WSU Extension Manual EM127.
   + Brooks R, **Hulbert JM**, Omdall D, Elliott M, Chastagner GA 2022. [Sooty Bark Disease Diagnostic Guide](https://pubs.extension.wsu.edu/sooty-bark-disease-diagnostic-guide), WSU Extension Fact Sheet FS375E.
@@ -143,10 +144,10 @@ Dept. of Plant Pathology, Washington State University,
 
 **Total Funding Secured as Postdoc (2020- )**
 
-+ Funding awarded at WSU:	**$2,918,200**
-+ Funding awarded as PI: **$2,582,064**
-+ Funding pending: **$88,221**
-+ Funding applied for at WSU: **$4,682,978**
++ Funding awarded at WSU:	**$3,454,790**
++ Funding awarded as PI: **$3,018,654**
++ Funding pending: **$98,823**
++ Funding applied for at WSU: **5,385,082**
 
 ### Postdoc Fellowship Proposals
 
@@ -166,6 +167,9 @@ Dept. of Plant Pathology, Washington State University,
 
 #### Funded
 
++ 2024 **Co-PI**, _Navigating new challenges: drought and sooty bark disease in the northwest_. Washington State Department of Natural Resources **($100,000)**.
++ 2024 **PI**, _Tacoma Volunteer Tree Inventory Program_. Washington State Department of Natural Resources Community Forestry Assitance Grant **($348,369)**.
++ 2023 **PI**, _Enriching Tribal management and resilience to invasive species with co-designed educational materials_. USDA APHIS PPQ PPA Section 7721 **($88,221)**.
 + 2023 **PI**, _Empowering community college students to equitably enhance urban forests_. USDA Forest Service, Urban and Community Forestry, Inflation Reduction Act **($1,786,431)**.
 + 2023 **PI**, _Enhancing bio-surveillance in the Pacific Northwest by strengthening and leveraging the networks of the Forest Health Watch_. USDA Forest Service, Bipartisan Infrastructure Law **($145,000)**.
 + 2023 **PI**, _Increasing Native Vigilance, Awareness and Surveillance of Invasions via Education and Resources (INVASIVE-R) Project (Year Two)_. USDA APHIS PPQ PPA Section 7721 **($89,403)**.
@@ -180,7 +184,8 @@ Dept. of Plant Pathology, Washington State University,
 
 #### Submitted
 
-+ 2023 **PI**, _Enriching Tribal management and resilience to invasive species with co-designed educational materials_. USDA APHIS PPQ PPA Section 7721 **($88,221)**.
++ 2024 **PI**, _Leveraging the Forest Health Watch network to pilot a seed collection program for conserving western redcedar_ USDA Forest Service Participatory Sciences Grant **($19,912)**.
++ 2023 **Co-PI**, _Early detection and monitoring of C. corticale with spore trapping and qPCR_. USDA Forest Service Special Technology Development Program **($83,823)**.
 + 2023 **PI**, _Engaging community college students in tree inventory and monitoring blitzes in Washington State _. USDA Forest Service, Bipartisan Infrastructure Law **($285,000)**.
 + 2023 **PI**, _Washington Statewide Campus Tree Blitz_ **($40,000)**.
 + 2022 **Co-PI**, _Schools as oases in urban heat islands: addressing urban forest equity through school and community partnerships and research_. National Science Foundation, Civic Innovation Challenge **($48,653)**.
@@ -193,13 +198,17 @@ Dept. of Plant Pathology, Washington State University,
 
 #### Funded
 
-+ 2022 **PI** _Ravenholt Urban Forest Health Lab_, Albert Victor Ravenholt Fund **($270,000)**.
++ 2022 **PI**, _Ravenholt Urban Forest Health Lab_, Albert Victor Ravenholt Fund **($270,000)**.
 
 #### Submitted
 
-+ 2023 **PI** _Bamford Foundation Urban Science Internship Program_ **($270,000)**.
-+ 2022 **PI** _Minimizing Human Health Risks and Urban Tree Infections from Sooty Bark Disease_, Tree Research and Education Endowment Fund, John Z. Duling Grant **($24,942)**.
-+ 2022 **Co-PI** _Co-Developing Tree Planting Guides for Cities: A Case Study in Tacoma Washington_, Frank & Evelyn Schmidt Family Foundation **($25,000)**.
++ 2024 **PI**, _Enhancing the Impact and Capacity of WSU’s Outreach Activities with New Technologies_ Bamford Foundation **($15,000)**
++ 2024 **PI**, _Mediterranean Oak Borer surveillance and trapping with community science_ Sustainable Path Foundation **($15,000)**
++ 2024 **PI**, _Washington State University - Forest Health Watch Mobile Science Laboratory_ Ben B. Cheney Foundation **($100,000)**
++ 2024 **PI**, _Placing next-generation sequencing tools in the hands of disadvantaged youth_ Extension Foundation **($20,000)**
++ 2023 **PI**, _Bamford Foundation Urban Science Internship Program_ Bamford Foundation **($270,000)**.
++ 2022 **PI**, _Minimizing Human Health Risks and Urban Tree Infections from Sooty Bark Disease_, Tree Research and Education Endowment Fund, John Z. Duling Grant **($24,942)**.
++ 2022 **Co-PI**, _Co-Developing Tree Planting Guides for Cities: A Case Study in Tacoma Washington_, Frank & Evelyn Schmidt Family Foundation **($25,000)**.
 
 
 ### Funded Outreach Grants
@@ -232,6 +241,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Academic Honors & Awards
 
++ 2024 Travel Award, Department of Plant Pathology
 + 2019 Getting the Message to the Public, Forestry and Agricultural Biotechnology Institute
 + 2018 Travel Fund, British Society for Plant Pathology
 + 2018 Stephen A. Johnston Student Travel Award, American Phytopathological Society
@@ -278,6 +288,8 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Guest Lectures
 
++ 2024 Pacific University, Plant Pathology Lecture, _Forest Health - Issues, Research and Student Opportunities._
++ 2023 Washington State University, Department of Plant Pathology, General Plant Pathology (PLP 429) Lecture, _Forest Pathology - tree health issues in the Pacific Northwest._
 + 2023 Washington State University, School of the Environment, Disturbance Ecology (SOE 485) Lecture, _Forest Pathology in the Pacific Northwest._
 + 2023 Highline Community College, Botany and Evolution, _Urban forests, tree health, equity and community science_ (two lectures).
 + 2023 University of Puget Sound, Research Methods, _Tacoma community science, western redcedar health as indicators of inequities_.
@@ -328,26 +340,24 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Event Organization
 
-### Webinars
+### Workshops and Webinars
 
++ 2024 [_Preparing and Responding to Mediterranean Oak Borer in Washington State_](https://treehealth.wsu.edu/mob) (Virtual Workshop). 
++ 2024 [_Invasive species workshop and webinars for Tribal Audiences_](https://extension.wsu.edu/invasive-species/workshops/) (Virtual Workshop). 
 + 2023 [_Ravenholt Urban Forest Health Spring 2023 Webinars_](https://treehealth.wsu.edu/webinars/)
-+ 2023 [_Invasive species workshop and webinars for Tribal Audiences_](https://extension.wsu.edu/invasive-species/workshops/) (Virtual Workshop). 
-+ 2021 Webinar Co-Organizer, [Western Redcedar: Cultural and ecological reflections and dieback concerns](https://youtu.be/FrGBTo7HBnk), Treeline Webinar Series.
-+ 2021 Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Member Meeting -Spring.
-+ 2021. Session Moderator (4 sessions), Washington Forest Owners' Winter School, Washington State University Extension.
-+ 2020 Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Member Meeting (Webinar).
-
-### Workshops
-
-+ 2023 [_Invasive species workshop and webinars for Tribal Audiences_](https://extension.wsu.edu/invasive-species/workshops/) (Virtual Workshop). 
++ 2023 [_Invasive species workshop and webinars for Tribal Audiences_](https://extension.wsu.edu/invasive-species/workshops/) (Virtual Workshop).
 + 2022 E3 Washington Virtual Conference Workshop, _Schools as oases in urban heat islands: identifying the barriers_.
 + 2022 City of Tacoma, _Tacoma Tree Pest Identification Workshop_, City of Tacoma Waste Transfer Station and Nursery. 
 + 2022 Pacific Education Institute, _Urban Forestry Solutions Oriented Storylines_, Almendinger Conference Center, WSU Puyallup Research and Extension Center, Puyallup, Washington.
 + 2022 Washington Invasive Species Council & Washington State University, _Invasive Species Preparedness Resources for Tribal Nations Workshop_, Almendinger Conference Center, WSU Puyallup Research and Extension Center, Puyallup, Washington.
++ 2021 Webinar Co-Organizer, [Western Redcedar: Cultural and ecological reflections and dieback concerns](https://youtu.be/FrGBTo7HBnk), Treeline Webinar Series.
++ 2021 Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Member Meeting -Spring.
++ 2021 Session Moderator (4 sessions), Washington Forest Owners' Winter School, Washington State University Extension.
++ 2020 Webinar Co-Organizer, Arbutus ARME (https://www.arbutusarme.org), Inaugural Member Meeting (Webinar).
 
 ### Conferences
 
-+ 2024 Session Coordinator, _Public engagement to keep urban trees and communities healthy_, IUFRO 26th World Congress 2024, Stockholm, Sweeden. 
++ 2024 Session Coordinator, _Public engagement to keep urban trees and communities healthy_, IUFRO 26th World Congress, Stockholm, Sweeden. 
 + 2022 Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://pnwcitsci.org/), Online Conference, Zoom.
 + 2022 Session Chair, Collaboration and Community Science, Human-Nature Systems, Salish Sea Ecosystem Conference. Online Conference, Zoom.
 + 2021 Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
@@ -370,58 +380,59 @@ Dept. of Plant Pathology, Washington State University,
 
 ### North American Conferences
 
-+ 2023 **Hulbert JM**, Community engagement, Oomycetes and western redcedar dieback, American Phytopathological Society annual conference, Denver, Colorado. 
-+ 2023 **Hulbert JM**, Community engagement for healthy forests, Western International Forest Disease Work Conference, Sonoma, California.
-+ 2023 Elliott M, **Hulbert JM**, Murray T, Chastagner G, Identification of the sooty bark pathogen (*Cryptostroma corticale*) from hosts in multiple states, Western International Forest Disease Work Conference, Sonoma, California (Poster Presentation).
-+ 2023 Elliott M, **Hulbert JM**, Murray T, Chastagner G, Detecting biological invasions with sentinel plantings at ports and urban points of dispersal in Washington State, Western International Forest Disease Work Conference, Sonoma, California (Poster Presentation).
-+ 2023 **Hulbert JM**, Western redcedar dieback - open analyses of open data, Washington GIS Association annual meeting, Tacoma, Washington.
-+ 2023 **Hulbert JM**, Community engagement can enhance biosurveillance, Western Forest Insect Work Conference, Seattle, Washington.
-+ 2022 **Hulbert JM**, Sooty Bark Disease - Climate Change Time Bomb in the Pacific Northwest, Partners in Community Forestry, Seattle, Washington.
-+ 2022 **Hulbert JM**, History of PNW CitSci and the Citizen Science Community, Pacific Northwest Citizen and Community Science Summit (Virtual Presentation). 
-+ 2022 **Hulbert JM**, Sooty Bark Disease: Diagnostics & Research in the Pacific Northwest Pacific Northwest International Society of Arboriculture Meeting, Coure D'Alene, Idaho.
-+ 2022 **Hulbert JM**, Are Oomycetes associated with the dieback of western redcedar?, 10th Meeting of the International Union of Forest Research Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
-+ 2022 **Hulbert JM**, Forest Health Watch: empowering communities to keep trees healthy, 10th Meeting of the International Union of Forest Research Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
-+ 2022 **Hulbert JM**, Community engagement to accelerate research and learning about the dieback of western redcedar. Salish Sea Ecosystem Conference. (Virtual Presentation).
-+ 2022 **Hulbert JM**, Community engagement can accelerate research about urban forest health issues. Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Portland Oregon. (Virtual Presentation).
-+ 2021 **Hulbert JM**, Western redcedar dieback as an indicator of the effects of climate change on cultural resources and tribal communities, 2021 Rising Voices Workshop, [Virtual (Poster-walk) Presentation](https://public.tableau.com/app/profile/joey.hulbert/viz/2021RisingVoicesWorkshopPoster/Dashboard1)
-+ 2021 **Hulbert JM**, So, you want to start a citizen science project?, 2021 Pacific Northwest Citizen and Community Science Summit, Virtual Presentation.
-+ 2021 **Hulbert JM**, Forest Health Watch: empowering community scientists to accelerate research, Northwest Climate Conference (Online), Virtual Presentation.
-+ 2021 **Hulbert JM**, Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Exploring the dieback of western redcedar as a symbol of the inequities in urban environments. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
-+ 2018 **Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. Pathogen hunters: nonscientist engagement in plant disease research, International Congress for Plant Pathology, Boston. Poster Presentation.
-+ 2018 **Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. The Cape Town Hypothesis Test: _Phytophthora_ in urban vs natural environments, International Congress for Plant Pathology, Boston. Poster Presentation.
-+ 2014 **Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
-+ 2014 **Hulbert JM**, Rosenberger R. 2014\. Forest G.U.M.P. The value of graduate-undergraduate mentorship programs. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
-+ 2014 **Hulbert JM**, Morrell JJ, Hansen EM. 2014\. Potential of using boron for mitigation of _Phytophthora ramorum_ in Douglas-fir logs. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.
-+ 2014 **Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.
-+ 2014 **Hulbert JM** 2014\. The value of graduate-undergraduate mentorship programs. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
-+ 2014 **Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination_: Science Communication for College Students. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
-+ 2012 **Hulbert JM**, Morrell J, Hansen E. 2012\. Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products. Western International Forest Disease Work Conference, Tahoe City, California. Oral Presentation.
-+ 2011 Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. Sudden larch death? Larch susceptibility to _Phytophthora ramorum_. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.
++ 2024 Avila N, Bridges C, **Hulbert JM**. _Exploring the layers of science and communites impacted by climate change through the lens of tree health_. Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Reed College, Portland, Oregon (not presenting author).
++ 2023 **Hulbert JM**, _Community engagement, Oomycetes and western redcedar dieback_, American Phytopathological Society annual conference, Denver, Colorado. 
++ 2023 **Hulbert JM**, _Community engagement for healthy forests_, Western International Forest Disease Work Conference, Sonoma, California.
++ 2023 Elliott M, **Hulbert JM**, Murray T, Chastagner G, _Identification of the sooty bark pathogen (*Cryptostroma corticale*) from hosts in multiple states_, Western International Forest Disease Work Conference, Sonoma, California (Poster Presentation).
++ 2023 Elliott M, **Hulbert JM**, Murray T, Chastagner G, _Detecting biological invasions with sentinel plantings at ports and urban points of dispersal in Washington State_, Western International Forest Disease Work Conference, Sonoma, California (Poster Presentation).
++ 2023 **Hulbert JM**, _Western redcedar dieback - open analyses of open data_, Washington GIS Association annual meeting, Tacoma, Washington.
++ 2023 **Hulbert JM**, _Community engagement can enhance biosurveillance_, Western Forest Insect Work Conference, Seattle, Washington.
++ 2022 **Hulbert JM**, Sooty Bark Disease - _Climate Change Time Bomb in the Pacific Northwest_, Partners in Community Forestry, Seattle, Washington.
++ 2022 **Hulbert JM**, _History of PNW CitSci and the Citizen Science Community_, Pacific Northwest Citizen and Community Science Summit (Virtual Presentation). 
++ 2022 **Hulbert JM**, _Sooty Bark Disease: Diagnostics & Research in the Pacific Northwest_, Pacific Northwest International Society of Arboriculture Meeting, Coure D'Alene, Idaho.
++ 2022 **Hulbert JM**, _Are Oomycetes associated with the dieback of western redcedar?_, 10th Meeting of the International Union of Forest Research Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
++ 2022 **Hulbert JM**, _Forest Health Watch: empowering communities to keep trees healthy_, 10th Meeting of the International Union of Forest Research Organizations, Working Party S07.02.09 - _Phytophthora_ in Forests and Natural Ecosystems Berkeley California.
++ 2022 **Hulbert JM**, _Community engagement to accelerate research and learning about the dieback of western redcedar_. Salish Sea Ecosystem Conference. (Virtual Presentation).
++ 2022 **Hulbert JM**, _Community engagement can accelerate research about urban forest health issues_. Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Portland Oregon. (Virtual Presentation).
++ 2021 **Hulbert JM**, _Western redcedar dieback as an indicator of the effects of climate change on cultural resources and tribal communities_, 2021 Rising Voices Workshop, [Virtual (Poster-walk) Presentation](https://public.tableau.com/app/profile/joey.hulbert/viz/2021RisingVoicesWorkshopPoster/Dashboard1)
++ 2021 **Hulbert JM**, _So, you want to start a citizen science project?_, 2021 Pacific Northwest Citizen and Community Science Summit, Virtual Presentation.
++ 2021 **Hulbert JM**, _Forest Health Watch: empowering community scientists to accelerate research_, Northwest Climate Conference (Online), Virtual Presentation.
++ 2021 **Hulbert JM**, _Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Exploring the dieback of western redcedar as a symbol of the inequities in urban environments_. [Video Poster Presentation](https://www.youtube.com/watch?v=2xp6iStN_vM).
++ 2018 **Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. _Pathogen hunters: nonscientist engagement in plant disease research_, International Congress for Plant Pathology, Boston. Poster Presentation.
++ 2018 **Hulbert JM**, Burgess TI, Roets F, Wingfield MJ. 2018\. _The Cape Town Hypothesis Test: _Phytophthora_ in urban vs natural environments_, International Congress for Plant Pathology, Boston. Poster Presentation.
++ 2014 **Hulbert JM**, Morrell JJ, Hansen EM. 2014\. _Chemical treatment to sanitize _Phytophthora ramorum_ colonized timber products and mitigate the risk of accidental dissemination of Sudden Oak Death_. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
++ 2014 **Hulbert JM**, Rosenberger R. 2014\. _Forest G.U.M.P. The value of graduate-undergraduate mentorship programs_. International Union of Forest Research Organizations, World Congress. Salt Lake City. Poster Presentation.
++ 2014 **Hulbert JM**, Morrell JJ, Hansen EM. 2014\. _Potential of using boron for mitigation of Phytophthora ramorum in Douglas-fir logs_. International Research Group on Wood Protection 45th annual meeting. St. George, Utah. Oral Presentation.
++ 2014 **Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination: Science Communication for College Students_. American Association for the Advancement of Science Annual Meeting. Chicago, Illinois, Poster Presentation.
++ 2014 **Hulbert JM** 2014\. _The value of graduate-undergraduate mentorship programs_. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
++ 2014 **Hulbert JM**, Kamvar Z. 2014\. _Inspiration Dissemination: Science Communication for College Students_. Biennial Conference on University Education in Natural Resources Auburn University, Auburn, Alabama.
++ 2012 **Hulbert JM**, Morrell J, Hansen E. 2012\. _Chemical treatment to sanitize Phytophthora ramorum colonized timber products_. Western International Forest Disease Work Conference, Tahoe City, California. Oral Presentation.
++ 2011 Hansen E, **Hulbert JM**, Reeser P, Sutton W, Kanaskie A. 2011\. _Sudden larch death? Larch susceptibility to Phytophthora ramorum_. Western International Forest Disease Work Conference, Leavenworth Washington. Poster Presentation.
 \  
 
 ### International Conferences
 
-+ 2022 **Hulbert JM**. Citizen science approaches: mass participation or structured monitoring of invasive species.  International Plant Health Conference, London. [Recorded presentation](https://youtu.be/bvxTDj1ozZs). 
-+ 2019 **Hulbert JM**. Methods of public engagement in forest health research, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
-+ 2019 **Hulbert JM**, Burgess T, Roets F, Wingfield MJ. Non-scientist engagement in plant disease research in South Africa, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
-+ 2017 **Hulbert JM**, Burgess T, Roets F, Wingfield MJ. Public engagement to survey _Phytophthora_ in South Africa, IUFRO Working Party _Phytophthora_ in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.
-+ 2017 **Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. Citizen science initiatives: opportunities to manage global forest pest challenges, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.
-+ 2017 **Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. Cape Citizen Science: public engagement to detect and discover _Phytophthora_ species in South Africa, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.
-+ 2017 **Hulbert JM**, De Beer ZW, Wingfield MJ. Cape Citizen Science: public engagement for plant disease research in a biodiversity hotspot, International Botanical Congress, Shenzhen, China, Poster Presentation (not presenting author).
-+ 2014 **Hulbert JM**, Morrell JJ, Hansen EM. Wooden Vectors of *Phytophthora ramorum*: Are Douglas-fir Logs a Risk? Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
-+ 2012 Peterson E, **Hulbert JM**, Hansen EM. Roads and streams are not significant pathways for SOD spread in tanoak forests. 6th IUFRO _Phytophthora_ in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).
++ 2022 **Hulbert JM**. _Citizen science approaches: mass participation or structured monitoring of invasive species_.  International Plant Health Conference, London. [Recorded presentation](https://youtu.be/bvxTDj1ozZs). 
++ 2019 **Hulbert JM**. _Methods of public engagement in forest health research_, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
++ 2019 **Hulbert JM**, Burgess T, Roets F, Wingfield MJ. _Non-scientist engagement in plant disease research in South Africa_, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
++ 2017 **Hulbert JM**, Burgess T, Roets F, Wingfield MJ. _Public engagement to survey Phytophthora in South Africa_, IUFRO Working Party _Phytophthora_ in forests and natural ecosystems (7.02.09), Sapa, Vietnam. Oral Presentation.
++ 2017 **Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. _Citizen science initiatives: opportunities to manage global forest pest challenges_, IUFRO 125th Anniversary Congress, Freiburg, Germany. Oral Presentation.
++ 2017 **Hulbert JM**, Roux J, Burgess T, Roets F, Wingfield MJ. _Cape Citizen Science: public engagement to detect and discover Phytophthora species in South Africa_, IUFRO 125th Anniversary Congress, Freiburg, Germany. Poster Presentation.
++ 2017 **Hulbert JM**, De Beer ZW, Wingfield MJ. _Cape Citizen Science: public engagement for plant disease research in a biodiversity hotspot_, International Botanical Congress, Shenzhen, China, Poster Presentation (not presenting author).
++ 2014 **Hulbert JM**, Morrell JJ, Hansen EM. _Wooden Vectors of Phytophthora ramorum: Are Douglas-fir Logs a Risk?_ Seventh Meeting of the IUFRO Working Party 7.02.09 _Phytophthora_ in Forests and Natural Ecosystems, Esquel, Argentina. Poster Presentation (not presenting author).
++ 2012 Peterson E, **Hulbert JM**, Hansen EM. _Roads and streams are not significant pathways for SOD spread in tanoak forests_. 6th IUFRO _Phytophthora_ in Forest and Natural Ecosystems. Cordoba, Spain. Oral Presentation (not presenting author).
 \  
 
 ### South African Conferences
 
-+ 2018 **Hulbert JM**. Igniting conversations with community engagement: establishing citizen science projects in South Africa, Science Forum South Africa, Pretoria, South Africa. Oral Presentation.
-+ 2017 **Hulbert JM**, Roets FR. Indigenous plant pathogens and their contributions to plant community diversity, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
-+ 2017 **Hulbert JM**, Roets FR. Revealing hidden threats to fynbos biodiversity with citizen science, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
-+ 2017 **Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. Methods of surveying plant pathogens with citizen science, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.
-+ 2017 **Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.
-+ 2016 **Hulbert JM**, Agne MC, Roux J, Burges TI, Roets F, Wingfield MJ. Records of _Phytophthora_ invasions suggest that early detection programs should focus on urban environments, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Non-native species in urban environments: patterns, processes, impacts and challenges_, Stellenbosch, South Africa. Oral Presentation.
-+ 2016 **Hulbert JM**. Monitoring invasive species with citizen science: an international review, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.
-+ 2015 **Hulbert JM**. Early detection and monitoring of invasive plant pests with citizen science, DST-NRF Centre of Excellence for Invasion Biology Workshop, _Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management_, Stellenbosch, South Africa. Oral Presentation.
++ 2018 **Hulbert JM**. _Igniting conversations with community engagement: establishing citizen science projects in South Africa_, Science Forum South Africa, Pretoria, South Africa. Oral Presentation.
++ 2017 **Hulbert JM**, Roets FR. _Indigenous plant pathogens and their contributions to plant community diversity_, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
++ 2017 **Hulbert JM**, Roets FR. _Revealing hidden threats to fynbos biodiversity with citizen science_, Fynbos Forum, Swellendam, South Africa. Oral Presentation.
++ 2017 **Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. _Methods of surveying plant pathogens with citizen science_, South African Society for Plant Pathology, 50th anniversary meeting, Champagne Sports Resort, KwaZulu-Natal Province, South Africa. Oral Presentation.
++ 2017 **Hulbert JM**, Roux J, Burgess TI, Roets F, Wingfield MJ. _Public engagement in South Africa's ecological research: the 'how' and 'why' of citizen science_, South African Association of Botanists, Annual Meeting, Cape Town, South Africa. Oral Presentation.
++ 2016 **Hulbert JM**, Agne MC, Roux J, Burges TI, Roets F, Wingfield MJ. _Records of Phytophthora invasions suggest that early detection programs should focus on urban environments_, DST-NRF Centre of Excellence for Invasion Biology Workshop, Non-native species in urban environments: patterns, processes, impacts and challenges, Stellenbosch, South Africa. Oral Presentation.
++ 2016 **Hulbert JM**. _Monitoring invasive species with citizen science: an international review_, Joint South African Association of Botanists-Southern Africa Society for Systematic Biology Conference, Bloemfontein, South Africa. Oral Presentation.
++ 2015 **Hulbert JM**. _Early detection and monitoring of invasive plant pests with citizen science_, DST-NRF Centre of Excellence for Invasion Biology Workshop, Evolutionary Dynamics of tree invasions: drivers, dimensions, and implications for management, Stellenbosch, South Africa. Oral Presentation.
 \ 
 
 ### Symposia
@@ -445,7 +456,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Seminars and Lab Meetings
 
-+ 2023 Washington State University, Department of Plant Pathology Fall Seminar Series, _Citizen science and biosecurity- opportunities for plant disease monitoring and research_
++ 2023 Washington State University, Department of Plant Pathology Fall Seminar Series, _Citizen science and biosecurity- opportunities for plant disease monitoring and research_.
 + 2022 Washington State University, Department of Plant Pathology Fall Seminar Series, _Research needs for mitigating the emergence of sooty bark disease in the Pacific Northwest_ (Virtual Presentation).
 + 2021 USDA Forest Service, Forest Health and Protection (Region 6), monthly forest pathology meeting, _Sooty Bark Disease: climate change ‘time bomb’ in many broadleaf trees in the PNW_ (Virtual Presentation).
 + 2021 Washington State University, Department of Plant Pathology Spring Seminar Series, _Forest Health Watch: community engagement for healthy forests_ (Virtual Presentation).
@@ -453,11 +464,11 @@ Dept. of Plant Pathology, Washington State University,
 + 2020 Washington State University, Forestry Working Group meeting, _Forest Health Watch and the WSU forestry community_ (Virtual Presentation).
 + 2020 Washington State University, 4-H Eco-Stewards Program meeting, _Forest Health Watch - community science in the Pacific Northwest_ (Virtual Presentation).
 + 2020 University of Pretoria, Forestry and Agricultural Biotechnology Institute, _A quest for plant destroyers in the Cape Floristic Region: a story of the growth of an indigenous-plant pathologist_ (PhD Prestige Seminar). 
-+ 2018 Stellenbosch University, Dept. of Conservation Ecology and Entomology, Roets, Oberlander, and Dryer Join Lab Meeting, _The Cape Town Hypothesis Test._
++ 2018 Stellenbosch University, Dept. of Conservation Ecology and Entomology, Roets, Oberlander, and Dryer Join Lab Meeting, _The Cape Town Hypothesis Test_.
 + 2017 University of Pretoria, Forestry and Agricultural Biotechnology Institute, Thursday Morning Seminar Series, _The trade of live plants in Africa: a risk to tree health?_
-+ 2016 University of Pretoria, Forestry and Agricultural Biotechnology Institute, Research Discussion Seminar, _The role of scientists in society: developing a responsible protocol in case we discover an internationally regulated plant pathogen._
++ 2016 University of Pretoria, Forestry and Agricultural Biotechnology Institute, Research Discussion Seminar, _The role of scientists in society: developing a responsible protocol in case we discover an internationally regulated plant pathogen_.
 + 2016 University of Pretoria, Dept. of Plant and Soil Science, Fall Seminar Series, _Citizen science tools available for phytogeographical research in South Africa_.
-+ 2016 Stellenbosch University, Dept. of Plant Pathology, Friday Forum Seminar Series, _Cape Citizen Science: community engagement to survey Phytophthora species in the fynbos._
++ 2016 Stellenbosch University, Dept. of Plant Pathology, Friday Forum Seminar Series, _Cape Citizen Science: community engagement to survey Phytophthora species in the fynbos_.
 + 2016 University of Pretoria, Forestry and Agricultural Biotechnology Institute, Thursday Morning Seminar Series, _Methods of sampling Phytophthora with citizen science_.
 + 2015 Oregon State University, Dept. of Botany and Plant Pathology, Spring Seminar Series, _Crowdfunding and citizen science applications in biology_.
 + 2013 Oregon State University, Dept. of Wood Science & Engineering, Spring Seminar Series, _Using wood science to mitigate the impact of Sudden Oak Death_.
@@ -465,7 +476,9 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Invited Talks
 
-+ 2023 Canadian Phytopathological Society, British Columbia Regional Meeting. Keynote: _Sharing the responsibility of biosecurity: engaging communities in plant disease monitoring_ (Virtual Presentation).
++ 2024 Climate Impacts Group, Lunch and Learn, _Trees and urban heat in the Northwest_, University of Washington, Seattle, Washington.
++ 2024 Green River College Forestry and Natural Resources Seminar, _Forest Health Issues, Research and Student Opportunities in Washington_.
++ 2023 Canadian Phytopathological Society, British Columbia Regional Meeting. **Keynote**: _Sharing the responsibility of biosecurity: engaging communities in plant disease monitoring_ (Virtual Presentation).
 + 2023 Environmental Justice Week, Highline College, _Urban forest equity and tree health in the Pacific Northwest_.
 + 2023 Washington Invasive Species Council Meeting, September. _Summary of the 2023 Invasive Species Workshop and Webinars for Tribal Audiences_
 + 2023 Palouse Discovery Science Center, Science Pub _Community minded scholarship: empowering people to address concerns with community science_. 
@@ -522,10 +535,9 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Public Presentations
 
-
-+ 2022 Forest Health Watch, Tacoma Community Science Introduction (Virtual Presentation).
-+ 2022 Washington State University, Forest Health Watch. Sooty Bark Disease Bi-Monthly Information Sessions (Virtual Presentation). 
-+ 2022 Forest Health Watch, Monthly Research Updates (Virtual Presentations).
++ 2022 Forest Health Watch, _Tacoma Community Science Introduction_ (Virtual Presentation).
++ 2022 Washington State University, Forest Health Watch. _Sooty Bark Disease Bi-Monthly Information Sessions_ (Virtual Presentation). 
++ 2022 Forest Health Watch, _Monthly Research Updates_ (Virtual Presentations).
 + 2022 Washington State University, WSU Forestry Webinar, Western Redcedar Diebak Webinar [_Community science to advance knowledge and learning about western redcedar dieback_](https://www.youtube.com/watch?v=reWd-pzg1qA) (Virtual Presentation).
 + 2022 Washington State University, _Forest Health Watch - Collaborator Update Meetings (2 events)_ (Virtual Presentation).
 + 2021 Tacoma Tree Foundation, Growing Skills Webinar Series, _Tracking sooty bark disease in the Pacific Northwest_ (Virtual Presentation).
@@ -582,9 +594,14 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Promotional Table Events
 
++ 2024 WSU Puyallup Research and Extension Center Programming, Spring Fair, Puyallup, Washington.
++ 2024 Forest Health Watch, South Sound Sustainability Fair, Tacoma, Washington.
++ 2024 Forest Health Watch, Oregon Tree School Clackamas, Clackamas Community College, Oregon City, Oregon.
++ 2024 WSU Ravenholt Urban Forest Health Lab, WSU Small Forest Landowner's Winter School, Green River College, Auburn, Washington.
++ 2023 WSU INVASIVES-R Project, Affiliated Tribes of Northwest Indians, Winter Convention, Portland, Oregon.
 + 2023 WSU Puyallup Research and Extension Center, Tomanamus Community Day, Muckleshoot Indian Tribe, Green Water, Washington.
 + 2023 Forest Health Watch, Fall State Fair - NW Outdoors Exhibit, Puyallup, Washington.
-+ 2023 WSU INVASIVES-R Project, Affiliated Tribes of Northwest Indians, 
++ 2023 WSU INVASIVES-R Project, Affiliated Tribes of Northwest Indians, Annual Convention, Confederated Tribes of Chehalis Indian Reservation, Great Wolf Lodge, Grand Mound, WA.
 + 2023 WSU INVASIVES-R Project, Northwest Intertribal Agricultural Council Regional Meeting, Pendleton Oregon.
 + 2023 Forest Health Watch, Tacoma Garden Festival, Tacoma, Washington.
 + 2023 Forest Health Watch, South Sound Sustainability Fair, Tacoma, Washington.
@@ -609,8 +626,19 @@ Dept. of Plant Pathology, Washington State University,
 ## Stakeholder Engagement 
 ### Presentations
 
++ 2024 United States Botanical Garden (DC) Hosted Webinar, Plants and Climate Change Education (PLACCE) session, [_Community Science for Forest Health with Dr. Joey Hulbert and Nina Avila_](https://www.youtube.com/watch?v=e_1Bc0DgufY) (Virtual Presentation).
++ 2024 Washington Naturalists, _Forest Health Watch - keeping trees healthy together_, Washington State University  (Virtual Presentation).
++ 2024 Online Workshops and Webinars for Tribal Audiences, _Enriching tribal management and resilience to invasive species with co-designed educational resources_, (Virtual Presentation). 
++ 2024 Online Workshops and Webinars for Tribal Audiences, _Keeping berry patches healthy- invasive species threats to Vaccinium species_, (Virtual Presentation). 
++ 2024 Online Workshops and Webinars for Tribal Audiences, _Invasive species impacts, options and resources_, (Virtual Presentation). 
++ 2024 Oregon Tree School Clackamas, _Forest Health Watch - keeping trees healthy together_, Oregon City, Oregon.
++ 2024 King County Rural Forest Commission _Forest health issues and research in Western Washington_ (Virtual Presentation). 
++ 2024 WSU Small Forest Landowner Winter School, _Western redcedar dieback: updates from WSU research_ Green River College, Auburn, Washington. 
++ 2024 USDA APHIS Emergency Preparedness Training, _Enriching tribal management and resilience to invasive species with co-designed educational resources_ Quinault Indian Nation, Ocean Beach, Washington (Virtual Presentation).
++ 2024 Northwest Natural Resources Group, Fireside Chat, _Backyard citizen science opportunities in the Northwest_
++ 2024 Tacoma Public Schools, Climate Action Group, _Trees and urban heat in Tacoma_
 + 2023 Forest Health Watch, November Collaborator Updates (3 meetings with presentations)
-+ 2023 Annual Training Conference, Pacific Northwest Chapter of the International Society of Arboriculture, _Western redcedar dieback in the urban environment, Tacoma, Washington_.
++ 2023 Annual Training Conference, Pacific Northwest Chapter of the International Society of Arboriculture, _Western redcedar dieback in the urban environment_, Tacoma, Washington.
 + 2023 Intertribal Agriculture Council, Pacific Northwest Region Meeting, _No-cost educational materials to amplify awareness and mitigate the impacts of invasive species_.
 + 2023 Washington State University Extension Western Washington Family Field Day, _Emerging Diseases in the Pacific Northwest_.
 + 2023 Cascadia User Group of Open Source (CUGOS) meeting, _Western redcedar dieback: open analyses of open data_, Seattle, Washington.
@@ -665,10 +693,11 @@ Dept. of Plant Pathology, Washington State University,
 
 ### WSU Puyallup REC Tours
 
++ 2024 Northwest Youth Corps, Tacoma Urban Community Forestry Spring Crews.
++ 2024 Tacoma Community College, Environmental Science students, Spring.
 + 2023 Tacoma Community College, Environmental Science students, Fall.
-+ 2023 Pacific Lutheran University, Botany students
-+ 2023 Tacoma Community College, Environmental Science students, Spring. 
-+ 2023 Tacoma Community College, Math Engineering and Science Achievement (MESA) students.
++ 2023 Pacific Lutheran University, Botany course students
++ 2023 Tacoma Community College, Environmental Science students, Spring. + 2023 Tacoma Community College, Math Engineering and Science Achievement (MESA) students.
 + 2022 Conservation District Foresters.
 + 2022 Pierce County Americorps Crew.
 + 2022 City of Tacoma, Washington Conservation Corps Crew.
@@ -678,7 +707,7 @@ Dept. of Plant Pathology, Washington State University,
 + 2023 Issaquah Alps Trail Club, Northwest Tiger Mountain, Issaquah, Washington.
 + 2022 Tacoma Tree Foundation, Redcedar walk, Swan Creek, Tacoma, Washington.
 + 2022 Issaquah Alps Trail Club, Squak Mountain, Issaquah, Washington.
-+ 2023 Issaquah Alps Trail Club, North Tiger Mountain, Highline Trail, Issaquah, Washington.
++ 2022 Issaquah Alps Trail Club, North Tiger Mountain, Highline Trail, Issaquah, Washington.
 + 2021 Transition Fidalgo and Friends, Anacortes, Washington.  
 
 ### Plant Health Workshops
@@ -699,9 +728,10 @@ Dept. of Plant Pathology, Washington State University,
 + 2016 South Africa National Biodiversity Institute, _Introduction to Phytophthora: plant destroyers in South Africa_, Kirstenbosch National Botanical Garden, Kirstenbosch Garden Office, Cape Town.
 
 ## Mentorship and Supervision
-
+  
+  + 2024 Isaih Montejano. Full-time Lab and Field technician. 
   + 2023 Jah'Niya Myers. Internship Project (Senior), College of Agricultural, Human, and Natural Resource Sciences Internship Program, Washington State University 
-  + 2023 Anne Marie Ring. Part-time Summer lab and field technician, University of Puget Sound Biology and Geography undergraduate student. 
+  + 2023 Anne Marie Ring. Part-time Summer Lab and Field technician, University of Puget Sound Biology and Geography undergraduate student. 
   + 2022 Noah Willards. Part-time Lab Technician and prospective graduate student. 
   + 2022 Fig Dewitz. Part-time Lab and Field Technician. 
   + 2022 Taylor McNees. Capstone Project and Lab Technician, Microbiology, University of Washington Tacoma
@@ -734,8 +764,7 @@ Dept. of Plant Pathology, Washington State University,
 ## Mentorship Outcomes
 
  + McNees T, **Hulbert JM**, Elliott M, Chastagner G. 2023. Sooty bark disease of bigleaf maple: A microscopic threat to the world’s largest maple species, Puyallup Watershed Symposium. 
- + McNees T, NSF Graduate Research Fellowship proposal: Population genomics of _Cryptostroma corticale_.  
- + Arte H, White E, Felthoven L, Gaither A, Billo T, McDonald S, **Hulbert JM** (Manuscript in Prep). Western redcedar dieback is associated with urban heat in King County Washington.
+ + McNees T 2023. NSF Graduate Research Fellowship Proposal: Population genomics of _Cryptostroma corticale_.  
   + Olson J, Vonberckefeldt N, **Hulbert JM** 2022. Oomycete communities associated with redcedar on Green River College campus, Green River College Capstone Presentation.
   + Vardishvili D, Shrader K, Harvey S, **Hulbert J**, Chastagner G. 2022. Post-harvest hydration treatment effects on the vase life of Peonie, Washington State University, Summer Undergraduate Research Symposium. (Poster Presentation.) 
   + Gaither A, Billo T, **Hulbert JM** 2022. Redcedar dieback and urban heat in Renton, Environmental Studies Capstone Project Presentations, University of Washington. Poster Presentation. 
@@ -777,6 +806,9 @@ for Tribal Environmental Professionals, Northern Arizona University.
   + [WSU Invasive Project - USDA APHIS Project # 5.0595](https://www.youtube.com/channel/UC8NuFF3nLpTwEvOSAy_I8LQ)
   + [WSU Ravenholt Urban Forest Health Lab](https://www.youtube.com/channel/UC8NuFF3nLpTwEvOSAy_I8LQ)
 
+### YouTube Playlists
+  + [Forest Health Watch](https://www.youtube.com/playlist?list=PLThL8bVy43vHk-Mf5a6jPa8qWY_Sd-hx1)
+
 ### Video Production
 
   + 2021 Western Redcedar Dieback Research and Community Science at Washington State University. [YouTube](https://youtu.be/mePe0T5m3oY).
@@ -810,8 +842,10 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ## Selected Popular Writing
 
- + Hulbert JM. 2023. [Maple health watch - community scientists needed](https://foreststewardshipnotes.wordpress.com/2023/06/07/maple-health-watch-community-scientists-needed/), Forest Stewardship Notes, Washington Department of Natural Resources.
- + Zobrist K, Shults P, Hulbert JM. 2022. Focus on: emerald ash borer, WSU Puget Sound Extension Forestry Fall E-Newsletter.
+  + Dewitz F, Hulbert JM. 2024 [Ten Priority Schools for Tree Planting in Tacoma](https://tacomatreefoundation.org/blog/ten-priority-shools-need-trees), Tacoma Tree Foundation Blog.
+  + Hulbert JM. 2023 [Healthy maples, healthy communities](https://tacomatreefoundation.org/blog/healthy-maples-and-communities), Tacoma Tree Foundation Blog.
+  + Hulbert JM. 2023. [Maple health watch - community scientists needed](https://foreststewardshipnotes.wordpress.com/2023/06/07/maple-health-watch-community-scientists-needed/), Forest Stewardship Notes, Washington Department of Natural Resources.
+  + Zobrist K, Shults P, Hulbert JM. 2022. Focus on: emerald ash borer, WSU Puget Sound Extension Forestry Fall E-Newsletter.
   + Zobrist K, Shults P, Hulbert JM. 2022. [Washington residents should anticipate impacts from emerald ash borer ](https://foreststewardshipnotes.wordpress.com/2022/10/03/washington-residents-should-anticipate-impacts-from-emerald-ash-borer/), Forest Stewardship Notes, Washington Department of Natural Resources.
   + Hulbert JM. [Community scientists needed for western redcedar dieback research](https://www.mtnativeplants.org/wp-content/uploads/2021/10/Kelseya-v-34-4.pdf). Kelseya, Montana Native Plant Society, Volume 34, Issue 4, Summer 2021.
   + Hulbert JM. [Forest Health Watch – Opportunities to contribute to research and strengthen our biosecurity](https://online.flippingbook.com/view/868811809/22-23/). PNW ISA Trees, Spring Issue 2021.
@@ -838,6 +872,9 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ### Articles
 
+  + Angela Sams. 2024 [WSU partners with local community colleges to enhance urban forests](https://news.cahnrs.wsu.edu/article/wsu-partners-with-local-community-colleges-to-enhance-urban-forests/), WSU CAHNRS News. 
+  + Simone Carter. 2024. [These 10 Tacoma schools could benefit the most from planting more trees, study shows](https://www.thenewstribune.com/news/local/article287501240.html), Tacoma News Tribune.
+  + Craig Salor. 2024. [Tacoma gets $1.3 million to plant more trees in effort to protect kids, cool the city](https://www.thenewstribune.com/news/local/article286055601.html), Tacoma News Tribune.
   + Wenda Reed. 2023. [High and dry for a NW icon?](https://www.magcloud.com/webviewer/2562319), Washington State Magazine, Fall 2023.
   + Seth Truscott. 2023. [WSU sentinel plantings to guard against invasive pests, diseases at Washington ports](https://news.cahnrs.wsu.edu/article/wsu-sentinel-plantings-to-guard-against-invasive-pests-diseases-at-washington-ports/), WSU CAHNRS News
   + Joe Roberts. 2023. [Engaging the curious: WSU Extension educates and empowers citizen scientists](https://news.cahnrs.wsu.edu/article/engaging-the-curious-wsu-extension-educates-and-empowers-citizen-scientists/), WSU CAHNRS News
@@ -871,6 +908,7 @@ for Tribal Environmental Professionals, Northern Arizona University.
 
 ### Radio Interviews
 
+  + NPR KUOW 94.9fm Seattle Washington [Port of Tacoma investigates new weapon to counter alien invasions](https://www.kuow.org/stories/port-of-tacoma-investigates-new-weapon-to-counter-alien-invasions), John Ryan. June 15, 2023.
   + NPR KNKX 88.5 Tacoma Washington, Sooty bark disease vulnerability study, July 12, 2022.
   + KBCS 91.3 Bellevue Washington, [The Redlined Western Redcedar Study Project](https://www.kbcs.fm/2021/11/18/the-redlined-western-red-cedar-study-project/), November 18, 2021.
   + [treehugger podcast](https://www.treehuggerpod.com/), Forest health and climate change (in production)
