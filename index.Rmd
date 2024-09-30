@@ -38,6 +38,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Academic Appointments
 
++ 2024-2025. **Career Track Assistant Research Professor**, Department of Plant Pathology, Washington State University.
 + 2022-2024. **Postdoctoral Research Associate**, WSU Puyallup Research and Extension Center, Washington State University.
 + 2020-2022. **USDA NIFA Postdoctoral Fellow**, Ornamental Plant Pathology, WSU Puyallup Research and Extension Center, Washington State University.
 
@@ -50,6 +51,8 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Initiatives
 
++ 2024- PI, _Equitable Urban Forest Internship Program_ ([https://treehealth.wsu.edu/internship](https://treehealth.wsu.edu/internship)), Washington State University, USDA Forest Service Inflation Reduction Act Urban and Community Forestry Grant. 
++ 2024- PI _Western Redcedar Parks Study (long term tree monitoring program)_ [iNaturalist Project](https://www.inaturalist.org/projects/western-redcedar-parks-study), Washington State University and MetroParks Tacoma.
 + 2022- PI, _Ravenholt Urban Forest Health Lab_ ([https://treehealth.wsu.edu/](https://treehealth.wsu.edu/)), Washington State University, Albert Victor Ravenholt Fund. 
 + 2020- Program Director, _Forest Health Watch_ ([https://foresthealth.org/](https://foresthealth.org/)), Washington State University, United States Department of Agriculture, National Institute of Food and Agriculture.
 + 2022- Project Director, _USDA APHIS PPA 7721 Invasive Species Outreach for Tribes_ ([https://extension.wsu.edu/invasive-species](https://extension.wsu.edu/invasive-species)), Washington State University.
@@ -62,12 +65,14 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Community Service
 
-+ 2021-2024 Volunteer, Nature and Environment Council, MetroParks Tacoma
-+ 2021  Member, Pierce County Community Engagement Task Force 
-+ 2021  Volunteer Mechanic, Second Cycle, Tacoma, Washington
-+ 2020-2021 Voting Member, Puyallup Watershed Initiative, Forest Community of Interest
-+ 2018  Volunteer Mechanic, Palouse Bicycle Collective, Moscow, Idaho
-+ 2014-2015 Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon
++ 2024- Core Member, City of Tacoma, Forest and Cities Network.
++ 2024 Urban Forest Management Plan Advisory Council, MetroParks Tacoma. 
++ 2021-2027 Volunteer, Nature and Environment Council, MetroParks Tacoma.
++ 2021  Member, Pierce County Community Engagement Task Force.
++ 2021  Volunteer Mechanic, Second Cycle, Tacoma, Washington.
++ 2020-2021 Voting Member, Puyallup Watershed Initiative, Forest Community of Interest.
++ 2018  Volunteer Mechanic, Palouse Bicycle Collective, Moscow, Idaho.
++ 2014-2015 Volunteer Shop Manager, Corvallis Bicycle Collective, Corvallis, Oregon.
 
 ## Publications 
 ### Book Chapters
@@ -109,7 +114,7 @@ Dept. of Plant Pathology, Washington State University,
   
 ### Manuscripts in Prep
 
-  + **Hulbert JM** and others (in prep). Dieback of western redcedar increases with urban heat. 
+  + **Hulbert JM** and others (in prep). Western redcedar dieback increases with urban heat. 
   + **Hulbert JM**, Elliott M, McNees T, Chastagner G (in prep). Stakeholder engagement increases knowledge of distribution and host range of _Cryptostroma corticale_.
     + **Hulbert JM** and others (in prep). Community science reveals important environmental factors associated with western redcedar dieback. 
 
@@ -117,18 +122,20 @@ Dept. of Plant Pathology, Washington State University,
 ### Extension Fact Sheets
  
   + Dewitz F, Darr M, Murray T, Zobrist K, Kohler G, **Hulbert J**. In Prep. Bronze Birch Borer. 
-  + Dewitz F, Darr M, Murray T, Zobrist K, Kohler G, **Hulbert J**. In Prep. Mediterranean Oak Borer. 
+  + Dewitz F, Darr M, Murray T, Zobrist K, Kohler G, **Hulbert J** (submitted). Mediterranean Oak Borer. 
  + Zobrist KW, Bomberger RA, Glass J, **Hulbert JM**, Darr M, Roberts E. 2023. [Managing emerald ash borer in Washington State](https://pubs.extension.wsu.edu/managing-emerald-ash-borer-in-washington-state), WSU Extension Fact Sheet FS384.
   + Zobrist KW, Bomberger RA, Glass J, Marquis J, **Hulbert JM**, Darr M, Roberts E, (accepted). [Emerald Ash Borer and its implications for Washington State](https://pubs.extension.wsu.edu/emerald-ash-borer-and-its-implications-for-washington-state), WSU Extension Manual EM127.
   + Brooks R, **Hulbert JM**, Omdall D, Elliott M, Chastagner GA 2022. [Sooty Bark Disease Diagnostic Guide](https://pubs.extension.wsu.edu/sooty-bark-disease-diagnostic-guide), WSU Extension Fact Sheet FS375E.
 
 ### ArcGIS Story Maps
  
+  + **Hulbert JM** Avila N, Nicholson M, Bridges C, Schreiber B, Agne M, Dewitz F. (External Review). [Western redcedar and urban heat in Portland, Oregon.](https://storymaps.arcgis.com/
   + Dewitz F, **Hulbert JM**. 2023. [Tacoma schools, urban heat and trees](https://storymaps.arcgis.com/stories/0b8e2570da4a47d3a6ffb0907b738cea)
   + **Hulbert JM**, Elliott JM, Chastagner G. 2023. [*Phytophthora* communities in eastern Cascade waterways](https://storymaps.arcgis.com/stories/af79904ceee04d019c8db5699819aaea)
 
 ### Community Science Field Guides
 
+  + Dewitz F, **Hulbert JM**. 2024. [Sword Fern Soil Sample Collection Guide](https://foresthealth.org/wp-content/uploads/2024/08/Sword-Fern-Field-Sampling-Protocolv2.pdf)
   + Dewitz F, **Hulbert JM**. 2023. [Maple Health Watch Research - iNaturalist and Sample Collection Field Manual](https://foresthealth.org/wp-content/uploads/2023/05/Maple-Health-Watch-Maple-Health-Watch.pdf).
   + **Hulbert JM** 2022. [Soil Sample Collection Guide](https://foresthealth.org/wp-content/uploads/2023/01/Soil-Sample-Collection-Guide.pdf).
   + **Hulbert JM**, Dewitz F. 2022. [Tacoma Street Tree Vulnerability Study iNaturalist - Field Manual](https://foresthealth.org/wp-content/uploads/2022/11/Tacoma-Street-Tree-Vulnerability-Study-Guide-1.pdf). 
@@ -181,11 +188,18 @@ Dept. of Plant Pathology, Washington State University,
 + 2020 **Co-PI**, _Stream survey of Phytophthora spp. present in Pacific Northwest larch forests considered to be high risk for P. ramorum_ establishment_. USDA Forest Service Emerging Pests program **($35,910)**. 
 + 2020 **Cooperator/Proposal Author**, _Lateral movement of Phytophthora ramorum in nursery substrates_. USDA APHIS PPQ PPA Section 7721 **($48,582)**. 
 
+#### Pending
+
++ 2024 **PI**, _Enhancing Tribal resilience to invasive species with co-designed educational materials_. USDA APHIS PPQ PPA Section 7721. **($88,253)**.
++ 2024 **Co-PI**, _Agriculture Biosecurity: Enhancing Biosecurity by Linking Invasive Species Models with Community Science_. USDA AFRI Foundational Grants **($649,002)**.
++ 2024 **Co-PI**, _Enhancing Capacity Among Northwest Tribes and Extension to Promote Climate-Smart Forestry_. USDA AFRI Foundational Grants (pass-through).  **($155,000)**.
++ 2024 **PI**, _Forest Health Watch first detector program_. USDA APHIS PPQ PPA Section 7721. **($86,080)**.
++ 2024 **PI**, _Safeguarding Tribal plant nurseries with educational activities and resources_. USDA APHIS PPQ PPA Section 7721. **($112,483)**.
++ 2023 **Co-PI**, _Early detection and monitoring of C. corticale with spore trapping and qPCR_. USDA Forest Service Special Technology Development Program **($83,823)**.
 
 #### Submitted
 
 + 2024 **PI**, _Leveraging the Forest Health Watch network to pilot a seed collection program for conserving western redcedar_ USDA Forest Service Participatory Sciences Grant **($19,912)**.
-+ 2023 **Co-PI**, _Early detection and monitoring of C. corticale with spore trapping and qPCR_. USDA Forest Service Special Technology Development Program **($83,823)**.
 + 2023 **PI**, _Engaging community college students in tree inventory and monitoring blitzes in Washington State _. USDA Forest Service, Bipartisan Infrastructure Law **($285,000)**.
 + 2023 **PI**, _Washington Statewide Campus Tree Blitz_ **($40,000)**.
 + 2022 **Co-PI**, _Schools as oases in urban heat islands: addressing urban forest equity through school and community partnerships and research_. National Science Foundation, Civic Innovation Challenge **($48,653)**.
@@ -200,9 +214,14 @@ Dept. of Plant Pathology, Washington State University,
 
 + 2022 **PI**, _Ravenholt Urban Forest Health Lab_, Albert Victor Ravenholt Fund **($270,000)**.
 
+#### Pending
+
++ 2024 **Co-PI**, _Engaging Tribal, Conservation District, NGO, and Local Government Entities on Plant Holding Facilities Management_. Bonneville Environmental Foundation (pass-through). **($29,194)**
++ 2024 **PI**, _Enhancing Urban Forest Planning and Practices in the Pacific Northwest with Online Activities and Resources_ Frank & Evelyn Schmidt Family Foundation **(40,000)**.
++ 2024 **PI**, _Enhancing the Impact and Capacity of WSU’s Outreach Activities with New Technologies_ Bamford Foundation **($15,000)**
+
 #### Submitted
 
-+ 2024 **PI**, _Enhancing the Impact and Capacity of WSU’s Outreach Activities with New Technologies_ Bamford Foundation **($15,000)**
 + 2024 **PI**, _Mediterranean Oak Borer surveillance and trapping with community science_ Sustainable Path Foundation **($15,000)**
 + 2024 **PI**, _Washington State University - Forest Health Watch Mobile Science Laboratory_ Ben B. Cheney Foundation **($100,000)**
 + 2024 **PI**, _Placing next-generation sequencing tools in the hands of disadvantaged youth_ Extension Foundation **($20,000)**
@@ -242,6 +261,7 @@ Dept. of Plant Pathology, Washington State University,
 ## Academic Honors & Awards
 
 + 2024 Travel Award, Department of Plant Pathology
++ 2024 Bronze Award for long publication, (*EAB and its implications in Washington State*), Association of Natural Resource Extension Professionals 
 + 2019 Getting the Message to the Public, Forestry and Agricultural Biotechnology Institute
 + 2018 Travel Fund, British Society for Plant Pathology
 + 2018 Stephen A. Johnston Student Travel Award, American Phytopathological Society
@@ -288,12 +308,13 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Guest Lectures
 
-+ 2024 Pacific University, Plant Pathology Lecture, _Forest Health - Issues, Research and Student Opportunities._
++ 2024 Pacific University, Plant Pathology Lecture, _Forest health - issues, research and student opportunities._
 + 2023 Washington State University, Department of Plant Pathology, General Plant Pathology (PLP 429) Lecture, _Forest Pathology - tree health issues in the Pacific Northwest._
 + 2023 Washington State University, School of the Environment, Disturbance Ecology (SOE 485) Lecture, _Forest Pathology in the Pacific Northwest._
 + 2023 Highline Community College, Botany and Evolution, _Urban forests, tree health, equity and community science_ (two lectures).
++ 2023 Pacific University, Plant Pathology Lecture, _Western redcedar dieback and research and student opportunities._
 + 2023 University of Puget Sound, Research Methods, _Tacoma community science, western redcedar health as indicators of inequities_.
-+ Green River College, Forest Ecology, On-Campus Lab instruction, _Western redcedar dieback on Green River Campus._
++ 2023 Green River College, Forest Ecology, On-Campus Lab instruction, _Western redcedar dieback on Green River Campus._
 + 2023 University of Washington Tacoma, Environmental Science, _Urban forest health and community science in Tacoma_.
 + 2022 Washington State University, Plant Pathology (PLP 429) _Forest Pathology - Tree health issues in the Pacific Northwest_.
 + 2022 Pierce College, Cell Biology, _Stream sampling for Phytophthora_ (2 classes, two field lessons and one lab visit).
@@ -336,6 +357,7 @@ Dept. of Plant Pathology, Washington State University,
   + Invasion / Disturbance Ecology
   + Forest Health and Protection
   + Forest Pathology
+  + Forest Entomology
   + Methods of Citizen and Community Science
 
 ## Event Organization
@@ -357,7 +379,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Conferences
 
-+ 2024 Session Coordinator, _Public engagement to keep urban trees and communities healthy_, IUFRO 26th World Congress, Stockholm, Sweeden. 
++ 2024 Session Coordinator, _Public engagement to keep urban trees and communities healthy_, IUFRO 26th World Congress, Stockholm, Sweden. 
 + 2022 Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://pnwcitsci.org/), Online Conference, Zoom.
 + 2022 Session Chair, Collaboration and Community Science, Human-Nature Systems, Salish Sea Ecosystem Conference. Online Conference, Zoom.
 + 2021 Conference Co-Organizer, [_Pacific Northwest Citizen Science Summit_](https://www.eventbrite.com/e/pnw-citizen-science-summit-tickets-167104687619), Online Conference, Zoom.
@@ -369,6 +391,8 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Invited Panel Participation
 
++ 2024 _Plant Procurement and Propagation Resources for Tribes_, Intertribal Nursery Council Meeting, Grand Ronde, Oregon.
++ 2024 _Community Science for Forest Health: A Plants and Climate Change Education (PLACCE) Conversation_, American Public Gardens.
 + 2023 _Bringing Youth Outside_, Healing Connections: Nature and Wellness Symposium.
 + 2023 _Climate Migration Workshop_, Human Centered Design and Engineering, University of Washington.
 + 2022 _Professional Q&A_, Northwest Innovative Forestry Summit, Forest Guild, UW Pack Forest, Eatonville, Washington. 
@@ -380,6 +404,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### North American Conferences
 
++ 2024 **Hulbert JM**, Elliott M, Chastagner G. _Community science links redcedar tree health to urban heat_. Conference for Advancing Participatory Sciences, Association for Advancing Participatory Sciences. 
 + 2024 Avila N, Bridges C, **Hulbert JM**. _Exploring the layers of science and communites impacted by climate change through the lens of tree health_. Urban Ecology and Conservation Symposium, Urban Ecosystem Research Consortium, Reed College, Portland, Oregon (not presenting author).
 + 2023 **Hulbert JM**, _Community engagement, Oomycetes and western redcedar dieback_, American Phytopathological Society annual conference, Denver, Colorado. 
 + 2023 **Hulbert JM**, _Community engagement for healthy forests_, Western International Forest Disease Work Conference, Sonoma, California.
@@ -412,6 +437,9 @@ Dept. of Plant Pathology, Washington State University,
 
 ### International Conferences
 
++ 2024 **Hulbert JM**, Elliott M, Chastagner G. _Community engagement can enhance biosecurity_, IUFRO XXVI World Congress, Stockholm, Sweden. Oral Presentation.
++ 2024 **Hulbert JM**, Elliott M, Chastagner G. _Tree health and urban heat: engaging communities to study urban forest disparities_, IUFRO XXVI World Congress, Stockholm, Sweden. Poster Presentation.
++ 2024 **Hulbert JM**, Elliott M, Chastagner G. _Community engagement to accelerate research and learning about the dieback of western redcedar_, IUFRO XXVI World Congress, Stockholm, Sweden. Oral Presentation.
 + 2022 **Hulbert JM**. _Citizen science approaches: mass participation or structured monitoring of invasive species_.  International Plant Health Conference, London. [Recorded presentation](https://youtu.be/bvxTDj1ozZs). 
 + 2019 **Hulbert JM**. _Methods of public engagement in forest health research_, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
 + 2019 **Hulbert JM**, Burgess T, Roets F, Wingfield MJ. _Non-scientist engagement in plant disease research in South Africa_, IUFRO XXV World Congress, Curitiba, Brazil. Oral Presentation.
@@ -456,6 +484,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Seminars and Lab Meetings
 
++ 2024 Green River College, Natural Resource Seminar, _Forest health issues, research, and student opportunities_.
 + 2023 Washington State University, Department of Plant Pathology Fall Seminar Series, _Citizen science and biosecurity- opportunities for plant disease monitoring and research_.
 + 2022 Washington State University, Department of Plant Pathology Fall Seminar Series, _Research needs for mitigating the emergence of sooty bark disease in the Pacific Northwest_ (Virtual Presentation).
 + 2021 USDA Forest Service, Forest Health and Protection (Region 6), monthly forest pathology meeting, _Sooty Bark Disease: climate change ‘time bomb’ in many broadleaf trees in the PNW_ (Virtual Presentation).
@@ -476,6 +505,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Invited Talks
 
++ 2024 Indigenous Tree Teachings Workshop, _Western redcedar cultural resources in urban environments_ (recorded presentation), Winds of Change Alliance, Seattle, Washington. 
 + 2024 Climate Impacts Group, Lunch and Learn, _Trees and urban heat in the Northwest_, University of Washington, Seattle, Washington.
 + 2024 Green River College Forestry and Natural Resources Seminar, _Forest Health Issues, Research and Student Opportunities in Washington_.
 + 2023 Canadian Phytopathological Society, British Columbia Regional Meeting. **Keynote**: _Sharing the responsibility of biosecurity: engaging communities in plant disease monitoring_ (Virtual Presentation).
@@ -551,7 +581,11 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Youth Engagement Activities
 
-+ 2023 Forest Management Class, Science and Math Institute, Tacoma Washington _Forest Health and Invasive Species walk_.
++ 2024 Muckleshoot Indian Tribe Summer Youth Crew, Natural Resources, Tomanamus Forest, _Redcedar Adaptation Trial Measurements_
++ 2024 Muckleshoot Indian Tribe Summer Youth Crew, Natural Resources, Tomanamus Forest, _Forest Health Hike_
++ 2024 Forest Management Class, Science and Math Institute, Tacoma Washington, _Western redcedar park study introduction_.
++ 2024 Forest Management Class, Science and Math Institute, Tacoma Washington, _Forest Health and Invasive Species walk_.
++ 2023 Forest Management Class, Science and Math Institute, Tacoma Washington, _Forest Health and Invasive Species walk_.
 + 2023 Ecology Club, Chief Leschi, Puyallup Tribe of Indians School District, _Soil sampling and monitoring_.
 + 2022 Northwest Youth Corps, Capitol Land Trust, Inspiring Kids Preserve, _Forest Health and Invasive Species walk_. 
 + 2022 Muckleshoot Tomanamus Forest, Muckleshoot Tribal College - Early College Program and College and Career Education Opportunities Program, _Invasive Species_ (1 event).
@@ -594,6 +628,9 @@ Dept. of Plant Pathology, Washington State University,
 
 ### Promotional Table Events
 
++ 2024 Forest Health Watch, MetroParks Tacoma Fall Plant Sale, Wright Park, Tacoma, Washington.
++ 2024 Forest Health Watch, North Tacoma Cushman Fair, Tacoma, Washington.
++ 2024 WSU Puyallup Research and Extension Center Programming, State Fair, Puyallup, Washington.
 + 2024 WSU Puyallup Research and Extension Center Programming, Spring Fair, Puyallup, Washington.
 + 2024 Forest Health Watch, South Sound Sustainability Fair, Tacoma, Washington.
 + 2024 Forest Health Watch, Oregon Tree School Clackamas, Clackamas Community College, Oregon City, Oregon.
@@ -626,6 +663,8 @@ Dept. of Plant Pathology, Washington State University,
 ## Stakeholder Engagement 
 ### Presentations
 
++ 2024 Washington Native Plant Society, _Forest Health Watch: keeping trees healthy together_ South Sound Chapter, Olympia, Washington. 
++ 2024 Preparation and Response to Mediterranean Oak Borer in Washington Workshop, _Community science to keep garry oaks healthy_ (Virtual Presentation). 
 + 2024 United States Botanical Garden (DC) Hosted Webinar, Plants and Climate Change Education (PLACCE) session, [_Community Science for Forest Health with Dr. Joey Hulbert and Nina Avila_](https://www.youtube.com/watch?v=e_1Bc0DgufY) (Virtual Presentation).
 + 2024 Washington Naturalists, _Forest Health Watch - keeping trees healthy together_, Washington State University  (Virtual Presentation).
 + 2024 Online Workshops and Webinars for Tribal Audiences, _Enriching tribal management and resilience to invasive species with co-designed educational resources_, (Virtual Presentation). 
@@ -693,8 +732,10 @@ Dept. of Plant Pathology, Washington State University,
 
 ### WSU Puyallup REC Tours
 
++ 2024 Washington State Legislative Tour - WSU Research and Extension
 + 2024 Northwest Youth Corps, Tacoma Urban Community Forestry Spring Crews.
 + 2024 Tacoma Community College, Environmental Science students, Spring.
++ 2023 Representative Kim Schrier and Staffers
 + 2023 Tacoma Community College, Environmental Science students, Fall.
 + 2023 Pacific Lutheran University, Botany course students
 + 2023 Tacoma Community College, Environmental Science students, Spring. + 2023 Tacoma Community College, Math Engineering and Science Achievement (MESA) students.
@@ -776,6 +817,7 @@ Dept. of Plant Pathology, Washington State University,
 
 ## Professional Development
 
+  + 2024 [Faculty Success Program](https://www.ncfdd.org/sessions/fspspring2025), National Center for Faculty Diversity and Development. 
   + 2022 [Columbia River Inter-Tribal Fish Commission](https://critfc.org/), Aquatic Invasive Species Workshop, Aquatic Ecology Laboratory, Washington State University Vancouver. 
   + 2021 [Integrating Climate into Hazard Mitigation Plans (Western Region)](http://www7.nau.edu/itep/main/tcc/docs/training/BLR_FEMA%20Course%20Description.pdf), Tribes & Climate Change Program, Institute
 for Tribal Environmental Professionals, Northern Arizona University.
@@ -879,6 +921,7 @@ for Tribal Environmental Professionals, Northern Arizona University.
   + Seth Truscott. 2023. [WSU sentinel plantings to guard against invasive pests, diseases at Washington ports](https://news.cahnrs.wsu.edu/article/wsu-sentinel-plantings-to-guard-against-invasive-pests-diseases-at-washington-ports/), WSU CAHNRS News
   + Joe Roberts. 2023. [Engaging the curious: WSU Extension educates and empowers citizen scientists](https://news.cahnrs.wsu.edu/article/engaging-the-curious-wsu-extension-educates-and-empowers-citizen-scientists/), WSU CAHNRS News
   + WSU, 2022. [Climate Science on Tap explores urban forests with WSU researcher](https://news.wsu.edu/announcements/climate-science-on-tap-explores-urban-forests-with-wsu-researcher/), WSU Insider
+   + Sage Van Wing, 2022. [Western Redcedar trees in the Pacific Northwest are struggling](https://www.opb.org/article/2022/09/06/western-redcedar-trees-are-struggling/), Oregon Public Broadcasting, Think Out Loud.
   + Nicholas Turner. 2022. [Has this iconic Northwest tree reached a tipping point?](https://www.seattletimes.com/seattle-news/environment/has-this-iconic-northwest-tree-reached-a-tipping-point/), Seattle Times.
   + Pacific Education Institute. 2022. [Puget Sound teachers branch out with PEI's urban forestry storylines](https://www.climetime.org/puget-sound-teachers-branch-out-with-peis-urban-forestry-storylines/), online article.   + Anna Marie Pizzariello, Education Outreach Report Part 1, The Real Dirt, Master Gardener Foundation of Lewis County Newsletter.
   + Nathan Gilles. 2022. [Pac NW's 'trees of live' are dying. Now we know why](https://columbiainsight.org/pac-nws-trees-of-life-are-dying-now-we-know-why/), Columbia Insight, Online Article.
