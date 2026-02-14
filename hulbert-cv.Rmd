@@ -1,0 +1,481 @@
+---
+title: "Joseph (Joey) Michael Hulbert"
+date: "CV Updated: `r format(Sys.time(), '%d %B, %Y')`"
+subtitle: "WSU Urban Forest Health Lab,\n\nPuyallup Research and Extension Center,
+  \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
+  \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n\n[Curriculum Vitae PDF](https://jmhulbert.github.io/hulbert-cv.pdf)"
+output:
+  pdf_document:
+    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
+    toc: yes
+    toc_depth: 5
+  html_document:
+    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(googlesheets4)
+library(tidyverse)
+library(scales)
+```
+
+
+```{r}
+## Use this if you just want to read and not write to google drive
+
+#gs4_deauth()
+#df <- read_sheet("https://docs.google.com/spreadsheets/d/XXXXXXXXXXXX")
+```
+
+
+```{r load_google_sheets, warning=FALSE, message=FALSE,cache=TRUE}
+gs4_deauth()
+Initiatives <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Initiatives",.name_repair = ~ gsub(" ", ".", .x))
+Digital.Media <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Digital Media Production",.name_repair = ~ gsub(" ", ".", .x))
+Pop.Writing <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Pop Writing",.name_repair = ~ gsub(" ", ".", .x))
+Media.Coverage <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Media Coverage",.name_repair = ~ gsub(" ", ".", .x))
+Teaching.Experience <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Teaching Experience",.name_repair = ~ gsub(" ", ".", .x))
+Science.Service <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Science Community Service",.name_repair = ~ gsub(" ", ".", .x))
+Engagement <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Engagement",.name_repair = ~ gsub(" ", ".", .x))
+Mentorship<- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Mentorship and Supervision",.name_repair = ~ gsub(" ", ".", .x))
+Funding <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Funding",.name_repair = ~ gsub(" ", ".", .x))
+Presentations <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Presentations",.name_repair = ~ gsub(" ", ".", .x))
+Publications <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Publications",.name_repair = ~ gsub(" ", ".", .x))
+Professional.Development <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Professional Development",.name_repair = ~ gsub(" ", ".", .x))
+Awards <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Awards",.name_repair = ~ gsub(" ", ".", .x))
+Community.Service <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Community Service",.name_repair = ~ gsub(" ", ".", .x))
+Leadership <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Academic Leadership",.name_repair = ~ gsub(" ", ".", .x))
+Mentorship.Outcomes <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Mentorship Outcomes",.name_repair = ~ gsub(" ", ".", .x))
+Research.Positions <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Research Positions",.name_repair = ~ gsub(" ", ".", .x))
+Memberships <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Memberships",.name_repair = ~ gsub(" ", ".", .x))
+Event.Org <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Event Organization",.name_repair = ~ gsub(" ", ".", .x))
+References <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="References",.name_repair = ~ gsub(" ", ".", .x))
+Internship.Program <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Internship Program",.name_repair = ~ gsub(" ", ".", .x))
+```
+
+
+
+```{r, include=FALSE}
+#excel_sheets("./cv/data/hulbert-cv.xlsx")
+#Initiatives <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Initiatives")
+#Digital.Media <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Digital Media Production")
+#Pop.Writing <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Pop Writing")
+#Media.Coverage <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Media Coverage")
+#Teaching.Experience <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Teaching Experience")
+#Science.Service <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Science Community Service")
+#Engagement <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Engagement")
+#Mentorship<- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Mentorship and Supervision")
+#Funding <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Funding")
+#Presentations <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Presentations")
+#Publications <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Publications")
+#Professional.Development <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Professional Development")
+#Awards <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Awards")
+#Community.Service <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Community Service")
+#Leadership <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Academic Leadership")
+#Mentorship.Outcomes <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Mentorship Outcomes")
+#Research.Positions <- read_excel("./cv/data/hulbert-cv.xlsx",sheet="Research Positions")
+```
+
+## Academic Appointments
+
++ 2024-2026. **Research Assistant Professor (Career Track)**, Department of Plant Pathology, Washington State University.
++ 2022-2024. **Postdoctoral Research Associate**, WSU Puyallup Research and Extension Center, Washington State University.
++ 2020-2022. **USDA NIFA Postdoctoral Fellow**, Ornamental Plant Pathology, WSU Puyallup Research and Extension Center, Washington State University.
+
+## Education
+
++ 2015-2020. **PhD** Plant Pathology, Forestry and Agricultural Biotechnology Institute, Dept. of Plant & Soil Science, University of Pretoria, South Africa. Dissertation: Phytophthora diversity in the Cape Floristic Region. Primary Supervisor: Mike Wingfield. Co-Supervisors: Treena Burgess, Francois Roets.
++ 2016-2019. **Affiliate Research Student**, Dept. of Conservation Ecology & Entomology, Stellenbosch University, South Africa.
++ 2012-2014. **Dual MSc** Dept. of Botany & Plant Pathology, Dept. of Wood Science & Engineering, Oregon State University. Thesis: Phytosanitation of Douglas-fir (Pseudotsuga menziesii) logs to mitigate the risk of disseminating Phytophthora ramorum within the global trade of timber. Advisers: Everett Hansen & Jeff Morrell.
++ 2006-2010. **BSc** Dept. of Natural Resource Sciences, Washington State University. Undergraduate Thesis: Influence of climatic variables on forest growth in the Sierra Nevada Mountains.
+
+## Initiatives
+
+`r paste0("- ", Initiatives$Year,",", " ", Initiatives$Initiative,ifelse(is.na(Initiatives$url) | Initiatives$url == "","", paste0("  \n  [", Initiatives$url, "](", Initiatives$url, ")")),collapse = "\n")`
+
+
+## Community Service
+
+`r paste0("- ", Community.Service$Year, "."," ", Community.Service$Service, collapse = "\n")`
+
+## Publications
+
+### Peer Reviewed
+
+`r paste0("- ", Publications$Year[Publications$Type=="Peer-Reviewed Manuscript"],"."," ", Publications$Publication[Publications$Type=="Peer-Reviewed Manuscript"], collapse = "\n")`
+
+### Not Peer Reviewed
+
+`r paste0("- ", Publications$Year[Publications$Type=="Not Peer-Reviewed Manuscript"],"."," ", Publications$Publication[Publications$Type=="Not Peer-Reviewed Manuscript"], collapse = "\n")`
+
+### Book Chapters
+
+`r paste0("- ", Publications$Year[Publications$Type=="Book Chapter"],"."," ", Publications$Publication[Publications$Type=="Book Chapter"], collapse = "\n")`
+
+### Extension Publications
+
+`r paste0("- ", Publications$Year[Publications$Type=="Extension Fact Sheet"],"."," ", Publications$Publication[Publications$Type=="Extension Fact Sheet"], collapse = "\n")`
+
+### Community Scientist Field Guides
+
+`r paste0("- ", Publications$Year[Publications$Type=="Community Science Field Guide"],"."," ", Publications$Publication[Publications$Type=="Community Science Field Guide"], collapse = "\n")`
+
+### ArcGIS Story Maps
+
+`r paste0("- ", Publications$Year[Publications$Type=="ArcGIS Story Map"],"."," ", Publications$Publication[Publications$Type=="ArcGIS Story Map"], collapse = "\n")`
+
+### Progress Reports
+
+`r paste0("- ", Publications$Year[Publications$Type=="Program Progress Report"],"."," ", Publications$Publication[Publications$Type=="Program Progress Report"], collapse = "\n")`
+
+## Funding and Support
+
+### Total Funding Requests
+
+```{r, message=FALSE}
+
+funding.summary <- Funding %>% filter(Funding.Type!="In Kind Donations") %>%
+  group_by(Funding.Type) %>%
+  summarize(
+    n = n(),
+    n.Funded=sum(Funding.Status == "Funded",na.rm=TRUE),
+    Total = sum(Amount, na.rm = TRUE),
+    Funded = sum(if_else(Funding.Status == "Funded", Amount, 0), na.rm = TRUE),
+    Pending = sum(if_else(Funding.Status == "Pending", Amount, 0), na.rm = TRUE),
+    Funded.as.PI = sum(if_else(Funding.Status=="Funded" & Role == "PI", Amount, 0), na.rm = TRUE),
+    .groups = "drop"
+  ) %>% arrange(desc(Total)) %>%
+ bind_rows(
+    Funding %>%
+      summarize(
+        Funding.Type = "Total",
+        n = n(),
+        n.Funded=sum(Funding.Status == "Funded",na.rm=TRUE),
+        Total = sum(Amount, na.rm = TRUE),
+        Funded = sum(if_else(Funding.Status == "Funded", Amount, 0), na.rm = TRUE),
+        Pending = sum(if_else(Funding.Status == "Pending", Amount, 0), na.rm = TRUE),
+        Funded.as.PI = sum(if_else(Funding.Status=="Funded" & Role == "PI", Amount, 0), na.rm = TRUE),
+      )
+  ) %>% mutate(across(c(Total, Funded, Pending, Funded.as.PI), dollar))
+
+kable(
+  funding.summary,
+  align=c("l"),
+  format = "latex",   # or "html"
+  booktabs = TRUE,
+ ) %>%
+  kable_styling(
+    latex_options = c("hold_position"),
+    full_width = FALSE,
+    position = "left"
+  )
+```
+
+### Total Funding Awarded
+
+```{r, message=FALSE}
+
+funded <- Funding %>% filter(Funding.Status=="Funded") %>% filter(Funding.Type!="In Kind Donations") %>% 
+  group_by(Year.Awarded) %>%
+  summarize(
+    n = n(),
+    Total = sum(Amount, na.rm = TRUE),
+    PI = sum(if_else(Role == "PI", Amount, 0), na.rm = TRUE),
+    Co.PI = sum(if_else(Role == "Co-PI", Amount, 0), na.rm = TRUE),
+    .groups = "drop"
+  ) %>% 
+  arrange(desc(Year.Awarded)) %>% 
+  mutate(Year.Awarded = as.character(Year.Awarded)) %>%
+bind_rows(
+    summarize(
+      .,
+      Year.Awarded = "Total",
+      across(where(is.numeric), sum)
+    )
+  ) %>% 
+  mutate(across(c(Total,PI,Co.PI), dollar))
+
+kable(
+  funded,
+  align=c("l"),
+  format = "latex",   # or "html"
+  booktabs = TRUE,
+ ) %>%
+  kable_styling(
+    latex_options = c("hold_position"),
+    full_width = FALSE,
+    position = "left"
+  )
+```
+
+### Active Funded Projects
+n= `r nrow(Funding[Funding$Project.Status=="Active",])`
+
+```{r}
+Funded <- Funding %>% filter(Project.Status=="Active") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
+```
+
+
+`r paste0("- ", Funded$Amount,"."," ", Funded$Role,"."," ", Funded$Year.Awarded,"."," ", Funded$Source,"."," ",Funded$Title,  collapse = "\n")`
+
+### Sources of Funding Awarded
+
+```{r, message=FALSE}
+
+funded.source <- Funding %>% filter(Funding.Status=="Funded") %>% filter(Funding.Type!="In Kind Donations") %>%
+  group_by(Source) %>%
+  summarize(
+    n = n(),
+    Total = sum(Amount, na.rm = TRUE),
+    PI = sum(if_else(Role == "PI", Amount, 0), na.rm = TRUE),
+    Co.PI = sum(if_else(Role == "Co-PI", Amount, 0), na.rm = TRUE),
+    .groups = "drop"
+  ) %>% 
+  arrange(desc(Total)) %>% 
+bind_rows(
+    summarize(
+      .,
+      Source = "Total",
+      across(where(is.numeric), sum)
+    )
+  ) %>% 
+  mutate(across(c(Total,PI,Co.PI), dollar))
+
+kable(
+  funded.source,
+  align=c("l"),
+  format = "latex",   # or "html"
+  booktabs = TRUE,
+ ) %>%
+  kable_styling(
+    latex_options = c("hold_position"),
+    full_width = FALSE,
+    position = "left"
+  )
+```
+
+### In Kind Donations
+
+```{r}
+In.Kind <- Funding %>% filter(Funding.Type=="In Kind Donations") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
+```
+
+
+`r paste0("- ", In.Kind$Amount,"."," ", In.Kind$Source,"."," ",In.Kind$Title,".",  collapse = "\n")`
+
+
+## Academic Honors and Awards
+
+`r paste0("- ", Awards$Year, "."," ", Awards$Award, collapse = "\n")`
+
+## Academic Leadership
+
+`r paste0("- ", Leadership$Year, "."," ", Leadership$Role, collapse = "\n")`
+
+
+## Science Community Service
+
+`r paste0("- ", Science.Service$Year, "."," ", Science.Service$Service, collapse = "\n")`
+
+## Memberships
+
+`r paste0("- ", Memberships$Year, "."," ", Memberships$Membership, collapse = "\n")`
+
+## Teaching Experience
+
+
+`r paste0("- ", Teaching.Experience$Year, "."," ", Teaching.Experience$Experience, "."," ",  Teaching.Experience$Location, collapse = "\n")`
+
+### Internship Program
+
+`r paste0("- ",Internship.Program$Year, ". ","Week ", Internship.Program$Week, ". ",Internship.Program$Topic, ". ", ifelse(!is.na(Internship.Program$Guest),paste0("Featuring: ",Internship.Program$Guest),""),".", collapse = "\n")`
+
+
+
+## Event Organization
+n= `r nrow(Event.Org)`
+
+`r paste0("- ",  Event.Org$Year, ". ",  Event.Org$Title, ".",  if_else(!is.na(Event.Org$Number.of.Participants) & Event.Org$Number.of.Participants > 0, paste0(" ", Event.Org$Number.of.Participants, " Participants."),""  ),  collapse = "\n")`
+
+## Presentations
+
+### Summary
+
+```{r, message=FALSE,warning=FALSE}
+n_type_by_year <- Presentations %>%
+  count(Presentation.Type.Simplified, Year, name = "n") %>%
+  pivot_wider(
+    names_from  = Year,     # years become columns
+    values_from = n,
+    values_fill = 0
+  ) %>%
+  arrange(Presentation.Type.Simplified)
+
+year_cols <- sort(
+  as.integer(setdiff(names(n_type_by_year), "Presentation.Type")),
+  decreasing = TRUE
+)
+
+
+n_type_by_year <- n_type_by_year %>%
+  select(Presentation.Type.Simplified, all_of(as.character(year_cols))) %>%
+  arrange(Presentation.Type.Simplified)
+
+total_row <- n_type_by_year %>%
+  summarise(
+    Presentation.Type.Simplified = "Total in Year",
+    across(where(is.numeric), sum)
+  )
+
+n_type_by_year <- bind_rows(n_type_by_year, total_row)
+
+
+kable(
+  n_type_by_year,
+  col.names = c(
+    "Presentation Type",
+    names(n_type_by_year)[-1]),
+  align = c("l", rep("c", ncol(n_type_by_year) - 1)),
+  format = "latex",
+  booktabs = TRUE,
+  escape = FALSE
+) %>%
+  kable_styling(
+    latex_options = "hold_position",
+    full_width = FALSE,
+    position = "left"
+  ) %>%
+  column_spec(1, width = "1.1in") %>%                 # Presentation.Type column
+  column_spec(2:ncol(n_type_by_year), width = "0.18in")
+```
+
+
+### Conference & Symposia Presentations
+n= `r nrow(Presentations  %>%  filter(Presentation.Type.Simplified %in% c("Conference", "Symposia")))`
+
+`r paste0("- ", Presentations %>%  filter(Presentation.Type.Simplified %in% c("Conference", "Symposia")) %>%  arrange(desc(Year)) %>%   pull(Year), ". ", Presentations %>%   filter(Presentation.Type.Simplified %in% c("Conference", "Symposia")) %>%   arrange(desc(Year)) %>%   pull(Title),collapse = "\n")`
+
+### 2025 Presentations
+n= `r nrow(Presentations %>% filter(Year==2025))`
+
+
+`r paste0("- ", Presentations %>%  filter(Year==2025) %>%  pull(Year), ". ", Presentations %>%  filter(Year==2025) %>% pull(Title),collapse = "\n")`
+
+## Engagement
+
+### Summary
+
+```{r, message=FALSE, warning=FALSE}
+n_activity_by_year <- Engagement %>%   # <- your table with Engagement Activity / Year / Date / Event
+  count(Engagement.Activity, Year, name = "n") %>%
+  pivot_wider(
+    names_from  = Year,      # years become columns
+    values_from = n,
+    values_fill = 0
+  )
+
+# reorder year columns descending (left → right)
+year_cols <- sort(
+  as.integer(setdiff(names(n_activity_by_year), "Engagement Activity")),
+  decreasing = TRUE
+)
+
+n_activity_by_year <- n_activity_by_year %>%
+  select(Engagement.Activity, all_of(as.character(year_cols))) %>%
+  arrange(Engagement.Activity)
+
+# add Total row
+total_row <- n_activity_by_year %>%
+  summarise(
+    Engagement.Activity = "Total in Year",
+    across(where(is.numeric), sum)
+  )
+
+n_activity_by_year <- bind_rows(n_activity_by_year, total_row)
+
+kable(
+  n_activity_by_year,
+  col.names = c("Engagement Activity", names(n_activity_by_year)[-1]),
+  align = c("l", rep("c", ncol(n_activity_by_year) - 1)),
+  format = "latex",
+  booktabs = TRUE,
+  escape = FALSE
+) %>%
+  kable_styling(
+    latex_options = "hold_position",
+    full_width = FALSE,
+    position = "left"
+  ) %>%
+  column_spec(1, width = "1.6in") %>%
+  column_spec(2:ncol(n_activity_by_year), width = "0.18in")
+```
+
+
+### 2025 Engagement Activities
+
+#### Youth Engagement
+n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Youth Engagement"))`
+
+`r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="Youth Engagement") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="Youth Engagement") %>% pull(Event),".", collapse = "\n")`
+
+#### Prmomotional Table Events
+n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Promotional Table Events"))`
+
+`r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="Promotional Table Events") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="Promotional Table Events") %>% pull(Event),".", collapse = "\n")`
+
+#### WSU Puyallup REC Tours
+n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="WSU Puyallup REC Tours"))`
+
+`r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="WSU Puyallup REC Tours") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="WSU Puyallup REC Tours") %>% pull(Event),".", collapse = "\n")`
+
+#### Training Events
+n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Training Event"))`
+
+
+`r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="Training Event") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="Training Event") %>% pull(Event),".", collapse = "\n")`
+
+## Mentorship and Supervision
+
+`r paste0("- ", Mentorship %>% arrange(desc(Year)) %>%   pull(Year), "."," ", Mentorship$Individual, " ", Mentorship$Type.of.Mentorship,".", collapse = "\n")`
+
+### Mentorship Outcomes
+
+`r paste0("- ", Mentorship.Outcomes %>% arrange(desc(Year)) %>%   pull(Year), "."," ", Mentorship.Outcomes$Outcome,".", collapse = "\n")`
+
+## Professional Development
+
+`r paste0("- ", Professional.Development %>% arrange(desc(Year)) %>%   pull(Year), "."," ", Professional.Development$Training, collapse = "\n")`
+
+
+## Digital Media Production
+
+`r paste0("- ", Digital.Media$Year, "."," ", Digital.Media$Type,"."," ", Digital.Media$Content, collapse = "\n")`
+
+
+## Selected Popular Writing
+
+`r paste0("- ", Pop.Writing$Year, "."," ", Pop.Writing$Authors,"."," ", Pop.Writing$Title,  collapse = "\n")`
+
+
+## Selected Media Coverage
+
+
+`r paste0("- ", Media.Coverage$Year, "."," ", Media.Coverage$Coverage.Type,"."," ", Media.Coverage$Source, collapse = "\n")`
+
+
+## Research Positions
+
+`r paste0("- ", Research.Positions$Year, "."," ", Research.Positions$Position, collapse = "\n")`
+
+## References
+
+`r paste0("- ", References$Year, "."," ", References$Individual, "."," ", References$Role, collapse = "\n")`
