@@ -5,15 +5,15 @@ subtitle: "WSU Urban Forest Health Lab,\n\nPuyallup Research and Extension Cente
   \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
   \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n\n[Curriculum Vitae PDF](https://jmhulbert.github.io/hulbert-cv.pdf)"
 output:
-  pdf_document:
-    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
-    toc: yes
-    toc_depth: 5
   html_document:
     pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
     toc: yes
     toc_depth: 5
     toc_float: yes
+  pdf_document:
+    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
+    toc: yes
+    toc_depth: 5
 ---
 
 ```{r setup, include=FALSE}
