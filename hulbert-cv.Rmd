@@ -5,20 +5,29 @@ subtitle: "WSU Urban Forest Health Lab,\n\nPuyallup Research and Extension Cente
   \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
   \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n\n[Curriculum Vitae PDF](https://jmhulbert.github.io/hulbert-cv.pdf)"
 output:
-  html_document:
-    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
-    toc: yes
-    toc_depth: 5
-    toc_float: yes
   pdf_document:
     pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
     toc: yes
     toc_depth: 5
+  html_document:
+    css: style.css
+    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r include=FALSE, eval=FALSE}
+## change styles in style.css
+## knit to html, then rename hulbert-cv.html to index.html - then committ, push to github
+## to update from google sheet <- delete hulbert-cv_cache folder then re-knit.
+```
+
+
 
 ```{r, include=FALSE}
 library(knitr)
@@ -60,8 +69,13 @@ Memberships <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUw
 Event.Org <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Event Organization",.name_repair = ~ gsub(" ", ".", .x))
 References <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="References",.name_repair = ~ gsub(" ", ".", .x))
 Internship.Program <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Internship Program",.name_repair = ~ gsub(" ", ".", .x))
+Courses <- read_sheet("https://docs.google.com/spreadsheets/d/1InNjBSkJl9rUwBQomq3cFxTm4OE39gYTmCC3XlK-2Fw/edit?gid=1669197812#gid=1669197812",sheet="Courses Prepared To Teach",.name_repair = ~ gsub(" ", ".", .x))
 ```
 
+
+```{r}
+fmt <- if (knitr::is_latex_output()) "latex" else "html"
+```
 
 
 ```{r, include=FALSE}
@@ -170,7 +184,7 @@ funding.summary <- Funding %>% filter(Funding.Type!="In Kind Donations") %>%
 kable(
   funding.summary,
   align=c("l"),
-  format = "latex",   # or "html"
+  format = fmt,
   booktabs = TRUE,
  ) %>%
   kable_styling(
@@ -207,7 +221,7 @@ bind_rows(
 kable(
   funded,
   align=c("l"),
-  format = "latex",   # or "html"
+  format = fmt,   # or "html"
   booktabs = TRUE,
  ) %>%
   kable_styling(
@@ -222,10 +236,35 @@ n= `r nrow(Funding[Funding$Project.Status=="Active",])`
 
 ```{r}
 Funded <- Funding %>% filter(Project.Status=="Active") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
+Funded.Extramural.Grant <- Funded %>% filter(Funding.Type=="Extramural Grant")
+Funded.Extramural.Agreement <- Funded %>% filter(Funding.Type=="Extramural Agreement")
+Funded.Internal <- Funded %>% filter(Funding.Type=="Internal Grant")
+Funded.Philanthropy <- Funded %>% filter(Funding.Type=="Philanthropy")
 ```
 
+#### Active Extramural Grants
 
-`r paste0("- ", Funded$Amount,"."," ", Funded$Role,"."," ", Funded$Year.Awarded,"."," ", Funded$Source,"."," ",Funded$Title,  collapse = "\n")`
+
+`r paste0("- ", Funded.Extramural.Grant$Amount,"."," ", Funded.Extramural.Grant$Role,"."," ", Funded.Extramural.Grant$Year.Awarded,"."," ", Funded.Extramural.Grant$Source,"."," ",Funded.Extramural.Grant$Title,".",  collapse = "\n")`
+
+
+#### Active Internal Grants
+
+
+`r paste0("- ", Funded.Internal$Amount,"."," ", Funded.Internal$Role,"."," ", Funded.Internal$Year.Awarded,"."," ", Funded.Internal$Source,"."," ",Funded.Internal$Title,".",  collapse = "\n")`
+
+
+#### Active Extramural Agreements
+
+
+`r paste0("- ", Funded.Extramural.Agreement$Amount,"."," ", Funded.Extramural.Agreement$Role,"."," ", Funded.Extramural.Agreement$Year.Awarded,"."," ", Funded.Extramural.Agreement$Source,"."," ",Funded.Extramural.Agreement$Title,".",  collapse = "\n")`
+
+
+#### Active Philanthropic Gifts
+
+
+`r paste0("- ", Funded.Philanthropy$Amount,"."," ", Funded.Philanthropy$Role,"."," ", Funded.Philanthropy$Year.Awarded,"."," ", Funded.Philanthropy$Source,"."," ",Funded.Philanthropy$Title,".",  collapse = "\n")`
+
 
 ### Sources of Funding Awarded
 
@@ -252,8 +291,8 @@ bind_rows(
 
 kable(
   funded.source,
-  align=c("l"),
-  format = "latex",   # or "html"
+  align = c("l"),
+  format = fmt,
   booktabs = TRUE,
  ) %>%
   kable_styling(
@@ -293,13 +332,15 @@ In.Kind <- Funding %>% filter(Funding.Type=="In Kind Donations") %>% mutate(Amou
 ## Teaching Experience
 
 
-`r paste0("- ", Teaching.Experience$Year, "."," ", Teaching.Experience$Experience, "."," ",  Teaching.Experience$Location, collapse = "\n")`
+`r paste0("- ", Teaching.Experience$Year, "."," ", Teaching.Experience$Experience, "."," ",  Teaching.Experience$Location,".", collapse = "\n")`
 
 ### Internship Program
 
 `r paste0("- ",Internship.Program$Year, ". ","Week ", Internship.Program$Week, ". ",Internship.Program$Topic, ". ", ifelse(!is.na(Internship.Program$Guest),paste0("Featuring: ",Internship.Program$Guest),""),".", collapse = "\n")`
 
+### Courses prepared to teach
 
+`r paste0("- ", Courses$Topic, ".", collapse = "\n")`
 
 ## Event Organization
 n= `r nrow(Event.Org)`
@@ -345,7 +386,7 @@ kable(
     "Presentation Type",
     names(n_type_by_year)[-1]),
   align = c("l", rep("c", ncol(n_type_by_year) - 1)),
-  format = "latex",
+  format = fmt,
   booktabs = TRUE,
   escape = FALSE
 ) %>%
@@ -406,7 +447,7 @@ kable(
   n_activity_by_year,
   col.names = c("Engagement Activity", names(n_activity_by_year)[-1]),
   align = c("l", rep("c", ncol(n_activity_by_year) - 1)),
-  format = "latex",
+  format = fmt,
   booktabs = TRUE,
   escape = FALSE
 ) %>%
@@ -422,22 +463,22 @@ kable(
 
 ### 2025 Engagement Activities
 
-#### Youth Engagement
+#### 2025 Youth Engagement Activities
 n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Youth Engagement"))`
 
 `r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="Youth Engagement") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="Youth Engagement") %>% pull(Event),".", collapse = "\n")`
 
-#### Prmomotional Table Events
+#### 2025 Prmomotional Table Events
 n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Promotional Table Events"))`
 
 `r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="Promotional Table Events") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="Promotional Table Events") %>% pull(Event),".", collapse = "\n")`
 
-#### WSU Puyallup REC Tours
+#### 2025 WSU Puyallup REC Tours
 n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="WSU Puyallup REC Tours"))`
 
 `r paste0("- ", Engagement %>%  filter(Year==2025 & Engagement.Activity=="WSU Puyallup REC Tours") %>%  pull(Year), ". ", Engagement %>%  filter(Year==2025  & Engagement.Activity=="WSU Puyallup REC Tours") %>% pull(Event),".", collapse = "\n")`
 
-#### Training Events
+#### 2025 Training Events
 n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Training Event"))`
 
 
@@ -449,7 +490,7 @@ n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Training Ev
 
 ### Mentorship Outcomes
 
-`r paste0("- ", Mentorship.Outcomes %>% arrange(desc(Year)) %>%   pull(Year), "."," ", Mentorship.Outcomes$Outcome,".", collapse = "\n")`
+`r paste0("- ", Mentorship.Outcomes %>% arrange(desc(Year)) %>% pull(Year), "."," ", Mentorship.Outcomes %>% arrange(desc(Year)) %>% pull(Outcome),".", collapse = "\n")`
 
 ## Professional Development
 
