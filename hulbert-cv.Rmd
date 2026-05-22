@@ -5,16 +5,16 @@ subtitle: "WSU Urban Forest Health Lab,\n\nPuyallup Research and Extension Cente
   \n\nWashington State University, \n\n2606 West Pioneer, Puyallup, WA, 98371-4998
   \n\nhttps://jmhulbert.github.io \n\n1-541-908-5129 \n\nhulbe@wsu.edu\n\n[Curriculum Vitae PDF](https://jmhulbert.github.io/hulbert-cv.pdf)"
 output:
-  pdf_document:
-    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
-    toc: yes
-    toc_depth: 5
   html_document:
     css: style.css
     pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
     toc: yes
     toc_depth: 5
     toc_float: yes
+  pdf_document:
+    pandoc_args: !expr c(paste0("--lua-filter=", normalizePath("italicize_pathogens.lua")))
+    toc: yes
+    toc_depth: 5
 ---
 
 ```{r setup, include=FALSE}
@@ -35,6 +35,7 @@ library(kableExtra)
 library(googlesheets4)
 library(tidyverse)
 library(scales)
+library(purrr)
 ```
 
 
@@ -231,39 +232,42 @@ kable(
   )
 ```
 
-### Active Funded Projects
+### Active and Upcoming Funded Projects
 n= `r nrow(Funding[Funding$Project.Status=="Active",])`
 
 ```{r}
-Funded <- Funding %>% filter(Project.Status=="Active") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
-Funded.Extramural.Grant <- Funded %>% filter(Funding.Type=="Extramural Grant")
-Funded.Extramural.Agreement <- Funded %>% filter(Funding.Type=="Extramural Agreement")
-Funded.Internal <- Funded %>% filter(Funding.Type=="Internal Grant")
-Funded.Philanthropy <- Funded %>% filter(Funding.Type=="Philanthropy")
+Upcoming <- Funding %>% filter(Project.Status=="Upcoming") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
+Upcoming.and.Active <- Funding %>% filter(Project.Status=="Active" | Project.Status=="Upcoming") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
+Active <- Funding %>% filter(Project.Status=="Active") %>% mutate(Amount=dollar(Amount)) %>% arrange(desc(Year.Awarded))
+
+Active.Extramural.Grant <- Active %>% filter(Funding.Type=="Extramural Grant")
+Active.Extramural.Agreement <- Active %>% filter(Funding.Type=="Extramural Agreement")
+Active.Internal <- Active %>% filter(Funding.Type=="Internal Grant")
+Active.Philanthropy <- Active %>% filter(Funding.Type=="Philanthropy")
 ```
+#### Upcoming
+`r paste0("- ", Upcoming$Amount,"."," ", Upcoming$Role,"."," ", Upcoming$Year.Awarded,"."," ", Upcoming$Source,"."," ",Upcoming$Title,".",  collapse = "\n")`
 
 #### Active Extramural Grants
 
-
-`r paste0("- ", Funded.Extramural.Grant$Amount,"."," ", Funded.Extramural.Grant$Role,"."," ", Funded.Extramural.Grant$Year.Awarded,"."," ", Funded.Extramural.Grant$Source,"."," ",Funded.Extramural.Grant$Title,".",  collapse = "\n")`
-
+`r paste0("- ", Active.Extramural.Grant$Amount,"."," ", Active.Extramural.Grant$Role,"."," ", Active.Extramural.Grant$Year.Awarded,"."," ", Active.Extramural.Grant$Source,"."," ",Active.Extramural.Grant$Title,".",  collapse = "\n")`
 
 #### Active Internal Grants
 
 
-`r paste0("- ", Funded.Internal$Amount,"."," ", Funded.Internal$Role,"."," ", Funded.Internal$Year.Awarded,"."," ", Funded.Internal$Source,"."," ",Funded.Internal$Title,".",  collapse = "\n")`
+`r paste0("- ", Active.Internal$Amount,"."," ", Active.Internal$Role,"."," ", Active.Internal$Year.Awarded,"."," ", Active.Internal$Source,"."," ",Active.Internal$Title,".",  collapse = "\n")`
 
 
 #### Active Extramural Agreements
 
 
-`r paste0("- ", Funded.Extramural.Agreement$Amount,"."," ", Funded.Extramural.Agreement$Role,"."," ", Funded.Extramural.Agreement$Year.Awarded,"."," ", Funded.Extramural.Agreement$Source,"."," ",Funded.Extramural.Agreement$Title,".",  collapse = "\n")`
+`r paste0("- ", Active.Extramural.Agreement$Amount,"."," ", Active.Extramural.Agreement$Role,"."," ", Active.Extramural.Agreement$Year.Awarded,"."," ", Active.Extramural.Agreement$Source,"."," ",Active.Extramural.Agreement$Title,".",  collapse = "\n")`
 
 
 #### Active Philanthropic Gifts
 
 
-`r paste0("- ", Funded.Philanthropy$Amount,"."," ", Funded.Philanthropy$Role,"."," ", Funded.Philanthropy$Year.Awarded,"."," ", Funded.Philanthropy$Source,"."," ",Funded.Philanthropy$Title,".",  collapse = "\n")`
+`r paste0("- ", Active.Philanthropy$Amount,"."," ", Active.Philanthropy$Role,"."," ", Active.Philanthropy$Year.Awarded,"."," ", Active.Philanthropy$Source,"."," ",Active.Philanthropy$Title,".",  collapse = "\n")`
 
 
 ### Sources of Funding Awarded
@@ -331,6 +335,10 @@ In.Kind <- Funding %>% filter(Funding.Type=="In Kind Donations") %>% mutate(Amou
 
 ## Teaching Experience
 
+
+```{r}
+Teaching.Experience <- Teaching.Experience %>% arrange(desc(Year))
+```
 
 `r paste0("- ", Teaching.Experience$Year, "."," ", Teaching.Experience$Experience, "."," ",  Teaching.Experience$Location,".", collapse = "\n")`
 
@@ -520,3 +528,246 @@ n= `r nrow(Engagement %>%  filter(Year==2025 & Engagement.Activity=="Training Ev
 ## References
 
 `r paste0("- ", References$Year, "."," ", References$Individual, "."," ", References$Role, collapse = "\n")`
+
+## Visuals
+
+### Funding
+
+```{r}
+Funding.twentytwenty <- Funding %>% filter(Year.Awarded>=2020)
+Funded.twentytwenty <- Funding %>% filter(Year.Awarded>=2020 & Funding.Status=="Funded")
+```
+
+
+```{r}
+Total.Funding.twentytwenty <- Funding %>% 
+  filter(Year.Applied>= 2020) %>% 
+  group_by(Year.Applied) %>% 
+  summarize(
+    Total.Applied = sum(Amount, na.rm = TRUE),
+    Total.Funding.Received = sum(Amount[Funding.Status == "Funded"], na.rm = TRUE),
+    Grants.Applied.For = n(),
+    Grants.Funded = sum(Funding.Status == "Funded", na.rm = TRUE)
+  )
+```
+
+**Funding Applied and Received Timeline**
+
+
+```{r fig.height=6, fig.width=10}
+ggplot(Total.Funding.twentytwenty, 
+       aes(x = Year.Applied)) +
+  annotate(
+    "rect",
+    xmin = 2024.8,
+    xmax = Inf,
+    ymin = -Inf,
+    ymax = Inf,
+    fill = "grey80",
+    alpha = 0.4
+  ) +
+  annotate(
+    "text",
+    x = 2025.8,
+    y = max(Total.Funding.twentytwenty$Total.Applied) + 3,
+    label = "Research Assistant Professor",
+    size = 3
+  ) +
+  annotate(
+    "text",
+    x = 2022.5,
+    y = max(Total.Funding.twentytwenty$Total.Applied) + 3,
+    label = "Postdoc",
+    size = 3
+  ) +
+  
+  geom_line(aes(y = Total.Applied, 
+                color = "Total Applied"),
+            linewidth = 1.2) +
+  
+  geom_point(aes(y = Total.Applied, 
+                 color = "Total Applied"),
+             size = 3) +
+  
+  geom_text(aes(y = Total.Applied,
+                label = Grants.Applied.For,
+                color = "Total Applied"),
+            vjust = -1.8,
+            size = 4,
+            show.legend = FALSE) +
+  
+  geom_line(aes(y = Total.Funding.Received, 
+                color = "Total Received"),
+            linewidth = 1.2) +
+  
+  geom_point(aes(y = Total.Funding.Received, 
+                 color = "Total Received"),
+             size = 3) +
+  
+  geom_text(aes(y = Total.Funding.Received,
+                label = Grants.Funded,
+                color = "Total Received"),
+            vjust = 2,
+            size = 4,
+            show.legend = FALSE) +
+  
+  scale_color_manual(
+    values = c(
+      "Total Applied" = "orange",
+      "Total Received" = "purple"
+    )
+  ) +
+  
+  scale_y_continuous(
+    labels = scales::label_dollar(),
+    expand = expansion(mult = c(0.1, 0.15))
+  ) +
+  
+  scale_x_continuous(
+    breaks = 2020:2026,
+    expand = expansion(mult = c(0.1, 0.15))
+  ) +
+  
+  labs(
+    x = "Year Applied",
+    y = "Funding Amount",
+    color = "",
+    caption = "n = number of grants"
+  ) +
+  
+  theme_bw()
+```
+
+**Funding Year and Source**
+
+```{r}
+ggplot(Funded.twentytwenty,
+       aes(x = factor(Year.Awarded),
+           y = Amount,
+           fill = Source.Type)) +
+  geom_col() +
+  
+  # force breaks/ticks for every year 2020–2026
+  scale_x_discrete(
+    limits = as.character(2020:2026)
+  ) +
+  
+  # format y-axis as dollars
+  scale_y_continuous(
+    labels = label_dollar()
+  ) +
+  
+  labs(
+    x = "Year Awarded",
+    y = "Funding Amount ($)",
+    fill = "Source Type"
+  ) +
+  
+  theme_bw()
+```
+
+**Funded Project Duration Timeline**
+
+
+```{r fig.height=6, fig.width=10}
+Grant.Timeline <- Funding %>%
+  filter(Year.Awarded>=2020 & Funding.Type!="In Kind Donations") %>%
+  filter(Funding.Status == "Funded") %>%
+  mutate(
+    Start.Year = Start.Date,
+    End.Year = Start.Date + Project.Duration.Years,
+    Grant.Label = Source,
+    Grant.ID = paste(Source, Title, sep = " - ")
+  ) %>%
+  arrange(Start.Year, End.Year) %>%
+  mutate(
+    Grant.ID = fct_inorder(Grant.ID),
+    y = row_number()
+  )
+
+ggplot(Grant.Timeline) +
+ 
+  annotate(
+    "rect",
+    xmin = 2024.83,
+    xmax = Inf,
+    ymin = -Inf,
+    ymax = Inf,
+    fill = "grey80",
+    alpha = 0.4
+  ) +
+  
+   geom_vline(
+    xintercept = 2026.416,
+    linetype = "dashed",
+    linewidth = 0.8,
+    color = "grey"
+  ) +
+  
+  
+  
+  annotate(
+    "text",
+    x = 2027,
+    y = max(Grant.Timeline$y) + 2,
+    label = "Research Assistant Professor",
+    size = 4
+  ) +
+  annotate(
+    "text",
+    x = 2022.5,
+    y = max(Grant.Timeline$y) + 2,
+    label = "Postdoc",
+    size = 4
+  ) +
+  
+   
+  geom_rect(
+    aes(
+      xmin = Start.Year,
+      xmax = End.Year,
+      ymin = y - 0.4,
+      ymax = y + 0.4,
+      fill = Project.Type,
+      color= Role
+    ),
+   linewidth = 0.5
+  ) +
+  
+  geom_text(
+    aes(
+      x = (Start.Year + End.Year) / 2,
+      y = y,
+      label = Grant.Label
+    ),
+    size = 2
+  ) +
+  scale_x_continuous(
+    breaks = 2020:2028,
+    minor_breaks = seq(2020, 2028, by = 0.5)
+  ) +
+  scale_y_continuous(
+    breaks = Grant.Timeline$y,
+    labels = NULL,
+    limits = c(0, max(Grant.Timeline$y) + 2)
+  ) +
+scale_color_manual(
+  values = c(
+    "PI" = "black",
+    "Co-PI" = "white"
+  )
+)+  
+  labs(
+    x = "Year",
+    y = NULL,
+    fill = "Project Type"
+  ) +
+  theme_bw() +
+  theme(
+    panel.grid.minor.x = element_line(),
+    panel.grid.major.y = element_blank(),
+    axis.text.y = element_blank(),
+    axis.ticks.y = element_blank()
+  )
+
+```
